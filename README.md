@@ -1,4 +1,7 @@
 # music-genre-classification
 Text analytics research project for classifying music tracks into genres by analysing their lyrics.
 
-Test for githooks
+## project-setup
+
+## external resources
+
