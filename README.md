@@ -1,5 +1,4 @@
-# music-genre-classification
-Text analytics research project for classifying music tracks into genres by analysing their lyrics.
+# movie age ranking classification
 
 ## project-setup
 
