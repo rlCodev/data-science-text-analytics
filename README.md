@@ -5,3 +5,13 @@ The goal of our project is to automate and extend the age rating of movies based
 
 ## external resources
 
+## Project log
+### 10.11. - 14.11.22
+#### Davit
+#### Jakob
+#### Leon
+### 15.11. - 29.11.22
+#### Davit
+#### Jakob
+#### Leon
+
