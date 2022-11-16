@@ -10,4 +10,4 @@ package-lock.json
 */web
 */www
 
-*/.DS_Store
+.DS_Store
