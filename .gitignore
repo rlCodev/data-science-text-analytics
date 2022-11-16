@@ -1,0 +1,13 @@
+# Ignoring package resources
+*/node_modules
+package-lock.json
+
+# Ignore .env files
+*/.env
+
+# Ignore build files
+*/dist
+*/web
+*/www
+
+*/.DS_Store
