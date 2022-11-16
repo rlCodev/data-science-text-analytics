@@ -8,8 +8,11 @@ The goal of our project is to automate and extend the age rating of movies based
 ## Project log
 ### 10.11. - 14.11.22
 #### Davit
+- POC dataset crawling
 #### Jakob
+- Research for baseline dataset
 #### Leon
+- Setup initial project structure
 ### 15.11. - 29.11.22
 #### Davit
 #### Jakob
