@@ -1,13 +1,38 @@
 # Ignoring package resources
-*/node_modules
 package-lock.json
+/node_modules
+node_modules
+dist
+.nuxt
 
 # Ignore .env files
 */.env
+*/dsta-env
 
 # Ignore build files
 */dist
 */web
 */www
+dist
+tmp
+out-tsc
+files
+target
 
+# System Files
 .DS_Store
+Thumbs.db
+
+# IDE files
+/.idea
+.idea
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+*.iml
+
+# Log file
+*.log
