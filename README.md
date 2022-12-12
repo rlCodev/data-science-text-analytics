@@ -1,7 +1,7 @@
 # Age Restriction Analysis of Movie Scripts
 The goal of our project is to automate and extend the age rating of movies based on the script of the movie. The criteria for our evaluation will be primarily based on the official rating rules used by the [Motion Picture Association](https://www.filmratings.com/RatingsGuide).
 
-## 1 General information
+## 1. General information
 ### Team Members:
 - Jakob Hennighausen
   - Email: jakob.hennighausen@stud.uni-heidelberg.de
@@ -18,17 +18,28 @@ The goal of our project is to automate and extend the age rating of movies based
 
 ### Contributions
 
-## 2 Project State
+## 2. Project State
 
 ### Planning State
-
+#### Achived Goals
+- Basic project setup
+- Setup elastic search hosting on linux server
+- Data crawling
+- Data understanding
+- Start of data preprocessing
+#### Open Goals
+- Data preprocessing pipeline
+- Decision which statistical method to use for age ratings
+- First PG ratings on films
 ### Future Planning
+
+<img src="./assets/Milestones_New.001.png">
 
 ### High-level Architecture Description
 
 ### Experiments
 
-## 3 Data Analysis
+## 3. Data Analysis
 
 ### Data Sources
 
