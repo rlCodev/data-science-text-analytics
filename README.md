@@ -39,7 +39,10 @@ One of our high level milestones for November could not be achivet yet. Find a d
 Currently, the project is behind schedule with respect to the initial milestone plan. This should be made up by the lecture break from 22.12.22 to 07.01.23.
 One reason for the delay is the change in data sourcing. The operator of a platform for film scripts had unexpectedly stopped responding.
 ### High-level Architecture Description
-Architecture diagrams in progress...
+
+
+<img src="./assets/high_level_architecture_dsta.svg">
+
 ### Experiments
 
 ## 3. Data Analysis
