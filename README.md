@@ -21,6 +21,7 @@ The goal of our project is to automate and extend the age rating of movies based
 ## 2. Project State
 
 ### Planning State
+One of our high level milestones for November could not be achivet yet. Find a detailed list of goals achived and not achived.
 #### Achived Goals
 - Basic project setup
 - Setup elastic search hosting on linux server
@@ -35,20 +36,14 @@ The goal of our project is to automate and extend the age rating of movies based
 
 <img src="./assets/Milestones_New.001.png">
 
+Currently, the project is behind schedule with respect to the initial milestone plan. This should be made up by the lecture break from 22.12.22 to 07.01.23.
+One reason for the delay is the change in data sourcing. The operator of a platform for film scripts had unexpectedly stopped responding.
 ### High-level Architecture Description
-
+Architecture diagrams in progress...
 ### Experiments
 
 ## 3. Data Analysis
-
-### Data Sources
-
-### Preprocessing
-
-### Basic Statistics
-
-### Examples
-
+This section can be found in this jupyter-notebook: 
 ## Project log
 ### 10.11. - 14.11.22
 #### Davit
