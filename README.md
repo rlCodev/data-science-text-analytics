@@ -15,8 +15,10 @@ The goal of our project is to automate and extend the age rating of movies based
 - Elastic search
 - React
 - Fastapi
+- Spacy
 
 ### Contributions
+See "Project log" section
 
 ## 2. Project State
 

@@ -1,0 +1,11 @@
+fastapi
+gunicorn
+httptools
+itsdangerous
+loguru
+nose2
+pydantic
+requests
+uvicorn
+uvloop; platform_system != "Windows"
+websockets
