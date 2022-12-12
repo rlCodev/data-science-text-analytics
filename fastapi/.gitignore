@@ -1,0 +1,70 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# compiled output
+dist
+tmp
+out-tsc
+files
+target
+
+# dependencies
+/node_modules
+node_modules
+dist
+.nuxt
+
+# IDEs and editors
+/.idea
+.idea
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+*.iml
+
+# Editor directories and files
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.history/*
+
+# environment variables
+**/.env
+/dsta-env
+
+# misc
+/.sass-cache
+/connect.lock
+/coverage
+/libpeerconnection.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+testem.log
+/typings
+/target
+*.lock
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# e2e
+/e2e/*.js
+/e2e/*.map
+
+# Log file
+*.log
