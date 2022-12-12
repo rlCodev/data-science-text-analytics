@@ -16,9 +16,10 @@ The goal of our project is to automate and extend the age rating of movies based
 - React
 - Fastapi
 - Spacy
+Check requirements.txt in sub-modules of project for detailed information.
 
 ### Contributions
-See "Project log" section
+See "Project log" section.
 
 ## 2. Project State
 
@@ -29,7 +30,9 @@ One of our high level milestones for November could not be achivet yet. Find a d
 - Setup elastic search hosting on linux server
 - Data crawling
 - Data understanding
+- Data analysis
 - Start of data preprocessing
+- Get baseline for PG-Ratings
 #### Open Goals
 - Data preprocessing pipeline
 - Decision which statistical method to use for age ratings
@@ -49,19 +52,22 @@ todo: add descriptions to preprocessing steps and knowledge from data analysis
 <img src="./assets/processing_architecture.svg">
 
 ### Experiments
+First experiment to find the official age ratings of movies through a TMDB API. For this we wrote a python script and used a selection of movie titles to get the age ratings. Results can be found [here](data_exploration/baseline/data/map_title_to_ageRating.txt)
 
+Data analysis, explocation and description. Results can be found in next section.
 ## 3. Data Analysis
 This section can be found in this jupyter-notebook: 
 ## Project log
-### 10.11. - 14.11.22
+### 10.11. - 12.12.22
 #### Davit
 - POC dataset crawling
+- Linux server for elasticsearch instance
+- Data understanding and preprocessing
 #### Jakob
+- Research papers and materials
 - Research for baseline dataset
+- Implementation of finding age ratings by movie titles with [TMDB API](https://www.themoviedb.org/documentation/api)
 #### Leon
-- Setup initial project structure
-### 15.11. - 29.11.22
-#### Davit
-#### Jakob
-#### Leon
-
+- Setup git project (react, fastapi, elasticsearch, dockerfiles)
+- Setup git-hooks integration
+- Run elasticsearch instance on linux server
