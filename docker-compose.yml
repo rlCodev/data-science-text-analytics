@@ -5,12 +5,10 @@ services:
   fastapi:
       build: ./fastapi
       volumes:
-        - ./fastapi
+        - /Users/leonremke/Documents/GIT_REPOS/UNI/dsta-movie-analytics/docker-compose-mount
       ports:
-        - "8000:8000"
+        - "80:80"
       container_name: movie-analytics-fast-api
-      depends_on:
-        - elasticsearch
 
   react-ui:
     build:
@@ -21,7 +19,7 @@ services:
     stdin_open: true
     volumes:
        - ./react:/usr/src/app/movie-analytics
-       - /usr/src/app/my-app/movie-analytics
+       - /usr/src/app/movie-analytics/react
 
   # Elasticsearch Docker Images: https://www.docker.elastic.co/
   elasticsearch:
