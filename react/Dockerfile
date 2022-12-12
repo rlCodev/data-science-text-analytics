@@ -4,7 +4,7 @@ WORKDIR /usr/src/app/movie-analytics
 
 COPY package*.json ./
 
-RUN npm install
+RUN npm cache clean && npm install
 
 EXPOSE 3000
 
