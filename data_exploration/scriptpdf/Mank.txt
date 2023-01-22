@@ -1,0 +1,6285 @@
+MANK
+An Original Screenplay by
+Jack Fincher
+
+PROLOGUE:
+In 1940, at the tender age of 24, Orson Welles was lured to
+Hollywood by a struggling RKO Pictures with a contract
+befitting his formidable storytelling talents. He was given
+absolute creative autonomy, would suffer no oversight, and
+could make any movie, about any subject, with any
+collaborator he wished...
+
+FADE IN:
+1
+
+EXT. MOJAVE DESERT - DAY
+
+1
+
+From a lanyard, hangs a rustic sign reading NORTH VERDE
+RANCH. The only sound is a distant WHINE, the only movement
+a boil of dust on the horizon. As the WHINE rises to a
+ROAR, the boil of dust grows until it becomes a car that
+flashes past the sign and sets the lanyard swinging. No
+sooner does it settle back down than a second car,
+following the first, slams by and starts it waggling again.
+2
+
+EXT. VICTORVILLE BUNGALOW - DAY
+
+2
+
+The cars stop in front of a small sun-bleached house.
+SUPERIMPOSE THE
+LEGEND:
+EXT. VICTORVILLE - GUEST RANCH - DAY - 1940
+The occupants of both cars get out. The driver of the first
+is JOHN HOUSEMAN, a swart, officious young man already
+verging on middle age. His passenger is RITA ALEXANDER, a
+crisp young woman with an air of quiet competence. She
+falls in step behind him as they walk to the bungalow. The
+driver of the second car, a CHAUFFEUR, joins a NURSE in
+carefully removing from its back seat a FIGURE whose bottom
+half is encased in a huge plaster cast. Taking his arms on
+either side they slowly help him to the waiting bungalow.
+The cast figure reassuring them and himself...
+FIGURE IN CAST
+It’s all right. I- I've got this.
+I'm - I'm good.
+He doesn't. He isn't.
+
+2.
+3
+
+INT. VICTORVILLE BUNGALOW - DAY
+
+3
+
+Efficient, HOUSEMAN fusses, feeling for dust. RITA opens
+windows and turns on a fan. The door slams open, the NURSE
+and CHAUFFEUR staggering through the frame with the FIGURE
+IN THE CAST, putting him to bed.
+ANGLE FAVORING HOUSEMAN
+Approaching the FIGURE in bed. The NURSE plumps his pillow.
+HOUSEMAN
+
+Here.
+(wiping dust off hands)
+Well, I've had them set you up out
+here, so you wouldn't feel quite
+so confined. The ladies will
+scandalize the neighborhood by
+occupying both bedrooms.
+There is no response. He's adjusting to his new environs.
+HOUSEMAN (CONT'D)
+I will be staying in town at a
+bucolic spa called, if you can
+believe it, The Shoulder Arms. I
+will do my editing there.
+Still nothing from the Figure in the Cast.
+HOUSEMAN (CONT'D)
+Now as you know, Fraulein Freda is
+not only a nurse and physical
+therapist, she studied nutrition
+back in the old country. Ja,
+liebes fraulein?
+FRAULEIN FREDA
+(speaking German)
+Jawohl, Herr Houseman.
+HOUSEMAN
+It's a dry house, the owner of the
+ranch doesn't permit alcohol. But
+you're from Pennsylvania, you're
+no doubt used to it...
+
+3.
+The figure in the cast struggles to get out of bed. The
+ladies scramble to stop him; it's futile. The CHAUFFEUR
+enters, lugging a small, heavy cabinet.
+HOUSEMAN (CONT'D)
+Saved by the proverbial bell.
+(to Chauffeur)
+Set it here, please? Careful,
+careful...
+The CHAUFFEUR does, putting the heavy cabinet down...
+HOUSEMAN (CONT'D)
+
+Thank you.
+
+He sets it, then leaves. Houseman crosses to it...
+HOUSEMAN (CONT'D)
+
+Observe...
+
+HOUSEMAN presses a button, and a hidden door springs open,
+revealing a dazzling array of miniature liquor bottles
+aligned in a row.
+HOUSEMAN (CONT'D)
+Well, naturally you'll do your
+damndest to get at it. By the time
+you finish the first draft, which
+is to say ninety days, you should
+be a world-class sprinter.
+Houseman snaps shut the cabinet.
+HOUSEMAN (CONT'D)
+Rita? Come in here, will you?
+RITA approaches the bed, her manner professional.
+HOUSEMAN (CONT'D)
+This is Mrs. Alexander. She types
+a hundred perfect words a minute
+and takes dictation like a
+clairvoyant. Rita Alexander Herman Mankiewicz.
+RITA
+(clipped British accent)
+How do you do, Mister Mankiewicz.
+
+4.
+MANK
+That's a big question.
+CLOSE UP OF MANK - OUR FIRST LOOK
+The wrecked face of a 43-year-old alcoholic, a bloat of
+chalky flesh pocked by two eyes - like puckering wounds.
+But his gaze has an intelligent, devilish glint, he may be
+drunk...
+HOUSEMAN
+Well, since you like working
+nights -- Rita here runs on London
+time. Her husband is one of our
+bold lads in the RAF. Flies -what is it, Rita? Spitfires?
+RITA
+Hurricanes.
+MANK
+My sympathy and prayers.
+RITA
+I beg your pardon?
+MANK
+Given the speed, climb, and
+turning radius of the
+Messerschmitt Bf 109...
+RITA
+I hope we won't need your
+sympathy, Mister Mankiewicz. We'll
+do the praying. And the fighting.
+HOUSEMAN
+I will meet with Orson weekly.
+Keep him to date on our progress.
+We're expecting great things. What
+is it a writer says? "Tell the
+story you know?"
+When the phone RINGS. RITA answers...
+MANK
+I don't know that writer.
+
+5.
+RITA
+Hello. Yes...yes he's right
+here...
+HOUSEMAN
+Well, you should have everything.
+If I've forgotten, there's a
+clipboard.
+She hands it to Houseman.
+HOUSEMAN (CONT'D)
+(to Welles)
+Yes? Hello?
+RITA
+They're getting him...
+HOUSEMAN
+Our wunderkind does have the gift
+of theatrical timing...
+As he waits, they all do...
+4
+
+INT. VICTORVILLE BUNGALOW - DAY
+HOUSEMAN
+Orson, hello. We just got in. Oh?
+He listens, GRUNTS, then passes the phone over to MANK.
+ANGLE ON MANK
+Hello?
+
+MANK
+
+WELLES (V.O.)
+(that voice)
+Mank! Houseman tells me we have
+you just where we want you.
+Lucky me.
+
+MANK
+
+WELLES (V.O.)
+How's the leg?
+MANK
+Thigh bone's connected to the hip
+bone.
+
+4
+
+6.
+WELLES (V.O.)
+Excellent. Ready and willing to
+hunt the Great White Whale?
+MANK
+Just call me Ahab. I understand
+we've 90 days.
+WELLES (V.O.)
+Let's aim for sixty.
+Mank cups the phone.
+MANK
+He's just cut a month.
+(on phone)
+I used to do it in five for you at
+The Mercury. This is leisurely.
+WELLES (V.O.)
+Sixty days and then we can noodle.
+MANK
+Nothing like a good noodle. Is the
+reason you lopped 30 days to run
+it past RKO legal?
+Welles laughs his contagious baritone laugh.
+WELLES (V.O.)
+I thought I told you, Mank. I have
+final cut, final everything. There
+are no studio notes. We'll have no
+one but ourselves to blame.
+MANK
+Sixty days and a noodle.
+WELLES (V.O.)
+Gotta run...I'm doing tests for
+"Heart of Darkness."
+MANK
+Oh, little that, lesser Joe
+Conrad.
+WELLES (V.O.)
+If anyone should ask, tell 'em
+you're adapting.
+
+7.
+MANK
+Oh, you don't know this sunbleached sewer yet, my friend.
+Break wind at Hollywood and Vine
+and a producer in Santa Monica
+reports a ruptured main.
+WELLES (V.O.)
+No, I don't know this Burgh, not
+yet. I'm toiling with you in
+spirit, Mank. And I don't hear any
+typing.
+He hangs up. Mank gives Houseman the phone back.
+MANK
+No notes. And then he turned 24.
+Mank lays back.
+Trapped.
+
+MANK (CONT'D)
+
+5
+
+INT. MANKIEWICZ HOME - WEEKS EARLIER - NIGHT - (FLASHBACK)5
+THE SCREEN IS BLACK.
+SUPERIMPOSE THE
+LEGEND:
+INT. MANKIEWICZ HOME - NIGHT - WEEKS EARLIER
+A door BANGS open. Light spills in, illuminating a bedroom.
+MANK and his wife SARA are silhouetted in the doorway, his
+arm over her shoulder, she drags him to the bed.
+MANK
+(grunts)
+Uh-uh.
+SARA
+Let me take off these clothes.
+She starts doing that.
+MANK
+They let me go just as I'd
+achieved perfect equilibrium.
+
+8.
+MANK (CONT'D)
+I won't work with half the
+producers on the lot and the other
+half won't work with me.
+SARA
+What's this? A racing form?
+MANK
+Hmm, you stop reading, you stop
+learning.
+SARA
+Hold still. Lie back...
+MANK
+Hmm... cigarette please.
+SARA
+Hermie, if a match gets anywhere
+near your breath -- you'll burst
+into flames.
+MANK
+Even the dog's name is awful.
+Sounds like a Japanese houseboy.
+You mark my words, Sara, The
+Wizard of Oz is gonna sink that
+studio.
+SARA
+Sleep. You're driving to New York
+tomorrow.
+MANK
+(melancholy)
+Remember when you used to take the
+train from back east? I'd sneak
+aboard in Albuquerque and climb
+into your compartment naked.
+SARA
+I also remember how I spent my
+honeymoon in Berlin, with hookers
+running up and down the stairs all
+night...
+He laughs.
+
+9.
+SARA (CONT'D)
+...because my dashing
+correspondent couldn't afford a
+nice hotel...
+MANK
+Weren't those the days?
+SARA
+(an old refrain)
+Yeah, yeah, 'and the nights
+weren't bad either.'
+Schnutz?
+
+MANK
+
+SARA
+For the last time, what?
+MANK
+What year is it?
+Herman...
+
+SARA
+
+MANK
+I should have done something by
+now.
+Hermie...
+
+SARA
+
+MANK
+Give me a sign, oh Lord, I am as
+your servant Moses -- though I
+won't work half as cheap.
+SARA
+(kissing him)
+Go to sleep, Meshuggener.
+She crosses to open the door. She turns off the light...
+Schnutz?
+
+MANK
+
+SARA
+Whaaaaaaaaaaaaaaaaaaaaat!!!???
+MANK
+Why do you put up with me?
+
+10.
+She looks at his figure in the dark.
+SARA
+(honestly)
+I don't know.
+She starts to close the door...
+MANK
+(out of the dark)
+That bush in the front yard. If it
+catches fire tonight - you will let
+me know?
+6
+
+EXT. MOJAVE DESERT (1939) - NEXT DAY
+A speeding convertible. MANK is a passenger in the front
+seat. A young man named TOMMY is driving. He is agitated,
+gesturing...
+TOMMY
+..I mean, you know all kinds of
+things -- iambic pentameter, the
+words of the great poets...What
+about the way she signed it,
+"Always, Ethel." Can you beat
+that? Not just, Ethel. "Always,
+Ethel."
+MANK
+Tommy, if we can find civilization
+by sundown, I hope to climb out of
+this crate and into a cold
+martini.
+TOMMY
+She's not the kind to use 'always'
+if she didn't mean it. If she
+meant just 'Ethel' she'd write
+just 'Ethel', not 'always.'
+Wouldn't you think?
+MANK
+The road, Tommy.
+TOMMY
+I know - you read it... see what I
+mean.
+
+6
+
+11.
+As TOMMY takes the letter from his pocket, the wind
+snatches it and rips it down the side of the car. Lunging
+to grab it, TOMMY loses control of the wheel.
+7
+
+EXT. CRASH SCENE - NIGHT
+
+7
+
+A play of headlights catches AMBULANCE ATTENDANTS laboring
+to free MANK. TOMMY stands over them, woozy but unhurt.
+TOMMY (V.O)
+She loves me, don't you think?
+8
+
+INT. HOSPITAL - DAY
+
+8
+
+CLOSE-UP OF MANK
+Buried in hospital sheets, his head swathed in bandages.
+Distantly he hears the SOUND of FOOTFALLS. Turning his head
+groggily, he peers down the corridor.
+MANK'S POV
+From a narcotic haze he sees - A SPECTER in black opera
+cloak and shepherd's hat. As it reaches MANK it vanishes
+(seating itself), then reappears as a disembodied face -large, distorted, floating, moonlike.
+WELLES
+Mank? It's Orson Welles.
+MANK
+(etherized)
+Of course it is.
+WELLES
+I think it's time we talked.
+MANK
+I'm all ears.
+9
+
+INT. VICTORVILLE BUNGALOW (1940) - NIGHT
+
+9
+
+We see the result of some days (nights) work...a small stack
+of notepads. And Mank is propped up in bed in his pajamas,
+squinting into the darkness as he talks. RITA sits
+scribbling on a pad.
+
+12.
+MANK
+(dictating)
+Once a castle on a hill, now a
+memory of what once was... alone
+in his unfinished, already
+decaying pleasure palace... aloof,
+seldom visited, never
+photographed...
+(thinking)
+We see an OLD MAN in a robe,
+smoking a pipe, sitting alone by
+his pool, discarded pages
+scattered at his feet. Narrator:
+"...an emperor of newsprint
+continued to direct his failing
+empire...vainly attempting to
+sway, as he once did, the
+destinies of a nation which had
+long since ceased to listen to him
+- No. H-had ceased to trust him. "
+(beat)
+We see through the trees as an
+AIDE pushes this OLD MAN in a
+wheelchair across neatly groomed
+lawns...
+Mank thinks, taking up a swatter, he takes casual aim at a
+housefly.
+MANK (CONT'D)
+Narrator: "There, last month - as
+it must to all men, death came to"
+(SWAT! The fly is swot)
+Let's have that cuppa, Mrs. A.
+Rita gets up to get their tea.
+RITA
+Oh...I know who it is, or who it's
+meant to be...
+MANK
+What makes you think it's meant to
+be anybody.
+
+13.
+RITA
+Oh come now. Everyone in the
+English-speaking world will
+recognize him instantly.
+(returning with cups)
+MANK
+Exactly what he would say.
+RITA
+(serving)
+Did you know the man?
+MANK
+Maybe -- I used to.
+RITA
+You wrote for one of his papers?
+MANK
+(ladling sugar)
+Oh, no. Praise God. I met him
+after he started bankrolling his
+girlfriend's pictures.
+RITA
+(sipping hers straight)
+You knew Marion Davies?
+MANK
+(shrugs)
+If anyone did.
+RITA
+Really? What's she like?
+MANK
+Why is it when you scratch a prim,
+starchy English schoolgirl, you
+get a swooning moving-picture fan
+who has forgotten all she ever
+learned about the Battle of
+Hastings?
+RITA
+(smiling)
+Hastings: Fourteen, October, Tensixty-six. 10 centigrade...
+
+14.
+A FULL FRAME CLOSEUP OF A TELEGRAM -- CHARLIE: COME AT
+ONCE. THERE ARE MILLIONS TO BE MADE AND YOUR ONLY
+COMPETITION IS IDIOTS. - MANK
+THE TELEGRAM IS LOWERED, REVEALING
+LEDERER'S POV
+10
+
+EXT. PARAMOUNT STUDIOS - DAY (FLASHBACK)
+
+10
+
+Tractors pull lights, men roll scenery, etc. CHARLES
+LEDERER, a frail young man, threads his way across the lot.
+SUPERIMPOSE THE
+LEGEND:
+EXT. PARAMOUNT LOT - DAY - 1930 (FLASHBACK)
+LEDERER FLAGS DOWN A HURRYING PASSERBY, MIMES A QUESTION.
+THE PASSERBY INDICATES A DOOR, RUSHES ON.
+11
+
+INT. MEN'S ROOM
+
+11
+
+Beneath a stall LEDERER sees two hairy legs sticking out
+from a glorious pair of plaid boxer shorts at half mast.
+Mank?
+
+LEDERER
+
+JOE MANKIEWICZ explodes out, jacking up his trousers. His
+florid looks might be MANK'S in better days. He charges the
+sink, washing his hands.
+LEDERER (CONT'D)
+Sorry. Somebody told me Mankiewicz
+was in here.
+JOE
+He is... I'm the "promising"
+brother, Joe.
+LEDERER
+I didn't know Herman had a
+brother.
+JOE
+Neither does anyone else.
+(drying his hands)
+Let me guess.
+
+15.
+JOE (CONT'D)
+"There are millions to be made and
+your only competition is idiots,
+stop."
+LEDERER
+How did you know?
+JOE
+I hate to tell you, anyone who can
+rub three words together and make
+a sentence gets one. C'mon...
+MOVING WITH THEM down a hallway, up some stairs -- past a
+pool of typing women that never avert their eyes... They
+enter a door marked "GENIUS AT PLAY - KEEP OUT."
+JOE (CONT'D)
+It's after lunch, and we're on a
+deadline - he may be busy...
+LEDERER
+Oh. I promise I won't be a bother.
+JOE
+Not exactly what I meant...
+12
+
+INT. WRITERS ROOM - DAY
+
+12
+
+A fool’s paradise. Dominated by a conference table covered
+with the lavish remains of a catered lunch and a disrupted
+poker game. The WRITERS are NOISILY clustered around
+something we cannot see. JOE points at LEDERER, then sits
+down and picks up where he left off dictating to, this is
+true, a NUDE SECRETARY.
+REVERSE ANGLE ON
+The WRITERS are watching MANK flip a coin with comedian
+EDDIE CANTOR. Among them, standing out of the way is
+cinematographer SHELLY METCALF.
+MANK
+Come on! You know I'm goodferitt.
+MANK nods grimly. CANTOR tosses it high in the air...And we
+see young CHARLIE LEDERER has eased among them...
+Fellas --
+
+LEDERER
+
+16.
+HECHT
+Shhhhh -- these are high stakes...
+CANTOR
+Go on (catching coin, after a
+beat, showing him...)
+- Ooh! Tails! That's six!
+MANK
+Goddammit. Alright, double or
+nothing. And this time, you banjoeyed sonofabitch, let it hit the
+floor.
+JOE
+Banjo Eyes.
+HECHT
+(aside to LEDERER)
+Mank once bet me a five spot to
+see how long it would take a
+falling leaf to hit the ground.
+Had to go to management to cover
+it.
+LEDERER
+For five bucks?
+HECHT
+(like he's from Mars)
+Five thousand.
+MANK
+Come on, come on. Heads, you
+bastard!
+Cantor tosses the coin. As the coin strikes the floor -the writers GROAN. MANK has lost again. CANTOR CLAPS,
+CHORTLES, and skips out the door like a child. All the
+SPECTATORS but LEDERER drift back to their poker game,
+GRUMBLING. MANK notices him for the first time.
+CANTOR
+Oooh! Pleasure doing business with
+you, gentlemen.
+
+17.
+MANK
+Hey Charlie! Yeah, you all
+remember the Algonquin cabin boy,
+Charlie Lederer -- a poor but
+somewhat talented magazine writer
+come west to join our merry band.
+(to Charlie)
+Well... you know almost everyone.
+LEDERER
+(with the greatest
+respect for each)
+Mr. Kaufman...
+KAUFMAN
+George is fine, kid...
+LEDERER
+Mr. Perelman.
+PERELMAN
+Nice to meet you, son...
+LEDERER
+Do you prefer Sidney or S.J.?
+MANK
+Uh, he takes what he gets. Uh, the
+great Charles MacArthur...
+MacArthur waves.
+LEDERER
+Good to see you again, Mr.
+MacArthur.
+MANK
+(motions at Shelly)
+My resident jack of all trades...
+Shelly Metcalf.
+Hey, kid.
+
+SHELLY
+
+LEDERER
+Mr. Metcalf.
+
+18.
+MANK
+Oh, save the Mister for the
+anointed... and last, not yet
+among them, my brother Joe...
+JOE
+...Have Cyclone say, "I don't mind
+the heat as much as I do the
+humanity."
+MANK
+And the one and only, Ben Hecht.
+Hecht laughs.
+HECHT
+(to Charlie)
+Have you been laid yet?
+PERELMAN (O.S.)
+Do you have to think about that?
+The phone RINGS. Kaufman answers it:
+KAUFMAN
+Hello, yeah, right away...
+Kaufman checks watch, hangs up.
+KAUFMAN (CONT'D)
+Selznick, everyone. Five minutes.
+They all jump up.
+MANK
+Well you've arrived in the wellknown nick, Charlie. Just in time
+for a story conference with the
+great David O.
+A general SCRAPING of chairs as the poker game breaks up.
+PERELMAN
+Once more unto the breach KAUFMAN
+Breach hell, unto the wire MACARTHUR
+- without a net.
+
+19.
+HECHT
+(to a mystified LEDERER)
+Keep your mouth shut, and watch us
+for your cue, OK?
+Cue?
+
+LEDERER
+
+MANK finally notices the NUDE SECRETARY as all but JOE
+troop out.
+MANK
+What I wouldn't give to see that
+in a tight sweater.
+JOE
+(calling after him)
+Herm? Can I use that?
+13
+
+INT. SELZNICK'S OFFICE
+
+13
+
+The WRITERS file in and take seats, helping themselves one
+after another to cigars from an elegant humidor. They
+engage in the ritual of clipping, lighting and savoring a
+fine Havana. SELZNICK is a large, ungainly man with a
+flashing smile. Beside him stands a whippet-thin man with
+wavy hair, polished military boots, and riding crop.
+SELZNICK
+Boys, come in. Ah, make yourselves
+at home. Now, you all know Joe Von
+Sternberg.
+MANK
+(pointing to HECHT,
+mouths)
+He loved The Blue Angel.
+Von Sternberg grunts.
+SELZNICK
+You wanted 72 hours, you got 72
+hours, tell us what you have so
+far. Ben, whyn'tcha start.
+HECHT removes his cigar, speaks, then puts it back - a
+signal for the next man to remove his cigar and take up the
+narrative. The effect is not unlike an invisible medicine
+ball being tossed -- as all improvise with utmost gravity.
+
+20.
+HECHT
+Well, this was tough - David, in
+the beginning we couldn't agree on
+an approach...
+SELZNICK
+Really; and why was that?
+HECHT
+Well, we see - a different kind of
+Paramount picture.
+SELZNICK
+Different how?
+MACARTHUR
+Frankenstein and The Wolfman, all
+rolled into one, only -SELZNICK
+(stopping them)
+I don't make cheap horror
+pictures, Universal does...
+MANK
+This is different. This is about
+something.
+Selznick's skepticism fairly drips off of him.
+Okay...
+Sidney...
+
+SELZNICK
+MANK
+
+PERELMAN
+Imagine a mad scientist touring
+the boonies, with a mechanical
+freak he's..."fabricated."
+SELZNICK
+What does he mean, "fabricated?"
+MANK
+...and displays it to
+superstitious hayseeds in a giant
+silk-lined casket, for the price
+of admission.
+
+21.
+Selznick grunts.
+KAUFMAN
+...but every full moon, the
+monster awakens and raises unholy
+hell with the villagers.
+MACARTHUR
+Give it an Eastern European look,
+men in leather shorts, gals in
+tattered peasant blouses.
+SELZNICK
+Let me guess, they think it's the
+devil?
+VON STERNBERG
+Villagers always think it's the
+devil.
+MACARTHUR
+(undeterred)
+And the scientist and his creation
+are forced to flee during a raging
+electrical storm PERELMAN
+- flee from outraged peasants KAUFMAN
+- who pursue them mit torches PERELMAN
+- overturn their creaky wagon MANK
+- and set fire to it.
+A pregnant lull. MANK points his stogie at LEDERER.
+MANK (CONT'D)
+Tell him about the finale,
+Charlie.
+LEDERER
+(swallowing hard)
+Oh, well...
+
+22.
+LEDERER (CONT'D)
+the rain turns to sleet, puts out
+the fire, and entombs the monster
+in solid ice...While nearby, an
+old priest weeps.
+Selznick ever so slightly softens.
+SELZNICK
+Hmm! A weeping priest?
+MANK
+(puffing grandly)
+Thunder, lightning, blood, fire,
+religion...
+SELZNICK
+All in one film?
+MANK
+...and...with an unseasonal
+thaw... a sequel.
+SELZNICK
+I thought you said this was about
+something, this was different.
+They all turn to the sage, Ben Hecht.
+HECHT
+Plus, the ominous futility of man
+playing God KAUFMAN
+- the Faustian bargain of life
+everlasting PERELMAN
+- and the triumph of the human
+spirit over the beast incarnate in
+our far too solid flesh.
+MANK
+(flourishing cigar)
+It’s director-proof.
+VON STERNBERG bristles.
+
+Joe?
+
+SELZNICK
+(to VON STERNBERG)
+
+23.
+
+B picture.
+
+VON STERNBERG
+
+SELZNICK
+It's not for Joe...
+(shaking his head)
+Boys, this is serious, we need
+your help. We've got to get people
+into theatres, but how?
+A cathedral QUIET. Then:
+MANK
+Show movies in the streets?
+14
+
+EXT. PARAMOUNT LOT - DAY
+MANK and LEDERER walking toward the gate.
+MANK
+You okay, Charlie? Taken care of
+this weekend?
+LEDERER
+I'm going to see my aunt.
+MANK
+Oh, that sounds like fun.
+LEDERER
+You obviously don't know my aunt.
+If you're not doing anything, come
+along.
+MANK
+(peeling off)
+Careful, I just might...
+LEDERER
+Glendale Station at seven.
+(calling after him)
+Bring Sara if you like!
+Who?
+
+MANK
+
+LEDERER
+Sara. Isn't that your wife?
+
+14
+
+24.
+MANK
+Oh. You mean "Poor Sara."
+(turning to go)
+No, she and the kids are back
+east.
+15
+
+EXT. GLENDALE STATION, LOS ANGELES - END OF DAY
+
+15
+
+LEDERER, carrying an overnight bag, paces the sidewalk,
+shooting glances at his wristwatch. Suddenly an UPROAR.
+HIS POV
+A gleaming white convertible glides into view, a COP
+clearing it's way. Matinee idol JOHN GILBERT is at the
+wheel. His paramour GRETA GARBO lounges beside him
+bestowing smiles on FANS who jog in their wake. MANK is
+draped over the seat back, splendidly drunk, throwing
+kisses to the uncaring multitude.
+The Rolls inches to a stop and is surrounded by an ARMY of
+ADMIRERS. GILBERT and GARBO sign autographs as MANK half
+climbs, half falls to his feet. He carries not so much as a
+shaving kit. Wordlessly he kisses GARBO'S cheek. GARBO
+LAUGHS famously. GILBERT REVS, ROARS off.
+LEDERER leads a weaving MANK toward their coach.
+LEDERER
+Herman... Herman.
+And with that, like an exclamation point, he literally
+passes out onto a luggage cart. The Porter doesn't miss a
+beat, wheeling him to his train.
+Charlie!
+16
+
+MANK
+
+INT. A BARONIAL BEDROOM - AFTERNOON
+
+16
+
+MANK lies in state. A SCREAM propels him upright. He yawns,
+scratches, and then rises. Hung-over and unflapped.
+
+25.
+17
+
+INT. HALLWAY
+
+17
+
+MANK saunters into a world of gilt diptychs, Oriental
+carpets, Gobelin tapestries, illuminated manuscripts, suits
+of medieval armor, parchment shades... God's Own Prop Room.
+18
+
+EXT. GROUNDS
+
+18
+
+Tents dot the endless lawn. Servants ply the chosen. And
+absurdly there is a huge stack of firewood resembling a
+Viking funeral pyre, where a screaming woman threatened by
+"Injuns," is enticingly tied atop, being filmed.
+TWO MEN IN RIDING TOGS are sitting over refreshments under
+a tent. The younger man is IRVING THALBERG, M.G.M.
+production chief, who has the dark, fine-boned features of
+a coiled and restless Valentino. Next to him is studio
+head, LOUIS B. MAYER, a stumpy, otter-sleek ogre in silver
+spectacles.
+THALBERG
+(seeing)
+What is Mank doing here?
+Who?
+
+MAYER
+
+THALBERG
+Herman Mankiewicz.
+MAYER
+Do I know him?
+THALBERG
+He wrote one of our Lon Chaneys.
+Ahhhhh...
+Mank!
+
+MAYER
+THALBERG
+
+MANK
+Thalberg! The boy genius...
+THALBERG
+I am shocked to see you here.
+
+26.
+MANK
+(smiles)
+I'd be shocked to see me here too,
+Irving...if only I knew where here
+was...
+MAYER
+You wrote one of our Lon Chaneys.
+MANK
+Among many.
+Pictures?
+Writers.
+
+MAYER
+MANK
+
+THALBERG
+At M-G-M, movies are a team sport,
+Mank.
+MANK
+Which may be why I'm at Paramount.
+MAYER
+Since when don't Paramount use
+writers by the truckload?
+MANK
+But all at once, not in relays.
+Helps spread the blame around.
+THALBERG
+You remember our chairman, Louis
+B. Mayer?
+MANK
+By reputation only...
+MAYER
+Long night?
+MANK
+A short one. Plagued by "spirits."
+Hell of a way to spend the
+sabbath, fellas.
+MAYER
+Here in support of a friend.
+
+27.
+THALBERG
+His leading lady is making a midcareer adjustment.
+Mank sees SHELLY METCALF, the thin - erudite cameraman, is
+loading film.
+MANK
+Oh, I'm on my way over. Any notes
+from the oversight tent?
+As he walks away...
+MAYER
+Who was that again?
+THALBERG
+Just a writer.
+TRAVEL WITH MANK
+As he strolls by all the machinations of movie-making,
+including MAKEUP ARTISTS putting warpaint on the faces of
+CAUCASIAN ACTORS playing Native Americans...the elaborate
+equipment of a real movie, with the MGM trademark...He
+approaches Shelly.
+MANK
+Slumming on Saturday, Mr. Metcalf?
+SHELLY
+(glad to see him)
+Mank! No sir, helping out on B
+Camera -- it's a home movie -- but
+HIS idea of a home movie.
+MARION (V.O.)
+I know you.
+Mank looks up and sees MAKEUP and HAIR PEOPLE clearing from
+the BLONDE ACTRESS on the top of the FUNERAL PYRE, MARION
+DAVIES.
+MANK
+Well, what's at stake here?
+MARION
+We met at John Gilbert's birthday.
+You're Herman Mankiewicz.
+
+28.
+MANK
+Guilty. And I remember you - Miss
+Davies. Regaling us with stories
+about dodging trolley cars in
+Brooklyn...
+She laughs...
+MANK (CONT'D)
+Your Flatbush was showing.
+She laughs even louder.
+MARION
+Oh! You fractured Wally Beery's
+wrist Indian wrestling.
+MANK
+Admittedly, a lucky break.
+MARION
+Boy - was he surprised. You're
+stronger than you look.
+MANK
+And from what I understand, you're
+smarter.
+She squints.
+MARION
+That was a compliment.
+They smile at each other.
+MANK
+See what I mean?
+MARION
+You are interesting.
+(whispers)
+I need a favor but you're gonna
+have to promise you won't laugh.
+MANK
+Given the state of the world, a
+tall order.
+MARION
+You're gunna, I just know you are.
+
+29.
+MANK
+I have got such a hangover right
+now, there's just a fighting
+chance I won't.
+MARION
+(whispers)
+I'm being burned at the stake and
+I am dying for a ciggie-boo.
+MANK LAUGHS, then winces.
+MARION (CONT'D)
+Ha! There - God's punishing you.
+Watch those stairs, they're
+treacherous.
+MANK
+(walking up)
+Every moment of my life is
+treacherous.
+MARION grabs a cigarette out of his pack.
+MANK (CONT'D)
+Any last words?
+MARION
+'Welcome to San Simeon.'
+She puts it between her lips, Mank lights it. MARION takes
+a deep draw, motions him to take it away.
+MANK
+(mouthful)
+I've written worse.
+MARION
+You've never seen it?
+MANK
+No, but George Bernard Shaw was
+right...
+MARION
+How's that?
+MANK
+"It's what God might've built had
+he had the money..."
+
+30.
+MARION
+Well, as they say in the Bronx,
+"make yourself to home," Mister
+Mankiewicz. Or shall I call you
+Herman?
+MANK
+No, please, call me Mank.
+LEDERER APPEARS.
+MARION
+Good morning, Charles.
+Charlie.
+
+MANK
+
+LEDERER
+Aunt Marion... Mank.
+MANK'S eyebrows REGISTER their relationship.
+MARION
+Sleep well?
+LEDERER
+Until your rather dramatic "wakeup" call.
+MARION
+This is all Pop's idea. He wants
+me ready "to take on the talkies."
+ASSISTANT DIRECTOR (V.O.)
+First positions, please!
+Everybody scatters. Mank and Lederer start to clear. Marion
+assumes her subservient position. The Native Americans
+ready to do their worst.
+ASSISTANT DIRECTOR
+Riders ready! Rolling!
+Speed!
+Action!
+
+CAMERAMAN (V.O.)
+ASSISTANT DIRECTOR
+
+We see FOUR RIDERS in buckskins, guns a-blazing, riding to
+save Marion.
+
+31.
+Ahead of the riders, a CAMERA CAR films the riders. In the
+camera car is the DIRECTOR along with a MAN in his sixties
+of some substance, with a stillness, a confidence, a kind
+of elegance about him. WILLIAM RANDOLPH HEARST.
+MARION
+Help! Please! Someone save me!
+Once the Riders arrive at the pyre to save the day:
+Cut!
+
+ASSISTANT DIRECTOR
+
+MARION
+(calls)
+Pops, this is Herman Mankiewicz
+but we're to call him Mank.
+HEARST
+(from the car)
+Mankiewicz? Herman Mankiewicz? New
+York playwright and drama critic?
+Mank approaching the car...
+MANK
+(bowing)
+Turned humble screenwriter. Mr.
+Hearst.
+HEARST
+Why, no need to be humble Mister
+Mankiewicz, pictures that talk are
+the future. They're gonna need
+people who honor words to give
+them voice. There's a golden age
+coming when all the world will be
+a stage - and you, perhaps their
+Shakespeare.
+MANK
+Oh, I wouldn't have thought you'd
+be that keenly interested in the
+honoring of words.
+Mank smiles. Marion laughs at the thought, a look and a
+sound that seldom greets HEARST'S ideas face to face.
+HEARST
+What's so funny?
+
+32.
+MANK
+I'm just surprised, that a vaunted
+muckraker like yourself sees
+Hollywood's future as such a shiny
+penny.
+ASSISTANT DIRECTOR
+(to the Driver)
+Back to one...
+The DRIVER, accommodating Mank and Hearst's conversation,
+starts very slowly rolling the car towards its initial
+position...Mank walking alongside, keeping pace with the
+car...
+HEARST
+Times are changing, Mr.
+Mankiewicz, and I'm not just
+referring to this Depression.
+MANK
+Oh, that bother.
+HEARST
+When all this is over, picture
+makers are gonna have to service
+this new entertainment. I intend
+to make pictures with the help of
+real literary minds.
+MANK
+I support that.
+HEARST
+Instead, what do most studios give
+us? Gangster flicks! Zanies!
+Too true.
+
+MANK
+
+HEARST
+Now, how many gangsters do
+Americans meet in a lifetime? How
+many families are like the Marx
+Brothers?
+MANK
+You mean besides my own?
+
+33.
+HEARST
+Ha! Very good.
+(to AD)
+Hearst whispers to the ASSISTANT DIRECTOR. As the camera
+car with the crane carrying William Randolph Hearst drives
+to its first position...
+ASSISTANT DIRECTOR
+(through megaphone)
+Miss Davies, Mr. Hearst would like
+Mr. Mankiewicz seated to his left
+at dinner.
+MARION
+(sharp inhale to Mank)
+Oh. Pops likes you.
+DISSOLVE TO:
+19
+
+INT. VICTORVILLE BUNGALOW (1940) - MANK'S BED - NIGHT
+
+19
+
+FRAULEIN FREDA enters, a liniment bottle in one hand, a
+letter in the other. The letter she hands to RITA, the
+liniment she begins slapping on MANK'S arms. He is lying on
+his back, editing pages which RITA proofreads.
+MANK
+Why is it, when Houseman edits
+everyone ends up speaking like a
+constipated Oxford don?
+As RITA opens the letter, the phone RINGS. She answers.
+RITA
+Hello?...Yes he is, no, not at
+all... please hold on.
+(to MANK)
+It's "Poor Sar-," I'm sorry -it's your wife.
+She hands MANK the phone.
+Schnutz.
+
+MANK
+
+34.
+SARA (V.O.)
+I heard that... Hermie, Joe called
+four times in the last three days.
+He wants your number out there.
+MANK
+So give it to him.
+SARA (V.O.)
+(some disturbance)
+Knock it off!
+(to Mank)
+The boys are remodeling.
+He seemed concerned about
+something. Is everything okay?
+MANK
+If I could swim, I'd be doing
+swimmingly. And don't mind Joe,
+he's a worrisome old woman in
+disguise.
+SARA (V.O.)
+Well, he wants to offer you work.
+MANK
+Baby Joe offering me? Well, if he
+calls again give him this number,
+Schnutz. I - I've got to run. Kiss
+the offspring.
+MANK hangs up. FRAULEIN FREDA continues to knead his
+shoulders. MANK sees that RITA is reading her letter.
+MANK (CONT'D)
+(in a British accent)
+I say, a letter from the gallant
+leftenant?
+(reverting to American)
+Let us hope it makes more sense
+than the last. Fighters off the
+decks of aircraft carriers.
+Whoever had that idea...
+FRAULEIN FREDA
+Is not good?
+
+35.
+MANK
+Not good? German U-boats are
+starting to hunt in packs and a
+Stuka dive bomber can drop one
+down your stack from five hundred
+feet.
+(to Rita)
+What's our valiant laddie have to
+say for the cause?
+RITA is still reading silently. Now, she wads the letter
+up, dropping it, and rising, leaves. MANK motions FRAULEIN
+FREDA to hand it to him.
+FRAULEIN FREDA
+It's not from her husband...His
+ship's been sunk off Norway...
+presumed lost at sea.
+As Mank looks out at the desert...
+MANK
+(to himself)
+Always the smartest guy in the
+room.
+20
+
+INT. VICTORVILLE BUNGALOW - NIGHT
+
+20
+
+We hear footsteps approaching. MANK'S bed shrouded in
+darkness. He lies unmoving as the front door eases open and
+RITA enters, her steps tentative.
+RITA
+You're right, of course. Aircraft
+carriers are a shitty idea. But I
+don't appreciate the callousness.
+I expect more of you.
+Silence.
+RITA (CONT'D)
+(adamant, won't accept)
+Presumed means they don't know.
+So, I choose to believe he is
+alive until s(drawn by his silence)
+Mank?... Mank?.... Mister
+MANKIEWICZ!?...
+
+36.
+INSERT
+MANK'S hand opens and a miniature scotch bottle rolls out
+of it, like the swirling glass snowball in Citizen Kane.
+21
+
+EXT. VICTORVILLE BUNGALOW - NIGHT
+
+21
+
+Houseman's taxi arrives, Houseman hurries inside.
+22
+
+INT. VICTORVILLE BUNGALOW - LATER THAT NIGHT
+
+22
+
+RITA and FRAULEIN FREDA hover over MANK as a DOCTOR is
+packing up to leave. HOUSEMAN arrives.
+DOCTOR
+He's all right. Just sleeping.
+HOUSEMAN
+Well, I shouldn't wonder. There's
+enough Seconal in those little
+bottles to bring down a bull
+elephant in heat.
+(as others stare at him)
+Young Orson doesn't believe in
+chance.
+23
+
+INT. VICTORVILLE BUNGALOW - NEXT DAY
+CLOSE-UP, MANK
+Framed against the pillow, MANK opens his eyes.
+HIS POV
+A homey, ranch-style tableau. RITA and HOUSEMAN sorting
+through pages.
+MANK
+(gazing at the ceiling)
+Houseman, you sly thing. You
+slipped me a mickey.
+HOUSEMAN
+So we did. Though how you managed
+to reach it so early in your
+rehabilitation I cannot imagine.
+How was it - mother's milk?
+
+23
+
+37.
+MANK
+On balance, better than nothing. I
+plan to use it as a nightcap.
+RITA
+As you Yanks say, he 'went out
+like a light.'
+Grasping the bar over his bed, MANK pulls himself upright.
+MANK
+I couldn't have put it better
+myself, Mrs. A. Which may be why I
+write for the movies.
+RITA
+Will you stop? You write for the
+movies because you're super at it.
+Excuse me, you two. I've masses of
+typing to do.
+RITA goes back to typing. The MEN exchange looks.
+HOUSEMAN
+(putting pages in
+order...)
+76 pages...by the time she
+translates your red chicken
+scratches it will be less than
+forty - At this rate, you will
+never finish...
+MANK
+What I want to know is what you
+think of it?
+HOUSEMAN
+(after a beat)
+Of course the writing is firstrate, but you know that. His lust
+for power, your exquisite
+evocation of his hunger for love
+from those who fear his worst
+side. ButMANK
+The dreaded, yet foreseeable BUT...
+FRAULEIN FREDA comes with MANK'S food tray. He digs in.
+
+38.
+HOUSEMAN
+You're asking a lot of a motion
+picture audience. All in all it's
+a bit of a jumble.
+MANK
+Did you say jumble or jungle?
+HOUSEMAN
+A hodgepodge of talky episodes. A
+collection of fragments that leap
+around in time, like Mexican
+jumping beans.
+MANK
+Welcome to my mind, Old Sock.
+HOUSEMAN
+The story is so scattered I'm
+afraid one will need a roadmap.
+MANK
+You mean it's a mess.
+HOUSEMAN
+Would you consider simplifying?
+MANK
+As Pascal once said, "if only I'd
+had more time I would have written
+a shorter letter."
+HOUSEMAN
+All I am saying is, no one can
+write like that.
+MANK
+But I can write like that
+Houseman. I have. The narrative is
+one big circle, like a cinnamon
+roll. Not a straight line pointing
+to the nearest exit. You cannot
+capture a man's entire life in two
+hours...all you can hope is to
+leave the impression of one.
+
+39.
+HOUSEMAN
+Nobody expects Shakespeare. People
+aren't spending their hard earned
+25 cents to see Macbeth.
+MANK
+“Maestro the dog-faced boy”
+Macbeth.
+
+did
+
+HOUSEMAN
+"Voodoo Macbeth." Don't be fooled.
+He's a showman. A busker reveling
+in sleight of hand. Save yourself
+the trouble, be done in sixty
+days...
+MANK
+He'll get this. And the audience
+will, too. Stop worrying. Have a
+pickle.
+HOUSEMAN
+No thank you, I'm not hungry.
+Haven't been since we got here.
+(collecting pages)
+Cheerio. Write hard. Aim low.
+HOUSEMAN leaves.
+RITA gets her pad, comes to MANK'S bed.
+MANK
+Where were we, chief?
+RITA
+What are you going to do?
+MANK
+About what?
+RITA
+He's right you know. You won't be
+done 'til Christmas.
+What?
+
+MANK
+
+RITA
+You made a promise.
+
+40.
+MANK
+I did what?
+RITA
+60 days is two weeks from now.
+He doesn't say anything...annoyed.
+MANK
+Where were we?
+RITA
+(consulting her notes)
+Bernstein's speech...The young
+woman on the ferry boat.
+MANK
+Read it back, please.
+As she reads:
+24
+
+EXT. FERRY BOAT DECK - DAY
+
+24
+
+The YOUNG WOMAN idling on the deck of a ferry, all in
+white. It is SARA.
+RITA (V.O.)
+A white dress she had on - and she
+was carrying a white parasol - and
+I only saw her for one second and
+she didn't see me at all - but
+I'll bet a month hasn't gone by
+since, that I haven't thought of
+that girl.
+25
+
+INT. VICTORVILLE BUNGALOW - DAY
+RITA looks up at MANK, smiles warmly.
+RITA
+A snapshot from the Mankiewicz
+family album?
+MANK
+You might say that.
+RITA
+It really is a gorgeous -
+
+25
+
+41.
+MANK
+(overlapping)
+- spot to get stuck.
+Mank's lost momentum, thrown off by Houseman's admonitions.
+RITA
+Is Bernstein meant to be Louis
+Mayer?
+MANK
+If form follows function...
+RITA
+Mayer's the same pathetic sort of
+lap dog to our Charles Foster?
+MANK
+Oh, Bernstein's a far nicer
+character.
+RITA
+You don't much like Mayer.
+His face gone to granite.
+MANK
+If I ever go to the electric
+chair, I'd like him to be sitting
+in my lap.
+26
+
+EXT. MGM ARCHES - WASHINGTON GATE -
+
+DAY
+
+26
+SUPERIMPOSE THE
+LEGEND:
+
+EXT. MGM STUDIOS - DAY - 1933 (FLASHBACK)
+MANK and his brother JOE stride toward MAYER'S office.
+JOE
+Seven-fifty a week? That's half
+what you make, Herman.
+MANK
+You're a junior writer, Joe.
+So?
+
+JOE
+
+42.
+MANK
+So you're only half the wit your
+big brother is. How many half-wits
+make that?
+JOE
+(sarcastic)
+Ha! Herm. How do I look?
+MANK
+You look like you - fine.
+JOE
+What should I be expecting?
+MANK
+You're related to me. He already
+thinks you're a genius.
+Enough...
+
+JOE
+
+MANK
+The job will be yours if you can
+do two things. One. Don't roll
+your eyes. Two. Try not to fall
+asleep.
+27
+
+INT. MAYER'S OUTER OFFICE - DAY
+
+27
+
+MAYER'S SECRETARY, and two other ASSISTANTS, sit busy at
+their desks, case-hardened to the RUCKUS seen through the
+open door to MAYER'S inner office.
+MAYER (O.S.)
+This isn't Gower Gulch. You want
+us to make a picture about a
+prostitute?
+MALE VOICE (O.S.)
+Oh, what's wrong with that? My
+mother was nothing but a whore.
+There is the SOUND of a CRASHING BLOW and JOHN GILBERT
+catapults through the doorway. MAYER charges out and hovers
+over him, fists balled, face contorted in a fury.
+
+43.
+MAYER
+You would talk about your own
+mother that way? The woman who
+gave you life? You ungrateful
+bastard! I oughta cut your balls
+off!
+GILBERT
+Do it, you fucking junk dealer!
+I'll still be the better man.
+MAYER decides he won't dirty himself by going any
+further... Gilbert walks away rubbing his chin...Mank
+brings Joe over...
+MANK
+L.B., this is my brother, Joe.
+MAYER
+Nice tameetcha Joseph, I'm Louis
+Mayer.
+MANK
+I can't tell you what this means
+to him, Louis.
+Joe gives him a look.
+A MAYER SECRETARY
+They're all there Mr. Mayer...
+MAYER
+I'm on my way. Joe, walk with me.
+He moves quickly along the hallway, Joe and Mank at his
+side.
+MAYER (CONT'D)
+My boy, there are three work rules
+at this studio. Rule number one.
+Ars Gratia Artis. Art for Art's
+sake.
+A MAN passes by, giving L.B. an anxious wave...
+MAYER (CONT'D)
+(to employee)
+How ya doing?
+(to Joe)
+
+44.
+MAYER (CONT'D)
+One million dollars a year we
+spend on stories we never even
+film.
+He slows to sign something thrust at him, then charges on.
+MAYER (CONT'D)
+Why not? I'll tell you. They don't
+make me cry. What makes me cry?
+Emotion. Where do I feel emotion?
+Here -(he taps his forehead)
+here -(he taps his heart)
+-- and here.
+(he grabs his crotch)
+They turn the corner, wheeling like Grand Prix racers.
+MAYER (CONT'D)
+Rule number two: You may have
+heard M-G-M has more stars than
+there are in the heavens. Do not
+believe this.
+A woman walks by and gives a tentative wave...
+MAYER (CONT'D)
+Hi'ya (moving on)
+We have only one star, that is Leo
+the Lion. Never forget that. Many
+stars have, and now they twinkle
+elsewhere. Rule number three - People think M-G-M stands for
+Metro-Goldwyn-Mayer. It does not.
+It stands for Mayer's Ganza
+Mishpoka - Mayer's Whole Family.
+Never forget that. You got a
+problem, you come to poppa. This
+is a business where the buyer gets
+nothing for his money but a
+memory. What he bought still
+belongs to the man who sold it.
+That's the real magic of the
+movies and don't let anybody tell
+ya different.
+
+45.
+WHEELING HURRIEDLY TOWARD A SOUND STAGE DOOR
+Where a fearful AIDE waits to usher MAYER in.
+MAYER stares at the floor a beat, gearing himself up, then
+looks up at the Aide and nods. He's worked himself up, his
+eyes gleam with tears. He makes his way inside. Mank and
+Joe follow.
+28
+
+INT. SOUND STAGE - DAY
+
+28
+
+The sound stage has bleachers and all the STARS in the
+heavens sit waiting for him, typifying Hollywood's most
+glamorous and powerful studio. The other members of the M-GM family, the laborers, stand crowding the soundstage.
+Seeing him, there's an eruption of applause. Mank and Joe
+find space against a wall, fascinated.
+THEIR POV
+Mayer standing, head down with "humility," taking their
+applause. He lifts his hands as if to say, "It's too
+much..." When they've finished:
+MAYER
+I find myself in a horrendous
+position...And I come to all of
+you on bended knee...
+He stops to let that resonate...the all powerful L.B. Mayer
+laid low...
+MAYER (CONT'D)
+We are suffering, as all Americans
+are, from our country's terrible
+economic woes. Good people -everyday people can't afford to go
+to the movies, so even our preeminent dream-factory is in grave
+financial difficulty.
+He bows his head at even the thought...
+MAYER (CONT'D)
+(raising his head, chin
+out, mock dignified)
+
+46.
+MAYER (CONT'D)
+I am asking everyone in the M-G-M
+family to take a painful step. I
+am asking to roll back salaries.
+He looks at each and every face...
+MAYER (CONT'D)
+I don't want to, but for this
+hallowed place to continue to
+exist, I am forced to. I won't
+break up this family over
+something like money.
+There, he's said what he had to...He stands still as if
+stricken to his core. Once they've digested that...
+A MAN'S VOICE (OVER)
+How long are you asking for?
+MAYER
+Shouldn't be long.
+ANOTHER MAN
+How much are you asking for?
+Half...
+Half?
+
+MAYER
+ANOTHER MAN
+
+MAYER
+Could be less...
+ANOTHER MAN
+Is everybody going to be "pitching
+in?" Are you, Mr. Mayer?
+MAYER
+Real families root for each other
+in the good times. Take care of
+each other in tough ones.
+OLDER MAN
+We're with you, L.B.
+The Stars shine bright with that...but there's a lone
+VOICE...
+
+47.
+YOUNGER MAN
+You may be, Mister Barrymore -but a fifty percent pay cut for
+grips and electricians?
+The stars murmur looking with contempt at the young man.
+MAYER
+Eight weeks, my friends! Eight
+short weeks! As soon as FDR
+reopens the banks... you'll get
+back every penny! On that...you
+have the sacred word of L.B.
+Mayer.
+ELDERLY FEMALE STAR
+(easing to her feet)
+Well, I vote yes.
+MOVIE STAR #2
+I do as well.
+CHILD STAR
+(leaping up, his muppet
+voice)
+Me, too!
+Which brings them to their feet CHEERING. And MAYER hurries
+out, as if unable to handle the torrent of emotion that
+engulfs him. MANK and JOE look at each other...
+29
+
+INT. SOUND STAGE - DAY
+MAYER
+(softly)
+How'd I do, Ben?
+BEN
+It was great, Mr. Mayer.
+MANK and JOE watch MAYER and his AIDE stride off.
+MANK
+(shakes his head)
+Not even the most disgraceful
+thing I've ever seen...
+
+29
+
+48.
+30
+
+EXT. PATIO VICTORVILLE (1940) - NIGHT
+
+30
+
+The camera TRACKS through shadows toward MANK'S bed, amid
+muted ORGIASTIC MOANS and urgent WHISPERS: "You like zat?"
+"Ummm...That's wonderful." "A little to zuh left, maybe."
+"Yeah." FRAULEIN FREDA is raking under MANK'S cast with a
+CHINESE BACK-SCRATCHER. MANK twists over just as RITA
+enters in a hurry.
+RITA
+I've got to rush into town to get
+typewriter ribbon. Here are the
+morning's pages.
+MANK
+Dreck. It's all dreck!
+RITA
+Don't flagellate. At least you're
+writing again.
+MANK
+(downcast)
+None of it sings. None of it. Not
+a note.
+RITA
+(walking away)
+You're not writing an opera.
+As she leaves: The PHONE RINGS.
+FRAULEIN FREDA
+(answering)
+Hello?
+MANK
+(to himself)
+But I am writing an opera.
+FRAULEIN FREDA
+It's for you.
+MANK answers the phone.
+Yeah?
+
+MANK
+
+JOE (V.O.)
+Herman it's Joe -
+
+49.
+MANK
+Hey, hey, kid...what's up?
+JOE (V.O.)
+Checking in. How are you getting
+around?
+Gingerly.
+Any rest?
+
+MANK
+JOE (V.O.)
+
+MANK
+Haven't seen a sunrise yet.
+JOE (V.O.)
+You've never seen a sunrise.
+MANK
+Sara said you wanted this number.
+JOE (V.O.)
+Just to hear your voice.
+MANK
+Oh, she said you had some work you
+wanted to talk about...
+JOE (V.O.)
+Ahhh, I was thinking about that
+old play, "The Wild Man of
+Borneo." The one you wrote in the
+Ice Age.
+MANK
+One never remembers one's
+disasters. It's considered gauche.
+JOE (V.O.)
+A play is never a disaster, till
+the movies say it is. I brought it
+to my people at the studio. We
+want W.C. Fields, and we want you
+to adapt...
+MANK
+Uh, I'm kind of on something right
+now.
+
+50.
+JOE (V.O.)
+I can get you paid for the play
+and the adaptation.
+MANK
+Sounds great...But I'll have to
+think about it.
+JOE (V.O.)
+You know how these things have
+their moment.
+MANK
+So this isn't an offer, it's a
+subtle ultimatum.
+JOE (V.O.)
+Nobody could ever tell you what to
+do.
+MANK
+Did Sara put you up to this?
+JOE (V.O.)
+Not at all. But I know how things
+are... I can tell by her voice.
+MANK
+How bad is that, baby brother?
+JOE (V.O.)
+How bad? I went to a party last
+night where Scott Fitzgerald
+referred to you as a "ruined man."
+That's how bad things can get.
+MANK
+(laughing)
+That's good. I may use that.
+Herman --
+
+JOE (V.O.)
+
+MANK
+Please stop Joey, and just tell me
+what's on your mind.
+JOE (V.O.)
+I hear you're hunting dangerous
+game.
+
+51.
+JOE (V.O.) (CONT'D)
+Word on the street is radio's
+Golden Boy wants to go toe to toe
+with Willie Hearst and you're
+helping in the kitchen.
+MANK
+Oh? And...?
+JOE (V.O.)
+And? Herman, and?
+MANK
+How stupid of me. I thought I was
+rejecting a humiliating handout
+when all the time I was nixing a
+respectable bribe.
+JOE (V.O.)
+And I'm sorry I ever cared.
+The phone CLICKS DEAD in MANK'S ear and ours.
+Oops.
+
+MANK
+
+He hangs it up. But he's rattled.
+31
+
+INT. SAN SIMEON - NIGHT - (FLASHBACK)
+
+31
+SUPERIMPOSE THE
+LEGEND:
+
+INT. SAN SIMEON ASSEMBLY ROOM - NIGHT - 1933 (FLASHBACK)
+We crane from on high through a huge chandelier looking
+over what was called The Assembly Room. A birthday cake
+with sparklers (honoring the 4th of July) is being wheeled
+to L.B. Mayer. The cake says "Happy Birthday L.B." with
+Lady Liberty on it. Mayer is standing before a large
+gathering of people, studio moguls, most famously Irving
+Thalberg and David O. Selznick, as well as stars like
+Chaplin, Lombard, Garbo...The wives cluster, as do young
+men looking for available prizes. Marion is in a gaggle of
+actresses, and we see Mank straddling the two worlds. Sara
+is protectively near Mank, who, for courage and solace,
+grabs two drinks off a waiter's passing tray.
+
+52.
+The cake arrives, the gathered singing 'Happy Birthday,'
+Mayer basking in the light of the sparklers...he tries to
+blow them out which isn't physically possible. The cake is
+taken away to be cut. There's the sound of a spoon tapping
+glass...host William Randolph Hearst commands the room...
+HEARST
+Marion and I are so pleased you
+could all come stay for the
+weekend. I hope the train ride
+wasn't too arduous.
+Which they appreciatively chuckle at. Hearst, raising his
+glass...
+HEARST (CONT'D)
+And tonight we're celebrating our
+great friend's birthday in our
+little hillside home.
+Charlie And with that, the room sings "Happy Birthday" to MAYER...
+HEARST (CONT'D)
+Louis, you should be joyous, you
+don't look a day over forty-eight.
+MAYER
+I feel thirty-five.
+Great applause.
+MAYER (CONT'D)
+Mister Hearst, Marion, all of you,
+my heart is full to bursting. I
+can't express in words...
+MANK
+(to himself)
+Please don't try.
+MAYER
+W.R., nothing is more precious to
+me than your friendship and sage
+advice. I am blessed to call you
+my friend. God bless William
+Randolph Hearst.
+Everybody agrees...
+
+53.
+MANK
+("Tiny Tim")
+God bless us everyone.
+They affectionately applaud...
+MANK (CONT'D)
+A very happy birthday Louis. Our
+country should be flattered that
+you picked its birthdate as your
+own. The rest of us have to be
+satisfied with the one we happen
+to be born on.
+Mank --
+
+SARA
+
+MANK
+(a mock toast)
+Here's to your rich Canadian
+imagination.
+They all repeat "Rich Canadian imagination..." And all
+applaud against a round of "hear hear's." Sara reaches over
+to stop Mank going any further...
+ANGLE ON MAYER
+Cake mid-mouth, his expression stuck...when Hearst, as if
+the comment has just reached him, roars his appreciation of
+Mank... Thalberg makes sure the moment passes by
+toasting...
+THALBERG
+Here's to banks re-opening!
+Which is roundly cheered by one and all...
+HEARST
+(raising his glass)
+And to freedom.
+They echo him, "To Freedom." They drink their appreciation.
+HEARST (CONT'D)
+I believe you've met our
+distinguished guest, Mr. Rexford
+Tugwell. Now, Rex is special
+assistant to President Roosevelt.
+
+54.
+HEARST (CONT'D)
+And we're all interested in what
+you might share with us.
+There are incongruous chuckles at the mingled politics, and
+applause for the special assistant...
+HEARST (CONT'D)
+And...we all want to welcome the
+Thalbergs back from Irving's long
+convalescence in Europe.
+More applause.
+THALBERG
+Thank you, W.R.
+HEARST
+Good to see you, Irving.
+NORMA SHEARER THALBERG
+Thank you, Mister Hearst.
+Norma.
+
+HEARST
+
+And as the "ceremonial" part of the evening ends and starts
+to settle into...
+CHARLIE CHAPLIN
+(at the piano - suddenly
+tickling the ivories)
+Anybody seen anything good
+lately...?
+MARION
+(enthusiastic)
+I just saw 42nd Street.
+(Brooklyn-ese)
+It blew my wig.
+MANK
+You can take the girl out of BedStuy...
+HEARST
+(to Marion)
+When was that?
+
+55.
+MARION
+Over the weekend - you were in
+D.C. I went to the pictures in
+Santa Barbara.
+HEARST
+We have a fine screening room here
+MAYER
+A Warner's picture -- why waste
+money on that?
+HEARST
+Next time, I'll go with you.
+MARION
+Of course.
+(going on)
+I am bonkers about Movietone News,
+I love Lowell Thomas' voice...
+ACTRESS #1
+Oh! Is he single?
+ACTRESS #2
+I sat across from him at the Brown
+Derby once. He bought me a drink.
+ACTRESS #3
+
+He didn't!
+
+ACTRESS #2
+Not - technically. But I made sure
+to run into him in the parking lot
+after. I asked him, "Do you need a
+lift?"
+ACTRESS #3
+You didn't! What'd he say?
+ACTRESS #2
+I'll never tell.
+She secretly smiles...which brings gales of laughter,
+including Marion's.
+HEARST
+(to no-one in particular)
+There is a point to this dear?
+
+56.
+MARION
+Well yes, they showed that Hitler
+giving a speech...kissing
+babies...He's (a shiver)
+creepers...
+MANK
+Lederhosen and suspenders,
+terrifying.
+CHARLIE CHAPLIN
+Oh, no. It's the moustache that's
+the horror...
+HEARST
+Don't be alarmed, Marion. He won't
+be around for long. The Germans
+are a thoughtful, considerate
+people. Enough about Nazis.
+Irving, tell us about your
+travels. Where were you?
+THALBERG
+Uh, Berlin, in fact.
+There's an audible groan.
+THALBERG (CONT'D)
+But it was quite interesting -NORMA SHEARER THALBERG
+Thugs in brown shirts goosestepping past our hotel all night,
+screaming anti-Semitic slogans...
+I was terrified the whole time.
+MARION
+This Hitler sounds like an utter
+drip. Shouldn't the United States
+do something, Mr. Tugwell?
+TUGWELL
+We are weighing all options.
+THALBERG
+Can't last. Who in the world takes
+a lunatic like that seriously?
+
+57.
+MANK
+Well, the last time I looked,
+forty million Germans.
+SARA
+Sweetheart --
+
+HEARST
+(deep throated laugh)
+Mank, you are always so
+wonderfully contrary!
+
+MARION
+(giggling, to build on
+his joke)
+"Chase and Sanborn's der coffee,
+can forty million Nazis all be
+wrong?"
+Which falls flat, except to Mank who gives her the courtesy
+of a chortle...
+MANK
+I just read they've opened their
+first concentration camps and
+started burning books. What's
+next, movies?
+SARA
+(quietly)
+Enough.
+MAYER
+Is that true, Irving?
+Yes, L.B.
+
+THALBERG
+
+MAYER
+Hitler Shmitler. You don't turn
+your back on a market as big as
+Germany.
+(aside to THALBERG)
+What's a concentration camp?
+HEARST
+Please, it's upsetting enough
+Marion had to endure the man in
+newsreel.
+
+58.
+MARION
+It was fascinating. Those people
+adore him.
+(self conscious)
+I'm probably talking nonsense.
+MANK
+You're the first tonight that
+isn't.
+Which causes Hearst to laugh, changing the conversation...
+SELZNICK
+Speaking of socialists, how about
+Upton Sinclair's new book?
+
+No..
+
+HEARST
+(overlapping)
+
+SELZNICK
+He wants to turn private
+enterprise over to the state of
+California.
+MAYER
+There's one we won't be optioning - eh Irving?
+NORMA SHEARER THALBERG
+Well, it's selling like crazy.
+IRENE SELZNICK
+Walter Winchell says Sinclair may
+run for governor next election.
+MAYER
+That rat Bolshevik belongs right up
+there with Hitler on the list of
+people not to be taken seriously.
+MANK
+There's a world of difference
+between Communism and Socialism.
+MAYER
+They both want something for
+nothing.
+
+59.
+MANK
+Like a work force for free?
+THALBERG
+...Half -- and only in the
+interim...
+HEARST
+I think it’s safe to assume that
+none of us here would welcome a
+crusading Socialist as
+California's political savior.
+Certainly not FDR. Am I right,
+Rex?
+TUGWELL
+Off the record? The president says
+the man bears watching. Especially
+now that Republicans seem bent on
+running... (looks to Mayer) Frank
+Merriam again.
+Others LAUGH derisively. MAYER GRUNTS.
+THALBERG
+Sinclair's run twice before and
+got what, two percent of the vote?
+HEARST
+(a genial put-down)
+Good people: the man is an author.
+Which brings sounds of accordance...all except for:
+MANK
+As was Thomas Jefferson.
+HEARST
+Come now, Mank - Upton Sinclair as
+Thomas Jefferson?
+MANK
+No, you're right. W.R. Jefferson
+never got Federal laws passed to
+ban oil monopolies, the railroad
+trusts, or cleaned up the
+stockyards.
+
+60.
+THALBERG
+He's an angry scribe - a
+provocateur.
+MANK
+Because he provokes thought.
+THALBERG
+You always side with the "writer",
+Mank. Poor souls surviving a
+depression on five grand a week.
+Commies.
+
+MAYER
+
+THALBERG
+L.B.'s not wrong.
+MANK
+Irving, you're a literate man. You
+know the difference between
+Communism and Socialism. In
+Socialism, everyone shares the
+wealth. In Communism, everyone
+shares the poverty.
+THALBERG
+Thank you, Mr. Mankiewicz -MANK
+Upton just wants you to apportion
+some of your Christmas bonus,
+Irving, to the people who clean
+your house.
+HEARST
+(enjoying)
+Now that's why I always want Mank
+around!
+Me too!
+
+MARION
+
+THALBERG
+(scoffing)
+"Upton," Mank? Nobody's asking to
+hear you sing "The
+Internationale."
+
+61.
+MARION
+What's that?
+HEARST
+The Communist National Anthem,
+darling.
+MARION
+(taking him literally)
+I would. Do you sing?
+MANK
+No one should have to hear me
+sing. Isn't that right, Sara?
+SARA
+If at all possible.
+MAYER
+Well, as Republican State chairmanelect, I'm telling you: nothing's
+going to happen here. The people
+who count in California won't let
+it. All this talk is so much
+pissing in the wind.
+MANK
+Nicely put.
+MRS. MAYER rouses herself to a fearful, nervous smile.
+Marion, wanting to redeem herself in the eyes of Hearst:
+MARION
+I heard Pops on the phone helping
+pick the president's cabinet, like
+casting a movie. They can stop a
+guy like Sinclair. Couldn't you,
+Pops?
+A LEADEN SILENCE descends.
+MARION (CONT'D)
+Pardon. I don't know what I'm
+saying.
+She stands unsteadily and leaves. Mank looks after her. He
+looks at Sara.
+Go.
+
+SARA
+
+62.
+Mank leaves.
+ANGLE ON SARA
+Her expression warring between sad, uncertain and lost.
+32
+
+EXT. SAN SIMEON GROUNDS - NIGHT
+
+32
+
+Mank follows...He sees Marion stop on a grassy hill, plop
+herself down, and grope the base of a marble bench looking
+for something. Mank sits, and sees she's pulling out of all
+things, a radio-telephone, which sets her off on a geyser
+of giggles.
+MARION
+'Lo, Tokyo? London, you theah?
+Ah, nerts!
+MANK
+What is that?
+MARION
+Aaahhhhhhhh, Pops' radio-phones.
+Nevah, evah be out of touch with
+your empire!
+MANK
+No, no, what's nerts?
+MARION
+Oh, nerts is Brooklynese for
+"nuts"...
+Jeepers.
+
+MANK
+
+Which again breaks her up as she puts the phone
+back...She's found a half-drunk gin bottle. They sit on the
+bench.
+MARION
+What did I do that was so
+terrible? I guess I shouldn't have
+said that thing about the cabinet
+in front of Tugwell. But since
+when does anybody care what I have
+to say? Those things just pop out
+of my mouth. And the moment they
+do I feel like - like --
+
+63.
+MANK
+Like you got caught "Jambes en
+L'air..."
+MARION
+(gasps)
+No!...Well... Do you always just
+say whatever you think?
+MANK
+You're blushing.
+MARION
+
+Am not.
+Are, too.
+
+MANK
+
+Am not...
+
+MARION
+
+MANK
+Are, too. I can see it -- even in
+the dark...
+MARION
+Well, what I can tell you, Mank.
+Marion Douras went to convent
+school.
+MANK
+HEDDA? LOUELLA! Where's a gossip
+columnist around this castle when
+you need one?
+They LAUGH together.
+MARION
+I hate shoptalk! I never know
+what's going on.
+(confiding)
+The one thing you nevah evah talk
+about is Upton Sinclair.
+MANK
+I noted. The moment he's mentioned
+the evening turns.
+MARION
+It's sort of a sore subject.
+
+64.
+Mank pulls her to her feet.
+MANK
+Really? Do tell.
+33
+
+EXT. ANIMAL PARK - NIGHT
+
+33
+
+They walk a series of terraced stairwells -- passing
+wrought-iron fences, behind which scream all manner of
+primates.
+MARION
+I don't even know who this Mister
+Sinclair is...but he wrote about
+us for a book. I used to quote it
+word for word.
+(closing her eyes)
+"I saw our richest newspaper
+publisher keep his movie mistress
+in a private city of palaces and
+cathedrals, furnished with
+shiploads of junk imported from
+Europe, and surrounded by vast
+acres reserved for use by zebras
+and giraffes..."
+(going on)
+" -- telling in jest that he had
+spent six million dollars to make
+his lady's reputation, and using
+his newspapers to celebrate her
+change of hats..."
+MANK
+It must be hard to be on the
+receiving end of that.
+Marion opens her eyes.
+MARION
+People think because you're on the
+cover of "Modern Screen," they
+know you.
+Mank nods sympathetically. But she is a perennial optimist.
+MARION (CONT'D)
+Awww nerts, what do I have to
+complain about?
+
+65.
+MARION (CONT'D)
+I live in a fishbowl, but anything
+I want is mine... (pause) If I
+could I'd share with everyone, you
+know that Mank. This "Upton"
+doesn't know a thing about the
+real...
+The sound of the monkeys intrudes...she smiles...
+MARION (CONT'D)
+Nobody but nobody makes a monkey
+out of William Randolph Hearst!
+They wander off, giggling...
+34
+
+EXT. ANIMAL PARK - NIGHT
+MANK
+I understand why Mayer loathes
+him.
+Why?
+
+MARION
+
+MANK
+Sinclair caught Louis with his
+pants down.
+MARION
+(shivers)
+Yikes.
+MANK
+He wrote that Mayer took a bribe
+to look the other way so a rival
+could buy M-G-M...It's
+complicated.
+MARION
+Over my head?
+MANK
+Over mine. You'd need a degree in
+larceny.
+MARION
+Isn't bribery a crime?
+
+34
+
+66.
+MANK
+That's what Sinclair said. The
+little sausage might have gone to
+jail.
+Jeepers.
+
+MARION
+
+MANK
+Oh, the hypocrisy. "My Ganza
+Mishpoka." "My Mishpoka."
+MARION
+(giggles)
+I don't speak a lot of Jewish...
+MANK
+Really. "My Mishpoka." "My
+Family." Everything he does is for
+family. Except when it comes to
+selling his last name to a
+competitor in the middle of the
+night.
+MARION
+Wow, he would do that to his own
+studio?
+MANK
+He doesn't own MGM any more than
+Sam Goldwyn...They just run it for
+the money-boys back east.
+(meaning elephants)
+And jail is not something an
+animal like Mayer is likely to
+forget.
+35
+
+EXT. ANOTHER PART OF THE ANIMAL PARK - NIGHT
+They walk by the GIRAFFES.
+MARION
+Irving must be clean. He looks
+like he shaves three times a day.
+MANK
+Well, there's clean and there's
+clean. Irving bought one of
+Sinclair's novels.
+
+35
+
+67.
+MANK (CONT'D)
+Sinclair demanded a guarantee that
+not one word could be changed, in
+writing, on the back of the
+purchase check.
+MARION
+(in mock horror)
+He didn't want notes from Irving
+Thalberg?
+MANK
+When Thalberg refused, Sinclair
+took his money and ran off to
+Mexico, and financed a picture
+about the Russian Revolution.
+(points to giraffes)
+Now that's sticking the old neck
+out...
+They arrive at a FORMAL GARDEN.
+36
+
+EXT. A FORMAL GARDEN - NIGHT
+
+36
+
+Full of statuary. MARION begins to dance. As MANK watches,
+she whirls about, faster and faster, until she comes out of
+it dizzy. MANK catches her.
+MANK
+Sorry...instinct.
+MARION
+My fault...I've been a little
+sixes and sevens recently...
+(a pause)
+Tell me something Mank, the
+truth...could you see me playing
+Elizabeth Barrett Browning? Or
+Marie Antoinette? Irving's bought
+'em both, ya know -(sotto voce)
+Because of Pops. What'd'ya think,
+and... Honestly?
+MANK
+I see you more as Dulcinea.
+
+68.
+
+Who?
+
+MARION
+
+MANK
+Dulcinea. From the Spanish for
+sweetness.
+OHHH?
+
+MARION
+
+MANK
+Her hair gold, her cheeks roses -Nice!
+
+MARION
+
+MANK
+-- her lips coral, her neck
+alabaster, her bosom marble...
+MARION
+(giggling)
+Marble?! Maybe, once!
+MANK
+- Ivory her hands, and her
+whiteness snow.
+MARION
+You wrote that?
+MANK
+No, a fella named Cervantes.
+(clears throat)
+"There are meters of accent/ And
+meters of Tone/ But the best of
+all meters/ Is to meet her alone."
+MARION
+Ah ha! A pome with a message!
+They sit on a bench among the statues.
+MANK
+That's just the first verse. The
+last: There are letters of accent/
+And letters of tone/ But the best
+of all letters/ Is to let her
+alone.
+
+69.
+MARION starts to LAUGH...
+MANK (CONT'D)
+(continuing; gently)
+Now, those I wrote.
+She looks at him. And tired as much as anything, she puts
+her head on his shoulder. And Mank lets her keep it there.
+DISSOLVE TO:
+37
+
+INT. VICTORVILLE BUNGALOW - THAT NIGHT
+
+37
+
+We see a good number of pages with scribbled notes all
+crumpled on the floor. Rita has to avoid them so as not to
+bother Mank. She bends to the wastebasket and seeing there
+are two empty miniature bottles this time, she retrieves
+them. As he sleeps the sleep of the dead...
+38
+
+INT. VICTORVILLE BUNGALOW (1940) - DAY
+
+38
+
+The stack of notebooks has grown knee-high...Mank works in
+bed, pages scattering, blown by a ceiling fan that clanks
+from overuse. Mank, sweating, looks like he's been up all
+night -- and he has -- although how much is usable may be
+reflected by the number of wadded up pages...He's in
+trouble. There's a knock on the door.
+MANK
+(scribbling)
+Do come in.
+And Rita comes in, bringing in with her the harsh light of
+day. Mank, like a vampire, shields his eyes...
+MANK (CONT'D)
+Jesus! What is that?
+RITA
+Sunlight. It's nearly noon.
+MANK
+...Mother of God...where did the
+night go?
+RITA
+Your support device is here.
+MANK
+Oh good, send it in.
+
+70.
+RITA
+(the bad news)
+As is Mr. Houseman...
+Rita is concerned about something beyond the usual...a
+whiff of deception in the air...
+RITA (CONT'D)
+What would you like me to do?
+MANK
+Well, send him in too.
+But first she motions to someone else. The resort's
+handyman, SLIM, enters...surveying the room.
+MANK (CONT'D)
+(motioning)
+Uh, put it over there, please...
+The handyman moves a chair and ottoman, making space, and
+shuffles back out...Rita clears the door. Houseman stops
+dead in his tracks seeing Mank in flop sweat. Mank gathers
+his pages.
+MANK (CONT'D)
+You're early...
+Seeing Houseman's solemnity, he realizes there's serious
+business...
+HOUSEMAN
+(quietly)
+I thought we should talk...
+Mank nods. Houseman slowly takes off his hat, and neatly
+folds his coat.
+MANK
+Why are you wearing a coat?
+HOUSEMAN
+I always wear a coat.
+MANK
+Must be 108 degrees.
+Houseman shifts to sit on the bed...trying to maintain his
+dignity despite it sagging under him...When Slim returns,
+wheeling a big wooden box, Fraulein FREDA trails him.
+
+71.
+HOUSEMAN
+We're at a Rubicon moment, Mank.
+MANK
+(listening)
+Uh-huh -HOUSEMAN
+It's not the work, that's
+everything we'd hoped it would be.
+MANK
+(to Slim)
+Enough room there?
+SLIM
+Ah, it should be...
+And he starts, wielding a crowbar, loudly prying open the
+crate...Rita and FREDA watch him work...
+MANK
+I'm sorry, John.
+HOUSEMAN
+(despairing)
+You've only written ninety
+pages...
+MANK
+(correcting)
+Ninety-one.
+HOUSEMAN
+And in my expert opinion, you're
+hardly out of the first act... I
+mean, how do you hope to be done
+in 14...?
+(looks at watch)
+... 13 days...? We gave him our
+solemn word we would deliver...
+"We?"
+
+MANK
+
+HOUSEMAN
+I don't think he is going to take
+it very well, not very well at
+all.
+
+72.
+MANK
+You said ninety days. Welles said
+sixty. I'm doing the very best I
+can.
+But Houseman has a one track mind.
+HOUSEMAN
+We are surely to be axed.
+The lid pops off, revealing a hanging maze of steel cable,
+pulleys, winches, bars, and ropes. Rita, Freda, and
+particularly Mank, look at it with wonder...Slim starts to
+take off a large board...
+MANK
+Not just yet...
+Rita, Freda and Mank share a look. Houseman's oblivious.
+HOUSEMAN
+I've never been fired.
+MANK
+I've never not been fired.
+HOUSEMAN
+I don't get fired.
+MANK
+It's not as unpleasant as you
+might imagine. You worry too much,
+John. What do you do for pleasure?
+The PHONE RINGS. Rita answers it...
+RITA
+Hello? Yes, he's here... It's
+Orson...
+HOUSEMAN
+(to Mank)
+You talk?
+Mank is about to take the phone...
+RITA
+(to Houseman)
+He'd like to speak with Mr.
+Houseman.
+
+73.
+
+Me?
+
+HOUSEMAN
+
+She nods yes. Houseman reluctantly takes the phone.
+Orson.
+
+HOUSEMAN (CONT'D)
+
+He takes the phone around the corner...out of sight/earshot
+of Mank and the others...Mank, Rita and Freda watch the
+handyman with the apparatus.
+HOUSEMAN (CONT'D)
+I came early to see where we were
+with -- No. Not at all. Everything
+is going absolutely according to -...he can barely finish a sentence without being
+interrupted...
+HOUSEMAN (CONT'D)
+Well, that's difficult to say
+exactly. Ye-yes, I know the clock
+is -- And, as I've told you it's
+quite unique... In fact, I would
+venture to say one of the most -Yes... well, it will absolutely
+need your marvelous -Another interruption...
+HOUSEMAN (CONT'D)
+-- He's on the mend -And another...
+HOUSEMAN (CONT'D)
+-- Working tirelessly -And a final...
+HOUSEMAN (CONT'D)
+Of course. When -- ? I'm on my
+way...Yes, hang on...he's right
+here...
+He brings the phone back to Mank, he, Rita and Freda all
+share a look.
+
+74.
+HOUSEMAN (CONT'D)
+He wants to see me right away.
+Wouldn't tell me why -(giving him the phone)
+- perhaps he will you.
+MANK looks to the phone as HOUSEMAN leaves. Then...
+Orson.
+
+MANK
+
+WELLES (V.O.)
+Tell me what's up, Mank?
+MANK
+He's getting on my nerves.
+WELLES (V.O.)
+I sensed that. I told him I had to
+see him at once. Hopefully I can
+think of a reason before he gets
+here.
+Welles laughs.
+WELLES (V.O.)
+I've finished my test for Heart of
+Darkness. I'm turning my full
+attention to our little project.
+MANK
+Let there be light.
+WELLES (V.O.)
+Tell me what to expect?
+MANK
+I thought you'd want to be
+surprised.
+Welles laughs.
+WELLES (V.O.)
+Ha! You're always surprising.
+That's why you were my only
+choice. No one else is Mankiewicz.
+Mank motions to Slim. SLIM removes a plywood panel
+revealing two dozen or so quarts of premium scotch secured
+in straw for safety and stowed in a rack beneath it.
+
+75.
+WELLES (V.O.)
+I can almost hear the finish line.
+MANK
+Uh, we're about to turn a corner.
+WELLES (V.O.)
+Unto the breach!
+And MANK hangs up, nods at SLIM as the others watch...
+MANK
+Slim, you may tote those lovely
+highland beauties to the kitchen.
+Fraulein Freda, empty the Mickeys
+and start replacing their contents
+- raus schnell!
+Slim...
+As both FRAULEIN FREDA and SLIM start, Mank slips Slim a
+ten-spot:
+RITA
+Thank you, Slim, you may go.
+As SLIM leaves, MANK stares at RITA. FRAULEIN FREDA begins
+collecting bottles for transport.
+RITA (CONT'D)
+Mister Mankiewicz, please don't
+ask us to help you in this sad
+deception.
+MANK
+My dear Mrs. Alexander. Charlie
+Lederer and I went to a great deal
+of trouble to engineer this sad
+deception. My deadline is two
+weeks away - and I intend to...
+RITA
+It could mean our jobs.
+MANK
+I do my best thinking before I
+fall asleep. And I am sick and
+tired of having my evenings end
+with the abrupt sensation of being
+struck on the head with a croquet
+mallet.
+
+76.
+RITA
+A way of putting it.
+MANK
+I am not asking you to help.
+RITA
+You're not.
+MANK
+I am telling you.
+RITA
+I'm sorry. I won't be bullied.
+You'll have my resignation in the
+morning.
+RITA turns on her heel and walks out the door. She turns.
+RITA (CONT'D)
+And I know Fraulein Freda's been
+sneaking you nightcaps from the
+cabinet. If she continues to
+cooperate in this cheap ruse I
+shall have no choice but to report
+the both of you.
+MANK
+(beat; grimly)
+Fraulein Freda?
+FRAULEIN FREDA
+Ja, Herr Mank?
+MANK
+Please do as I instructed.
+FRAULEIN FREDA
+Ja, Herr Mank.
+FRAULEIN FREDA trudges to the kitchen.
+39
+
+INT. KITCHEN - DAY
+
+39
+
+FRAULEIN FREDA is methodically pouring Mickeys down the
+drain one bottle after another as RITA strides in angrily.
+RITA
+Freda, you mustn't let him
+intimidate you like that!
+
+77.
+FRAULEIN FREDA
+I am not intimidated Frau
+Alexander.
+RITA
+
+Then, why?
+
+FRAULEIN FREDA
+Herr Mank sponsored my family's
+entry into this country. He is
+responsible for us getting safely
+out of Germany...Legally and
+financially...
+Really?
+
+RITA
+
+FRAULEIN FREDA
+Our entire village he brought
+here.
+RITA
+Entire village?
+FRAULEIN FREDA
+Over a hundred people. Josef,
+Goebbels, the propaganda minister,
+will not allow his films to be
+shown in the Fatherland.
+RITA
+I di - I didn't realize.
+FRAULEIN FREDA
+He wrote a picture about the
+Nazis, which no studio anywhere
+will dare make.
+(looking up)
+I assume, If he wishes to drink,
+he is a grown man, a good man and
+should be treated as such. Nicht
+Wahr?
+40
+
+INT. LIVING ROOM - DAY
+RITA comes out with two scotches. One she hands to MANK.
+
+40
+
+78.
+RITA
+Here's to Mank-town. Or is it Mankville?
+MANK
+Dear Freda. WHAT'S GERMAN FOR
+BLABBERMOUTH?
+RITA
+(raising her glass)
+Either you demonstrate you can
+handle this, Mankiewicz, or we
+will all end up getting sacked.
+MANK
+(raising his glass)
+There's nothing like a vote of
+confidence from one's peers.
+RITA
+(a small smile)
+To Mank-berg. Prosit!
+MANK
+(a big grin)
+Mank-heim. Bottoms up.
+41
+
+EXT. M-G-M STUDIO - DAY - (FLASHBACK)
+
+41
+
+GRUBBY MEN mill about the gates, hustling small change.
+SUPERIMPOSE THE
+LEGEND:
+EXT. MGM STUDIOS - DAY - 1934 (FLASHBACK)
+MANK walks toward the entrance. He pauses to light a
+cigarette, strikes the match against a MERRIAM-FOR-GOVERNOR
+poster.
+As he reaches the gate an UNSHAVEN MAN blocks his path.
+C.C.
+Hey! Mank? You remember me?
+MANK
+Oh. My God! Of course I remember
+you, C.C.
+C.C. Starts to shake hands, thinks better of it.
+
+79.
+C.C.
+C.C. fer Central Castin'. How you
+been Mank?
+MANK
+What happened?
+C.C.
+What happened? The Goddamned
+Depression happened. I ain't had
+so much as a walk-on since Tugboat
+Annie. Listen: I hate tuh, you
+knowMANK pats his pockets, turns to the STUDIO GATE GUARD.
+MANK
+Uh- yeah. Ed? Lend me a buck?
+ED scowls but does so reluctantly. Mank gives it to C.C.
+Another PANHANDLER immediately drifts over to join them.
+C.C.
+Me an' Grady here been thinkin' a
+bummin' east tuh Miam-uh.
+(secretive,
+conspiratorial...)
+I heard it from somebody who
+knows, the Hollywood studios are
+moving to Florida.
+MANK
+Who told you that?
+C.C.
+(nods his head, meaning
+studio)
+Oh, I can't say, but somebody in
+the know...(whispers) In certain
+echelons, it's common knowledge.
+MANK
+People in "certain echelons" don't
+usually trust me with sensitive
+information. But the studios
+aren't moving anywhere. That's
+just company-town propaganda.
+
+80.
+C.C.
+Believe what you want. But...Say (indicating GRADY)
+You think you could spare Uh, Ed?
+
+MANK
+
+C.C. (O.S.)
+Bless you, Mank.
+MANK glances again at the GATE GUARD. Shrugging, ED turns
+his pants pockets inside out. They are eloquently empty.
+42
+
+INT. M-G-M - COMMISSARY - DAY
+MANK and JOE eating lunch.
+JOE
+The bastard reneged. You were
+there...Yes, he reinstated
+salaries - but he never gave back
+the money he promised.
+MANK
+Giant surprise.
+JOE
+Come on, Mank, we need guys like
+you to keep people like Mayer
+honest.
+MANK
+I'd refer you for that, to the
+power of prayer.
+JOE
+The Writers Guild doesn't have to
+hit the bricks for the twenty-five
+hundred-a week guy. We're doing it
+for the two-hundred-and-fiftydollar-a-weeker.
+MANK
+Joe: All the two-hundred-fiftydollar-a-week writers I know, are
+getting twenty-five hundred.
+
+42
+
+81.
+MANK (CONT'D)
+Stop crying for your just desserts
+they're liable to give them to
+you. Then we'll all be working for
+seventy-five bucks a week.
+JOE
+I don't know if you've ever walked
+a picket line...You might have to.
+MANK
+Dave Chasen'll cater. JUNIOR
+WRITERS ONLY PAID SEVEN HUNDRED
+FIFTY A WEEK! If that happens, you
+better run before real folk with
+real troubles stone you to death.
+MANK signals for the check, gets it, gives it to JOE.
+JOE
+Hermie, the Guild's in its
+infancy, it needs you.
+MANK
+(getting up)
+You're telling me. What writer
+failed to notice the Screen
+Writer's Guild needs an
+apostrophe.
+As Groucho always said: Never
+belong to any club that would have
+someone like you for a member.
+Leaning over, MANK flips JOE'S tie into his coffee.
+JOE
+And look at him. The most
+miserable bastard on God's green
+earth.
+MANK
+I'd tell him you said that... only
+he'd think you were brown-nosing.
+43
+
+INT. THALBERG'S OFFICE - DAY
+Mank enters, seeing Thalberg bending over his fireplace,
+batting smoke with a newspaper.
+
+43
+
+82.
+THALBERG
+Close the door.
+He does.
+MANK
+Aaaaahhhhhhhh. Summer.
+THALBERG crosses to his desk.
+THALBERG
+(into the intercom)
+Inez? You're not to let the
+Brothers Marx wait in my office,
+ever. They've been grilling hot
+dogs again.
+Mank laughs.
+Sit down.
+
+THALBERG (CONT'D)
+
+He takes a chair.
+MANK
+You wanted to see me?
+THALBERG
+Not that I care, but why aren't
+you contributing to M-G-M's antiSinclair fund...?
+MANK
+Well, call me old-fashioned,
+Irving, but I don't like being
+told which side of a fight I'm
+already on.
+THALBERG
+How's it going to look if the GOP
+chairman himself can't get
+unanimous support from his own
+studio?
+MANK
+You're serious.
+
+83.
+THALBERG
+(he is serious)
+I was taught by my parents to be
+straightforward - to ask simply
+for what I want, and expect that I
+may have to elucidate my position.
+MANK
+I was encouraged by mine to use my
+imagination...but I taught myself
+to avoid the consequences.
+Which even has Thalberg smile.
+THALBERG
+It's $10, Mank. You piss that away
+between hopeless bets.
+Mank doesn't say anything.
+THALBERG (CONT'D)
+I hate to think what L.B. might do
+if he knew you were the only
+holdout.
+MANK
+(delighted)
+...I am? And he doesn't?
+THALBERG
+...And we're not going to tell him.
+I could let you go for this.
+MANK
+It is... a hanging offense...
+THALBERG
+But I'm just going to add the
+appropriate amount to your
+gambling debt and forget we ever
+had this conversation.
+MANK
+You do that. And the brandspanking new Writers Guild might
+find it verrrry interesting. Not
+to mention the newspapers.
+
+84.
+THALBERG
+I'm not sure the guild intends to
+cover "games of chance". And you
+won't go to the press, because in
+California that means Hearst.
+MANK
+(disappointed)
+Irving, you are the shrewdest
+executive in this town, why are
+you acting like some dumb ward
+heeler? You don't need my
+donation. You don't need
+anybody's. You have everything it
+takes right here.
+Mank gets up to go.
+Meaning?
+
+THALBERG
+
+MANK
+(he stops, turning)
+Meaning, you can make the world
+swear King Kong is ten stories
+tall, and Mary Pickford a virgin
+at forty - yet you can't convince
+starving voters that a turncoat
+Socialist is a menace to every
+thing Californians hold dear?
+You're barely trying.
+And as he leaves THALBERG to think...
+44
+
+EXT. DOWNTOWN LOS ANGELES (1934) - DAY
+
+44
+
+MANK and SHELLY stride out of the Biltmore bar to find:
+The lot next door thronged with milling SPECTATORS. The
+atmosphere is that of a church social. Workers folksily
+hawk lemonade, cakes and cookies. On a flatbed truck
+festooned with bunting, stands a stooped, graying FIGURE in
+a tie and white dress shirt with sleeves rolled up.
+UPTON SINCLAIR is speaking. The pince-nez glasses perched
+on his nose give him a professorial air that this dry
+platform and low, hypnotic monotone do nothing to dispel.
+
+85.
+SINCLAIR
+(reading his speech)
+Millions of Californians (squints as it flaps)
+Are being taxed out of their homes
+yet the Depression is one of
+abundance. Fruit rots on the
+ground and vegetables are dumped
+into the ocean because there are
+no markets for them.
+HECKLER
+Aimee Semple Macpherson says
+you're a godless commie, Upton!
+SINCLAIR
+Too often, sir, the religion of
+Jesus is used by the ruling
+classes to keep themselves in
+power and the poor ever poorer.
+Mank, for the first time really hears him.
+SINCLAIR (CONT'D)
+And that, my friends, is a sin and
+an error -- and I say with Thomas
+Jefferson...
+Mank smiles to himself at the echo of the reference.
+SINCLAIR (CONT'D)
+..."Truth has nothing to fear from
+error where reason is left free to
+combat it."
+ANGLE ON MANK AND SHELLY
+Listening. There is a SPATTERING OF APPLAUSE. In MANK'S
+eyes glints a glimmer of interest. He glances around him.
+MANK'S POV
+A WOMAN WITH A BABY begins nursing it; a TOOTHLESS OLD MAN
+yawns; SINCLAIR is in danger of losing their attention.
+
+86.
+SINCLAIR (CONT'D)
+(with a quiet passion)
+My friends, income in this country
+is going to be redistributed by
+one of two methods: Legal
+enactment or violent revolution.
+We haven't much longer to exercise
+our choice. Thank you all for
+coming.
+SUPPORTER
+Tell us about Hollywood! Are the
+studios really moving to Florida
+like they've been sayin'?
+SINCLAIR
+(more animated)
+Absurd, sir! If they were at all
+serious why have the brothers
+Warner just broken ground on an
+additional 100,000 square feet of
+sound stages... while M-G-M has
+the most contracts with stars in
+their history?
+SINCLAIR jumps nimbly off his makeshift stage and vanishes
+into a crowd of WELL-WISHERS.
+TWO-SHOT OF MANK AND SHELLY, FAVORING MANK
+SHELLY
+Well he might not get Mayer's
+vote, but he gets mine.
+SINCLAIR (O.S.)
+Jobs will be here in California.
+Thank you all for coming!
+MANK'S eyes are on the CANDIDATE. From his expression we
+can guess that SINCLAIR may get his vote too.
+45
+
+INT. VICTORVILLE BUNGALOW - DAY
+
+45
+
+MANK and TEAM are having a celebratory drink... MANK now
+sports a boot-cast and his crutches lean against the wall.
+Rita and Freda, never ones to waste a moment's time are
+busy boxing up interim drafts, along with discarding pages
+of useless ideas...
+
+87.
+Houseman is sitting across from Mank, his hand, on the
+script as if its very presence is fragile to the touch...
+HOUSEMAN
+Well, I have seen some miracles in
+my day. But I have -(with some kind of awe)
+Over two-hundred pages in thirteen
+days. I never would have thought
+it possible.
+MANK
+(lifting his glass)
+To support devices.
+RITA
+(her eyes dancing)
+Support devices.
+FRAULEIN FREDA stifles an embarrassed TITTER. All drink
+honoring Mank, including Mank...mostly Mank.
+HOUSEMAN
+It's good, Mank. Damn good -RITA
+(with mischief, TO MANK)
+I have it on highest authority:
+It's the best thing he's ever
+done.
+An excuse for Mank to drink again. Houseman moves closer,
+private. Mank lights a cigarette.
+HOUSEMAN
+...As a moving picture it's more
+than good...I'm at a loss to even
+express...How wealth and influence
+can crush a man...It's Lear...the
+dark night of the soul...and I was
+completely mistaken, the shifting
+point of view is revolutionary. I
+never thought one could care so
+much about a sled...
+MANK
+It's kind of you to say...
+Mank... waiting for the inevitable...
+
+88.
+
+But...
+
+HOUSEMAN
+
+MANK
+"But," again...
+HOUSEMAN
+It's 327 pages...An embarrassment
+of riches...When the Dogface Boy
+gets here, there will be plenty
+branches to prune.
+MANK
+"A far too long screenplay for the
+ages.", John Houseman. I built him
+a watertight narrative and I
+suggest a destination. Now, where
+he takes it, that's his job...
+Houseman becomes very quiet. He leans ever more forward, as
+if to reveal something at the core of his worries...
+HOUSEMAN
+I was looking to get you paid...I
+don't know if you were aware or
+not...you signed your rights to
+"the Mercury." You agreed not to
+take screen credit.
+MANK
+I needed the work.
+HOUSEMAN
+You may want to reconsider.
+MANK
+All I currently want is a real
+shower... a cocktail...and my Sara
+to wake up to.
+HOUSEMAN
+Are you certain?
+MANK
+It worked out.
+Houseman digests that, still troubled...
+
+89.
+HOUSEMAN
+Mank, if I may be so bold. Why
+Hearst? Lord knows, outside his
+own blonde Betty Boop you were
+always his favorite dinner
+partner.
+Mank gives it a moment's thought, looking into himself...
+MANK
+John, are you familiar with the
+parable of the organ grinder's
+monkey?
+46
+
+INT. MANK'S CAR - MORNING - (FLASHBACK)
+
+46
+
+SARA wearing a head scarf drives along Wilshire Boulevard.
+SUPERIMPOSE THE
+LEGEND:
+EXT. WILSHIRE BLVD - DAY - 1934 (FLASHBACK)
+THE RADIO PLAYS, Mank - sits beside her, smoking a
+cigarette... He scans the Los Angeles Times.
+INSERT. FIVE-COLUMN PHOTOGRAPH
+A GANG OF HOBOS RIDE A FREIGHT CAR TO CAMERA.
+MANK looks at the photograph a little longer maybe than he
+needs. Just then his eye catches a passing billboard. 'I
+EXPECT HALF THE UNEMPLOYED IN U.S. TO FLOCK TO CALIFORNIA
+IF I AM ELECTED' - UPTON SINCLAIR. DO YOU WANT THIS TO
+HAPPEN? THE CALIFORNIA CRUSADERS SAY DEFEAT SINCLAIR.
+He looks to Sara to see if it caught her attention, but it
+didn't...He looks back to the NEWSPAPER considering.
+CUT TO:
+47
+
+EXT. THE BEACH - DAY
+
+47
+
+Mank, in an unfortunate swim suit, slathered with zinc, is
+wrestling an umbrella. Sara, sitting on a blanket near a
+portable radio plays music. Mank, making sure not a grain
+of sand touches him joins her. He lights another cigarette.
+MUSIC ON THE RADIO GIVES WAY TO A COMMERCIAL.
+
+90.
+THERE'S THE SOUND OF SOMETHING PLOPPING INTO WATER. THEN A
+REFRESHING FIZZING SOUND..."THAT’S THE SOUND OF ALKASELTZER GOING TO WORK!" Mank fiddles with the radio's dial
+alights on a station:
+ANNOUNCER (V.O.)
+- Today our roving reporter is
+visiting Mrs. Elsie Hammontree of
+Azuza. Elsie, would you mind
+telling the folks at home why
+you're voting Republican.
+ELSIE (V.O.)
+Young man, I'm a widow and this
+little home may not be much, but
+it's all I have left - and I
+intend to protect it.
+SARA
+Poor old woman...
+It captures both Mank and Sara's ATTENTION.
+ANNOUNCER (V.O.)
+Mrs. Hammontree, would you mind
+telling the folks at home why
+you're voting for Frank Merriam?
+ELSIE (V.O.)
+Well, I'm voting for Frank Merriam
+because I wanna keep our way of
+life.
+ANNOUNCER (V.O.)
+You don't think a Democrat would
+protect you in these hard times?
+MANK
+I know that voice...
+SARA
+(a beat)
+It is familiar.
+MANK
+(realizing)
+That's Maude Anderson.
+
+91.
+SARA
+It is, Aunt Bertha from "Lonely
+Trails".
+MANK
+Well, she's no widow. And she's
+absurdly rich. That "poor old
+woman" has got enough oil wells
+south of El Segundo to buy us
+both, Schnutz.
+Sara changes the radio channel.
+MANK (CONT'D)
+I'd know that whiskey gargle
+anywhere.
+48
+
+EXT. BIG DEPARTMENT STORE - DAY
+
+48
+
+MANK and SARA come out. She is overladen with packages, a
+fact he ignores as something else catches his attention.
+MANK'S POV
+It is C.C. He carries a VOTE FOR SINCLAIR sign and patrons
+streaming out of the store shun him like the plague.
+TRAVEL WITH MANK
+C.C.
+
+Hey! Mank.
+
+MANK
+(approaching)
+Well, well...Looks like you found
+work, C.C.
+C.C.
+Don't nose it around but - yeah,
+just in the knick...
+Patting his pocket, he takes out a dollar repaying Mank.
+MANK
+Who's hiring?
+
+92.
+C.C.
+M-G-M. They cleaned out the
+Washington and Culver gates like a
+dose a Ex-Lax. Grady gets a
+speakin' part. They told us come
+dressed as we are...I don't know
+who thought of it, but it keeps a
+lot of us off the streets.
+MANK
+Don't forget to vote.
+C.C.
+(chuckles)
+Okay.
+49
+
+INT. WRITER'S BUILDING - DAY
+The writers are playing poker. SHELLY METCALF eases into
+view watching them but he has something on his mind.
+KAUFMAN
+He's hopelessly confused with
+Sinclair Lewis. So many hicks
+think he wrote Elmer Gantry -it's cost him the Dust Bowl vote.
+I'm in.
+MACARTHUR
+Ah, poor sap... not only has he
+got no money -- he's an idealist,
+for Crissakes. Talk about
+political handicaps. I'm out.
+PERELMAN
+Times says he'll lose by twohundred-thousand. It's amazing
+what ten million bucks against him
+bought. Raise.
+HECHT
+That's what he gets for
+surrounding himself with amateurs.
+They not only charge admission to
+rallies, they pass a plate once
+the suckers are inside. Call.
+
+49
+
+93.
+PERELMAN
+He's the most famous shlub after
+FDR, Hitler and Mussolini. That
+oughtta count for something...
+Hiya, Shel. Sit in?
+SHELLY shakes his head.
+HECHT
+The bookies know. Soon as ole
+Maude's radio spots started
+running the odds went from 7-5 for
+to 2-1 against.
+MANK
+Could you effete political snobs
+please shut up and play?
+SHELLY
+Mank, can I talk to you?
+MANK
+(studying his hand)
+I'll see you guys and bump you two
+big ones.
+SHELLY
+It's important.
+MANK
+(tossing in his cards)
+Now, Shelly? It better be. That's
+the first good hand I've had all
+day.
+KAUFMAN
+I didn't know he knew what a good
+hand looked like.
+CUT TO:
+50
+
+INT. SCREENING ROOM (SOUNDTRACK UNDER) - DAY
+MANK and SHELLY smoke and watch without expression.
+
+50
+
+94.
+INSERT. MOVIE SCREEN
+A "NEWSREEL" IS RUNNING. AND WE SEE A NUMBER OF PEOPLE
+BEING "INTERVIEWED," AS TO THEIR FEELINGS ABOUT THE
+ELECTION WITH A NARRATION BY "YOUR ROVING REPORTER..." Some
+are reasonable Merriam supporters, others are claiming to
+be for Sinclair.
+ROVING REPORTER (V.O.)
+Would you mind telling us who you
+favor in this Fall's election?
+MAN ON STREET (O.S.)
+I'm going to vote for Frank
+Merriam...
+ROVING REPORTER (V.O.)
+Would you mind telling us your
+principle reason?
+MAN ON STREET
+Well, I want Merriam - Because I
+want a job - if you drive all the
+capital out of the country - who's
+gonna pay us?
+ROVING REPORTER (V.O.)
+So you think, erm - that Merriam
+would be safest for all of us?
+MAN ON STREET
+Absolutely - It's no time to trade
+horses in the middle of a
+stream...
+ANOTHER INTERVIEW:
+ROVING REPORTER (V.O.)
+Mr. Butler, are you going to vote
+in the coming election?
+MR. BUTLER
+I most certainly am...
+ROVING REPORTER (V.O.)
+Who would you wish to vote for?
+
+95.
+MR. BUTLER
+I'm sure that I'm going to vote
+for Mr. Sinclair...
+ROVING REPORTER (V.O.)
+You must have a good reason to vote
+for Mr. Sinclair...
+MR. BUTLER
+Well, Mr. Sinclair got something
+new - he got that "Epic Plan" and I feel as though it's time we
+should try something new out
+again... I need prosperity.
+ANOTHER INTERVIEW:
+MAN IN FRONT OF FENCE
+Well, First of all, I'm an
+American. And I believe that Mr.
+Merriam will support all the
+foundations and principles that
+this country has stood for in the
+past 150 years. I have a job now,
+and I want to keep it. My wife and
+I love California and we'd like to
+stay. But, in case we should have
+to leave, I'd like to have at
+least a couple dollars.
+Cut!
+
+MALE DIRECTOR (V.O)
+
+AND WE SEE IN STOCK FOOTAGE IN A TRAIN YARD A NUMBER OF
+"BUMS" HOPPING OFF FREIGHT TRAINS...
+AND THEN WE SEE THE FULL INTERVIEW OF ELSIE HAMMONTREE
+(MAUDE ANDERSON). "ELSIE" SITS ON THE PORCH OF A SMALL,
+NEAT FRAME HOUSE, ROCKING AND KNITTING. A MAN IN A SUIT
+(THE ROVING REPORTER) HOLDS OUT A MICROPHONE TO HER.
+ROVING REPORTER (V.O.)
+Mrs. Hammontree, would you mind
+telling the folks why you are
+voting for Frank Merriam?
+ELSIE HAMMONTREE
+(there's that distinctive
+VOICE)
+
+96.
+ELSIE HAMMONTREE (CONT'D)
+Well, I'm voting Frank Merriam
+because I want to keep our way of
+life.
+ROVING REPORTER (V.O.)
+You don't believe a Democrat would
+protect your way of life?
+ELSIE HAMMONTREE
+Why, that man's a Socialist! I
+don't know much about politicsbut I do know this: If Upton
+Sinclair wins this election,
+private ownership in California
+won't amount to a hill o' beans.
+WIPE LEFT:
+INSERT. MOVIE SCREEN - ANOTHER SEQUENCE
+The ROVING REPORTER confronts a "BLUE COLLAR WORKER" in a
+rundown coastal neighborhood. It is C.C.'s pal, the other
+homeless man, GRADY.
+GRADY
+(bad accent)
+Vell, vee need complete
+rejuvenation of our system....
+So - I vote for comrade Upton, his
+system vork in Russia - Vy not
+here?
+WIPE RIGHT:
+INSERT. ANOTHER SEQUENCE - THROUGH A MOVIOLA
+There is NO SOUND. On-screen is a moving version of the
+front-page photo in the Times. As the Moviola CLICKETYCLICKS, BUMS ride into view atop a caravan of boxcars like
+a victorious invading army, smirking into the camera,
+waving hello to camera. At the end of it there is some outnegative footage of SHELLY directing the ROVING REPORTER.
+51
+
+INT. EDITING ROOM - DAY
+MANK leans back from the Moviola. SHELLY stops cranking.
+
+51
+
+97.
+SHELLY
+What'd'ya think?
+MANK
+Truthfully, Shelly, if the
+performances were any better,
+you'd be ashamed of yourself.
+SHELLY pours them coffee.
+SHELLY
+Only half of them are actors...But
+it's got that raw newsreel feel,
+hasn't it?
+MANK
+But it isn't news and it isn't
+real.
+SHELLY
+I wasn't looking to have an
+ethical debate, Manky.
+MANK
+When did they cook these up?
+SHELLY
+At a meeting in production - they
+were passing around a pamphlet
+Sinclair wrote called "Ending
+Poverty in California."
+MANK
+(knowing)
+"America's unemployed will invade
+the Golden State..."
+SHELLY
+Mayer was practically giddy to use
+it against him.
+MANK
+Yeah, I bet he was.
+Mank's quiet, troubled.
+
+98.
+MANK (CONT'D)
+Well, it's enough to persuade me
+that the writer is more of a
+menace to an unsuspecting public
+than a party hack...
+Mank...
+
+SHELLY
+
+Shelly starts to hand him a mug and spills the steaming
+coffee all over himself.
+You okay?
+
+MANK
+
+SHELLY
+Just nerves...
+Shelly, embarrassed, tries to wipe himself off with
+napkins.
+MANK
+If it's bothering you, Shelly, why
+get involved?
+SHELLY
+They gave me a chance to direct.
+Mank nods.
+SHELLY (CONT'D)
+You don't think anyone old enough
+to vote is gonna buy this shit?
+MANK
+(shrugging)
+Only the ones that believe King
+Kong's ten stories tall or Mary
+Pickford a virgin at forty.
+52
+
+INT. THALBERG'S OFFICE - DAY
+
+52
+
+THALBERG and an ART DIRECTOR stand pouring over sketches as
+MANK walks in without fanfare. The TWO MEN look up at him.
+THALBERG
+Thanks, Cedric, these are fine.
+The ART DIRECTOR leaves. THALBERG crosses to his desk.
+
+99.
+MANK
+I've just watched our Sinclair
+films.
+THALBERG
+Ah? What did you think?
+MANK
+Well, with all due respect to
+Shelly, King Kong they ain't.
+Though I do think footage of
+invading hobos has a certain
+xenophobic power - when frontpaged in the Times and backed by
+those tacky billboards.
+THALBERG sits down. He doesn't invite MANK to do likewise.
+THALBERG
+Shelly got a chance to direct and
+I canceled your twelve thousand
+dollar gambling debt. I'd call
+that a fair return on a one-minute
+lecture for uninspired studio
+chieftains.
+MANK
+Your director's been stricken with
+a bout of conscience.
+THALBERG
+I'm sure he'll tell me himself.
+MANK
+Don't do this, Irving...
+THALBERG
+(pausing)
+When I was just a boy passing out
+Socialist leaflets in the Bronx, a
+couple Tammany goons came to show
+me the error of my ways. One of
+them crushed my testicles until I
+volunteered to distribute my wares
+into the East River. That's
+politics. I didn't invent it, I
+don't apologize for it.
+
+100.
+MANK
+Mayer's not paying for this. He
+never pays for anything.
+Thalberg slightly smiles.
+Willie?
+
+MANK (CONT'D)
+
+Thalberg smiles thinly again.
+MANK (CONT'D)
+Marion might be interested.
+THALBERG
+Well, you're gonna have to hurry.
+Mayer's over there now giving her
+the company kiss off.
+MANK just stares.
+THALBERG (CONT'D)
+Oh. Haven't you heard? She's
+taking her playpen to Warner
+Brothers. Permanently.
+Warner's?
+
+MANK
+
+THALBERG
+I wouldn't let her do Marie
+Antoinette. Goldwyn's right for
+once: "A comedienne in that role
+is to laugh." Besides, her
+pictures haven't made a dime in a
+decade.
+He shuffles papers on his desk, signifying dismissal. Mank,
+on his way out the door...
+MANK
+Congratulations, Irving.
+THALBERG looks up.
+THALBERG
+I know what I am, Mank. When I
+come to work I don't consider it
+slumming.
+
+101.
+THALBERG (CONT'D)
+I don't use humor to keep myself
+above the fray and I always go to
+the mat for what I believe in. I
+haven't the time to do otherwise.
+(a devastating smile)
+But you, sir. How formidable
+people like you might be if they
+actually gave at the office.
+(lowering his head)
+Close the door.
+53
+
+EXT. M-G-M LOT - DAY
+
+53
+
+An impressive caravan winds slowly into view, a Levittown
+on wheels, it's MARION'S lavish studio bungalow, fourteen
+prefabricated rooms neatly broken into sections for
+motorized transport across town.
+CUT BACK AND
+FORTH:
+MAYER leaning into MARION'S limo window giving MARION a
+bouquet of flowers and kissing her...The limo pulling away.
+MANK cutting across a carefully manicured 'KEEP OFF the
+GRASS' lawn to intercept the limo as it corners.
+MARION waving gaily to PHOTOGRAPHERS. The limo driving
+away.
+54
+
+INT. MARION'S LIMO - DAY
+
+54
+
+MARION is settling back when MANK yanks open the door and
+jumps in beside her, panting.
+MARION
+Mank! Are you okay?
+MANK
+(catching his breath)
+No, that almost killed me. Where's
+Willie?
+MARION
+Cairo. I think.
+MANK
+Can you phone him?
+
+102.
+MARION
+I don't phone him - he phones me.
+MANK
+When's he due back?
+MARION
+After November 6.
+(a beat)
+I'm joining him in Europe next
+week.
+MANK
+Marion, I need a favor. It's just a little joke on Willie.
+MARION
+Sure, Mank, anything MANK
+I want you to go back and tell
+Mayer, Willie wants the phony
+Sinclair films pulled.
+MARION
+Which phony Sinclair films?
+MANK
+There isn't time to explain, I
+just need you to tell him that...
+MARION
+Oh, I couldn't, not even as a
+joke.
+Why not?
+
+MANK
+
+MARION
+You know I don't lie.
+MANK
+And that's why he'd believe you.
+Marion, please, you're not in
+convent school anymore.
+MARION
+(struggling)
+I'm sorry, I know it's silly but --
+
+103.
+MANK
+But what? Why not?
+MARION
+Promise you won't laugh.
+MANK
+I promise - I won't - laugh.
+My exit.
+What?
+
+MARION
+MANK
+
+MARION
+I already made my exit!
+55
+
+EXT. LIMO - DAY
+
+55
+
+It stops and MANK gets out.
+INSERT - LIMO'S REAR WINDOW
+MARION looks out at him, a quizzical cameo in oval glass.
+WIDER ANGLE
+MANK walks into the distance, slowing shaking his head, his
+shoulders convulsing with silent laughter.
+DISSOLVE TO:
+56
+
+EXT. VICTORVILLE BUNGALOW - PATIO
+
+(1941) - DAY
+
+56
+
+INSERT. A THICK SCRIPT HITTING THE TABLE WITH A THUD
+CHARLIE LEDERER has thrown it down. He and MANK have just
+finished breakfast. MANK sports a cane. He wears a floppy
+sun hat and a khaki windbreaker. RITA, with a pen, a note
+pad, and binoculars, is bird-watching.
+RITA
+(calling out)
+Manky!
+Whatie?
+
+MANK
+
+104.
+RITA
+It's an ash-throated flycatcher!
+MANK
+Congratulations. Best kind.
+MANK looks at LEDERER, waits.
+LEDERER
+What can I say? She's my aunt.
+MANK
+Oh, it's not about her, it's about
+him.
+Oh?
+
+LEDERER
+
+MANK
+Or rather, it's him but it's not
+her.
+LEDERER
+It isn't? The lonely showgirl,
+trapped in a castle, doing jigsaw
+puzzles?
+MANK
+It's more - her as people who
+don't know her imagine her to be.
+LEDERER
+I see. It's her as they imagine
+her, but it's "him" as you knew
+him.
+MANK
+Damnit, Charlie LEDERER
+You asked me out here. I was
+honored to come and read your
+latest. Is this a test?
+MANK
+A test? Of what?
+LEDERER
+Friendship? Loyalty?
+
+105.
+MANK
+Oh come now LEDERER
+- Or just your way of avoiding
+responsibility?
+MANK
+What do you mean?
+LEDERER
+Are you hoping I might absolve you
+of such a personal betrayal? I
+won't give you that.
+It honestly hadn't occurred to Mank.
+MANK
+(he thinks about that)
+Are you going to say anything?
+LEDERER
+I have to think about it.
+Why?
+
+MANK
+
+LEDERER
+Because I haven't made up my mind
+how she might react.
+MANK
+What does instinct tell you?
+LEDERER
+That it's mighty strong medicine
+for a lifetime of starry-eyed self
+absorption.
+(pause)
+It's one of those cures that could
+be worse than the disease. But you
+of all people should know about
+that.
+57
+
+EXT. VICTORVILLE BUNGALOW ROAD - DAY
+MANK'S POV
+LEDERER driving away in his deluxe coupe roadster.
+
+57
+
+106.
+TWO-SHOT, MANK AND RITA WATCHING HIM GO
+RITA
+He took the script. Will he show
+it to her?
+MANK
+I don't know.
+RITA
+Do you want him to?
+MANK
+I don't know.
+58
+
+EXT. TROCADERO NIGHTCLUB HOLLYWOOD-1934 FLASHBACK- NIGHT 58
+SUPERIMPOSE THE
+LEGEND:
+EXT. TROCADERO NIGHTCLUB - ELECTION EVE - NIGHT - 1934
+(FLASHBACK)
+There's a California mist in the air, and klieg lights
+bathe a nightclub on a wide boulevard...People arrive in
+expensive cars, dressed as if for a premiere...We find Mank
+and Sara arriving...Sara tugs self-consciously at the waist
+of her skirt, making an attempt, if she doesn't feel
+fashionable, to at least feel symmetrical.
+They make their way through the crush of people inside...
+
+59
+
+INT. TROCADERO - NIGHT
+
+59
+
+The CLUB is jammed with MOVIELAND ELITE. A huge FRANK
+MERRIAM FOR GOVERNOR banner is draped above the ORCHESTRA,
+which plays for the FEW who fox-trot.
+THE ROOM:
+We find Mank and Sara behind a velvet cord queuing for
+their table.
+MANK
+(shrugs)
+Sinclair's yesterday's fishwrap.
+Never stood a chance...
+
+107.
+SARA
+Make up your mind. Are we home
+licking our wounds, or are we here
+making the best of it?
+MANK
+(kisses her forehead)
+We're making the best of it.
+MAITRE 'D
+Good evening. Name?
+SARA
+Mankiewicz.
+MAITRE 'D
+I'm sorry, what was that?
+SARA
+(used to it)
+M-a-n-k-i-e-w-i-c and outta nowhere... a "z."
+MAITRE 'D
+(consulting list)
+Table fourteen.
+SARA
+Ends of the earth. A clean exit...
+But Mank, having a moment's hubris...
+MANK
+(to Maitre'D)
+Mankiewicz, Herman.
+MAITRE'D
+(re-consulting)
+Oh. Terribly sorry, table one.
+Right this way.
+Sara gives Mank a look, "who are you?"...
+SARA
+(fake smile, reminding
+him)
+If you can't say something nice,
+don't say anything at all.
+
+108.
+The Maitre 'D leads them through busy tables with jeroboams
+of champagne and centerpieces designed to look like the
+state of California...On the BANDSTAND behind everything is
+a TOTE BOARD with a TELEPHONE. An EMCEE IN A TUX and a
+SCANTILY-CLAD SHOWGIRL, like a Round Card girl at a prize
+fight, are minding oversized numbers to post results. Not
+far from them is a RADIO ANNOUNCER doing a live SHOW. At
+their table, L.B. MAYER, THALBERG, and SELZNICK along with
+their wives. Mayer, taken by surprise, sees Mank, and
+graciously rises...
+Sarah!
+
+WIFE #1 (O.C.)
+
+MAYER
+Good grief! Look who's here! How
+about that? What a loyal friend
+you are! I never thought we would
+see Mank!
+Mank, wearing a plastered smile, "holding his water," nods,
+takes his hat off. Sara smiles, seeing he's on his best
+behavior. Thalberg, equally shocked to see him:
+THALBERG
+(pleasantly, yet warily)
+I'm surprised. I would have
+imagined you in pajamas by now...
+Sara and Mank exchange "Hollywood kisses" with the wives, a
+swirl of inane comments that Mank endures with a smile.
+WIFE #1
+Mank, turns out we have the same
+dentist on Camden.
+WIFE #2
+Sara, we have to plan a day of
+shopping and catch up.
+WIFE #3
+Herman, I met your brother -- he's
+a chip off the old block. Quite
+handsome!
+Mank smiles, still not saying anything, Sara shocked by his
+restraint.
+
+109.
+MAYER
+Please, sit.
+He holds out chairs for them...
+MAYER (CONT'D)
+I can't tell you how much it
+means. I'm touched you would come.
+Thank you for this...
+And Mank smiles, as if holding his breath. They take their
+seats. He looks at Sara.
+SARA
+(shakes her head)
+Why do I love you?
+And to emphasize he pours himself a drink from a huge
+champagne bottle.
+MANK
+What's everyone else having?
+As they laugh, Sara and Thalberg looking at him both for
+different reasons...
+LAP DISSOLVE
+TO:
+60
+
+INT. TROCADERO - NIGHT
+
+60
+
+Mank, two drinks at his elbow, silently watching: People
+dancing...A Man dressed as Uncle Sam on stilts walking
+between the tables...A Photographer taking various couples'
+pictures...The Radio Announcer doing his show... Mayer,
+Thalberg laughing at something, enjoying themselves
+immensely. There's a drum roll. The Emcee with the help of
+his partially clad helper puts up the most recent
+results...giving Sinclair's numbers first, and then
+Merriam's. Which brings a loud cheer. Mank stops a waiter,
+motioning, "two more." As he stews:
+LAP DISSOLVE
+TO:
+61
+
+INT. TROCADERO - TABLE - NIGHT
+Everyone has moved to talk to one another...when Mank
+overhears Mayer, arm around Thalberg...
+
+61
+
+110.
+MAYER
+What a great night. Great result.
+Thalberg sees Mank is listening to them.
+THALBERG
+I'll drink to that.
+And he does.
+MAYER
+(smug, to Thalberg - but
+including Mank)
+You see, if you just give people
+what they need to know in an
+"emotional" way, you can expect
+they'll do the right thing.
+MANK
+I think what you mean, if you keep
+telling people something untrue,
+loud and long enough, they're apt
+to believe it.
+Thalberg hears him loud and clear...
+THALBERG
+That's not what he was saying.
+SELZNICK
+What's going on here? Are we
+quoting Goebbels?
+MANK
+I'd like to debate that with L.B...
+SELZNICK
+I'd like to see that.
+THALBERG
+(trying to defuse...)
+Mank -- have another...
+MANK
+It's early. Every vote counts.
+Maybe the informed of California
+were late leaving work... Last I
+heard, Irving, it's still a
+democracy.
+
+111.
+THALBERG
+Of the people...
+MANK
+"By the people."
+MAYER
+What are you two talking about?
+MANK
+(to hell with it)
+I tell you what...How bout -double or nothing?
+MAYER
+What's he saying?
+Herman --
+
+SARA
+
+MAYER
+You really will bet on anything.
+Keep your money...I'm happy enough
+just to nail that Utopian
+sonofabitch to the wall.
+Which has the ladies laugh, embarrassed...Mank looks into
+his glass.
+THALBERG
+(sotto voce)
+I told you. Your obligation was
+cancelled, out of gratitude.
+MAYER
+(overhearing)
+Wait a minute. What? He wants to
+wager double or nothin' on a debt
+he dudn't even owe us?
+Mank -- ?
+
+SARA
+
+MANK
+It's a matter of principle, L.B.
+You wouldn't understand.
+MAYER
+I understand plenty -- I'll take
+that bet --
+
+112.
+THALBERG
+OK, Mank, you're on. Twenty-four
+grand or nothing.
+SARA
+Excuse me. I'm going to throw
+up...
+She leaves...Mank looking after her...
+LAP DISSOLVE
+TO:
+62
+
+INT. TROCADERO - TABLE - NIGHT
+
+62
+
+We see the most recent posting of vote totals. Merriam
+still ahead by a healthy third. Mank, stewing looks around
+the room. A drunk man teeters, seems to right himself, and
+then falls over to his table's delight. Even the man on
+stilts has found a place to rest. Sara returns...
+SARA
+I needed some air...
+Music cranks up... He takes her onto the dance floor.
+MANK
+Why do you love me?
+Her answer is to put her head on his shoulder...There's
+chiming of spoon on glass...Mayer calling the room to
+attention...
+MAYER
+Excuse me, friends.
+(clears throat)
+The final incomplete count for
+tonight is: Upton Sinclair...
+(looking up)
+The lousy Bolshevik...
+Mocking laughter and CATCALLS.
+MAYER (CONT'D)
+- Seven-hundred-twenty-eightthousand-six hundred and fifty
+three. Frank Merriam the good
+Republican - nine-hundred There's a ROAR.
+
+113.
+MAYER (CONT'D)
+- NINE-HUNDRED-FORTY-EIGHTTHOUSAND-EIGHT HUNDRED AND
+FOURTEEN!
+Mayer raises his arms in triumph...
+MAYER (CONT'D)
+My friends!... My friends! Sing
+with me. Everybody, up and sing!
+MAYER begins to SING, "America the Beautiful." Others stand
+and join them. Mank comes to the table to get Sara's
+coat...
+THALBERG
+(toasts Mank)
+It was a team effort. Thanks...
+Mank doesn't dignify it with a response...grabbing Sara's
+coat...
+And while people sing they cross the room to leave...They
+pass the Maitre 'D, who stops him...
+MAITRE 'D
+Mr. Mankiewicz, I'm so sorry to
+bother you, but there's a
+telephone call for you. Right back
+this way...
+He leads him to the phone...
+MANK
+(into phone, under the
+SINGING)
+Hello?
+SHELLY (V.O.)
+Mank? It's Shelly...
+MANK
+(whispers to Sara)
+It's Shelly...
+SHELLY (V.O.)
+(slurred)
+He lost, Mank.
+
+114.
+MANK
+Yeah, it's been a bad night.
+SHELLY (V.O.)
+It's my fault.
+MANK
+Easy fella, you only voted once.
+SHELLY (V.O.)
+He was just on the radio. He said
+the phony newsreels cost him the
+election.
+MANK
+That shows how naive he is. FDR
+cost him the election by staying
+on the sidelines.
+(shielding his listening
+ear)
+Sleep it off.
+SHELLY
+I'm not at home.
+MANK
+Where are you? Let me call you a
+cab.
+SHELLY (V.O.)
+Nevermind...I'll take the Pasadena
+Freeway...Nobody'd be on it,
+election night.
+The line has gone dead. Mank clicks the cradle on the phone
+to get the operator.
+MANK
+Hello? Hello? Normandie 4761...
+(to Sara)
+He's shit-faced.
+It's answered immediately.
+YOUNG WOMAN (V.O.)
+Shell? Is that you?
+MANK
+It's Herman Mankiewicz. Where is
+he?
+
+115.
+YOUNG WOMAN (V.O.)
+I don't know. I'm so worried. He
+left here very upset -- and...
+he's got a pistol with him.
+MANK
+Don't worry, Fay, I'll find him.
+Eve.
+What?
+
+YOUNG WOMAN (V.O.)
+MANK
+
+YOUNG WOMAN (V.O.)
+I'm Eve. Fay was his first.
+MANK
+I'll find him.
+63
+
+EXT. VICTORVILLE BUNGALOW - PATIO (1941) - DAY
+
+63
+
+MANK and RITA are playing cribbage. Between moves they take
+turns scanning the horizon with binoculars.
+RITA
+Is Houseman coming back? I never
+thought I'd miss him.
+MANK
+(peering)
+He and the wunderkind are cutting
+the first draft. A form of
+creative vivisection. Vital organs
+are exposed, nothing is learned,
+the patient dies on the table...
+what have we here?
+(adjusting the focus,
+presupposing)
+Why, it's a puffed-up, sharptailed, red-ruffled magpie.
+RITA
+(riffling her bird book)
+A whatie?
+
+116.
+MANK'S POV (THROUGH THE BINOCULARS)
+JOE approaching at high speed in a new car. A man on a
+mission. His face set, implacable.
+64
+
+EXT. VICTORVILLE BUNGALOW - PATIO - DAY
+
+64
+
+Herman is pouring them drinks. The well-thumbed version of
+the script is on the table.
+JOE
+How do you like the Mojave?
+MANK
+God's answer for drunks and
+reprobates, a perfect place to dry
+out.
+JOE
+How's that working?
+Handing a drink to Joe, taking one of his own...
+MANK
+It didn't take. Cheers.
+JOE
+Le' Chayim.
+They drink.
+JOE (CONT'D)
+(a beat)
+Why are you doing this, Herm?
+MANK
+
+Posterity.
+
+JOE
+Posterity my ass.
+MANK
+From the original Latin.
+JOE
+Don't patronize me, my Latin
+grades were better than yours...
+MANK
+(saluting with his glass)
+"Bibamus, Moriendum, Est."
+
+117.
+He does.
+JOE
+I read your "little" script.
+MANK
+News travels fast.
+JOE
+Even without the title page you
+don't need to be Philip Marlowe to
+know who wrote it.
+He absorbs that...
+MANK
+Have at it.
+JOE
+It's very... complicated...
+MANK
+(mock exit)
+Well, thanks for coming out...
+Joe looks at him...
+JOE
+Herman: This is me. You pick a
+fight with Willie -- you are
+finished. Mayer can't save you.
+Nobody can. Especially the boy
+genius from New York.
+MANK
+You're far too political, Joe.
+JOE
+Self preservation is not politics.
+He studies his older brother...
+JOE (CONT'D)
+Him I get. But what did Marion
+ever do to deserve this?
+MANK
+(defensive)
+It's not her! You know better than
+anyone: not all characters are
+headliners. Some are secondary.
+
+118.
+JOE
+Well, that's why I'm here. On
+behalf of the secondary
+characters.
+Mank's quiet...
+JOE (CONT'D)
+I thought you'd want to know
+there's a rumor in town that
+you're out to get Hearst because
+they dropped you from L.B.'s
+payroll, that they didn't want you
+around anymore.
+MANK
+Don't believe everything you hear
+at Schwab's.
+JOE
+(rough)
+Hey, you made yourself court
+jester.
+Mank's still.
+JOE (CONT'D)
+Someone had to say it.
+They look at each other.
+JOE (CONT'D)
+People are speculating ROSEBUD is
+W.R.'s pet name for Marion's
+genitalia... now I know you'd
+never stoop to that...
+MANK
+(smiling)
+Only because I hadn't heard.
+Joe laughs, and walking to his car...
+MANK (CONT'D)
+Charlie tells me you're up for
+Thalberg's old job.
+JOE
+Not anymore.
+
+119.
+MANK
+Did I bollix that?
+JOE
+Don't flatter yourself, Herman. I
+did it all alone.
+MANK
+Now, there's a first!
+JOE
+I "exposed myself" not entirely
+metaphorically in court.
+Do tell.
+
+MANK
+
+JOE
+Somebody was bitching about Mervyn
+LeRoy running over budget on
+Wizard of Oz.
+MANK
+- That goddamn movie again JOE
+- And I said, 'LeRoy s'amuse.' I
+was then forced to spend the next
+twenty minutes having to explain
+that 'Le Roy' is 'Le Roi' -luh
+r'wah- in French and means the
+King. Or to be specific, Francois
+the First and his royal habit of
+s'amus - ing himself by diddling
+all the ladies of his court...
+MANK
+You know, Pop was right. You
+should'a been a professor.
+JOE
+Nobody knew what the fuck I was
+talking about! They say I was
+passed over because I'm not a team
+player (beginning to break up)
+But I know better. It was that
+GODDAMN FRENCH PUN THAT DID ME IN!
+
+120.
+An awkward quiet...
+MANK
+I'm washed up, Joe, have been for
+years.
+Joe looks at him, turns and gets into the car.
+JOE
+It's the best thing you've ever
+written.
+He drives off. Herman watching him as his new car rockets
+away.
+ANGLE ON MANK
+RITA
+(joining him)
+A rare bird, that.
+MANK
+(turning away)
+A Mankiewicz.
+65
+
+EXT. M-G-M BUILDING - ELECTION NIGHT (1934)
+
+65
+
+SUPERIMPOSE THE
+LEGEND:
+EXT. MGM STUDIOS - ELECTION EVE - NIGHT - 1934 (FLASHBACK)
+A single light burning on the second floor.
+66
+
+INT. SHELLY'S OFFICE - NIGHT
+
+66
+
+SHELLY is finishing a bottle as Mank, his suit rumpled from
+the Trocadero, some confetti still in his hair, steps
+inside.
+MANK
+You can't do it that way.
+SHELLY
+(not looking over)
+Do what?
+
+121.
+MANK
+Kill yourself. I've tried, takes
+years.
+Shelly's quiet...Mank pats his shoulder, comforting.
+SHELLY
+I was tired of doing inserts, and
+pick-up shots...
+MANK
+You're not the first person to
+trade integrity for a chance in
+"the big chair."
+SHELLY
+Thalberg said this was your
+idea...
+MANK
+Sometimes my asides are too clever
+by half. (shakes his head) Go home
+to Fay...
+Eve...
+
+SHELLY
+
+MANK
+Eve. Sorry...
+Shelly's quiet, thoughtful.
+SHELLY
+(upset)
+Look at what we did...we can't unring this bell.
+MANK
+We have to be vigilant.
+SHELLY
+In regards to?
+MANK
+People sitting in the dark,
+willingly checking their disbelief
+at the door. We have a huge
+responsibility.
+After a beat, Shelly looking at his hands...
+
+122.
+
+I got it.
+Got what?
+
+SHELLY
+MANK
+
+SHELLY
+Parkinson's.
+Mank stops. He can now see quite clearly Shelly's hands
+trembling.
+MANK
+(sighs)
+No Shelly -- I'm so sorry.
+SHELLY
+First, you get the tremors, and
+your muscles begin to
+fail...pretty soon you can't get
+out of a chair -- and smiling,
+speaking -- everything goes...and
+it keeps going, til...
+MANK
+(helplessly)
+You could always "produce."
+Shelly lapses into CHUCKLES.
+MANK (CONT'D)
+Give me the gun, Shelly.
+He hesitates, studies Mank idly, then slowly reaches into
+his back pocket and pulls out a .38 caliber revolver.
+Breaking open the cylinder, he shucks out all the rounds,
+handing them clumsily to MANK across the editing table.
+SHELLY
+Take 'em, Mank. Go on home, I'll
+be fine...
+CUT TO:
+67
+
+INT. MANK'S AUTO - RUNBY - NIGHT
+MANK at the wheel, sleepy-eyed, verging on exhaustion.
+
+67
+
+123.
+68
+
+EXT. NUMBERED APARTMENT DOOR (SHELLY'S) - NIGHT
+
+68
+
+Knuckles rap on the door. It is opened by a worried YOUNG
+WOMAN, EVE.
+EVE
+Is he with you?
+Mank shakes his head...
+MANK
+He, he wouldn't come EVE
+Please tell me you got the gun?
+MANK holds out a balled up handkerchief, the bullets inside.
+She takes them, looks:
+EVE (CONT'D)
+
+Oh my God!
+What?
+
+MANK
+
+EVE
+He had a whole box!
+69
+
+EXT. M-G-M BUILDING - NIGHT
+
+69
+
+SHELLY'S OFFICE WINDOW. A SHOT rings out.
+DISSOLVE TO:
+70
+
+INT. VICTORVILLE BUNGALOW (1941) - DAY
+
+70
+
+The SOUND of the bullet ECHOES through the years. MANK is
+lying in bed. RITA appears in the doorway.
+RITA
+Mank? You have another visitor.
+Wha -
+
+MANK
+
+The CAMERA FOLLOWS as MANK gets up and stumbles to her
+side.
+
+124.
+MANK'S POV
+An immense limo idles outside. MARION leans forward in the
+back seat, smiling coquettishly.
+71
+
+EXT. DESERT OASIS - DAY
+
+71
+
+The limo is parked beneath a manzanita tree, b.g MANK and
+MARION sit on the ground upon a checkered table cloth.
+Hovering above them, the CHAUFFEUR produces a frosty,
+fuming bottle. He pours the foaming contents into their
+wine glasses. Then assumes position of parade-rest.
+MARION
+Drink it fast. In this heat it'll
+flash to sugar.
+They drink.
+MANK
+Why the wine-and-dine, Marion?
+Good cop, bad cop?
+MARION
+How do you mean, Mank?
+MANK
+First Joe, now you.
+MARION just shakes her head prettily.
+MANK (CONT'D)
+Can't you just tell me what's on
+your mind.
+MARION
+Well...I read the script.
+MANK
+Who hasn't?
+MARION
+It's very grand, Mank. In its own
+way... and very much you.
+(wistfully)
+I would have loved to play
+me...ten years ago.
+MANK
+It was never meant to be you...
+
+125.
+MARION
+For myself I don't care, Mank,
+really I don't. But I beg you:
+Don't kick Pops when he's down.
+MANK
+Willie, down?
+MARION
+I haven't told a soul this but - I
+had to loan him a million dollars
+just to save San Simeon.
+MANK
+You hocked your jewels?
+MARION
+Course not, just some real estate.
+He bought me most of it anyway.
+MANK
+Willie sent you.
+MARION
+Didn't have to.
+Mank stops.
+MARION (CONT'D)
+That surprises you? You're the
+most observant man I know.
+MANK
+Then you deserve better.
+Which makes her think...
+MARION
+That's very sweet... always wanted
+better. Mama Rose too. She made
+sure her daughters learned to sing
+and dance. We were never gonna end
+up in Brooklyn...I was only
+sixteen when I was cast in "Stop!
+Look! Listen!"
+MANK
+Some title.
+She laughs.
+
+126.
+MARION
+(her memory of it...)
+Willie came to the show. Same seat
+every night. And all the other
+girls said to watch out, he was too
+old for me and too interested.
+MANK
+Come now, he wasn't your only
+admirer...
+Marion smiles to herself: "please..."
+MARION
+The thing you got sooooo right in
+your script was how lonely he'd
+been as a boy. When my own mother
+heard he was one of the richest
+men in America...she said, "Kick a
+little higher." (after a beat) He
+has always been so kind to me...
+Mank doesn't say anything.
+MARION (CONT'D)
+I love the old guy, Mank. Maybe I
+didn't always. Back when he was my
+"Social Security." But now, there
+are things about us -- together -that no one could possibly -(coming out of it)
+Am I persuading you at all?
+And realizing the depth of her feeling...
+MANK
+I hope - if this gets made, you'll
+forgive me.
+And what makes her unforgettable...
+MARION
+And I hope - if it doesn't, you'll
+forgive me.
+They clink glasses at that, agreeing.
+
+127.
+72
+
+INT. SYNAGOGUE - DAY (FLASHBACK)
+
+72
+SUPERIMPOSE THE
+LEGEND:
+
+INT. TEMPLE - WILSHIRE BLVD - DAY - 1936 (FLASHBACK)
+A thronged funeral is in progress.
+ANGLE ON PRESIDING RABBI
+RABBI
+He was a modest man. His name
+never appeared on the marquee with
+the great stars, the great
+producers, the great directors who
+worked alongside him.
+ANOTHER ANGLE ON RABBI
+RABBI (CONT'D)
+- But he loved moving pictures
+more than he loved anything. And
+he left his impeccable taste, his
+incredible attention to detail, on
+every frame he touched.
+CLOSE ANGLE ON MANK
+Who glances to the far side of the congregation at -MAYER and SELZNICK sitting with their WIVES.
+ANGLE ON RABBI
+RABBI (CONT'D)
+It is not for us to say why he was
+taken from us so unexpectedly.
+Behind, he leaves his memory. The
+memory of a great man, a talented
+man, a man of unblemished
+integrity A BIER SMOTHERED IN FLOWERS
+RABBI (CONT'D)
+- Irving G. Thalberg.
+
+128.
+73
+
+EXT. B'NAI B'RITH TEMPLE - DAY
+
+73
+
+The MOURNERS pour out. SELZNICK comes out alone, encounters
+MANK, on the curb smoking a cigarette.
+SELZNICK
+Mank! I haven't seen you since what was it? - Jack Gilbert's
+funeral.
+MANK
+I haven't seen you since Shelly
+Metcalf's.
+SELZNICK
+Has it been that long? How you
+been, Mank?
+MANK
+Between pictures.
+SELZNICK
+I thought you were still at M-G-M.
+I am.
+
+MANK
+
+After an awkward silence:
+SELZNICK
+Well, look. Come see me at
+International, let's work
+something out.
+MANK
+I did come to see you. You gave me
+the same invitation after Shelly's
+funeral. I couldn't get past your
+secretary's secretary.
+SELZNICK
+(uncomfortable)
+Is that right? Good to see you,
+Mank.
+At that moment, Mayer and his wife come down the steps to
+L.B.'s limo.
+
+129.
+Mank watches Mayer, a handkerchief to his face covering his
+crippling "grief." He gets into the car with his wife, and
+as Mank watches, Mayer takes the handkerchief from his
+face, wipes his hands as if he was wiping something
+unpleasant away for good, and cracking the window tosses
+the handkerchief as the car drives away...
+Mank's jaw muscles set, not unlike a tectonic plate sliding
+into eons of re-alignment.
+74
+
+INT. VICTORVILLE BUNGALOW (1941) - DAY
+The phone rings.
+Hello.
+Mank!
+
+RITA
+WELLES (V.O.)
+
+RITA
+One moment please. Mank... Mank!
+It's Orson. It's Orson?
+MANK'S shaken awake by RITA, who holds out the phone to
+him. MANK MOANS, sits up in bed and takes the phone.
+Hello.
+
+MANK
+
+WELLES (V.O.)
+Mank? I've just finished your
+first draft and I must say, I'm
+pleased. And impressed!
+MANK
+(fishing for a cigarette)
+Are you? Good news!
+WELLES (V.O.)
+It'll need work, of course. But
+there are no problems that can't
+be solved together.
+MANK
+(dryly)
+Well I'm delighted to hear.
+
+74
+
+130.
+WELLES (V.O.)
+Houseman's bringing you my notes.
+Think about 'em. Meantime, I'll
+run everything through my
+typewriter.
+MANK
+(lighting up)
+Everything will thank you.
+WELLES (V.O.)
+I understand you're in touch with
+your Hollywood crowd?
+MANK
+Good old Houseman WELLES (V.O.)
+- so perhaps you've heard. None of
+the theatre chains will touch us.
+It looks like RKO will have to sue
+for restraint of trade. They'll
+countersue, of course. If you own
+any part of that lovely home of
+yours it might be a good idea to
+put it in Poor Sara's name.
+MANK expels a smoky SIGH.
+WELLES (V.O.)
+You still there, Mank?
+MANK
+Oh yes, where else would I be?
+WELLES (V.O.)
+I've saved the best for last.
+Guess who phoned with an offer to
+buy out RKO's investment and
+shelve the picture permanently.
+MANK
+Not Hearst?
+WELLES (V.O.)
+Mank, I'm surprised. Would Othello
+snoop on Desdemona when he has
+Iago?
+
+131.
+MANK
+Ahh Mayer. What did RKO say?
+WELLES
+No dice - for now. But they're on
+their uppers, whether they can
+hold out MANK
+You'd better drive up.
+WELLES (V.O.)
+I plan to, just as soon as I'm
+doneMANK
+Today. If possible.
+WELLES (V.O.)
+Dear Jove, did I say something I
+shouldn't have? I hope you haven't
+lost your nerve.
+MANK
+Nerve's about all I've got left.
+75
+
+INT. SAN SIMEON, DINING HALL - NIGHT - (FLASHBACK)
+
+75
+
+SUPERIMPOSE THE
+LEGEND:
+INT. SAN SIMEON DINING HALL - NIGHT - 1937 (FLASHBACK)
+A symphony of noise, a long table is filled with people
+dressed absurdly in CIRCUS COSTUMES, eating, drinking, all
+talking at once. At the middle of the table, reigning
+supreme, are HEARST, MARION. Sitting at Hearst's elbow,
+MAYER basks in reflected glory. Without Thalberg he has
+flourished.
+HEARST
+What a year you've had, Louis. How
+have you weathered it?
+MAYER
+Despite everything, the M-G-M
+ship, I'm happy to say, is full
+steam ahead.
+
+132.
+MAYER (CONT'D)
+We're on track with this recent
+slate -- for our most successful
+year ever.
+And we hear OFF-STAGE some commotion...
+HEARST
+Well, that's great news...
+A MAN (O.S.)
+Would you like to go to a bungalow
+and lay down...?
+MANK (O.S.)
+I think I'd rather stay upright...
+A MAN (O.S.)
+Perhaps we could find you a
+costume...
+MANK (O.S.)
+Well, why would I need a cos...
+Suddenly MANK, a cigarette in one hand, his hat in the
+other, as drunk as we've yet seen him, catapults
+inside...All heads turn...
+MANK (CONT'D)
+Hello everyone...Better late than
+ever...
+Someone asks...
+FEMALE PARTY-GOER ONE
+Mank. Where's Sara?
+Mank, correctively slurring...
+MANK
+Uh, caring for clan Mankiewicz.
+MALE PARTY-GOER ONE
+What train did you take?
+MANK
+Glendale...I- I missed my stop.
+Got a taxi from Morro Bay.
+MAYER
+(to Mank; for the
+enjoyment of everyone)
+
+133.
+MAYER (CONT'D)
+I'm confused, I thought the
+invitation called for "circus"
+attire, not "flea circus"...?
+MANK
+I was cornered by a man who sold
+vacuum cleaners. A show of hands,
+who knows what a vacuum cleaner
+is?
+HEARST
+(overlaps)
+Sir The room titters...And as Mank looks to see where he is
+meant to sit, we see W.R., very upset, nod his head
+imperceptibly to move Mank's plate...
+HEARST (CONT'D)
+Martin, would you set a place for
+Mr. Mankiewicz, somewhere where he
+might get some air...
+And the Butler, with plate and napkin and silver in hand...
+MARTIN
+Would you follow me this way,
+sir...
+Thirty feet away, Martin places his table setting...Another
+Server helps Mank to his seat. Mank looks at his unfamiliar
+seatmates in their absurd costumes.
+HEARST
+And offer him some coffee...
+MAYER
+(to the delight of the
+other guests)
+Yeah. Mr. Monkeywitz could use
+some coffee...
+Mank, oblivious, slips from a passing waiter a glass of
+wine he's been pouring for nearby guests. Mank's eyes meet
+Marion's, but she looks away. The guests all return to
+drinking and conversation. And Mank begins to eat his fish,
+silently swallowing.
+
+134.
+HEARST
+And how's Marie Antoinette coming
+together?
+MAYER
+Previews have been a struggle for
+general audiences. We made some
+trims, but I should've known...
+Versailles, all those costumes and
+wigs...you can't tell those
+stories without overhauling them
+for a modern audience...
+HEARST
+And how's the performance of your
+leading lady? The picture depends
+upon her.
+MAYER
+Norma put her heart and soul into
+it. I should have insisted she
+take some time...It's a lot to
+deal with a loss like that...
+HEARST
+Marion would have made it her own.
+MAYER
+Marion would have been perfection.
+MANK
+(mumbling to himself)
+Marion Antoinette...Marionette...
+MAYER
+But it was Irving's picture. It
+takes a kind of patience to make
+"literary" pictures. I'm not
+interested in educating our
+customers. You want to send a
+message? Call Western Union.
+(smiles)
+"Let them get cake..." Who needs
+to see that?
+Mank, prompted to say something, taps his glass with a
+cocktail fork...All ignore him...He takes up a hefty soup
+spoon and decapitates his glass into a thousand pieces...
+
+135.
+MANK'S POV
+EVERYONE - in costume a surreal caricature of Old Hollywood
+- falls deathly SILENT.
+CUT TO:
+76
+
+INT. BUNGALOW - VICTORVILLE (1941) - DAY
+
+76
+
+MANK'S two year-old daughter JOHANNA bounces gaily off his
+bedside. RITA and SARA ease up behind them.
+RITA
+(to the little girl)
+Johanna, come along now. I'll show
+you those horses we talked about.
+She ushers her out, leaving MANK and SARA alone. SARA
+saunters around, touching things.
+SARA
+She's very pretty.
+MANK
+Also very bright, bull-headed, and
+British. Are you here to try your
+luck too, Schnutz?
+At what?
+
+SARA
+
+MANK
+Changing my mind.
+SARA
+I never had much success with
+that, Herman. In the end, you'll
+do what you need to.
+MANK
+Charlie's been here, Joe's been,
+Marion's been. For one reason or
+another, all of them want me to
+walk away. You care to hear what
+I've decided?
+SARA picks up a knick-knack, examines it, puts it down.
+
+136.
+SARA
+Not really.
+MANK
+After twenty years of connubial
+bliss, blind loyalty can get a
+little suffocating.
+SARA
+Okay. Here goes. God knows I've
+rehearsed it enough...
+(faces him)
+I've raised your kids kosher and
+all but by myself. I've put up
+with your suicidal drinking, your
+compulsive gambling, your silly
+platonic affairs. You owe me,
+Herman. So: Joe says he can't
+promise but he thinks if you make
+nice with Mayer, you can have your
+old job back. Is that what you
+want me to say? I know what your
+answer will be -- so don't ask me
+to give you "Poor Sara's" Seal of
+Approval.
+MANK
+(a rueful smile)
+Why do you put up with me,
+Schnutz? My movie-star looks or my
+diplomat's charm?
+SARA
+I suppose because being married to
+you, Herman, I'm never bored.
+Exhausted, yes. Exasperated,
+usually. But having devoted so
+much, I have to stick around to
+see how it all turns out. And
+whatever you decide... Please be
+mindful of those who care about
+you most.
+(a beat)
+I'm going riding. I haven't seen a
+horse's face in years...
+SARA turns and goes to the door, where she looks back.
+
+137.
+SARA (CONT'D)
+Oh, and one last thing, Herman.
+ALTERNATING CLOSE-UPS OF SARA AND MANK
+Who looks at her as if what she will say may save him.
+SARA (CONT'D)
+(burlesquing her Brooklyn
+accent)
+I don't want nobody calling me
+"Poor Sara" no more.
+77
+
+INT. SAN SIMEON - NIGHT (FLASHBACK - CONT'D)
+ANGLE ON MANK
+As he teeters to his feet and faces the COSTUMED CROWD.
+MANK
+I've got a great idea for a
+picture, Louis...A picture I just
+know you're gonna love. It's a
+modern-day version of Quixote.
+ANGLE ON HEARST AND MARION
+HEARST and MARION look at MANK, guarded but attentive.
+Following their lead, all of the GUESTS do likewise.
+ANGLE ON MANK
+MANK (CONT'D)
+(swaying)
+Now, I know none of you read, but
+you know what it's about: a
+deluded old nobleman who tilts at
+windmills. So how might we update
+this story? How about we make our
+Quixote a newspaperman! Who else
+could make a living tilting at
+windmills? But that's not enough -no, he wants more than readership - he wants more than adulation, he
+wants love.
+MANK teeters, about to fall, then rights himself.
+
+77
+
+138.
+MANK (CONT'D)
+So he runs for public office and
+because he's notably rich, he
+wins! No, no, wait a minute.
+Notably Rich-and-Powerful can't
+win over an audience unless
+Notably Rich-and-Powerful sees the
+error of his ways in the final
+reel. Notably Rich-and-Powerful
+and making no goddamn excuses for
+it is only admirable in real life.
+Isn't that right, Louis? So: What
+do we do? Anybody?
+MANK begins to move around the table, navigating from one
+chair back to another, a spellbinding spieler when he's on.
+MANK (CONT'D)
+We give him ideals! Ideals that any
+dirt-poor, Depression-weary
+audience can identify with. Our
+Quixote is against crooked trusts.
+He's for the eight-hour work day.
+Fair income tax. Better schools.
+Why, he's even for government
+ownership of railroads! And you
+know what we call those people?
+A VOICE (O.S.)
+Communists!
+A VOICE (O.S.) (CONT'D)
+Anarchists!
+TENSION-RELEASING LAUGHTER. MANK grins, doesn't join in.
+MANK
+No. Our Quixote he's a two-fisted
+"muckraker." In fact, someone
+predicts that he will one day win
+the Presidency and bring about -Get this -- a Socialist
+revolution!
+MAYER
+What a bunch of bullshit.
+Is it?
+
+MANK
+
+139.
+He points at Hearst.
+Tell him.
+
+MANK (CONT'D)
+
+ANGLE ON HEARST
+As everyone turns to look at him. At this moment HEARST
+could pass for an Eskimo bone carving of a leviathan.
+MANK (CONT'D)
+Tell him! Upton Sinclair used
+exactly those words to describe a
+young William Randolph Hearst!
+A few people, feeling they're witnessing a brutal family
+argument, slowly move to stand under the arches. MARION
+puts a hand on HEARST'S arm protectively.
+MAYER
+You miserable bastard!
+Louis...
+
+HEARST
+
+MANK
+How do you do. Our Quixote, he
+hungers, he thirsts, he lusts for
+voters to love him -- love him
+enough to make him president. But
+they won't and they don't.
+MANK looks around, as if defying his LISTENERS to dispute.
+MANK (CONT'D)
+How do you suppose that could
+happen? Could it be because in
+their hearts they know that he
+values power over people?
+ANGLE ON HEARST
+Who just shakes his head, a human metronome.
+MANK (CONT'D)
+Disillusioned in Congress he
+authors not one single piece of
+legislation in two terms!
+
+140.
+MANK (CONT'D)
+Can you believe that? That'll take
+some writing.
+Mayer starts to say something angrily to Mank...Hearst puts
+his hand on Mayer's shoulder, stopping him as if to say,
+"Let him hang himself." MANK is walking again -- he may
+pass out should he stop.
+MANK (CONT'D)
+Placed in nomination for
+president, but too radical for the
+boys in the back -- His bid goes
+nowhere...but we're doing
+something, we're building sympathy!
+MANK BELCHES again, LOUDLY. His stomach spasms. More people
+get up, leaving quietly. Those that are left are the
+loyalists, Hearst, Marion and Mayer.
+MANK (CONT'D)
+Rejected, he flees to Lotus Land,
+where his faithful troll, Sancho,
+has prepared a mythical kingdom...
+Wait a minute -- I've forgotten
+the love interest!
+MANK is fighting down the heaves now.
+MANK (CONT'D)
+Her name... Dulcinea.
+REACTION SHOT OF MARION
+Who is silently spiking her drinking water.
+MANK (CONT'D)
+Funny -- adventurous -- smarter
+than she acts. She's a-- she's a
+showgirl, beneath his social
+stratum, but that's okay...
+because true love on the big
+screen, as we all know, is blind.
+And she? Yeah, she loves him too!
+So, he takes her away to his mmythical kingdom.
+(to Martin)
+Can I get a bicarb?
+
+141.
+One MESMERIZED GUEST goes for his pocket, catches himself.
+Mank picks up someone's wine glass and drains its contents.
+MANK (CONT'D)
+Now, along comes Nemesis. That's
+Greek for any guy in a black hat.
+Nemesis runs for governor and he's
+a shoo-in to win. Why? Because
+he's exactly what our Don used to
+be. An idealist. You get it? Not
+only that, Nemesis is the same guy
+who once predicted our Quixote
+would one day preside over a
+Socialist revolution. Our Quixote
+looks into the mirror of his youth
+and decides to break this glass, a
+maddening reminder of who he once
+was. Assisted by his faithful
+Sancho, and armed with all the
+black magic at his command he does
+just this. Destroying in the
+process not one man, but two...
+Well, what'd'ya think, Louis? Hmm?
+You think it'll play?
+And on that, MANK pitches forward and vomits...
+MANK (CONT'D)
+(wiping his mouth)
+Don't worry, folks. The white wine
+came up with the fish.
+A STAFF-MEMBER glides forward to silently supply MANK with a
+napkin...MARION glides from the room in tears. The
+remaining guests but MAYER rise and float away on an eddy
+of strained small talk.
+MAYER
+Who the fuck do you think you are,
+Mankiewicz? You're nuthin' but a
+court jester! And lem'me let you in
+on a little secret. Do you have
+any idea who pays half your
+salary? He pays half your fuckin'
+salary! (meaning Hearst) Him! You
+fuckin' INGRATE!
+MANK stares at MAYER, who jabs a finger into his chest.
+
+142.
+MAYER (CONT'D)
+You didn't know that, did you? You
+wanna know why?
+MANK cannot bring himself to speak.
+MAYER (CONT'D)
+Because he likes the way you talk.
+Not the way you write. The way you
+talk. Don't that chap your ass!
+CUT TO:
+78
+
+INT. BUNGALOW - VICTORVILLE - DAY (CONT'D)
+
+78
+
+WELLES, in safari suntans, lumbers through the front door.
+Houseman, loaded up with papers, follows close behind him.
+WELLES
+Rise and shine, hombre, Shoot-out
+at the OK corral.
+(pulling up a chair)
+Before we buckle down, I gather
+you have something to get off your
+chest.
+MANK
+As a matter of fact, I do.
+WELLES
+Frankly, I think what I said upset
+you. I know your health's not what
+it might be. And I understand that
+comes first...
+Really?
+
+MANK
+
+WELLES
+This studio fuss - this lawsuit God only knows what pressure's yet
+to come - at your age you'd be
+justified in wanting out.
+MANK
+Uh, I'm forty three, but that's very understanding.
+
+143.
+WELLES
+Mayer's buy-out was rejected, so
+the fat's only starting to hit the
+fire. Now, I talked to RKO and
+I'll tell you what they're ready
+to do. In recognition of the
+outstanding work you've done so
+far they're prepared to relieve
+you of the rewrite and still honor
+your full pay. Plus 10,000
+dollars. How's that?
+MANK
+That's more than generous. But, I
+don't intend to walk.
+WELLES
+Alright. What's bothering you,
+then?
+MANK
+You're not going to like this,
+Orson. I want credit.
+WELLES
+Come again?
+MANK
+It's the best thing I've ever
+written.
+WELLES
+(a deadly pause)
+Jack, get me some Cuban cigars.
+HOUSEMAN
+In Victorville?
+WELLES
+(his eyes on MANK)
+Do what you can, Jack.
+MANK
+Oh, stay, Houseman. You'll miss
+the third-act complicator.
+WELLES
+(still watching MANK)
+Get going, Jack. Muy Pronto.
+
+144.
+HOUSEMAN
+I believe that means right away.
+79
+
+INT. SAN SIMEON - NIGHT - (FLASHBACK - CONT'D)
+MANK faces HEARST, motionless in the great, shadowy,
+echoing chamber.
+HEARST
+Mank, Mank...
+MANK
+What I said - was more in sorrow
+than in anger, Willie.
+It's dead still. The two men alone in the room. HEARST
+crosses to MANK, and putting a fatherly hand on his
+shoulder, turns and guides him toward the exit.
+HEARST
+Are you familiar with the parable
+of the organ-grinder's monkey?
+Now, the organ-grinder's monkey is
+tiny in stature, and having been
+taken from the wild, he's
+naturally overwhelmed by the
+enormous world around him. But
+every morning, a sweet elderly
+woman dresses him in a fine suit
+of clothes. She fits him with a
+red velvet vest adorned with pearl
+buttons and a handsome red fez
+with a silk tassel...she slips on
+brocade shoes that curl at the
+toe...and he's paired with a fine
+gilt music box on an exquisite
+gold chain, fastened to his neck,
+and his neck alone. Whenever he
+ventures into the city to perform
+he thinks: what a powerful fellow
+I must be. Look how patiently
+everyone waits just to watch me
+dance.
+MANK
+(softening blow)
+Wha- Willie -
+
+79
+
+145.
+Hearst grips Mank's shoulder a touch more.
+HEARST
+And wherever I go, he
+thinks...this music box must
+follow - and with it, this poor,
+downtrodden man. And if I chose
+not to dance, this sorry street
+peddler would starve...
+As they reach the front door:
+80
+
+EXT. SAN SIMEON - NIGHT
+
+80
+
+HEARST as he eases MANK out.
+HEARST
+And every time I do decide to
+dance - every time - he must play.
+Whether he wishes to or not.
+(pause)
+You've had a bit too much to
+drink, Herman. I'll get Raymond to
+drive you to the station. Good bye.
+MANK'S POV
+As the door is shut firmly in his face.
+81
+
+INT. BUNGALOW - VICTORVILLE (1941) - DAY (CONT'D)
+
+81
+
+HOUSEMAN has gone. MANK and WELLES face each other across
+the coffee table like the wily poker players they are.
+WELLES
+Put aside gratitude, Mank - That
+you've done your best work was no
+accident...I removed any
+distraction...eliminated every
+excuse... your family, your
+cronies, liquor... I gave you a
+second chance...
+MANK
+And for that, I cannot thank you
+enough.
+
+146.
+WELLES
+But with credit for a risky
+undertaking must go the weight of
+real responsibility! Given your
+current health, I wonder if you're
+up to it?
+MANK
+And frankly, I wonder, too. But
+we'll find out.
+WELLES
+You may never work in this town
+again, Mank!
+MANK can only LAUGH.
+MANK
+Orson, please...
+WELLES
+Then you force me to remind you:
+We have a contract that you
+understood and agreed to! If you
+fight this, it will go to what
+your new guild calls arbitration.
+And you, my friend, will lose.
+Script... Money...And assuming
+such a thing still exists in
+Hollywood, the respect of those
+who honor their word.
+MANK
+(beat)
+How can I put this nicely? I may
+be a loose cannon but you, my
+friend, are an outsider -- They're
+exasperated by me - and I've
+earned it - but, you- a selfanointed Savior Hyphenate? They're
+just waiting to loathe you.
+WELLES sits in silence.
+WELLES
+Remind me never again to work with
+a washed-up alcoholic.
+
+147.
+MANK
+Duly noted. Nelson Algren please
+copy.
+Welles climbs to his feet and begins to stride around, a
+boiler about to blow.
+WELLES
+All right. No doubt you'll get
+your credit. But ask yourself:
+Who's producing this picture?
+Directing it? Starring in it?
+Abruptly he stops, his seething gaze caught and fixed on
+INSERT - MANK'S LIQUOR CABINET
+Almost empty now. Rebuking his entire plan.
+ANGLE ON WELLES
+As he BELLOWS and seizes the cabinet in both hands, and
+with adrenaline-driven rage hoists it over his head and
+hurls it CRASHING against the fireplace. Purged, he looks
+upon it, his breath jetting forth in hard, rhythmic gasps.
+MANK
+(quickly jotting a note
+to himself)
+That's just what we need when
+Susan leaves Kane. An act of
+purging violence.
+Welles slows.
+WELLES
+(his eyes say: "perfect"
+but his lips say)
+May - be.
+They look at each other. Welles turns on his heel and blows
+out the door, leaving it open. We can see the people
+outside, some of the hands and help, have stopped, watching
+the famous wonder boy who gets into his limo and is driven
+off.
+
+148.
+RITA (O.S.)
+(distantly)
+Mank! Mank, where are you? Mank,
+come quick!
+82
+
+EXT. VICTORVILLE BUNGALOW - DAY
+
+82
+
+MANK limps out on to the patio and RITA runs up in tears.
+RITA
+He's alive! Ian's alive!
+MANK just stands there, RITA collapsing in his arms.
+RITA (CONT'D)
+He fetched up on the Orkneys!
+MANK
+Fetched up on the Orkneys?
+RITA
+(joyously)
+The Orkney Islands, you idiot! Oh,
+Mank, are you ever serious?
+MANK
+Only about something funny.
+They stand holding each other as music SWELLS.
+DISSOLVE TO:
+83
+
+INT. BILTMORE HOTEL - NIGHT
+
+83
+SUPERIMPOSE THE
+LEGEND:
+
+INT. BILTMORE HOTEL - FEBRUARY - NIGHT - 1942
+The ballroom is packed with members of the Academy of
+Motion Picture Arts and Sciences, uniformed to the wartime
+nines. As they BUZZ with excitement, an ANNOUNCER in white
+tie-and-tails tears open one of the infamous envelopes.
+ANNOUNCER
+- And the winner of the best
+original screenplay is:
+(reading)
+Herman J. Mankiewicz -
+
+149.
+The CROWD ROARS, all but drowning out his remaining words:
+ANNOUNCER (CONT'D)
+- and Orson Welles for Citizen
+Kane!
+LONG SHOT
+MALE ANNOUNCER (V.O.)
+This is the first nomination and
+first win for Mr. Mankiewicz and
+Mr. Welles. Neither were able to
+attend tonight. Accepting for both
+is president of RKO Radio
+Pictures, Mr. George Schaefer.
+As the ORCHESTRA RIFFS and an UNIDENTIFIED MAN IN FORMAL
+CLOTHES makes his way to the podium to accept the award:
+84
+
+EXT. RIO DE JANEIRO - DAY
+
+84
+SUPERIMPOSE THE
+LEGEND:
+
+RIO DE JANEIRO - BRAZIL - 1942.
+"IT'S ALL TRUE" - RADIO PRESS CONFERENCE
+
+REPORTER #1 (V.O.)
+Scuse me, Mr. Welles. Over here.
+WELLES (V.O.)
+Good morning, gentleman.
+REPORTER #2 (V.O.)
+Good morning, Mr. Welles. You
+missed a big night.
+WELLES (V.O.)
+Well, I was unable to attend the
+Academy Awards because I'm here in
+Rio, making a marvelous motion
+picture.
+Laughter erupts from the crowd of REPORTERS.
+
+150.
+REPORTER #3 (V.O.)
+Mister Welles, Kane was nominated
+in nine categories, including best
+actor. Aren't you disappointed
+that it only won one Oscar?
+For an instant WELLES considers saying something...only to
+reconsider, offering:
+WELLES (V.O.)
+Well, that, my good man, is
+Hollywood.
+REPORTER #4 (V.O.)
+Do you have anything you'd like to
+say to your co-author, Mr.
+Mankiewicz?
+WELLES (V.O.)
+I do have a brief message. You may
+tell him from me, "Mank, you can
+kiss my half."
+SPLIT-SCREEN
+CUT TO:
+85
+
+EXT. MANKIEWICZ HOUSE - NIGHT
+MANK leans into a microphone, looking triumphant.
+MANK (O.S.)
+You ask me what my acceptance
+speech might have been?
+(holding the Oscar)
+Well here goes...I am very happy
+to accept this award in the manner
+in which this screenplay was
+written, which is to say, In the
+absence of Orson Welles. How's
+that?
+REPORTER #2 (O.S.)
+How come he shares credit?
+MANK
+
+(beat)
+Well, that my friend, is the magic
+of the movies.
+
+85
+
+151.
+PHOTOGRAPHER (O.S.)
+Hold up Oscar, Mank?
+MANK thrusts it out overhead like a victorious boxer.
+PHOTOGRAPHER (O.S.) (CONT'D)
+
+Big smile!
+
+MANK beams. A blinding FLASH goes off. MANK does not
+flinch. This is his moment. It will never come again.
+EPILOGUE:
+Herman Mankiewicz would die 11 years later of complications
+from alcoholism. He would never work with Orson Welles nor
+write an original screenplay, or fight for screen credit again.
+He confided in a friend, "I seem to have become more and
+more a rat in a trap of my own construction, a trap I
+regularly repair whenever there seems to be danger of an
+opening that will enable me to escape".
+He was 55.
+THE END.
+
+

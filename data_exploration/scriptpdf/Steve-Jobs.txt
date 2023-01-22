@@ -1,0 +1,9645 @@
+STEVE JOBS
+
+screenplay by
+Aaron Sorkin
+
+Based on the Book by Walter Isaacson
+
+Shooting Script 03/19/15
+
+From a BLACK SCREEN
+--we’re in the middle of a confidential conversation.
+ANDY (V.O.)
+The screen says it’s an
+unimplemented trap but the dialogue
+box is wrong, it’s a system error.
+JOANNA (V.O.)
+When did it happen?
+ANDY (V.O.)
+About 10 minutes ago, we’ve been
+working it.
+JOANNA (V.O.)
+An unimplemented trap?
+ANDY (V.O.)
+It’s a system error.
+FADE IN:
+1
+
+INT. AUDITORIUM - MORNING/CONTINUOUS
+
+1
+
+We’ll get our bearings in a moment but right now we’re in the
+middle of a conversation taking place on a stage between
+STEVE JOBS, JOANNA HOFFMAN and ANDY HERTZFELD--all late20’s/early 30’s.
+JOANNA
+So what’s the upshot?
+ANDY
+It’s not gonna say “Hello.”
+STEVE
+It absolutely is gonna say “Hello.”
+ANDY
+It’s nobody’s fault, (it’s a system
+error).
+STEVE
+(over)
+You built the voice demo.
+Look--
+
+ANDY
+
+1
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+JOANNA
+Keep your voices down.
+ANDY
+The voice demo is flaky. I’ve been
+telling you that for--this thing is
+overbuilt.
+TITLE:
+1984
+Flint Auditorium
+DeAnza Community College
+STEVE
+It worked last night, it worked the
+night before that, it worked three
+hours ago.
+ANDY
+It’s not working now so just skip
+(over the)-(over)
+Fuck you.
+Shh.
+
+STEVE
+
+JOANNA
+
+ANDY
+Skip over--everything else is
+working. Skip over the voice demo.
+STEVE
+We need it to say “Hello.”
+ANDY
+You’re not hearing me, it’s (not
+gonna)-(over)
+Fix it.
+Fix it?
+Yeah.
+
+STEVE
+
+ANDY
+STEVE
+
+2.
+1
+
+1
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+
+3.
+1
+
+ANDY
+(are you serious?)
+In 40 minutes.
+Fix it.
+I can’t.
+
+STEVE
+ANDY
+
+STEVE
+Who’s the person who can?
+ANDY
+I’m the person who can and I can’t.
+STEVE
+How bad are you saying?
+ANDY
+It’s pretty bad.
+STEVE
+I don’t know what that means.
+ANDY
+It means (the demo is more than
+likely gonna crash).
+JOANNA
+(over)
+You have to keep your voices down,
+Joel Pforzheimer is sitting out in
+the house.
+STEVE
+I don’t care if--who’s Joel
+Pforzheimer?
+JOANNA
+GQ. He’s been shadowing you for a
+week, did you notice?
+Alright.
+
+STEVE
+
+JOANNA
+Just look like everything’s fine,
+he’s sitting out in the house.
+We reveal the 2,600 seat house which in 40 minutes will be
+filled to capacity. We’re at the launch of the Mac.
+
+1
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+
+4.
+1
+
+There are hundreds of seats with “Reserved For” signs on them
+for the various Apple teams--”Macintosh”, “Apple II”, “Lisa”-as well as hundreds of members of the press--”New York
+Times”, “Newsweek”, “Wall Street Journal”, “Financial Times
+of London”, “Le Monde”, etc. JOEL PFORZHEIMER is out there,
+credentials around his neck, and he gives a small wave to
+Steve and so are 50 or 60 ENGINEERS, DESIGNERS and MARKETERS
+who are observing the rehearsal from various vantage points.
+Way in the back is CHRISANN BRENNAN, 31, and her daughter,
+LISA BRENNAN, 5, who’s tucked in a big coat.
+STEVE, JOANNA and ANDY are standing in front of a giant
+screen showing a slide of the Mac. JOANNA is a beautiful,
+brilliant, dryly-funny Polish immigrant who speaks with a
+slight trace of an accent. ANDY is a sweet, cherubic young
+guy--if you put a bow and arrow in his hands he’d look like
+Cupid. Nobody has slept for days.
+STEVE
+(to ANDY)
+Alright, what are your guys saying?
+ANDY
+Some kind of race condition but we
+haven’t been able to track it down
+yet.
+STEVE
+Is the synthesizer sampling fast
+enough?
+ANDY
+No, so the rates are off and it
+keeps crashing.
+JOANNA
+(to STEVE)
+It’s 20 seconds out of a two-hour
+launch, why not just cut it?
+STEVE
+We can’t cut it.
+JOANNA
+Yeah, you just (cut it).
+STEVE
+(over)
+Two days ago we ran a Super Bowl ad
+that could’ve won the Oscar for
+Best Short Film.
+(MORE)
+
+1
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+STEVE (CONT'D)
+There are more people who can tell
+you about the ad than can tell you
+who won the game.
+
+5.
+1
+
+JOANNA
+I understand, but the ad said the
+Mac was gonna save the world, it
+didn’t say it was gonna say hello.
+ANDREA CUNNINGHAM, a 26-year-old publicist for Apple, calls
+from the back-ANDREA
+We’re gonna open the house in five.
+STEVE
+(calling back to ANDREA)
+Don’t open the house.
+(to the house)
+We’re taking a quick break.
+ANDY
+Part of the problem is---what?
+
+STEVE
+
+ANDY
+We can recompile but if it’s a
+hardware problem we can’t get into
+the back.
+Why not?
+
+JOANNA
+
+ANDY
+(to STEVE)
+You want to tell her or should I?
+STEVE
+(to ANDY)
+Don’t start with me, man.
+JOANNA
+Why can’t he get into the machine?
+ANDY
+(to JOANNA)
+You need special tools.
+JOANNA
+What kind of special tools, just
+take a screwdriver.
+
+1
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+ANDY
+He didn’t want users to be able to
+open it, you need special tools.
+JOANNA
+(to STEVE)
+Is this for real?
+STEVE
+There are a hundred engineers
+walking around here, none of them
+have the tools?
+ANDY
+In fairness, not many of them were
+issued the tools.
+STEVE
+What about you?
+ANDY shrugs-ANDY
+I left them at the office, it was
+3 A.M and-JOANNA
+Oh Jesus Christ--cut “hello.”
+No.
+
+STEVE
+
+JOANNA
+What’s the first rule of a launch?
+STEVE
+It’s not gonna crash.
+ANDY
+It just did.
+STEVE
+(calling out to the house)
+Andy!
+Which one?
+
+ANDY
+
+STEVE
+The other Andy, you’re right there,
+why would I (be calling out into--)
+
+6.
+1
+
+1
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+
+7.
+1
+
+JOANNA
+He needs to talk to you.
+ANDREA CUNNINGHAM, the 26-year-old publicist, calls back-Yeah.
+
+ANDREA
+
+STEVE
+(to ANDREA)
+The exit signs have to be off or
+we’re not gonna get a full
+blackout.
+ANDREA
+We’ve spoken to the building
+manager and the fire marshal.
+And?
+
+STEVE
+
+ANDREA
+There’s absolutely no way they’re
+letting us turn the exit signs off.
+STEVE
+I’ll pay whatever the fine is.
+ANDREA
+The fine is they’re gonna come in
+and tell everyone to leave.
+STEVE
+You explained to the fire marshal
+that we’re in here changing the
+world?
+ANDREA
+I did, but unless we can also
+change the properties of fire he
+doesn’t care.
+Steve--
+
+JOANNA
+
+STEVE
+If a fire causes a stampede to the
+unmarked exits it will have been
+well worth it for those who
+survive. For those who don’t, less
+so but still pretty good.
+
+1
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+Listen--
+
+8.
+1
+
+ANDREA
+
+STEVE
+(still to ANDREA)
+I need it to go to black, real
+black, get rid of the exit signs
+and don’t let me know how you did
+it.
+(to ANDY)
+Fix the voice demo.
+STEVE leaves the stage, followed by JOANNA and heads-2
+
+INT. BACKSTAGE - CONTINUOUS
+
+2
+
+JOANNA
+You need special tools to open the
+Mac?
+STEVE
+You knew it was a closed system.
+JOANNA
+I didn’t know literally, Jesus.
+JOANNA opens a door marked “STEVE JOBS” and gives STEVE a
+push into-3
+
+INT. STEVE’S DRESSING ROOM - CONTINUOUS
+The room’s been set aside as a place for Steve to chill, be
+alone and prepare during rehearsals and before the big
+presentation.
+There’s a Mac (the original Mac) on a small table.
+There’s also a large, unopened carton that was recently
+delivered.
+JOANNA
+And if you keep alienating people
+for no reason there’s gonna be no
+one left for it to say hello to.
+STEVE
+It’s not for no reason. We blow
+this and IBM will own the next 50
+years like a Batman villain.
+Remember the phone company?
+(MORE)
+
+3
+
+3
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+STEVE (CONT'D)
+That’s what Bell was called, the
+phone company. IBM will be the
+computer company and in 10 years
+they’ll be the information company
+and that’s very bad for the human
+race so we don’t have time to be
+polite or realistic ‘cause if we
+are, this company’s next product
+launch will be held in front of 26
+people and a stringer from the
+Alameda County Shopper’s Guide.
+JOANNA
+We--listen--we haven’t advertised
+the voice software. We could pull
+it out of the demo and no one would
+be disappointed. Do you want to try
+being reasonable just, you know, to
+see what it feels like?
+STEVE
+Okay, pull the voice demo.
+Thank you.
+
+JOANNA
+
+STEVE
+And then cancel the launch.
+JOANNA
+I see, you just (tricked me a
+little).
+STEVE
+(over)
+You can tell me how unimportant it
+is but if the computer doesn’t say
+hello then neither will John
+Sculley who, I promise you, agrees
+with me.
+JOANNA
+Sculley’s not gonna cancel the
+launch ‘cause he’s not insane.
+STEVE
+He’s also not a hack and when it
+comes to the Macintosh he’s gonna
+do what I ask him to do. What is in
+this box?
+
+9.
+3
+
+3
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+
+10.
+3
+
+JOANNA
+Nothing you need to worry about,
+don’t even open it.
+STEVE opens the flaps on the box and pulls out an issue of
+Time magazine. “Machine of the Year” is on the cover with a
+picture of a computer. It’s a carton full of copies of Time.
+STEVE
+(pause)
+What the fuck is--why is there a
+carton of--who did this?
+JOANNA
+Somebody thought-Who?
+
+STEVE
+
+JOANNA
+--doesn’t matter--thought it would
+be a good idea to have copies of
+that Time cover available at
+everyone’s seat. It was nipped in
+the bud and all the copies are
+being taken out of the building-they’re probably already out of the
+building so...problem solved.
+STEVE
+This isn’t a Macintosh.
+JOANNA
+I understand.
+STEVE
+Somebody thought it would be a good
+idea to, like, enthusiastically
+hand over copies of Time with a nota-Macintosh on the cover at the
+launch of the Macintosh? What are
+they handing out at HewlettPackard, a bushel of apples with my
+face on them?
+JOANNA
+I’m sure the thinking was-Yeah?
+
+STEVE
+
+3
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+JOANNA
+--that since the computer is Man of
+the Year that that’s good for our
+business but like I said I’m having
+them removed from the building.
+STEVE
+What I’d like you to do with them
+is to take them, all 2600 copies,
+and stack them on Kottke’s desk and
+tell him Steve says, “Happy New
+Year to you.”
+Okay.
+
+JOANNA
+
+STEVE
+I gave Michael Moritz full access,
+the whole campus. Bandley, Apple
+II, Lisa, I gave him Sculley,
+Markkula, I gave him Woz, I gave
+him everybody. Betrayal, thy name
+is Michael Moritz and Bozo, thy
+name is Daniel Kottke. What should
+I call the person who thought it
+would be a good idea to hand these
+out?
+JOANNA
+I’m not telling you who it was, it
+was done without malice, it’s been
+taken care of, you have a half-hour
+and we have things to talk about.
+Like what?
+
+STEVE
+
+JOANNA
+Like a million in the first 90 days-Joanna--
+
+STEVE
+
+JOANNA
+Twenty thousand a month after that.
+Look--
+
+STEVE
+
+JOANNA
+I’m begging you--
+
+11.
+3
+
+3
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+STEVE
+Those are the forecasts.
+JOANNA
+--because this is my field. I am
+begging you to manage expectations
+out there.
+STEVE
+I’m fanning (expectations).
+JOANNA
+(over)
+We’re not gonna sell a million in
+the first 90 days.
+STEVE
+Everyone, everyone, everyone.
+Everyone is waiting for the Mac.
+JOANNA
+Maybe, but what happens when they
+find out that for twenty-four
+ninety-five there’s nothing you can
+do with it?
+STEVE stares at her...
+JOANNA (CONT’D)
+(pause)
+We were competitive at 1500 but
+once you replaced the Motorola 6809
+with the 68000-STEVE
+--which is what supports menus,
+windows, point and click, high res
+graphics-JOANNA
+Yeah, ‘cause everyone needs
+rectangles with rounded corners.
+STEVE
+Coach lands on the runway at the
+exact same time as first class.
+JOANNA
+(beat)
+I don’t have the first fucking idea
+what that means but this is how it
+got to $2500.
+
+12.
+3
+
+3
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+Okay--
+
+STEVE
+
+JOANNA
+Which is the price point on the PC
+which can do a lot more.
+STEVE
+Who’s gonna want a PC once--what
+idiot is gonna want--if I need to
+tell you there’s a spot on your
+shirt I point to the spot, I don’t
+say there’s a spot 14 centimeters
+down from the collar and 3
+centimeters to the right of the
+second button while I try to
+remember what the command is for
+club soda, that’s not how a
+person’s mind works.
+JOANNA
+If the goal was ease of use, maybe
+you should’ve given it some memory.
+STEVE
+You can complain about memory or
+you can complain about price but
+you can’t do both at the same time.
+Memory is what costs money. And I’m
+glad you’re telling me your
+feelings about the Mac now because
+we have a half-hour left, we can
+redesign it.
+JOANNA
+I’m just asking you to (manage
+expectations).
+STEVE
+(over)
+Look at their faces when they see
+what it is. They won’t know what
+they’re looking at or why they like
+it but they’ll know they want it.
+JOANNA
+Not instantly. When people heard
+“Rite of Spring” they tore the
+chairs out of the theater, they
+didn’t buy the record.
+
+13.
+3
+
+3
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+STEVE
+“Rite of Spring” happens to be the
+most revolutionary and provocative
+symphony of the last century.
+JOANNA
+Yes, exactly, but Igor Stravinsky
+didn’t say he was gonna sell 20,000
+units a month.
+STEVE
+It was 1913, there weren’t--I don’t
+know why we’re talking about
+Stravinsky when-(holding up Time)
+--I’ve been properly sodomized by
+Dan Kottke in Time magazine.
+JOANNA
+Look, obviously--let me say this-obviously Daniel didn’t think he
+was doing anything wrong.
+STEVE
+By talking to Moritz about it?
+Yeah.
+
+JOANNA
+
+STEVE
+What does that mean?
+JOANNA
+You said--when you told me the
+story, you said, “Dan, did Michael
+Moritz ask you if I had a daughter
+named Lisa?” and Dan said, “Yeah”
+and you said, “What did you tell
+him?” and Dan said, “Yes.” My point
+was that he answered you simply and
+honestly because he didn’t think
+he’d done anything wrong.
+STEVE
+(pause)
+Except, Joanna, except--I don’t
+have a daughter named Lisa!
+(beat--picking up the
+magazine)
+And this story is now about how I’m
+denying paternity and took a blood
+test!
+(MORE)
+
+14.
+3
+
+3
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+STEVE (CONT'D)
+And that’s why there’s a picture of
+a--I don’t know what the fuck that
+is--that’s why there’s a picture of
+a PC on the cover instead of a
+picture of me and the Mac.
+(beat)
+I don’t know what to tell you. I
+was supposed to be Time magazine’s
+Man of the Year and then Dan Kottke
+was born.
+(beat)
+Well...
+What.
+
+JOANNA
+
+STEVE
+
+JOANNA
+She’s waiting for you.
+Who?
+Chrisann.
+Brennan?
+
+STEVE
+JOANNA
+STEVE
+
+JOANNA
+They’re out in the hall. They’ve
+been sitting in the back of the
+auditorium since seven this
+morning, she wants to talk to you.
+STEVE
+How did she get in?
+JOANNA
+Who was gonna stop her?
+STEVE
+I’m not having a session with her
+right now.
+JOANNA
+We issued 335 press credentials for
+the launch, Steve, you piss off
+Chrisann and she’s gonna stand in
+the lobby and give 335 interviews
+and you, pal, will be longing for
+the halcyon days of Dan Kottke.
+
+15.
+3
+
+3
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+
+16.
+3
+
+STEVE
+(pause)
+Lemme get this over with. But don’t
+leave, you’re gonna stay here.
+I’m not.
+
+JOANNA
+
+STEVE
+No, there’s less chance of a scene
+if you stay here, she’ll be cool.
+JOANNA
+I find this all excruciatingly
+personal and I’m not staying.
+STEVE
+I don’t want to be in a room alone
+with Chrisann. Come on, this is me
+and you.
+Fine.
+
+JOANNA
+
+STEVE goes to the door, opens it and steps out into-4
+
+INT. HALLWAY - CONTINUOUS
+--where CHRISANN BRENNAN and LISA are waiting.
+Hey.
+Steve.
+
+STEVE
+CHRISANN
+
+STEVE
+This is a surprise, why don’t you
+come on in.
+Thank you.
+
+CHRISANN
+
+CHRISANN takes LISA’s hand to lead her-STEVE
+(to LISA)
+You coming too?
+CHRISANN
+Yes, I’m not going to leave her in
+the hallway.
+
+4
+
+4
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+
+17.
+4
+
+STEVE
+Okay. It’s a safe hallway,
+but...anyway-They walk back into-5
+
+INT. STEVE’S DRESSING ROOM - CONTINUOUS
+STEVE
+--you remember Joanna Hoffman,
+she’s the head of marketing for the
+Mac.
+CHRISANN
+Good to see you.
+JOANNA
+Nice to see you. Hello, Lisa. We’ve
+met before and you told me you
+liked the way I talked and that was
+my favorite thing anyone’s ever
+said to me.
+LISA
+You’re from Poland.
+JOANNA
+Yes I am. Do you know where that
+is?
+LISA
+(pointing to the top of an
+imaginary globe)
+The top of the Earth.
+JOANNA
+I think you’re thinking of the
+North Pole.
+STEVE
+Well we’re a little pressed for
+time, so-JOANNA
+(heading for the door)
+I’ll leave you guys alone.
+STEVE
+Why?...do you want to leave when
+(you just said)--
+
+5
+
+5
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+JOANNA
+(over)
+I’m going to check in with
+Hertzfeld.
+(to LISA)
+We’re trying to get a computer to
+say hello but right now it’s being
+very shy. Would you come help me?
+(to CHRISANN)
+Is it okay?
+Sure.
+
+CHRISANN
+
+STEVE
+(to JOANNA)
+Thank you.
+LISA
+(to JOANNA)
+My dad named a computer after me.
+STEVE
+I’m not your-STEVE stops himself and sees the looks coming from both
+CHRISANN and JOANNA.
+STEVE (CONT’D)
+(pause)
+That, actually--do you know what a
+coincidence is, Lisa? Like if you
+met someone, if you made a new
+friend and her name was Lisa too,
+that would be a coincidence. Lisa
+stands for “Local Integrated System
+Architecture”. L-I-S-A. It’s a
+coincidence.
+JOANNA
+(pause)
+You about done?
+Yeah.
+
+STEVE
+
+JOANNA
+(to LISA)
+Come. Let’s make that computer say
+hi.
+LISA’s still absorbing the “Lisa” information...
+
+18.
+5
+
+5
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+CHRISANN
+Go ahead, Lisa.
+LISA
+So it was the other way around--I
+was named after the computer?
+STEVE
+Nothing was named after anybody,
+it’s a coincidence.
+JOANNA
+Come on, hon.
+JOANNA and LISA exit.
+CHRISANN
+What’s the matter with you?!
+STEVE
+What’s the matter with you?! Why
+are you telling her these things?
+Why are you still telling her I’m
+her father?
+CHRISANN
+A judge told her you’re her father-STEVE
+No he didn’t.
+CHRISANN
+--and where the hell do you get off
+telling Time magazine that I’ve
+slept with 28% of the men in
+America.
+STEVE
+That’s not remote-CHRISANN
+Where do you get off?!
+STEVE
+That‘s not remotely what I said.
+CHRISANN
+(picking up the magazine)
+It’s right here.
+STEVE
+First of all, can I tell you
+something about Time magazine?
+(MORE)
+
+19.
+5
+
+5
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+STEVE (CONT'D)
+I believe it’s a training facility
+for paid assassins.
+CHRISANN
+“Jobs insists”--I’m quoting-STEVE
+I didn’t invent math.
+CHRISANN
+”’28% of the male population of the
+United States could be the
+father.’”
+STEVE
+I wasn’t saying you’ve slept with
+28% of American men, I was using an
+algorithm based on the blood test
+which said there was a 94.1% chance
+that I’m the father.
+CHRISANN
+You’re trying to publicly paint me
+as a slut and a whore.
+STEVE
+Believe me, I’m not trying to
+publicly do anything with you.
+CHRISANN
+Two-million people read Time, how
+am (I supposed to--)
+STEVE
+(over)
+It would’ve been more if they’d put
+me on the cover but Dan Kottke
+(decided to kidney punch me and--)
+CHRISANN
+(over--stopping him)
+I applied for welfare yesterday.
+I’m sorry?
+
+STEVE
+
+CHRISANN
+I said I applied for welfare
+yesterday. The Time article said
+your Apple stock is worth 441
+million dollars. And I wanted to
+ask you how you felt about that.
+
+20.
+5
+
+5
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+
+21.
+5
+
+STEVE
+Well...I feel like Apple stock is
+being dramatically undervalued.
+This would be a good time to get
+in.
+CHRISANN
+Your daughter and her mother are on
+welfare.
+Chrisann--
+
+STEVE
+
+CHRISANN
+We’re living in a hovel in Menlo
+Park. We can’t pay the heating
+bills, she sleeps in a parka. Your
+daughter is (living in a
+neighborhood)-STEVE
+She’s not my daughter.
+CHRISANN
+Because as reported by Time
+magazine I’ve slept with 28% of the
+men in America-No.
+
+STEVE
+
+CHRISANN
+--all of them exactly nine months
+before Lisa was born.
+There’s a KNOCK at the door and JOANNA opens it-JOANNA
+I’ve got Andy here.
+STEVE
+(to CHRISANN)
+Excuse me.
+STEVE steps out into-6
+
+INT. HALLWAY - CONTINUOUS
+
+6
+
+--where ANDY HERTZFELD is waiting along with some members of
+his team. LISA slips into the dressing room from the hallway
+without STEVE much noticing.
+
+6
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+
+22.
+6
+
+STEVE
+We’re there?
+ANDY
+(calling into the dressing
+room)
+Hey Chris.
+Hey Andy.
+
+CHRISANN
+
+ANDY
+How’re you doin’?
+Terrible.
+
+CHRISANN
+
+STEVE
+You guys caught up now?
+CHRISANN
+Excuse me for saying hello to my
+friend who thinks you’re a dick.
+ANDY
+(to STEVE)
+I don’t think you’re a-STEVE
+We’re there?
+ANDY
+No. It’s got a one in six chance of
+working.
+Goddammit!
+
+STEVE
+
+It should be noted there are a number of people--YOUNG
+ENGINEERS--standing around and witnessing Steve beat up Andy.
+ANDY
+We’re not a pit crew at Daytona,
+this can’t be fixed in seconds.
+STEVE
+You didn’t have seconds, you had
+three weeks. The universe was
+created in a third of that time.
+ANDY
+Well someday you’ll have to tell us
+how you did it.
+
+6
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+
+23.
+6
+
+JOANNA can’t help a smile and small laugh. STEVE looks at
+her...
+STEVE
+Here’s what I’m going to do. I’m
+going to announce the names of
+everyone who designed the launch
+demo--I’m gonna introduce everyone
+and ask them to stand up. The bag
+was designed by Susan Kare, the
+Macintosh font that’s scrolling
+across the screen was designed by
+Steve Capps, the starry night and
+the skywriting was Bruce Horn,
+MacPaint, MacWrite, Alice, down to
+the calculator and then I’m going
+to say the voice demo that didn’t
+work was designed by Andy
+Hertzfeld.
+ANDY laughs a little for a moment but STEVE stares at him and
+ANDY realizes he’s serious. The others are looking down and
+trying to make themselves look busy but there’s no saving
+Andy here.
+Steve--
+
+ANDY
+
+STEVE
+Five in six is your chance of
+surviving first round of Russian
+roulette and you’ve reversed those
+odds so unless you want to be
+disgraced in front of your friends,
+family, colleagues, stockholders
+and the press, I wouldn’t stand
+here arguing, I’d go try to get
+some more bullets out of the gun.
+(beat)
+Do it, Andy.
+ANDY nods to his team that they should come with him and get
+back to work. As the team starts to walk away, STEVE sees one
+of the engineers take a diskette out of his shirt pocket and
+a light bulb goes off in his head.
+STEVE (CONT’D)
+Stop. You. What size shirt do you
+wear?
+Me?
+
+ENGINEER
+
+6
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+
+24.
+6
+
+STEVE
+What size--does anyone know what
+size shirt he wears? Does anyone
+know what size shirt I wear?
+JOANNA
+Does anyone know where the closest
+psychiatrist is?
+STEVE
+The disk fits in your pocket--I
+need a shirt with a breast pocket,
+I can take it out on stage.
+A shirt?
+
+ENGINEER
+
+STEVE
+The disk!
+(to JOANNA)
+I need a white shirt in my size
+with a breast pocket.
+JOANNA
+Yes. Which one of the no stores
+that are open at 8:45 do you want
+me to have someone run to and
+return from in 15 minutes?
+STEVE
+Go out in the lobby, find someone
+my size who’s wearing a white shirt
+and tell them I’ll trade them for a
+free computer and they get to keep
+my shirt.
+JOANNA
+Does it have to be a white shirt,
+is blue okay?
+STEVE
+No, the Mac is beige, I’m beige,
+the disk is blue and the shirt has
+to be white. Andy?
+STEVE looks at ANDY and mimes rolling the cartridge of a
+revolver and sticking it to his own head along with sound
+effects. ANDY and his team take off as STEVE heads back into--
+
+STEVE JOBS - Shooting Script 03/19/15
+7
+
+INT. STEVE’S DRESSING ROOM - CONTINUOUS
+
+25.
+7
+
+LISA
+I tried to get it to say hello but
+it’s shy.
+STEVE didn’t even notice she was there. He takes a breath and
+smiles...
+Yeah.
+
+STEVE
+
+CHRISANN points to the Mac that’s sitting on a table-CHRISANN
+So that’s it?
+That’s it.
+
+STEVE
+
+CHRISANN
+(pause)
+I don’t get it.
+I know.
+
+STEVE
+
+CHRISANN
+What are people going to do with
+it?
+STEVE
+(for Chrisann’s benefit)
+Lisa, how old are you now?
+CHRISANN
+You know how old (she is).
+STEVE
+(over)
+How old are you, Lisa?
+Five.
+
+LISA
+
+STEVE
+Come sit here for a minute. You
+know what this is?
+LISA sits at the table in front of the Mac-LISA
+It’s a computer.
+
+7
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+
+26.
+7
+
+STEVE
+It’s a computer. Can I borrow your
+hand for a second?
+STEVE puts his hand on top of LISA’s and demonstrates the
+mouse.
+STEVE (CONT’D)
+Point that arrow...and click. You
+don’t have to but if you want you
+can play with it. Nothing you can
+do will break it so just do
+whatever you want with it.
+CHRISANN
+What are you doing?
+While STEVE and CHRISANN continue, LISA becomes engaged with
+the computer. She can hear her parents of course, but the
+computer and what she’s doing with it become a welcome
+distraction.
+STEVE
+I’m paying you exactly what the
+court ordered me to pay you.
+CHRISANN
+$385 a month.
+STEVE
+I’m not the one who decided on that
+amount.
+CHRISANN
+And I’m asking you how you feel--if
+you feel alright, if it feels
+alright to you--that your daughter
+and her mother-STEVE
+She’s not-CHRISANN
+--your daughter, who’s sitting
+right there--and her mother are on
+welfare while you’re worth 441
+million dollars for making that?
+STEVE
+(pause)
+I’m proud to say that Apple donates
+free computers to underfunded
+schools and we’ll be doing more of--
+
+7
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+What?
+
+27.
+7
+
+CHRISANN
+
+STEVE
+Apple donates millions of dollars
+worth of computers to schools.
+CHRISANN
+What does that (have to do with--)
+STEVE
+(over)
+Imagine an underprivileged kid who
+has their favorite teacher with
+them 24 hours. We’re minutes away
+from being able to do that.
+CHRISANN
+In your head was that an answer to
+my question?
+STEVE
+Tell me the question again.
+CHRISANN
+I wasn’t the one who sued you for
+child support, San Mateo County
+sued you.
+STEVE
+No let me explain what happened,
+‘cause I have plenty of time right
+now.
+There’s a knock on the door and ANDREA opens it-ANDREA
+Excuse me, you have a visitor.
+STEVE (WOZ) WOZNIAK sticks his head in the door. WOZ is
+amiable. He’s not looking for trouble and while he’s an
+undisputed genius, he doesn’t have Steve’s anger or Steve’s
+polish.
+WOZ
+I just wanted to say good luck. Hey
+Chrisann.
+Hello.
+
+CHRISANN
+
+7
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+
+28.
+7
+
+STEVE
+(to CHRISANN)
+Hang on.
+STEVE goes out into-8
+
+INT. HALLWAY - CONTINUOUS
+WOZ
+I just wanted to say good luck.
+STEVE
+Thanks--you too.
+WOZ
+Big morning.
+Yeah.
+
+STEVE
+
+WOZ
+You should see the crowd outside.
+It’s like...the crowd is like, you
+know...
+STEVE waits patiently until he can’t anymore-STEVE
+(pause)
+I can’t really wait for you to come
+up with the metaphor, man.
+WOZ
+Yeah so listen, I wanted to ask you
+a favor.
+Yeah.
+
+STEVE
+
+WOZ
+Can you acknowledge the Apple II
+team in your remarks?
+STEVE
+(pause)
+I can not.
+WOZ
+Just an acknowledgement, have them
+stand up.
+
+8
+
+8
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+
+29.
+8
+
+STEVE
+We’re launching the Mac.
+WOZ
+It’d be a morale booster. Just a
+mention so they can get a round of
+applause.
+Woz--
+
+STEVE
+
+WOZ
+Just a mention.
+STEVE
+Can we stick a pin in this for a
+minute-WOZ
+Sure, yeah.
+Thanks.
+
+STEVE
+
+WOZ
+I’m just talking about an
+acknowledgement for the team.
+STEVE
+I’ve got Chrisann in there, I’ll
+see you in just a second.
+Sure.
+
+WOZ
+
+STEVE goes back into-9
+
+INT. STEVE’S DRESSING ROOM - CONTINUOUS
+STEVE
+(to CHRISANN)
+I didn’t take the DNA test
+voluntarily, I took it because the
+board was worried you were going to
+sue me.
+CHRISANN
+What are you talking about?
+STEVE
+The board. Was worried you were
+going to sue me before the IPO.
+(MORE)
+
+9
+
+9
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+STEVE (CONT'D)
+The members of the board,
+individually, believe that you’re
+deranged, Chris. They were worried
+that you were going to sue me
+before the IPO and endanger the
+stock price. Fourteen of the
+greatest minds in business were
+literally weighing the possibility
+that you could affect the economy.
+So I took a blood test, which I
+obviously wouldn’t have done if I
+didn’t think it would prove
+conclusively and for all time that
+I am not-(he mouths--“her father”.)
+--and frankly I think telling her
+otherwise is child abuse.
+CHRISANN
+You skipped over the part where the
+test proved (that you’re the)-STEVE
+(over)
+The test didn’t prove (anything).
+CHRISANN
+(over)
+A 94.1% chance that-STEVE
+Would you like to be put in a
+casket and buried if there’s a
+94.1% chance that you’re dead?
+CHRISANN
+(pause--smiles)
+Steve, let’s not be ridiculous. And
+if I wanted to embarrass you, if I
+wanted to embarrass Apple and if I
+wanted to extort money from you
+it’s not like I’d have to invent
+anything. Humiliate me all you want
+but you don’t need to look far to
+see living reminders that I’m in
+your life and you’re in mine and
+neither of us is disappearing.
+(MORE)
+
+30.
+9
+
+9
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+CHRISANN (CONT'D)
+Check out who isn’t on the cover of
+Time because one reporter--one-found out a fraction of one thing,
+a small fraction of one symptom of
+your progressing Narcissistic
+Personality Disorder. The board's
+right to be scared of me.
+
+31.
+9
+
+STEVE, without looking at it, takes the Mac that Lisa’s been
+working on by the handle and turns it around so Chrisann can
+see the screen and puts it forcefully back on the table.
+Lisa’s made a painting. The kind of thing only a parent could
+love, but a painting.
+STEVE
+(without having to look at
+it)
+That.
+What?
+
+CHRISANN
+
+STEVE
+You asked me what people are going
+to do with it. They’re gonna do
+that.
+There’s a KNOCK on the door and JOANNA enters with a white
+shirt.
+JOANNA
+One of the engineers.
+Thank you.
+
+STEVE
+
+STEVE starts to take off his shirt...
+LISA
+Do you like it?
+Sorry?
+
+STEVE
+
+Then STEVE looks at Lisa’s painting which he hadn’t seen when
+he turned it around for Chrisann...he’s seeing it for the
+first time and he almost involuntarily stops unbuttoning his
+shirt.
+LISA
+(pause)
+It’s an abstract.
+
+9
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+
+32.
+9
+
+STEVE can’t help but let out a laugh and smile at that.
+There’s an emotion happening inside of him he doesn’t quite
+understand...
+STEVE
+(pause)
+You used MacPaint.
+STEVE keeps looking at the screen, then glancing at Lisa...
+STEVE (CONT’D)
+Push that key and the “S” at the
+same time.
+LISA does as she’s told as the “SAVE” box comes up.
+STEVE (CONT’D)
+Now type your name.
+She does. “L-I-S-A B-R-E-N-N-A-N.”
+STEVE (CONT’D)
+Do you know which box says “Save”?
+LISA points to the right box.
+STEVE (CONT’D)
+Right. Go ahead and click on it.
+She does.
+After a moment, STEVE continues changing his shirt...
+STEVE (CONT’D)
+(pause--then to CHRISANN)
+I’ll put some money in your
+account. And I’ll buy you a new
+house, someplace near a decent
+school.
+Thank you.
+
+CHRISANN
+
+JOANNA
+(to STEVE)
+Woz wants a minute.
+I know.
+
+STEVE
+
+JOANNA
+And Sculley’s asking for you.
+
+9
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+
+33.
+9
+
+STEVE
+(to CHRISANN)
+We’re done?
+LISA
+Can you teach me more things?
+This hits STEVE and CHRISANN in two different ways but it
+hits them both.
+LISA (CONT’D)
+(pause)
+On the computer?
+CHRISANN
+Lisa, wait for me in the hall
+please.
+LISA starts to put on her coat, which is a little bulky and
+tough for a kid-CHRISANN (CONT’D)
+You can put on your coat in the
+hall.
+Bye, Lisa.
+Bye.
+
+STEVE
+LISA
+
+CHRISANN
+In the hall, Lisa, now.
+STEVE
+I do like your painting.
+But LISA didn’t hear him--she’s already out the door.
+STEVE (CONT’D)
+(calling after her)
+Lisa?
+CHRISANN
+I just want to know, when you say
+you’re going to put money in my
+account, how much we’re talking
+about?
+(to JOANNA)
+You don’t mind if we discuss this
+in front of you?
+
+9
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+JOANNA
+I’m deeply uncomfortable.
+STEVE
+It’s a school day. She needs to be
+in school.
+(beat)
+I’m gonna give you whatever you
+need.
+CHRISANN
+(to JOANNA)
+It was good to see you again. I’m
+sorry, I don’t remember your name.
+JOANNA
+Joanna Hoffman.
+CHRISANN
+Are you and Steve together now?
+Chris--
+
+STEVE
+
+JOANNA
+As Steve said, I run marketing for
+the Macintosh team.
+CHRISANN
+You seem like a very capable woman.
+Thank you.
+
+JOANNA
+
+CHRISANN
+You’re well educated?
+JOANNA
+No, I went to MIT.
+CHRISANN
+And you have a good sense of humor.
+Why do you choose to work for an
+asshole?
+JOANNA
+The health and dental.
+CHRISANN doesn’t laugh.
+JOANNA (CONT’D)
+(pause--smiles)
+He’s not so bad.
+(MORE)
+
+34.
+9
+
+9
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+JOANNA (CONT’D)
+And if I spent every hour of every
+day with people who were dumber
+than I am I bet I’d be an asshole
+too.
+CHRISANN nods...
+CHRISANN
+Yeah, I guess you would be.
+CHRISANN exits.
+JOANNA
+You two are so good together, I
+don’t know why you couldn’t make it
+work.
+STEVE’s tying his tie.
+STEVE
+Woz wants me to acknowledge the
+Apple II team.
+JOANNA
+(pause)
+You must be able to see that she
+looks like you.
+STEVE
+I don’t want to insult Woz, I just
+think it’s backward-looking at
+exactly the wrong moment.
+JOANNA
+I know you heard (what I said).
+STEVE
+(over--he means this)
+I heard what you said, Joanna.
+We’re about to do this thing--at
+9:41 the planet’s gonna shift on
+its axis, nigh and forever. The two
+most significant events of the 20th
+Century--the Allies win the War and
+this. This. So maybe right now
+isn’t the very best time to scold
+me for not being a better father to
+a kid who’s not my kid. The test-JOANNA
+I don’t care what the test said--
+
+35.
+9
+
+9
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+The test--
+
+36.
+9
+
+STEVE
+
+JOANNA
+I don’t care about 94.1% or the
+insane algorithm you used to get to
+28% of American men-STEVE
+I’m buying her a new house, I’m
+(giving her money).
+JOANNA
+(over)
+There’s a small girl who believes
+you’re her father, that’s all,
+that’s all the math there is. She
+believes it. What are you going to
+do about that?
+STEVE’s done with his tie. He puts a disk in his shirt pocket
+and tries taking it in and out. Then he grabs his jacket-STEVE
+God sent His only son on a suicide
+mission but we like Him anyway
+‘cause He made trees. We’re gonna
+sell a million units in the first
+90 days, twenty thousand a month
+after that, so maybe you could
+gimme a break, Ms. Hoffman.
+They look at each a moment before STEVE exits out into-10
+
+INT. CORRIDOR - CONTINUOUS
+
+10
+
+On the other side of the wall is a full auditorium--2,600
+people--and the energy is like a rock concert about to start.
+Staff and well-wishers (everybody’s young) line the hallway.
+WOZ is waiting and STEVE motions to walk with him-Woz.
+Hey.
+
+STEVE
+WOZ
+
+STEVE
+There’s nothing in that vending
+machine that won’t kill you.
+
+10
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+
+37.
+10
+
+WOZ
+I was just browsing.
+STEVE
+Let’s take a walk. I haven’t been
+outside since Friday.
+WOZ
+It’s pretty cold out there.
+Nah.
+
+STEVE
+
+WOZ
+I don’t think I ask for a lot.
+They head out the doors and onto-A11
+
+EXT. LAWN - CONTINUOUS
+I agree.
+
+STEVE
+
+WOZ
+So all I’m looking for-STEVE
+I know and I could say I’m gonna do
+it and then just not do it but I
+don’t wanna lie to you.
+WOZ
+Right, and I appreciate that, but
+you could also say you’re gonna do
+it and then do it, couldn’t you?
+STEVE
+I think the best thing would be for
+me to say I’m not gonna do it and
+then not do it, you good with that?
+WOZ
+Can I tell you something?
+STEVE
+I have nothing but free time right
+now.
+WOZ
+After the meeting in Maui the Apple
+II team was upset and angry and
+down and you know why?
+
+A11
+
+A11
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+STEVE
+Because the Apple II wasn’t
+mentioned even once.
+WOZ
+The Apple II wasn’t mentioned even-yes, that’s, you have it, that’s
+right.
+STEVE
+It wasn’t an oversight.
+WOZ
+They know that, they know it
+wasn’t. Look, I don’t want to make
+a big deal out of this-STEVE
+That’s entirely within your power.
+WOZ
+The Apple II-STEVE
+The Apple II is what was, my
+friend.
+WOZ
+The Apple II is what pays the bills
+around here and has for seven years
+and when you disrespect these
+people you are doing something
+wrong. It’s bad business but it’s
+also, you know, it’s just, it’s
+you know-Get there.
+--wrong.
+
+STEVE
+WOZ
+
+STEVE
+Okay, first, if we’re gonna talk
+about this, this, in the last
+remaining minutes before the launch
+which by itself is blowing my
+fuckin’ mind--if we’re gonna talk
+about this could you not frame
+yourself as a friend of the working
+man, most of whom I made into
+millionaires? ‘
+(MORE)
+
+38.
+A11
+
+A11
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+STEVE (CONT'D)
+Cause you’re not talking about
+them, you’re talking about you.
+
+39.
+A11
+
+WOZ
+I’ve never, Steve, I’ve never cared
+about--I take issue with that. I’ve
+never cared about credit and you
+know it. I’m talking about them and
+I gave away stock options to people
+whose names you can’t remember.
+STEVE
+They need to make me remember their
+names.
+WOZ
+If you embarrass these people
+you’re gonna see a brain drain at
+this company, my brother. Markkula
+took you off the Lisa, not them and
+not me, so (don’t take it out on--)
+STEVE
+Markkula took me off the Lisa
+because of his strong religious
+objection to making it good.
+QUICK CUT TO:
+11
+
+INT. GARAGE - NIGHT (1976)
+
+11
+
+It’s the garage. It’s completely tricked out with all the
+crude but cool-looking things a group of young geniuses would
+have while inventing a new computer. The only light is coming
+from a couple of tensor lamps on a workbench.
+A younger STEVE and WOZ are standing in front of a huge
+diagram showing several parts of the Apple II from different
+angles.
+WOZ
+What are you talking about?
+CUT BACK TO:
+12
+
+EXT. LAWN - SAME TIME
+STEVE
+Now I gave you everything you
+wanted on the Apple II.
+(MORE)
+
+12
+
+12
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+STEVE (CONT'D)
+You don’t ask for a lot? There
+wasn’t a single fight you lost.
+
+40.
+12
+
+WOZ
+Do you concede that the slots (are
+the reason for the success of)-STEVE
+(over)
+We can’t possibly still be talking
+about the slots, man, it’s been
+seven years and-WOZ
+I have a point. The eight slots on
+(the Apple II are what)-STEVE
+(over)
+You’re still doing it, you’re
+talking about the slots, there’s
+something wrong (with you).
+WOZ
+(over)
+The slots-STEVE
+This argument started in the
+garage!
+QUICK CUT TO:
+13
+
+INT. GARAGE - NIGHT
+
+13
+
+WOZ
+Why would you only want two slots?
+STEVE
+A printer and a modem.
+WOZ
+With eight slots you can--this is a
+huge deal that we were able to put
+in eight slots.
+STEVE
+I appreciate the engineering but
+it’s not what we’re doing.
+CUT BACK TO:
+
+STEVE JOBS - Shooting Script 03/19/15
+14
+
+41.
+
+EXT. LAWN - SAME TIME
+
+14
+
+WOZ
+And thank God I won that argument
+‘cause-Woz--
+
+STEVE
+
+WOZ
+--the open system is what people
+love about the machine and it’s why
+it sold and still sells.
+QUICK CUT TO:
+15
+
+INT. GARAGE - NIGHT
+
+15
+
+STEVE
+An open system, we’re not doing an
+open system.
+WOZ
+Of course we are. That’s what
+people want and the breakthrough on
+the Apple II is-STEVE
+People don’t know what they want
+until you show it to them. Edison
+didn’t do market research on the
+light bulb versus the candle.
+WOZ
+I think it went without saying that
+people would rather flip a switch
+than, you know, burn whale oil. Let
+me explain this world to you.
+Serious users-STEVE
+Which world are you explaining?
+My world.
+
+WOZ
+
+STEVE
+You live on the Planet Wozniak.
+
+15
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+
+42.
+15
+
+WOZ
+Serious users want to customize and
+modify, they want to jack it up,
+they want hardware engineers like me
+to expand its capabilities, okay?
+Keyboards for music, better sound
+boards, better display boards-CUT BACK TO:
+16
+
+EXT. LAWN - SAME TIME
+
+16
+
+WOZ
+And it’s why there are 3000 people
+here today.
+QUICK CUT TO:
+17
+
+INT. GARAGE - SAME TIME
+
+17
+
+WOZ
+--improved memory cards, they want
+ports!
+STEVE
+They don’t get a vote. When Dylan
+wrote “Shelter From the Storm” he
+didn’t ask people to contribute to
+the lyrics. Plays don’t stop so the
+playwright can ask the audience
+what scene they’d like to see next.
+A painter-WOZ
+Hobbyists-STEVE
+We are on the verge of a tectonic-hobbyists?!--a printer and a modem,
+two slots.
+CUT BACK TO:
+
+STEVE JOBS - Shooting Script 03/19/15
+18
+
+43.
+
+EXT. LAWN - SAME TIME
+
+18
+
+WOZ
+The slots are what allowed the
+Apple II to run, for just one
+example, VisiCalc, which my guess
+single-handedly sold between two
+and three-hundred thousand
+machines.
+STEVE
+The Apple II team has my affection
+but I’m not loving up a seven year
+old product at the Mac launch.
+QUICK CUT TO:
+19
+
+INT. GARAGE - SAME TIME
+WOZ
+Computers aren’t paintings.
+STEVE
+Fuck you. I’m gonna say fuck you
+every time you say that until you
+either die or stop. Try it.
+Steve-Say it.
+
+WOZ
+STEVE
+
+WOZ
+Computers aren’t (paintings).
+STEVE
+(over)
+Fuck you. Yes they are and what I
+want is a closed system. End to end
+control. Completely incompatible
+with anything.
+WOZ
+Computers aren’t supposed to have
+human flaws. Why would we want to
+incept this one with yours?
+The two friends look at each other silently...
+
+19
+
+19
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+
+44.
+19
+
+STEVE
+(pause)
+This shouldn’t ruin our friendship.
+WOZ
+Nothing’s gonna ruin our friendship
+but if something did it wouldn’t
+be the number of slots on a
+machine, right?
+CUT BACK TO:
+20
+
+EXT. LAWN - SAME TIME
+
+20
+
+Some stragglers are making their way into the building and
+one of them spots the two Steves-STRAGGLER
+(shouting)
+Hey! Steve and Steve!
+They give a wave-STEVE
+The Apple II is yours, I give you
+full credit.
+WOZ
+Thank you. But they need credit on
+this occasion and it’ll take 30
+seconds, two minutes tops-They head back through the doors and into-A21
+
+INT. CORRIDOR - CONTINUOUS
+STEVE
+Today is about the Macintosh and
+the Mac is mine.
+WOZ
+I give you that.
+Thank you.
+
+STEVE
+
+WOZ
+I give you that. Just publicly
+acknowledge the Apple II team
+because it’s the right thing to do.
+(MORE)
+
+A21
+
+A21
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+WOZ (CONT'D)
+We’ll know soon enough if you’re
+Leonardo Da Vinci or just think you
+are but in the meantime--
+
+45.
+A21
+
+STEVE
+--in the meantime the Apple II’s
+done. 7 years. It was a great run.
+You should go out in the house and
+take your seat.
+WOZ
+(pause)
+Alright.
+WOZ heads back up the hallway and calls over his shoulder-WOZ (CONT’D)
+The Mac is Jeff Raskin’s.
+STEVE looks at WOZ...
+STEVE
+(pause)
+Say it for me.
+WOZ
+A computer’s not a (painting).
+(over)
+Fuck you.
+
+STEVE
+
+WOZ
+(laughing a little)
+Alright.
+WOZ takes off as ANDREA CUNNINGHAM comes up to STEVE-ANDREA
+(whispering)
+Hey! Joel Pforzheimer’s on the
+other side of that door.
+They both keep their voices down.
+
+GQ?
+
+STEVE
+(pause)
+
+ANDREA
+(over)
+GQ. Steve, he’s asking for some
+clarification on Xerox PARC.
+
+A21
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+
+46.
+A21
+
+STEVE
+He’s asking about PARC?
+ANDREA
+You need to go in there. I want him
+to hear it from you (and not
+someone else.)
+STEVE
+(over)
+How does he know about (PARC)?
+ANDREA
+(over)
+I don’t know but he does. Is there
+something I need to know?
+STEVE shakes his head “no,” opens the door to a VIP room and
+walks into-21
+
+INT. VIP ROOM - CONTINUOUS
+
+21
+
+--where the dozen or so people give STEVE a round of
+applause.
+STEVE
+Thanks guys. We’re gonna start, why
+don’t you go take your seats. Joel,
+stick around a second?
+The VIP’s file out, shaking STEVE’s hand or patting his
+shoulder or giving him a hug--”Good luck,” “Knock ‘em dead,”
+“Here we go,” etc.
+As soon as the room is empty-JOEL
+I’ve been trying to get an answer
+on-STEVE
+PARC stands for Palo Alto Research
+Center--Xerox PARC. In the ‘70s
+they came up with something called
+“Gooey”--G-U-I--Graphical User
+Interface. Instead of typing
+commands they used the metaphor of
+a desktop and roughly the same idea
+as a McDonald’s cash register. You
+press a button with a picture of a
+cheeseburger.
+
+21
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+
+47.
+21
+
+JOEL
+And you were shown the technology.
+Yes.
+
+STEVE
+
+JOEL
+And used it in the Macintosh.
+STEVE
+You can draw a line from Xerox PARC
+to the Mac.
+JOEL
+What would you say--Steve, I’m not
+saying this but what would you say
+to someone who said you stole the
+Macintosh from Xerox?
+STEVE
+Do you know who invented the piano?
+No.
+
+JOEL
+
+STEVE
+Do you know who wrote “Moonlight
+Sonata”?
+Beethoven.
+
+JOEL
+
+STEVE
+That’s what I’d say. I’ll see you
+after.
+STEVE heads out of the room and back into-22
+
+INT. CORRIDOR - CONTINUOUS
+
+22
+
+--where ANDY HERTZFELD and JOANNA are waiting for him.
+ANDY
+I need more time.
+STEVE
+You can’t have it.
+They begin walking toward the door that leads to the stage-ANDY
+Twenty minutes.
+
+22
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+It’s 8:58.
+
+48.
+22
+
+STEVE
+
+ANDY
+We can start late.
+STEVE
+Hear me, we’re a computer company,
+we can’t start late.
+ANDY
+Then I have another idea.
+They walk through a door and are-23
+
+INT. BACKSTAGE - CONTINUOUS
+
+23
+
+They’re behind the giant screen on which the whole
+presentation will be projected. Several Macs and their
+operators are at tables. We can hear the audience’s energy.
+And we can see an ENGINEER with a small crowbar trying to
+find a spot to open the back of another Mac while a couple of
+other ENGINEERS stand around it with screwdrivers.
+What?
+
+STEVE
+
+ANDY
+It’s deceptive and borderline
+unethical.
+STEVE
+I’m listening.
+ANDY
+It’ll run on the Five-Twelve.
+STEVE
+You tested it?
+Yeah.
+
+ANDY
+
+JOANNA
+Wait, you’re gonna demo a 128
+computer on a 512?
+STEVE
+Nobody’s gonna know.
+
+23
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+
+49.
+23
+
+JOANNA
+(to ANDY)
+And you think that’s borderline
+unethical?
+ANDY
+Name my other choices please.
+JOANNA
+Please--you have to tell me why
+it’s so important for it to say
+hello.
+STEVE
+Hollywood. They made computers
+scary things.
+(pointing to a Mac)
+You see how this reminds you of a
+friendly face? That the disk slot
+is a goofy grin? It’s warm and it’s
+playful and inviting and it needs
+to say hello. It needs to say hello
+because it can.
+We hear a few dozen members of the audience--seated up in the
+balcony--start to stamp their feet and clap their hands in
+rhythm, rock concert style. The few dozen turn into a few
+hundred.
+STEVE, JOANNA and ANDY silently take it in...
+STEVE (CONT’D)
+We’re not committing fraud. The 512
+is gonna ship in under a year. Will
+you absolve me of your Eastern
+European disapproval?
+JOANNA
+(pause--resigned)
+The computer in 2001 said hello all
+the time and it still scared the
+shit out of-STEVE
+Absolve me.
+JOANNA
+Just for this. And just for now.
+The house lights go out and we hear the audience break into
+THUNDEROUS APPLAUSE.
+
+23
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+
+50.
+23
+
+We hear a WOMAN’s voice over the PA system and see her
+speaking into a mic backstage-WOMAN (VO)
+Ladies and gentlemen, please
+welcome founding board member, Mike
+Markkula.
+We see the silhouette of MARKKULA walking to the podium and
+we’ll be able to hear his opening remarks without paying much
+attention to them.
+JOANNA
+Alright. Okay. Go make a dent in
+the universe, Steven.
+STEVE
+See you in a couple of hours.
+JOANNA heads off and disappears as MARKKULA’s opening remarks
+continue. STEVE waits...
+STEVE (CONT’D)
+(to ANDY)
+The last three run-throughs we’ve
+introduced the Mac exactly 41
+minutes into the-Yeah.
+
+ANDY
+
+STEVE
+The clock on the Mac needs to read
+9:41.
+ANDY
+The clock’s gonna read whatever the
+time is, it’s a clock.
+STEVE takes a moment, nods, and turns to go head to where
+he’s supposed to wait backstage.
+He sees a welcoming sight--the first one of the day. It’s
+JOHN SCULLEY. SCULLEY’s a handsome and easygoing man about 20
+years older than Steve. He’s got a bottle of wine and two
+glasses. STEVE smiles and walks over to him as the opening
+remarks continue in the background.
+STEVE hugs SCULLEY and they speak quietly-STEVE
+Thank merciful God, the cavalry’s
+shown up.
+
+23
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+SCULLEY
+‘Cause I hear you’ve been worse
+than usual this morning and I
+didn’t think that was possible. So
+I’ve been dispatched to be the
+Steve Whisperer. This is a ‘55
+Margaux.
+STEVE
+It’s nine in the morning.
+SCULLEY
+This is a ‘55 Margaux.
+SCULLEY starts pouring two glasses-SCULLEY (CONT’D)
+Is it my imagination or have you
+started to dress like me?
+STEVE
+It was a bad idea to have Markkula
+open with quarterly reports.
+Instead of having Markkula open we
+could have just dropped water on
+the audience.
+SCULLEY laughs a little-STEVE (CONT’D)
+You know, just big 10,000 gallon
+tanks of cold water dropped from
+the ceiling, save Mike some money
+on index cards.
+SCULLEY
+Just relax.
+Why?
+
+STEVE
+
+SCULLEY
+(pause)
+I don’t know, no one’s ever asked
+that question.
+STEVE laughs a little.
+SCULLEY (CONT’D)
+There you go.
+
+51.
+23
+
+23
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+STEVE
+You’re the only person who sees the
+world the same way I do.
+SCULLEY
+No one sees the world the same way
+you do.
+STEVE
+I’m like Julius Caesar, John, I’m
+surrounded by enemies.
+SCULLEY
+You’re not.
+STEVE
+The board-SCULLEY
+The board's behind you.
+STEVE
+Only because you see to it they
+are.
+SCULLEY
+I think it’s a good board but if
+you want me to push ‘em out one by
+one we can talk about that.
+STEVE
+I want you to push ‘em out all at
+once. Through a window if it’s the
+nearest exit. The looks on their
+faces when we showed ‘em the spot?
+SCULLEY
+I couldn’t see their faces ‘cause
+they were banging their heads on
+the table.
+STEVE
+Some of them were frozen like
+they’d just seen “Springtime for
+Hitler.”
+SCULLEY
+My highlight was the silence that
+was broken by, “It’s supposed to be
+a play on the Orwell book, right?”
+Yeah, the spot’s called “1984.”
+
+52.
+23
+
+23
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+
+53.
+23
+
+STEVE
+Yesterday, the day after it airs-once--the publisher of Ad Week
+calls it the best commercial of all
+time. Of all time. And it is and if
+anyone ever does one better it’s
+gonna be Chiat/Day who the board
+wanted to replace and it’s gonna be
+Lee Clow who the board thought was
+out of his mind. Now listen to
+this, you ready?
+The “1984” ad starts playing on the screen--we’re seeing it
+from behind--and as soon as it starts the CROWD ROARS.
+SCULLEY
+Yeah speaking of the ad-STEVE
+They wanted to fire Lee Clow.
+SCULLEY
+Did we use skinheads as extras? A
+couple of people have told me that.
+Yeah.
+
+STEVE
+
+SCULLEY
+We paid skinheads? I have skinheads
+on my payroll?
+STEVE
+(beat)
+Not currently I don’t think, but-Why?
+
+SCULLEY
+
+STEVE
+They had a look he wanted.
+SCULLEY
+The skinheads.
+Yeah.
+
+STEVE
+
+SCULLEY
+‘Kay let’s keep that to ourselves
+‘cause it might offend some of our
+customers.
+
+23
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+STEVE
+Which ones?
+SCULLEY
+All the ones who aren’t skinheads.
+STEVE
+My point is they didn’t get it.
+SCULLEY
+They did not.
+STEVE
+They didn’t get it, they didn’t
+like it, they tried to pull it,
+they were wrong, we were right and
+that boardroom is a big bowl of
+scares-the-living-shit-outta-me.
+SCULLEY
+I’m running your pass blocking on
+the board. Who else knows?
+STEVE
+Who else knows what?
+SCULLEY
+That we paid terrorists to be in
+our TV commercial.
+John--
+
+STEVE
+
+SCULLEY
+They were wrong about the ad but
+it’s a good board, they’re good
+people.
+STEVE
+Their only problem, their problem
+is that they’re people.
+People...the nature of people...is
+something to be overcome.
+SCULLEY
+(pause)
+When I was running Pepsi we had a
+lot of success focusing on 18-to-55
+year olds who aren’t members of
+violent hate (groups).
+
+54.
+23
+
+23
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+(over)
+I get it.
+
+STEVE
+
+SCULLEY
+You’re not surrounded by enemies.
+(beat)
+We’re almost there. About two more
+minutes of quarterly reports.
+They listen to Markkula’s remarks a moment...
+STEVE
+(pause)
+Chrisann came and she brought Lisa.
+SCULLEY
+I had a hunch.
+STEVE
+I’m going back and forth on the
+Dylan. I might quote a different
+verse.
+SCULLEY
+What are the choices?
+STEVE
+“For the loser now will be later to
+win,” which is what we have now.
+Or?
+
+SCULLEY
+
+STEVE
+“It’ll soon shake your windows and
+rattle your walls”.
+No.
+Why?
+
+SCULLEY
+STEVE
+
+SCULLEY
+We’re leading a geek revolution and
+not the French Revolution, what
+else?
+STEVE
+“Come mothers and fathers
+throughout the land.
+(MORE)
+
+55.
+23
+
+23
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+STEVE (CONT'D)
+And don’t criticize what you can’t
+understand. Your sons and your
+daughters--”
+SCULLEY
+“--are beyond your command”, I just
+lost a hundred bucks to Andy
+Hertzfeld. He said you’d change it
+to that verse. We’ve got 45 seconds
+left and I want to use it to ask
+you a question. Why do people who
+were adopted feel like they were
+rejected instead of selected?
+STEVE
+That came out of nowhere.
+SCULLEY
+“Your sons and your daughters are
+beyond your command. Your old road
+is rapidly aging. So go fuck
+yourself ‘cause my name is Steve
+Jobs and the times, they are achangin’”.
+STEVE
+I don’t feel rejected.
+You sure?
+Very sure.
+
+SCULLEY
+STEVE
+
+SCULLEY
+‘Cause it’s not like the baby is
+born and the parents look and say,
+“Nah, we’re not interested in this
+one.” On the other hand, someone
+did choose you.
+STEVE
+It’s a song about progress.
+SCULLEY
+It’s about destroying the past.
+STEVE
+As long as clocks work the past
+will destroy itself by being the
+past.
+
+56.
+23
+
+23
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+SCULLEY
+No, you have to consciously get rid
+of it or the past will be the
+present as well.
+And STEVE’s so happy that someone’s articulated this-STEVE
+Yes! Yes! I was (testing you)-(over)
+Yeah.
+
+SCULLEY
+
+STEVE
+That’s exactly--see?--that’s
+exactly what--you’re the only one-God--that’s what I meant. You’re
+the only one who sees the world the
+way I do.
+(beat)
+What inspired Hertzfeld to make
+that bet?
+SCULLEY
+He was warning me that being your
+father figure could be dangerous.
+I can start replacing the board
+with more Steve-friendly members.
+STEVE
+(pause)
+It’s having no control.
+SCULLEY
+You’re the company, you have
+control.
+STEVE
+I wasn’t talking about the company.
+(beat)
+You find out that you were out of
+the loop when the most crucial
+events in your life were set in
+motion. As long as you have
+control...I don’t understand people
+who give it up.
+(beat)
+He said being a father figure to me
+was dangerous?
+SCULLEY
+He didn’t mean anything by it.
+
+57.
+23
+
+23
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+
+58.
+23
+
+STEVE
+Keep your hundred bucks, I’m
+sticking with the first verse.
+Good.
+
+SCULLEY
+
+STEVE
+What the hell did he (mean by
+that?)
+SCULLEY
+(over)
+Nothing.
+(beat)
+I’m proud of you.
+He doesn’t get weepy but that always means a lot to STEVE.
+STEVE
+Thank you, boss.
+MARKKULA (O.S.)
+It’s my pleasure to introduce my
+friend and the CEO of Apple, John
+Sculley.
+John?
+
+STEVE
+
+SCULLEY
+(turning back)
+Yeah.
+STEVE
+Lisa made a painting on the Mac.
+BLACK
+
+HARD CUT TO:
+
+--and “The Times They Are a-Changin’” crashes in.
+But this isn’t Bob Dylan’s version--it’s a woman singing and
+instead of an acoustic guitar it’s a slightly fuller and
+slightly more up-tempo arrangement. It’s not a Vietnam-era
+protest song but a more contemporary and literal statement.
+We listen to the beginning of the song with the screen in
+black before we-FADE IN:
+
+STEVE JOBS - Shooting Script 03/19/15
+24
+
+PETER JENNINGS - ABC NEWS
+
+59.
+24
+
+As the song continues-PETER JENNINGS
+We turn to “Money Matters” and
+Barry Peterson.
+BARRY PETERSON
+The Macintosh, Apple’s nearmythological home computer, has
+gotten off to a rocky start in its
+battle with industry-titan IBM.
+With sales originally projected to
+be a million in the first quarter,
+Apple has sold only 35,000 of the
+user-friendly machines in the month
+since it’s been available to
+consumers.
+25
+
+DAN RATHER - CBS NEWS
+
+25
+
+DAN RATHER
+Apple Computers closed two of its
+factories today in the wake of
+disappointing sales for what was to
+be its new flagship computer, the
+Macintosh.
+26
+
+LOCAL NEWS - A COMPUTER EXPO
+LOCAL NEWS REPORTER
+Industry experts sight the lack of
+available software for the Mac as a
+reason for its failure to catch on
+with the public.
+BILL TAHILL (INDUSTRY EXPERT)
+The insistence by Steve Jobs that
+it have what’s called end to end
+control, which is a way of saying
+that it’s not compatible with most
+outside software or hardware, is
+the Shakespearian flaw in a machine
+that had potential.
+
+26
+
+STEVE JOBS - Shooting Script 03/19/15
+27
+
+WALL STREET WEEK - PANEL DISCUSSION
+
+60.
+27
+
+TECH EXPERT
+You know how many Macs were sold
+last month? Five hundred.
+28
+
+PETER JENNINGS - ABC NEWS
+
+28
+
+PETER JENNINGS
+Apple announced today that it will
+close down another one of its
+factories, this one in Dallas. For
+more on that we go to Barry
+Peterson and “Money Matters.”
+29
+
+DAN RATHER - CBS NEWS
+
+29
+
+DAN RATHER
+In a move that surprised some but
+not all on Wall Street and in the
+high tech corridors of Northern
+California, the board of directors
+of Apple Computer voted today to
+fire its cofounder, Steve Jobs.
+30
+
+EXT. OPERA HOUSE/SAN FRANCISCO - DAY
+
+30
+
+“The Times They Are a-Changin’” continues-TITLE:
+1988
+San Francisco Opera House
+The Opera House holds twice as many people as the Flint
+Auditorium did and the crowd to get in this morning seems
+three times as large as for the Mac launch. There are local
+news vans parked in front, photographers and press with
+credentials around their necks and of course the giant crowd
+waiting to get into the lobby, which is already jammed.
+Huge banners hung from flagpoles tell us we’re here for the
+launch of NeXT and it’s first product--The Cube.
+(V.O.)
+COME WRITERS AND CRITICS
+WHO PROPHESIZE WITH YOUR PEN
+AND KEEP YOUR EYES WIDE
+THE CHANCE WON’T COME AGAIN
+(MORE)
+
+30
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+(V.O.) (CONT'D)
+AND DON’T SPEAK TOO SOON
+FOR THE WHEEL’S STILL IN SPIN
+AND THERE’S NO TELLIN’ WHO
+THAT IT’S NAMIN’
+FOR THE LOSER NOW WILL BE LATER TO
+WIN
+FOR THE TIMES THEY ARE A-CHANGIN’
+
+61.
+30
+
+CUT TO:
+31
+
+INT. AUDITORIUM - DAY
+
+31
+
+STEVE’s alone on stage in a pool of light. His hair’s a
+little shorter now and his haircuts cost a few hundred bucks.
+But the real difference is a lighthearted air--an easy sense
+of humor.
+On a beautifully lit table sits a black cube shrouded in a
+black cloth and next to it sits a vase of flowers. Slides
+change on the screen in back of Steve to accompany what he’s
+saying.
+STEVE
+Three thousand colleges and
+universities in the United States
+alone. Over 45 thousand
+departments, over 600 thousand
+faculty members, over 12 million
+students. Stanford’s annual
+budget’s 750 million dollars and
+growing. The University of Michigan-over a billion dollars and
+growing. Ohio State, Cal, Colorado,
+UCLA, Georgia Tech--these are
+Fortune 500 companies disguised as
+George?
+STEVE’s calling out to GEORGE COATES, the creative director
+of the presentation.
+GEORGE
+(calling)
+Yeah!
+STEVE
+The focus seems kind of sharp.
+GEORGE
+On the slide?
+STEVE
+The floor, the pin spot.
+
+31
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+
+62.
+31
+
+GEORGE
+I think we want sharp focus.
+STEVE
+It looks like I’m Steve the
+Magnificent.
+GEORGE
+You can’t see it from your angle.
+STEVE
+I’ve seen it from every seat in the
+building and from too many of them
+does it look like I’m about to
+produce a silk scarf. Don’t take it
+personally, I’m just not a fan of
+the circus aesthetic.
+GEORGE
+(calling out)
+Alright, let’s hold here.
+(to STEVE)
+We’re gonna have to go up and refocus the instruments.
+STEVE
+(pointing up)
+Just one--the 30’s fine.
+JOANNA’s walked on stage and is, of course, four years older.
+JOANNA
+While we’re holding there are wellwishers in the VIP room.
+They start heading off stage-STEVE
+I like the circus, I love the
+circus, but why does it still look
+like that?
+JOANNA
+And Woz is here.
+STEVE
+Those performers are unbelievable.
+They have mastered incredibly hard
+albeit not very useful skills--I
+don’t know what the hell goes on in
+the Ukraine--and it should be
+presented in a more--I’m gonna
+revolutionize the circus.
+
+31
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+
+63.
+31
+
+JOANNA
+Why are you in a good mood?
+STEVE
+I’m always in a good mood.
+JOANNA
+John Sculley’s here too.
+STEVE doesn’t like hearing that and he takes his frustration
+out on the door as he pushes it open and they walk into-32
+
+INT. CATACOMBS OF OPERA HOUSE - CONTINUOUS
+JOANNA
+It’s nice that he’s here.
+STEVE
+No more blue tents with yellow
+stars, no more costumes and
+transvestite make-up--a black
+stage, white light, and I’ll be
+perfectly honest I’m back and forth
+on clowns, you know why?
+JOANNA
+And Andy Hertzfeld. You have to see
+them, they want to pay their
+respects.
+STEVE
+Not one of them has ever made me
+laugh.
+JOANNA
+You have to see them anyway.
+STEVE
+I was talking about clowns, you
+unassimilated commie.
+Look--
+
+JOANNA
+
+STEVE
+If they really wished me well
+they’d keep it to themselves.
+JOANNA
+Can I tell you something?
+
+32
+
+32
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+
+64.
+32
+
+STEVE
+I don’t think they do wish me well
+but I’m alright with that. I’m over
+Apple. I got over the Mac and Woz
+and Sculley the same way you get
+over your high school sweetheart.
+Build a new one.
+JOANNA
+Can I tell you something?
+Yes.
+
+STEVE
+
+JOANNA
+You said you wouldn’t compete with
+them and you designed a computer
+specifically for the education
+market which they putatively own so
+I think it’s cool they’re here.
+STEVE
+They’re suing me.
+JOANNA
+Still it was nice they came.
+STEVE
+They’re not being magnanimous, they
+want it to look like an amicable
+divorce. History doesn’t remember
+Joe DiMaggio kindly for dumping
+Marilyn.
+JOANNA makes a suppressed but loud sound while shutting her
+eyes and shaking her fists at God.
+STEVE (CONT’D)
+What’s your problem?
+JOANNA
+I don’t know but I’m sure it can be
+traced back to you. You know I’m
+the one who has to explain you to
+people. $100,000 to Paul Rand for a
+corporate logo when we didn’t even
+know what our company made. A
+$650,000 mold for the Cube because
+God forbid the angles are 90.1
+instead of 90.
+
+32
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+STEVE
+I forbid the angles be 90.1 instead
+of 90. That box could be on display
+at the Guggenheim and you’re
+forgetting about the number of
+coats of paint.
+JOANNA
+On the Cube or the factory? As if
+customers are out there thinking,
+“You know I’d buy that thing except
+I’m not sure I like the color of
+the walls at their plant in Fort
+Worth.”
+STEVE
+You’re very funny for someone with
+no imagination.
+JOANNA
+Don’t give them a reason to say to
+the press you have a chip on your
+shoulder, will you do that for me?
+STEVE
+I don’t have a chip on my shoulder.
+JOANNA
+(trying not to laugh)
+Okay, but don’t give them a reason
+to say you do.
+I don’t.
+
+STEVE
+
+JOANNA
+That’s the right attitude.
+STEVE
+It’s not an att-(beat)
+They’re gonna call me back in a
+minute to look at the light.
+JOANNA
+Get one out of the way.
+Fine.
+Yeah?
+
+STEVE
+JOANNA
+
+65.
+32
+
+32
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+
+66.
+32
+
+STEVE
+One more thing.
+Sure.
+
+JOANNA
+
+STEVE
+No questions from the press after.
+No--why?
+
+JOANNA
+
+STEVE
+Until I have better answers. No
+press avail. Somebody asks where I
+am, you just saw me and I’ll be
+right back.
+JOANNA
+How long do you think that’s going
+to work?
+STEVE
+I don’t know, how good are you at
+your job?
+JOANNA
+Tell me what I don’t know. I mean
+it, tell me.
+Trust me.
+
+STEVE
+
+JOANNA’s starting to try to figure something out...
+JOANNA
+(pause)
+Okay. Who do you want first?
+STEVE
+Bring me the face of Steve Wozniak.
+STEVE walks into-33
+
+INT. STEVE’S OPERA HOUSE DRESSING ROOM - CONTINUOUS
+--where he walks to a small refrigerator and takes out a
+bottle of water. He turns around and-Aagh!
+
+STEVE
+
+33
+
+33
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+
+67.
+33
+
+--reacts to the sight of LISA, now nine years old, who he
+clearly didn’t know was in the room.
+LISA is studiously measuring the sides of the NeXT Computer,
+the black cube, with a plastic ruler. She has a Sony Walkman
+on her waist with the headphones around her neck.
+Hang on.
+
+LISA
+
+STEVE
+I thought you went to school?
+Hang on.
+
+LISA
+
+STEVE
+You were supposed to go to school
+an hour ago, I thought you left.
+LISA
+I didn’t wake up my mom on time
+this morning. It’s happened before
+too. I wake up with the alarm and
+then I get dressed and eat
+breakfast but then sometimes I
+forget to see what time it is after
+that.
+STEVE
+(pause)
+Why doesn’t your mom just set her
+own alarm clock?
+LISA
+It’s one of my chores.
+STEVE hates hearing this but doesn’t want to get into it.
+STEVE
+(pause)
+Well I don’t understand what that
+has to do with why you’re still-where’s your mother?
+LISA
+She went to find a pay phone.
+STEVE
+An hour ago she said-LISA raises her hand.
+
+33
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+
+68.
+33
+
+STEVE (CONT’D)
+You don’t have to raise your hand.
+LISA
+You said it was off by a little.
+It is.
+
+STEVE
+
+LISA
+I just measured it.
+STEVE looks at her a second and then goes to the door and
+pops his head out, looking for help-STEVE
+(calling)
+Joanna!
+LISA
+Exactly a foot on all four sides.
+STEVE
+There are six sides but you’re not
+supposed to be here right now.
+LISA
+We know if four sides are equal to
+each other the other two are equal
+as well.
+STEVE
+What grade are you in?
+Fourth.
+
+LISA
+
+STEVE
+You’re nowhere near taking
+geometry.
+LISA
+It’s just logic.
+STEVE
+The top, bottom, right and left are
+about a millimeter shorter than the
+front and back.
+LISA
+They’re not, I measured them.
+
+33
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+STEVE
+Lisa, I’m kind of an expert in
+design and that’s a 20 cent ruler,
+you think there’s a chance it could
+be off?
+LISA thinks about it a moment...
+LISA
+(pause)
+If I had another ruler I could
+measure the ruler but I really
+doubt (it’s off).
+STEVE
+When your mother-LISA
+’Cause it’s a ruler.
+STEVE
+(beat)
+--comes back, you have to go to
+school.
+LISA
+Why is it off?
+STEVE
+Did you hear what I just said?
+Yes.
+
+LISA
+
+STEVE
+‘Cause sometimes it seems like you
+just keep saying what you want
+without listening.
+LISA
+I’m listening.
+There’s a silence for a moment...
+STEVE
+Is there something you need?
+No.
+
+LISA
+
+Another uncomfortable silence...
+
+69.
+33
+
+33
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+
+70.
+33
+
+LISA (CONT’D)
+(pause)
+Why isn’t it a perfect cube?
+STEVE
+You’ve asked me before.
+LISA
+I forgot what it is.
+STEVE
+It’s an optical anomaly. To the
+human eye a perfect cube doesn’t
+look like a cube so we made it
+roughly a millimeter shorter than a
+foot on two sides.
+LISA
+What’s an anomaly?
+STEVE
+You’ve asked me that before too, I
+don’t know why you do that.
+LISA doesn’t really know what to say...because she’s nine.
+STEVE (CONT’D)
+(pause)
+It’s an exception, something that
+doesn’t fit a pattern.
+There’s a knock on the door-STEVE (CONT’D)
+You have to go to school.
+(calling)
+Come in.
+JOANNA opens the door and she and WOZ enter-JOANNA
+I think you two have met.
+Hey man.
+
+STEVE
+
+WOZ
+Hello old friend.
+STEVE
+You look well.
+
+33
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+WOZ
+So do you, so do you.
+JOANNA
+And they’re telling me George is
+ready for you to look at the focus.
+STEVE
+(to WOZ)
+Take a walk with me.
+WOZ
+Is this Lisa?
+Yeah.
+
+STEVE
+
+WOZ
+This can’t be Lisa.
+It is.
+
+STEVE
+
+WOZ
+(indicating small)
+Lisa’s this big.
+STEVE
+They get taller. Come on.
+WOZ
+Do you remember me?
+STEVE
+She doesn’t.
+WOZ
+I’m your dad’s friend, Steve
+Wozniak.
+LISA
+I apologize, I don’t remember you.
+WOZ
+(pause)
+You’re very polite.
+Woz?
+Yeah.
+
+STEVE
+WOZ
+
+71.
+33
+
+33
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+
+72.
+33
+
+WOZ heads out the door-STEVE
+(to JOANNA)
+Chrisann’s at a pay phone.
+(quietly meaning LISA)
+Would you watch Lisa until-Yeah.
+
+JOANNA
+
+STEVE joins WOZ out in-34
+
+INT. OPERA HOUSE CATACOMBS - CONTINUOUS
+--where they make their way to the stage.
+WOZ
+It’s a madhouse out there.
+STEVE
+Good turnout.
+WOZ
+Great turnout.
+Yeah.
+
+STEVE
+
+WOZ
+“Insanely great.”
+STEVE
+Insanely great.
+WOZ
+You know this is the first time
+ever we haven’t played for the same
+team. It’s like you’re releasing
+your first solo album. I appreciate
+your inviting me to the launch.
+STEVE
+I just want to wipe the slate
+clean.
+WOZ
+That’s exactly what I want. That’s
+why I came backstage. I want you to
+know I’ll be out there with you.
+
+34
+
+34
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+STEVE
+Any chance I could get you to go
+out there instead of me?
+WOZ
+I love you, Steve.
+STEVE
+I love you too, Woz.
+WOZ
+You know--some things were said-They were.
+
+STEVE
+
+WOZ
+They were.
+(pause)
+I’m clumsy at this. I guess-STEVE
+They were said in public.
+(beat)
+Yeah.
+
+WOZ
+
+STEVE
+They were published. You knew you
+were talking to a reporter from
+Fortune, right? You weren’t
+tricked?
+No.
+
+WOZ
+
+STEVE
+(pointing)
+Watch your step.
+WOZ
+Look, I don’t even remember exactly
+what I said. I know it was-STEVE
+(no problem)
+“Steve can be an insulting and
+hurtful guy.”
+Yeah.
+
+WOZ
+
+73.
+34
+
+34
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+
+74.
+34
+
+STEVE
+(no problem)
+“I look forward to a great product
+and I wish him success-Yeah.
+
+WOZ
+
+STEVE
+(problem)
+“--but his integrity I cannot
+trust.” Wait here a second.
+They’re backstage now and STEVE walks onto the stage where
+there’s a new pool of light waiting for him. We stay on WOZ
+backstage for a moment, who now understands that Steve’s
+version of wiping the slate clean and his are two different
+things.
+GEORGE COATES calls from out in the house-Good?
+
+GEORGE
+
+STEVE looks at the floor, at the edges of the pool of light-STEVE
+Good. Where do you want to pick it
+up?
+GEORGE
+The thesaurus.
+STEVE
+A word that’s sometimes used to
+describe me-GEORGE
+Hold please, they’re not cued up.
+STEVE
+We’ve got about 10 minutes before
+we have to clear the house.
+GEORGE
+I doubt we’re starting on time.
+STEVE
+I promise you we are.
+GEORGE
+We still have to get through--
+
+34
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+
+75.
+34
+
+STEVE
+We make computers, we’re--I’ve had
+this conversation before--we’re
+starting on time.
+The giant screen behind Steve is showing the NeXT desktop as
+STEVE demonstrates the thesaurus feature.
+Go ahead.
+
+GEORGE
+
+STEVE
+A word that’s sometimes used to
+describe me is “mercurial.”
+GEORGE
+Hold for laugh.
+STEVE
+Let’s look at the dictionary
+definitions.
+(scrolling to it)
+“Of or relating to or born under
+the planet Mercury.”
+(scrolling down)
+I think the third one is what they
+mean.
+STEVE glances offstage where he sees that LISA is now
+watching a few feet from WOZ.
+STEVE (CONT’D)
+“Characterized by unpredictable
+changeableness of mood.”
+GEORGE
+Hold for laugh.
+STEVE
+If we scroll down the thesaurus,
+though, we see the antonym is
+“saturnine.” By simply doubleclicking on it we immediately look
+that up in the dictionary and here
+it is: “Cold and steady in moods.
+Slow to act or change. Of a gloomy
+or surly disposition.”
+GEORGE
+Hold for laugh.
+
+34
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+
+76.
+34
+
+STEVE
+So I don’t think “mercurial” is so
+bad after all.
+GEORGE
+Let’s jump to 141.
+STEVE
+Gimme just a second.
+STEVE walks to the wings-STEVE (CONT’D)
+(to LISA)
+It’s against the law for you not to
+be in school.
+LISA
+My mom said I could watch.
+STEVE
+Where is she?
+STEVE leads LISA and WOZ back into-35
+
+INT. CATACOMBS - CONTINUOUS
+LISA
+Why did mercurial end up not being
+a bad word?
+STEVE
+Do you remember asking me that the
+night before last when you were
+having dinner at my house?
+LISA
+I forgot the answer.
+STEVE
+The word that was the opposite of
+mercurial was bad, which meant
+mercurial was good.
+LISA
+I don’t get it.
+STEVE
+I think you do get it.
+I don’t.
+
+LISA
+
+35
+
+35
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+STEVE
+‘Cause we also talked about it when
+you came to the rehearsal last
+week.
+LISA
+Why aren’t the angles straight?
+STEVE
+The angles?
+LISA
+On the Cube.
+STEVE
+The angles are straight.
+LISA
+I meant why aren’t they straight on
+other things?
+STEVE
+Why does it feel like you’re
+working me?
+I’m not.
+
+LISA
+
+STEVE
+Woz? Why aren’t the angles straight
+on other things?
+WOZ
+(to LISA)
+When the manufacturers make things
+with 90 degree angles, they cheat
+the angle a little bit--89, 91--so
+that it’s easier to get the object
+out of the mold. Like getting a
+cake out of a pan. But on your
+dad’s new computer he insisted the
+angles be exactly 90 degrees.
+Why?
+
+LISA
+
+WOZ
+He’s a perfectionist.
+Cool.
+
+LISA
+
+77.
+35
+
+35
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+
+78.
+35
+
+STEVE
+Some people don’t mean cool when
+they use that word.
+WOZ
+(to LISA)
+I did.
+STEVE opens the door to -36
+
+INT. STEVE’S DRESSING ROOM - CONTINUOUS
+
+36
+
+--where CHRISANN is waiting.
+STEVE
+I thought you guys left an hour
+ago.
+CHRISANN
+She wants to watch her father’s
+presentation.
+STEVE
+(to LISA)
+Wait in here, I’ll be right back.
+LISA
+(to CHRISANN)
+I saw the thesaurus.
+STEVE closes the door behind her and stands alone in the hall
+with WOZ-STEVE
+Were you pressured to do it?
+WOZ
+(pause)
+What do you mean?
+STEVE looks around...then WOZ follows him through a doubledoor marked “Authorized Personnel Only” and into-37
+
+INT. ORCHESTRA PIT - CONTINUOUS
+
+37
+
+Empty chairs and empty music stands are arranged in a semicircle facing an empty conductor’s podium.
+STEVE looks around at it for a moment...WOZ doesn’t really
+know what they’re doing there. STEVE begins walking around
+slowly...
+
+37
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+STEVE
+Check it out. It’s the orchestra
+pit for the San Francisco Opera.
+WOZ
+Was I pressured to do it?
+STEVE
+I once met Seiji Ozawa at
+Tanglewood. Thunderous conductor.
+Ungodly artfulness and nuance. And
+I asked him what exactly a
+conductor does that a metronome
+can’t do. Surprisingly-WOZ
+--he didn’t beat the shit out of
+you?
+STEVE
+(laughing at Woz’s joke)
+That’s right. No, he said, “The
+musicians play their instruments. I
+play the orchestra.”
+WOZ
+That feels like something that
+sounds good but doesn’t mean
+anything.
+STEVE
+Markkula, Sculley, did they ask you
+to slag me off in the press?
+WOZ
+I had reason (to be angry).
+(over)
+Did they?
+
+STEVE
+
+WOZ
+Absolutely not.
+STEVE
+But they asked you to talk.
+WOZ
+Apple was under siege, you’d just
+left the company, somebody had to
+talk to the press.
+
+79.
+37
+
+37
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+
+80.
+37
+
+STEVE
+(old time producer)
+I’m right here, Woz, the company
+left me.
+WOZ
+I begged you, I begged you. The
+Apple II accounted for 70% of
+revenue, what’d you think was gonna
+happen? You didn’t care enough
+about the Apple II or the Lisa.
+STEVE
+Let’s be really clear, I didn’t
+care at all about the Apple II or
+the Lisa.
+WOZ
+I wasn’t pressured to do it. What I
+said to the press was an honest if
+tempered reflection of what I
+believed.
+Woz?
+Yeah.
+
+STEVE
+WOZ
+
+STEVE
+What the fuck is on your wrist?
+WOZ
+You want to know?
+STEVE
+I literally can’t wait.
+WOZ
+Everyone’s going to be wearing this
+in 10 years. It’s a Nixie Watch
+made using Nixie tubes.
+WOZ is showing STEVE his watch. It’s a chunky thing that
+gives a large digital read-out of the time. The thing is that
+the numbers look exactly like the kind of numbers that are on
+a time-bomb when it counts down in the movies.
+WOZ (CONT’D)
+This is actually 40-year-old
+technology--cold cathode tubes and
+they’re running on 140 volts.
+(MORE)
+
+37
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+WOZ (CONT’D)
+I tilt my wrist 45 degrees and it’s
+right there--hours and minutes--the
+way our minds work.
+
+81.
+37
+
+STEVE
+Do me a favor--set the watch ahead
+like you’re on a plane and changed
+time zones.
+WOZ
+Not a problem.
+WOZ unscrews the face of the watch, the MacGyver-bomb numbers
+look even worse as WOZ starts to press tiny buttons with the
+tip of his pen.
+STEVE
+Excuse me, flight attendant? The
+man next to me would appear to be
+detonating a bomb.
+WOZ stops...
+WOZ
+(pause)
+You think it looks like a bomb?
+STEVE
+Even right now I’m not a hundred
+percent sure it isn’t.
+WOZ
+(pause)
+Maybe once people get used to-Nope.
+
+STEVE
+
+They sit in silence a moment...
+WOZ
+(pause)
+I was angry. You were saying things
+about the Apple II and the way you
+were treating the (team)-STEVE
+(over)
+Woz--you get a free pass for life,
+okay?
+(beat--standing)
+(MORE)
+
+37
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+STEVE (CONT'D)
+I’ve gotta get back onstage, we’ve
+got like two minutes of rehearsal
+time left.
+STEVE heads for the door but he’s stopped by-WOZ
+Do you understand how condescending
+that just was? Maybe you (don’t,
+maybe)-STEVE
+(over)
+I don’t want to see you dragged off
+an airplane in plastic handcuffs,
+how is that-WOZ
+I get a free pass for life? From
+you? You’re the one who gives out
+the passes?! You give ‘em to me?!!
+STEVE
+You’re gonna have a stroke, li’l
+buddy.
+WOZ
+What did you do?! What did you do?!
+Why has Lisa not heard of me?
+STEVE
+Shit, man, how many fourth-graders
+have heard of you?
+WOZ
+You can’t write code. You’re not an
+engineer, you’re not a designer,
+you can’t put a hammer to a nail. I
+built the circuit board, the
+graphical interface was stolen from
+Xerox PARC, Jeff Raskin was the
+leader of the Mac team before you
+threw him off his own project...
+everything! Somebody else designed
+the box! So how come 10 times in a
+day I read Steve Jobs is a genius?
+What do you do?
+STEVE
+I play the orchestra. And you’re a
+good musician.
+(pointing)
+(MORE)
+
+82.
+37
+
+37
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+STEVE (CONT'D)
+You sit right there. You’re the
+best in your row.
+
+83.
+37
+
+WOZ
+I came here to clear the air. You
+know why I came here?
+STEVE
+Didn’t you just (answer that?)
+WOZ
+(over)
+I came here ‘cause you’re gonna get
+killed. Your computer is going to
+fail. You had a college and
+university advisory board telling
+you they need a powerful
+workstation for 2 to 3 thousand,
+you’ve priced NeXT at 6500, which
+doesn’t include the optional three
+thousand-dollar hard drive which
+people will discover isn’t optional
+because the optical disk is too
+weak to do anything and the twenty
+five hundred dollar laser printer
+brings the total to twelve-thousand
+dollars and in the entire world,
+you are the only person who cares
+that it’s housed in a perfect cube.
+You’re gonna get killed and I came
+here to stand next to you while
+that happens because that’s what
+friends do, that’s what men do, I
+don’t need your pass. We go back so
+don’t talk to me like I’m other
+people. I’m the only one who knows
+that this guy here is someone you
+invented. I’m standing by you
+‘cause that perfect cube that does
+nothing is about to be the single
+biggest failure in the history of
+personal computing.
+STEVE wants to tear into WOZ and he considers it for a quick
+moment but instead of doing that he says this...
+STEVE
+(pause)
+Tell me something else I don’t
+know.
+STEVE opens the door and walks out into--
+
+STEVE JOBS - Shooting Script 03/19/15
+38
+
+INT. CORRIDOR - CONTINUOUS
+JOANNA’s waiting.
+STEVE
+Back on stage?
+JOANNA
+We’re out of time. They’ve got to
+mop the stage and open the house.
+STEVE looks at her...
+STEVE
+(pause)
+If it crashes it crashes, right?
+JOANNA
+You’ll make a joke.
+STEVE
+I’ll make a joke.
+JOANNA
+If it crashes it crashes.
+STEVE
+It’s a good slogan. “NeXT: If it
+Crashes it Crashes.”
+JOANNA
+(quietly)
+I’m not just talking about the
+demo. Steve? If it tanks we don’t
+swallow cyanide, we go back to the
+drawing board.
+STEVE
+No more drawing boards. You invent
+the Edsel twice and you don’t get
+anymore drawing boards. So let’s
+not-JOANNA
+Tell me what the plan is. You have
+to tell me the plan because I don’t
+know. You’re walking around like
+you’ve got can’t-lose cards.
+STEVE
+The plan will reveal itself to you
+when you’re ready to see it.
+
+84.
+38
+
+38
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+JOANNA
+Will I have to drop acid?
+STEVE
+Couldn’t hurt.
+JOANNA
+Is there a plan?
+STEVE
+Have I ever let you down?
+JOANNA
+Every single goddamn time.
+STEVE
+Then I’m due.
+Is there?
+
+JOANNA
+
+STEVE
+Joanna, there is a plan. But I
+don’t want to put you in a position
+where you’re lying to people.
+JOANNA considers this a moment...
+JOANNA
+(pause)
+Start 15 minutes late so Avie (can
+recompile and try to give us a
+fighting)-STEVE
+Jesus Christ, how many times-Fine.
+
+JOANNA
+
+STEVE
+--are we gonna have this con--we’re
+not starting late. Ever. We’re not
+ever starting late.
+JOANNA
+But where do you come down on
+starting late?
+STEVE takes a moment...
+
+85.
+38
+
+38
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+
+86.
+38
+
+STEVE
+Lisa’s been doing this thing where
+she asks me about stuff I’ve
+already told her. She asks me
+questions and I know she already
+knows the answers. What’s that
+about?
+JOANNA
+Kids do that when they’re scared
+one of their parents is in a bad
+mood. They try to get you talking
+about something you like. It’s very
+common and can be treated by
+talking to her about things she
+likes.
+STEVE
+(pause)
+Do have any training or experience
+in this field?
+No.
+
+JOANNA
+
+STEVE
+Tell ‘em to open the house.
+STEVE heads down the hall a little, opens the door and walks
+into-39
+
+INT. HIS DRESSING ROOM - CONTINUOUS
+--where CHRISANN is waiting.
+STEVE
+Where’s Lisa?
+CHRISANN
+She’s around.
+STEVE
+What does that mean?
+CHRISANN
+She’s running around the building.
+STEVE
+An hour ago you said you were
+taking her to school.
+
+39
+
+39
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+CHRISANN
+She begged me to let her stay. There
+are fathers who would so love-STEVE
+It is wrong, okay? It is morally
+wrong, it is parentally wrong, it
+is wrong for you to use Lisa as a
+way of getting money from me. She
+will know if she doesn’t already
+that that is your primary use for
+her and (she will hate you for it
+for the rest of your life).
+CHRISANN
+(over)
+She will see, if she doesn’t
+already, that her mother is a woman
+who stands up to men.
+STEVE
+By living off of them.
+CHRISANN
+By not letting myself be imprisoned
+and degraded by them.
+STEVE
+Imprisoned? I can’t get rid of you!
+CHRISANN
+I need a doctor and I need a
+dentist.
+STEVE
+I dropped out of college after a
+semester but okay, let’s have a
+look.
+CHRISANN
+You will support your daughter and
+her mother.
+STEVE
+Did you pay someone fifteen hundred
+dollars to bless your house?
+CHRISANN
+Did you hear what I said?
+Did you?
+
+STEVE
+
+87.
+39
+
+39
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+CHRISANN
+I don’t remember how much it was,
+Steve.
+STEVE
+It was fifteen hundred dollars.
+CHRISANN
+They don’t do it for free.
+STEVE
+They don’t, they charge fifteenhundred dollars.
+CHRISANN
+How I spend--fuck, you know, I’m
+(not even gonna--)
+STEVE
+(over)
+Were you about to say, “How I spend
+my money is none of your business?”
+CHRISANN
+I have a sinus infection and I need
+to see a dentist too.
+STEVE
+So you can see how your blessing
+budget could have been better
+spent.
+CHRISANN
+Like on a perfect cube?
+STEVE
+Look at me, Chrisann.
+What?
+
+CHRISANN
+
+STEVE
+Look at me. You know who I am,
+right?
+Yes.
+
+CHRISANN
+
+STEVE
+And you know I know people.
+CHRISANN
+What are you talking about?
+
+88.
+39
+
+39
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+STEVE
+Look at me. And you know the people
+I know, they know people.
+CHRISANN
+What is this?
+STEVE
+If I ever hear again that you’ve
+thrown a cereal bowl at Lisa’s head-What?!
+
+CHRISANN
+
+STEVE
+--my private line is gonna ring
+and a voice on the other end is
+gonna say, “We’re all set.”
+And that’s how I’ll learn that
+you’re dead.
+CHRISANN
+Are you cra--I threw the bowl on
+the floor! I didn’t throw it at her
+head, she wasn’t even in the room!
+She was nowhere near--I threw it on
+the floor!
+STEVE
+She’s a little girl, you’re scaring
+her. I’m a grown man, you’re
+scaring me. Taking out the garbage
+is a chore, clearing the table is a
+chore, waking you up in the morning
+is just fuckin’ creepy.
+CHRISANN
+Please teach me more about being a
+parent. It means-STEVE
+We’re done here, Chris.
+CHRISANN
+It means so much coming from
+someone who won’t admit he is one.
+STEVE
+We’re all set. Stop screaming at
+Lisa.
+CHRISANN
+I give her responsibilities--
+
+89.
+39
+
+39
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+Got it.
+
+90.
+39
+
+STEVE
+
+CHRISANN
+--and one day she’s going to thank
+me for it.
+STEVE
+Probably in your sleep.
+Fuck off.
+Okay.
+
+CHRISANN
+STEVE
+
+CHRISANN
+I never threw anything at her head.
+I never--I never would.
+(broken)
+Things don’t become so because you
+say so.
+STEVE
+There’ll be more money in your
+account by the end of business.
+STEVE opens the door and walks out into-40
+
+INT. CORRIDOR - CONTINUOUS
+--where JOANNA’s still waiting.
+JOANNA
+Are you being nice?
+Oh yeah.
+
+STEVE
+
+JOANNA
+Andy’s next.
+STEVE
+Hertzfeld or Cunningham?
+JOANNA
+Hertzfeld. He’s playing with Avie
+Tevanian and the computer
+backstage.
+JOEL PFORZHEIMER, the reporter we met briefly in the first
+act, runs and catches up with STEVE and JOANNA.
+
+40
+
+40
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+Steve?!
+
+91.
+40
+
+JOEL
+
+STEVE turns to see him coming but keeps walking with JOANNA-JOANNA
+Can he do it later, Joel, we go in
+8 minutes.
+JOEL
+Can I just get a quick reaction to
+the press this morning?
+STEVE
+What about it?
+JOEL
+The size of it, the volume.
+JOANNA
+I’ll tell you on background-JOEL
+I was hoping for a quote from
+Steve.
+JOANNA
+I’ll tell you on background that
+I’ve never seen anything like it in
+the tech industry. I called the
+Wall Street Journal to take out a
+full page ad for today and you know
+what their sales guy said? “Why
+bother? It’d be like notifying
+Macy’s that tomorrow is Christmas.”
+JOEL
+You saw the Stewart Alsop
+newsletter?
+I did.
+
+JOANNA
+
+JOEL
+I’m sorry, Joanna, I need to get
+Steve on the record.
+JOANNA
+The headline was “Dear NeXT: When
+Can I Get My Machine?”
+JOEL
+When can he?
+
+40
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+JOANNA
+We’ll announce the ship date in the
+next 8-10 weeks.
+JOEL
+Alsop’s not talking about the ship
+date, he wants to know when he can
+get one to play with.
+JOANNA
+We have a lot of respect for
+Stewart Alsop and we want to get a
+machine into his hands so he can
+tell his subscribers about it.
+JOEL
+And when will that be?
+Very soon.
+
+JOANNA
+
+JOEL
+A couple of days, a week? Off the
+record.
+JOANNA
+Off the record?
+JOEL
+Completely.
+We think--
+
+JOANNA
+
+STEVE
+He’ll get it when it’s finished.
+JOEL stops walking. STEVE and JOANNA stop too.
+JOEL
+(pause)
+It’s not finished?
+STEVE
+It’s almost finished.
+JOEL
+I’ve been watching you rehearse the
+demo for three weeks.
+Yes.
+
+STEVE
+
+92.
+40
+
+40
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+
+93.
+40
+
+JOEL
+What’s left?
+STEVE
+A little thing.
+What?
+
+JOEL
+
+JOANNA
+I think that’s enough.
+STEVE
+We’re off the record and Joel’s
+always been good at understanding
+nuance.
+JOEL
+What’s left to finish?
+
+STEVE
+I guess in layman’s terms you’d
+have to say we don’t have an OS.
+JOEL
+(pause)
+An operating system.
+Yeah.
+
+STEVE
+
+JOEL
+What do you mean?
+STEVE
+Well the OS is what runs the
+computer. In fact it sort of is the
+computer.
+JOEL
+How has it been running, how is it
+gonna run this morning? What do you
+mean you don’t have an OS?
+They walk into-41
+
+INT. BACKSTAGE - CONTINUOUS
+
+41
+
+ANDY HERTZFELD is huddled over the shoulder of AVIE TEVANIAN
+and some ENGINEERS who are busy with last minute checks.
+
+41
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+
+94.
+41
+
+STEVE
+(quietly)
+Avie Tevanian is our chief software
+designer and he wrote a demo
+program. It’s like this, we built a
+great car, we haven’t built the
+engine, so we put a golf cart
+battery in there to make it go for
+a little bit. All this computer
+knows how to do right now is
+demonstrate itself.
+JOEL
+(quietly)
+You’re telling me the only thing
+you’ve built is a black cube?
+
+Yes.
+
+STEVE
+(pause)
+
+(beat)
+Yeah, but isn’t it the coolest
+black cube you’ve ever seen?
+JOEL
+Is this--we’re off the record--is
+this a strategy or a problem
+because if it’s a problem-STEVE interrupts this and points to ANDY-STEVE
+Do not share proprietary knowledge
+with that man.
+JOANNA
+(confidentially to JOEL)
+It’s not a problem.
+STEVE’s walking over to ANDY and AVIE, who are busy on the
+computer.
+ANDY
+I wouldn’t understand it anyway.
+STEVE
+I don’t understand it either and my
+name’s on the patents.
+ANDY
+It’s got email.
+
+41
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+STEVE
+Email’s not just for tech
+specialists anymore. Well it is,
+but it won’t be.
+ANDY
+And I assume an email sent on a
+NeXT computer can only be received
+by a NeXT computer?
+STEVE
+Closed end to end.
+(to AVIE)
+The new trash can is wrong. I want
+to tell you I appreciate all the
+hours you put into it but I can’t
+because of how terrible it is.
+AVIE
+We’ll go back to the other one.
+STEVE
+And why are we still giving three
+options on the clock?
+AVIE
+How many options do you want to
+give?
+STEVE
+Two. Buy it or don’t.
+ANDY
+(to STEVE)
+Can I talk to you a second?
+STEVE
+Absofruitly.
+ANDY leads STEVE away to talk to him privately-ANDY
+Look, man, Avie’s been recompiling
+but he says there may be some
+glitches this morning.
+STEVE
+If all there are are some glitches
+it’ll be a triumph of a miraculous
+magnitude. Why are you translating
+for Avie?
+
+95.
+41
+
+41
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+ANDY
+I didn’t want him to find out the
+hard way your position on glitches
+in a demo but it sounds like you’ve
+mellowed.
+STEVE
+I’ve been growing, Andy, I’ve been
+learning to love myself.
+ANDY
+I wouldn’t have ever dreamed that
+was a problem.
+STEVE
+Fantastic burn. You need to go to
+your seat.
+ANDY
+And how ‘bout Lisa? Getting into a
+school for gifted kids?
+STEVE
+Yeah, she was tested and it turns
+out she can fly.
+ANDY wants STEVE to treat this like it’s a big deal.
+ANDY
+Seriously, it’s a big deal.
+STEVE
+I know it’s a big deal. That’s why
+I built the school a building.
+ANDY
+I’m sure that’s not why she got in.
+Really?
+
+STEVE
+
+ANDY
+Can I show you something funny from
+MacWorld?
+STEVE
+I can’t think of anything I have to
+do right now.
+ANDY
+It’ll make you feel good.
+(calling)
+Joanna, look at this.
+
+96.
+41
+
+41
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+
+97.
+41
+
+JOANNA comes over--ANDY’s taken a folded-up page from a
+magazine out of his pocket.
+JOANNA
+Andy, he’s only got a few minutes.
+ANDY
+It’s Guy Kawasaki writing in
+MacWorld, you’re gonna like this.
+JOANNA
+Can we all enjoy it later?
+ANDY
+He wrote a parody press release
+about Apple buying NeXT for your
+OS. He imagines a near-future where
+Apple needs your OS and has to buy
+NeXT and you come back as CEO. He
+has Gates saying there would now be
+more innovations from Jobs that
+Microsoft could copy. You can read
+it later.
+STEVE
+(taking the article)
+Thanks.
+ANDY
+She would have gotten in without
+you donating a building.
+(beat)
+She’s a very bright girl, Steve.
+STEVE
+(beat)
+Still, it was something to talk
+about in the interview.
+ANDY
+Alright, good luck.
+ANDY exits backstage to head out into the house...
+JOANNA
+Give it to me, I’ll throw it out
+for you.
+STEVE
+I’m gonna hang on to it.
+STEVE folds the article and puts it in his pocket. JOANNA
+stares at him, trying to puzzle through what’s happening...
+
+41
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+What?
+(beat)
+What?
+
+98.
+41
+
+STEVE (CONT’D)
+
+JOANNA
+You ready for Sculley?
+Mm-hm.
+
+STEVE
+
+But STEVE’s seen something up in the lighting grid. She’s
+sitting in her coat and scarf and listening to music on her
+Walkman.
+STEVE (CONT’D)
+Excuse me.
+(calling)
+Lisa?
+JOANNA
+You can’t shout.
+STEVE heads up the metal stairs and onto-42
+
+INT. CATWALK - CONTINUOUS
+
+42
+
+LISA sees her father and smiles as he walks toward her.
+STEVE
+You have to go.
+She either can’t hear him or is pretending she can’t.
+STEVE (CONT’D)
+It’s dangerous up here, that’s why
+I make other people do it.
+LISA points to her headphones. STEVE kneels down and pushes
+the headphones down around her neck.
+STEVE (CONT’D)
+Who are you hiding from, me or your
+mom?
+LISA
+I’m not hiding.
+Let’s go.
+
+STEVE
+
+LISA gets up and follows her father to the stairs--
+
+42
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+STEVE (CONT’D)
+What were you listening to?
+LISA
+I’m listening to two versions of
+the same song. And then when I get
+to the end I rewind and listen to
+them again. It’s the same song but
+the versions are different.
+STEVE holds a moment...then sees an opening.
+STEVE
+(pause)
+What’s the song?
+LISA
+Okay, so it’s a really old song and
+it’s called “Both Sides Now.”
+STEVE
+“Both Sides Now.”
+Yeah.
+
+LISA
+
+That went alright so STEVE tries it again.
+STEVE
+(beat)
+What’s it about?
+LISA
+(thinks)
+It’s about--there are three verses.
+Clouds, love and life. And the
+person singing is singing that they
+used to think of, that they used to
+think about, you know-STEVE
+--clouds, love and life.
+LISA
+--right, one way, yeah, but now
+they look at them another way and
+now they’re, you know, they’ve...
+STEVE
+(beat)
+--they’ve come to the conclusion
+that they really don’t know clouds,
+love or life at all?
+
+99.
+42
+
+42
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+
+100.
+42
+
+LISA
+Those are the exact words.
+STEVE
+Yeah Joni Mitchell, ‘cause it’s not
+a really old song unless I’m a
+really old guy. You have to go to
+school now.
+They’ve come down the metal stairs and land-43
+
+INT. BACKSTAGE - CONTINUOUS
+
+43
+
+LISA
+You want me to tell you the
+difference between the two
+versions?
+Right now.
+
+STEVE
+
+LISA
+The first version is the kind of
+thing you’d call girlish.
+STEVE
+I didn’t mean that I want to know
+the difference right now, I meant
+you have to go to school right now.
+LISA
+I can stay and watch.
+STEVE
+You are truant, you’re committing a
+crime.
+LISA
+I’m not gonna miss anything
+important.
+STEVE
+How do you know?
+LISA
+I read ahead. The Pilgrims make it
+to the New World.
+JOANNA opens the door and steps into the backstage area from
+the corridor--
+
+43
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+Steve?
+
+101.
+43
+
+JOANNA
+
+LISA
+Then the Declaration of
+Independence.
+STEVE
+(paying attention to
+JOANNA now instead)
+Yeah you skipped over a couple of
+centuries.
+JOANNA
+Chrisann’s out here.
+STEVE and LISA are quiet for a moment...we HEAR the sound of
+the giant sold-out house.
+STEVE
+(pause)
+Let’s go.
+LISA
+Can I make my case for staying?
+No.
+
+STEVE
+
+STEVE walks LISA out into-44
+
+INT. CORRIDOR - CONTINUOUS
+--where CHRISANN is waiting.
+STEVE
+She was with me.
+CHRISANN
+Come on. Your dad doesn’t want us
+to stay.
+STEVE
+Hey that’s not true, that’s not-STEVE gives CHRISANN a look that says “What the hell?”-STEVE (CONT’D)
+(to LISA)
+You have to be in school is all.
+
+44
+
+44
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+
+102.
+44
+
+LISA
+(to CHRISANN)
+I’m committing a crime right now, I
+don’t want to get in trouble.
+STEVE
+You’re not in trouble, I was
+kidding.
+LISA
+(nodding)
+Okay.
+STEVE’s feeling the pull of not really wanting her to go.
+STEVE
+(pause)
+Hey what was the second version?
+You said the first version was
+girlish, what was the second
+version?
+LISA
+(pause--thinks)
+I can’t really think of the word.
+STEVE
+(beat)
+Okay, well have a good day at
+(school).
+LISA
+(over “school”)
+Regretful.
+What?
+
+STEVE
+
+LISA
+Like wishing you could go back and
+do things over again.
+STEVE
+(pause)
+You’re too young to be regretful.
+LISA
+Not me, the person singing the
+song.
+STEVE
+(beat--nods)
+Got it. Regretful.
+(MORE)
+
+44
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+STEVE (CONT'D)
+(beat)
+That makes sense because of--
+
+103.
+44
+
+She puts her arms around her father’s waist and hugs him-Good luck.
+
+LISA
+
+CHRISANN and LISA head off as STEVE stands there with JOANNA
+looking on. STEVE turns and looks at JOANNA and she looks at
+a spot on the floor and shakes her head.
+STEVE’s thinking about a lot of things but all that comes out
+of his mouth is-Clouds.
+
+STEVE
+
+JOANNA
+(pause)
+Six minutes. You want to see
+Sculley?
+No.
+
+STEVE
+
+JOANNA
+That wasn’t a question.
+STEVE
+It sounded exactly like a question
+to me. I’ll see him after.
+Steve walks down the corridor alone.
+A45
+
+INT. BALCONY DAY
+
+A45
+
+Steve surveys the crowd for a moment then walks out into-45
+
+INT. BALCONY LOBBY - CONTINUOUS
+
+45
+
+--Steve stops when he hears the voice of John Sculley
+SCULLEY
+You know all those times I told you
+you needed security? Here’s why.
+STEVE’s looking at SCULLEY. SCULLEY’s a sworn enemy now but
+STEVE’s not going to show him that. He has bigger plans.
+
+45
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+
+104.
+45
+
+STEVE
+(pause)
+I don’t know how it is I’ve gotten
+older and you haven’t. Some deal
+with the devil I was never offered.
+SCULLEY
+So you know what I’ve been thinking
+for the last four years?
+STEVE
+As it turns out I’ve never known
+what you were thinking.
+SCULLEY
+No newborn baby has control, do you
+know what I’m talking about? In
+‘84, before the Mac launch, you
+said-Yeah.
+
+STEVE
+
+SCULLEY
+You said that being adopted meant
+you didn’t have control.
+STEVE
+(pause)
+We’re starting in a minute so-SCULLEY
+Why do people think I fired you?
+STEVE
+It’s fine, John, it’s all behind
+us.
+QUICK CUT TO:
+46
+
+INT. STEVE’S LIVING ROOM - NIGHT
+
+46
+
+It’s a beautiful house but it’s almost entirely unfurnished.
+There’s a very nice floor lamp, a framed photograph of
+Einstein on the wall...and that’s about it. Except for a Mac
+that sits in the middle of the floor.
+The DOORBELL RINGS--STEVE looks at the door-CUT BACK TO:
+
+STEVE JOBS - Shooting Script 03/19/15
+47
+
+105.
+
+INT. BALCONY LOBBY - SAME TIME
+Is it?
+Hm?
+
+47
+
+SCULLEY
+STEVE
+
+SCULLEY
+Don’t play stupid, you can’t pull
+it off.
+STEVE
+You came here to ask me-QUICK CUT TO:
+48
+
+STEVE’S FOYER - NIGHT
+
+48
+
+STEVE opens the door and SCULLEY is standing there.
+SCULLEY
+Sorry to come by unannounced.
+CUT BACK TO:
+49
+
+INT. BALCONY LOBBY - SAME TIME
+STEVE
+--why people think you fired me?
+Yeah.
+Seriously?
+Yeah.
+
+SCULLEY
+STEVE
+SCULLEY
+
+STEVE
+I haven’t seen or spoken to you in
+three years.
+SCULLEY
+Why do people think I fired you?
+STEVE
+(pause)
+Just confirm something for me,
+okay? You liked the ad, right?
+(MORE)
+
+49
+
+49
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+STEVE (CONT'D)
+The commercial. “1984.” You liked
+it?
+
+106.
+49
+
+QUICK CUT TO:
+50
+
+INT. STEVE’S LIVING ROOM - NIGHT
+
+50
+
+SCULLEY
+When are you gonna get furniture?
+STEVE
+It’s not an easy process.
+SCULLEY
+It is, you buy a couch and take it
+from there.
+STEVE
+I’ve been thinking a lot about
+couches. What do we use them for?
+Steve--
+
+SCULLEY
+
+STEVE
+I’d be really surprised if you came
+here to talk about interior
+decorating.
+CUT BACK TO:
+51
+
+INT. BALCONY LOBBY - SAME TIME
+
+51
+
+SCULLEY
+I liked the ad very much.
+You did.
+
+STEVE
+
+SCULLEY
+You know I did, now please answer
+my question.
+STEVE
+You’re lying, son of a bitch, you
+tried to kill it.
+QUICK CUT TO:
+
+STEVE JOBS - Shooting Script 03/19/15
+52
+
+107.
+
+INT. STEVE’S LIVING ROOM - NIGHT
+
+52
+
+SCULLEY
+It’s time to take a hard look at
+the Mac.
+STEVE
+It’s past time. It’s overpriced, we
+need to drop it to nineteen ninetyfive. We need to double the
+marketing budget, put more bodies
+on an internal hard drive and
+invest in FileServer.
+SCULLEY
+Where would that money come from?
+STEVE
+It would come from finally getting
+rid of the Apple II.
+CUT BACK TO:
+53
+
+INT. BALCONY LOBBY - SAME TIME
+SCULLEY
+Where the hell did you get the idea
+I tried (to kill the ad?)
+Lee Clow.
+
+STEVE
+
+SCULLEY
+Lee’s wrong.
+STEVE
+He’s lying?
+SCULLEY
+He’s mistaken.
+STEVE
+You agreed with the board.
+SCULLEY
+I understood the board’s concerns
+but I certainly did not (try to
+kill--)
+STEVE
+The board’s concern that we didn’t
+show the product.
+
+53
+
+53
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+
+108.
+53
+
+SCULLEY
+Among other things, but my
+(question was--)
+STEVE
+(over)
+What other things? You said among
+other things.
+QUICK CUT TO:
+54
+
+INT. STEVE’S LIVING ROOM - NIGHT
+SCULLEY
+The Apple II is the only thing
+making money.
+STEVE
+That’s because we keep selling it.
+SCULLEY
+(pause--this is awkward
+and hard)
+I can’t diagram that logic but-STEVE
+We keep making it so people keep-the Mac needs to sell for $1995.
+SCULLEY
+There is no market research telling
+us the Mac is failing because it’s
+overpriced. It’s telling us that
+people don’t like it because they
+think it doesn’t DO anything, it’s
+closed end to end. We didn’t know
+it wasn’t what people wanted but it
+isn’t, they want slots, they want
+choices, they want options. The way
+we buy stereos, mix and match
+components.
+STEVE
+John, listen to me. Whoever said
+the customer is always right was, I
+promise you, a customer.
+SCULLEY
+My job is to make a recommendation
+to the board.
+
+54
+
+54
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+
+109.
+54
+
+STEVE
+Recommend that we drop the price,
+double the marketing-I can’t.
+
+SCULLEY
+
+STEVE
+Well what are you gonna do,
+recommend that we kill the Mac?
+SCULLEY
+I already have, Steve.
+STEVE
+(pause)
+What?
+CUT BACK TO:
+55
+
+INT. BALCONY LOBBY - SAME TIME
+
+55
+
+SCULLEY
+Among other things, it was set in a
+dystopian galaxy, it took place on
+a planet where we don’t live, it
+was dark and the opposite of our
+brand. And we didn’t show the
+product. People talked about the ad
+but most of them didn’t know what
+we were selling.
+QUICK CUT TO:
+56
+
+INT. STEVE’S LIVING ROOM - NIGHT
+When?
+
+STEVE
+
+SCULLEY
+Just now. An hour ago. I’m coming
+from Markkula’s house.
+STEVE
+And what did he say?
+(beat)
+What did he say?
+
+56
+
+56
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+
+110.
+56
+
+SCULLEY
+What do you want the headache for?
+Moving money around, figuring out
+what--invent something new. I’ll
+give you a team, you can sit in
+Maui, the resorts come with
+couches.
+STEVE
+(beat)
+Wait a minute--are you saying you
+recommended terminating the Mac or
+you recommended taking me off the
+Mac team?
+SCULLEY
+(pause)
+Figure out what’s next.
+CUT BACK TO:
+57
+
+INT. BALCONY LOBBY - SAME TIME
+STEVE
+You thought it was dark?
+SCULLEY
+(beat)
+They thought it was--it had
+skinheads in it but that’s (not the
+point).
+STEVE
+(over)
+She was liberating them.
+SCULLEY
+Liberating the skinheads.
+STEVE
+The ad didn’t have anything to do
+with fucking skinheads! We used
+them as fucking extras! Nobody even
+knows they were skinheads!
+SCULLEY
+I’m saying the board-STEVE
+You invented lifestyle advertising
+and “our brand” was my brand.
+
+57
+
+57
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+
+111.
+57
+
+SCULLEY
+We showed a lot of happy people
+drinking Pepsi, we didn’t say the
+world was gonna come to an end if
+you bought a Dr. Pepper. And we
+showed the product! We showed it
+being opened, we showed it being
+poured, being consumed-STEVE
+You think the secret to your
+success was not assuming people
+knew what they were supposed to do
+with a can of soda?
+SCULLEY
+I didn’t kill the ad, Steve! I’m
+the only reason it made it on the
+air!
+QUICK CUT TO:
+58
+
+INT. STEVE’S LIVING ROOM - NIGHT
+STEVE
+If we drop the price and (double
+the budget)-SCULLEY
+Steve! You can’t drop the price and
+double a budget! The only way to do
+that is to take money out of the
+Apple II and-STEVE
+The Apple II should embarrass you.
+It embarrasses me. If you had any
+pride at all-SCULLEY
+It doesn’t embarrass the
+shareholders, Steve, (the share)-STEVE
+(over)
+I don’t give a shit about--the
+shareholders are your problem,
+that’s why I hired you, so I don’t
+ever have to hear about--
+
+58
+
+58
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+
+112.
+58
+
+SCULLEY
+The shareholders are my problem and
+the board represents the
+shareholders. That’s how it
+works.
+STEVE
+(figuring it out)
+You’re doing both. You’re moving me
+off the Mac and phasing it out.
+Yes.
+
+SCULLEY
+CUT BACK TO:
+
+59
+
+INT. BALCONY LOBBY - SAME TIME
+
+59
+
+STEVE
+Woz and I offered to put up our own
+money and you’re the only reason
+the ad was on the air?
+Yes.
+
+SCULLEY
+
+STEVE
+How do you figure?
+SCULLEY
+We’d bought three spots in the
+Super Bowl--two 30’s and a 60--for
+six-hundred thousand and after we
+screened it the board wanted that
+money back and they asked me to
+sell off the spots. Chiat/Day sold
+off the two 30’s but not the 60 and
+I let it be known to Lee Clow that
+if he didn’t try very hard to sell
+the last spot I wouldn’t be
+unhappy. And that’s how the ad got
+on the air. Maybe remember that the
+next time someone tells you you
+were brilliant to only run the ad
+once.
+QUICK CUT TO:
+
+STEVE JOBS - Shooting Script 03/19/15
+60
+
+113.
+
+INT. STEVE’S LIVING ROOM - NIGHT
+
+60
+
+STEVE
+You’re really talking about killing
+the Mac.
+SCULLEY
+I’m euthanizing the Mac, it’s a
+mercy killing.
+STEVE
+I’m gonna take this to the board
+myself.
+SCULLEY
+Don’t do that.
+STEVE
+I am doing that.
+You can’t.
+
+SCULLEY
+CUT BACK TO:
+
+61
+
+INT. BALCONY LOBBY - SAME TIME
+STEVE
+You sure it wasn’t Lee Clow who
+dragged his feet selling the 60?
+SCULLEY
+At my direction, Steve, you think
+he would have done that on his
+own?! Taken it on himself?!
+STEVE
+Yes, I think he would have done
+what it took to save it from you!
+SCULLEY
+I was the only thing protecting it!
+STEVE
+You didn’t want the ad because you
+were trying to kill the Mac two
+months before it launched!
+SCULLEY
+You are fucking delusional!
+
+61
+
+61
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+
+114.
+61
+
+And now it’s like two boxers unclench after a furious series
+of punches, move apart and take a breath...
+STEVE
+Can I mention something to you?
+have no earthly idea why you’re
+here.
+
+I
+
+SCULLEY
+The story...of why and how you left
+Apple...which is quickly becoming
+mythologized...isn’t true.
+QUICK CUT TO:
+62
+
+INT. STEVE’S LIVING ROOM - NIGHT
+
+62
+
+STEVE
+I’m going to the board.
+SCULLEY
+Don’t press it with the board,
+Steve. I’m imploring you.
+Why?
+
+STEVE
+
+SCULLEY
+They believe you’re no longer
+necessary to this company.
+We stay with STEVE being silent for a long moment before we-CUT BACK TO:
+63
+
+INT. BALCONY LOBBY - SAME TIME
+STEVE
+I’m not your publicist.
+SCULLEY
+I get hate mail. Death threats.
+STEVE
+And I’m not your employee.
+SCULLEY
+I get death threats. My kids get
+taunted. Why do people think I
+fired you?
+
+63
+
+63
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+
+115.
+63
+
+STEVE
+(pause)
+Joanna’s gonna call my name in a
+second.
+Steve?
+
+JOANNA (O.S.)
+
+STEVE
+That was unrehearsed.
+(calling out)
+Yeah, I’ll be just a second.
+SCULLEY
+I gave you your day in court.
+STEVE
+You gave me-SCULLEY
+I gave the board a clear choice. I
+said do you want to invest in the
+Apple II or the Mac and they chose
+the Apple II-STEVE
+The same people who wanted to dump
+the Super Bowl spot-SCULLEY
+(rides over STEVE)
+--and then I got on a plane to
+China.
+QUICK CUT TO:
+64
+
+INT. CATHAY PACIFIC AIRLINES FIRST CLASS LOUNGE - NIGHT
+
+64
+
+RAIN BEATS AGAINST THE WINDOW as we see SCULLEY sitting at
+the bar. A CONCIERGE steps up-CONCIERGE
+Mr. Sculley?
+CUT BACK TO:
+65
+
+INT. BALCONY LOBBY - SAME TIME
+SCULLEY
+Or I almost got on but I got a call
+in the lounge.
+
+65
+
+65
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+
+116.
+65
+
+STEVE
+Who made that call?
+SCULLEY
+It doesn’t matter.
+STEVE
+It matters to me. Who made the
+call?
+QUICK CUT TO:
+66
+
+INT. CATHAY PACIFIC AIRLINES FIRST CLASS LOUNGE - NIGHT
+
+66
+
+SCULLEY is on the phone at the desk, listening to the voice
+at the other end.
+MALE VOICE (V.O.)
+If you get on that plane you’ll
+have lost your job by the time you
+land. He’s starting a civil war.
+CUT BACK TO:
+67
+
+INT. BALCONY LOBBY - SAME TIME
+
+67
+
+SCULLEY
+I left my bags on the plane--my
+shit’s still somewhere in Beijing-I took a car back to Cupertino in
+the middle of the fucking-QUICK CUT TO:
+68
+
+INT. SCULLEY’S OFFICE - NIGHT
+
+68
+
+RAIN BEATS AGAINST THE OFFICE WINDOWS as SCULLEY speaks on
+the phone-SCULLEY
+I know what time it is, I need a
+quorum here in one hour. And I want
+Steve here too.
+CUT BACK TO:
+
+STEVE JOBS - Shooting Script 03/19/15
+69
+
+117.
+
+INT. BALCONY LOBBY - SAME TIME
+
+69
+
+STEVE
+You took me off the Mac and it was
+bad business. The quorum call was a
+homicide.
+SCULLEY
+Right there is the part that’s
+bullshit, my friend, it was a
+suicide, because you knew your
+cards and I showed you mine, I
+showed you mine and you did it
+anyway.
+QUICK CUT TO:
+70
+
+INT. CHRISANN’S KITCHEN - NIGHT
+
+70
+
+CHRISANN is arguing with STEVE while six-year-old LISA has
+her face buried in her homework at the kitchen table. Rain is
+beating against the windows.
+CHRISANN
+Everything’s about her all of a
+sudden. All the time. All she does
+is come home and do homework and
+study and ask to see you.
+Everything’s about her.
+Everything’s about you. And I’m the
+maid.
+STEVE
+I don’t think you’re the maid and I
+guarantee you’re the only parent in
+America who’s complaining about her
+kid spending too much time
+studying.
+The DOORBELL RINGS-STEVE (CONT’D)
+Who comes over to your house this
+late?
+CHRISANN exits the kitchen to get the door. STEVE looks at
+LISA...
+STEVE (CONT’D)
+(quietly--confidentially)
+It’s almost 10.
+(MORE)
+
+70
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+STEVE (CONT’D)
+When you finish with that you
+should get ready for bed, okay?
+
+118.
+70
+
+LISA
+Can I live with you?
+What? STEVE’s stunned by the question that was
+heartbreakingly sincere and simple and came out of nowhere...
+He’s about to say something--anything--when CHRISANN comes
+back in with ANDY HERTZFELD.
+ANDY
+I tried your house first. Sculley’s
+called an emergency meeting of the
+board.
+STEVE’s still thinking about what LISA just asked-STEVE
+(pause)
+Wait, what?
+ANDY
+Sculley’s getting the board
+together.
+When?
+Right now.
+
+STEVE
+ANDY
+
+STEVE
+He’s supposed to be on his way to
+China.
+ANDY shakes his head “no”-STEVE (CONT’D)
+Somebody told him.
+(to CHRISANN)
+I have to go to--she should get
+ready for bed when she’s done with
+this.
+Good tip.
+
+CHRISANN
+
+STEVE
+(to LISA)
+I’m sorry. Lees?...I have to go.
+
+70
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+
+119.
+70
+
+STEVE and ANDY head out as we-CUT BACK TO:
+71
+
+INT. BALCONY LOBBY - SAME TIME
+
+71
+
+SCULLEY
+What’d you think I was gonna do?
+I’m okay losing but I’m not gonna
+forfeit.
+STEVE
+I’m not okay losing.
+QUICK CUT TO:
+72
+
+INT. APPLE BOARD ROOM - NIGHT
+
+72
+
+Rain is beating against the windows. BOARD MEMBERS are there
+in various different dress--some from an evening out. STEVE
+stands to the side while SCULLEY addresses the board -SCULLEY
+We’re losing market share and the
+Mac is losing money. Our only hope
+is the Apple II which is stagnating
+because of it’s soon-to-be-obsolete
+DOS. Users are already rigging
+their machines to run with the CP/M
+operating system that’s been built
+to run on Intel. I can’t put it
+more simply than this--we need to
+put our resources into updating the
+Apple II.
+STEVE
+By taking resources from the Mac.
+SCULLEY
+It’s failing, that’s a fact.
+STEVE
+It’s overpriced.
+SCULLEY
+There is no evidence-STEVE
+I’m the evidence! I am the world’s
+leading expert on the Mac, John,
+what’s your resume?!
+
+72
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+
+120.
+72
+
+SCULLEY
+You’re issuing contradictory
+instructions, you’re insubordinate,
+you make people miserable, our top
+engineers are fleeing to Sun, Dell,
+HP--Wall Street doesn’t know who’s
+driving the bus, we’ve lost
+hundreds of millions in value and
+I’m the CEO of Apple, Steve, that’s
+my resume!
+STEVE
+But before that you sold carbonated
+sugar water, right? I sat in a
+fuckin’ garage with Wozniak and
+invented the future because artists
+lead and hacks ask for a show of
+hands.
+The board is tense...even a little bit scared...except
+SCULLEY, who just takes a breath, takes a beat and says-SCULLEY
+(pause)
+Alright, well...this guy’s outta
+control. I’m perfectly willing to
+hand in my resignation tonight. But
+if you want me to stay you can’t
+have Steve. He’ll have to sever any
+connection to Apple. Settle him
+out. He can keep a share of stock
+so he gets our newsletter.
+(pause)
+I’m dead serious, I’d like the
+secretary to call for a vote.
+The BOARD MEMBERS look at STEVE, who leans against the
+wall...
+STEVE
+(pause--then evenly to the
+board )
+I fucking dare you.
+CUT BACK TO:
+
+STEVE JOBS - Shooting Script 03/19/15
+73
+
+INT. BALCONY LOBBY - SAME TIME
+SCULLEY
+You’ve done an outstanding job over
+the years of cultivating the press
+and by that I mean manipulating it
+‘cause none of them, and none of
+their editors, and none of the
+editors’ publishers, to this day,
+have any idea that you forced it.
+That you forced the board even
+after I told you exactly what
+they’d do. Which is exactly what
+they did. Unanimously.
+STEVE
+I don’t have any trouble
+remembering that, John, because of
+it being the worst night of my life
+and I forced a vote because I
+believed I was right, I still
+believe I’m right...and I’m right.
+I bled that night and I don’t
+bleed. But time’s done its thing
+and I really haven’t thought about
+it in a while. I absolutely
+understand why you’re upset and I
+want people to know the truth too.
+SCULLEY looks at STEVE...he’s lying.
+It’s time.
+
+JOANNA (O.S.)
+
+STEVE
+(calling to JOANNA)
+Got it.
+SCULLEY
+(pause)
+You’re gonna end me, aren’t you.
+STEVE smiles...
+STEVE
+(smiles--almost laughs)
+You’re being ridiculous. I’m gonna
+sit center court and watch you do
+it yourself. Then I’m gonna order a
+nice meal with a ‘55 Margaux and
+sign some autographs.
+
+121.
+73
+
+73
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+
+122.
+73
+
+SCULLEY
+Jesus (Christ).
+STEVE
+(over)
+You want my help, Pepsi Generation?
+Don’t send Woz out to slap me
+around in the press. Anybody else.
+You, Markkula, Arthur Rock, anyone
+but Rainman. Don’t manipulate him
+like that. Whatever you may think
+I’m always gonna protect him.
+JOANNA (O.S.)
+Come on, Steve.
+STEVE
+That’s what men do. I can’t start
+late.
+STEVE exits out into-74
+
+INT. CORRIDOR - CONTINUOUS
+
+74
+
+--where JOANNA’s waiting. They walk down the corridor in
+silence for a few moments before-STEVE
+I don’t think there was any way to
+detect a chip on my shoulder.
+JOANNA
+Did you know back at Bandley, the
+Mac team gave an award every year
+to the person who could stand up to
+you?
+No.
+
+STEVE
+
+JOANNA
+I won three years in a row.
+Cool.
+
+STEVE
+
+They walk through a door and are-75
+
+INT. BACKSTAGE - CONTINUOUS
+--where JOANNA pushes STEVE up against the closest wall.
+
+75
+
+75
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+
+123.
+75
+
+STEVE
+What the hell-JOANNA reaches into his pocket and pulls out the folded
+MacWorld article.
+JOANNA
+This--Guy Kawasaki in MacWorld--he
+accidentally got it right, didn’t
+he? You’ve been dragging your feet
+on the NeXT OS until you can figure
+out what Apple’s gonna need.
+Again we can HEAR the rock concert energy of the audience
+waiting for Steve...
+STEVE
+Even if that were true it doesn’t
+sound diabolical to me.
+STEVE nods to the STAGE MANAGER-STAGE MANAGER
+(into headset)
+House to half.
+We HEAR the audience CHEER.
+We also HEAR a synthesizer introduction to a piece of music
+that will crash in in just a moment-JOANNA
+I’m your closest confidant, your
+best friend, your thing--what do
+you call it--work wife. This whole
+time, the last three years-STAGE MANAGER
+(into headset)
+House out. Stand-by VO 1.
+JOANNA
+--when did you change your mind and
+start building the Steve Jobs
+Revenge Machine?
+STEVE
+(pause)
+You remember Skylab? It was an
+unmanned satellite NASA sent up in
+the early ‘70s on an eight year
+data gathering mission.
+(MORE)
+
+75
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+STEVE (CONT'D)
+The thing is, when they sent it up
+they didn’t know yet how they were
+gonna get it back but they felt
+like they were close enough that in
+the eight years it was gonna be up
+there they’d figure it out. They
+didn’t. So after eight years it
+lost its orbit and came crashing
+down in a thousand-mile swath
+across the Indian Ocean. Little to
+the left, little to the right and
+somebody coulda gotten hurt.
+(beat)
+I really wanted to build a computer
+for colleges. The technology just
+didn’t catch up as fast as I needed
+it to. And you know we’re outta
+money. But then Apple stopped
+innovating and I saw something
+better. Joanna, I know schools
+aren’t gonna buy a $13,000
+dictionary with good speakers, you
+know I know that. But Apple will
+‘cause Avie Tevanian is gonna build
+exactly the OS they need. And
+they’re gonna have to buy me too.
+For half a billion dollars in stock
+and end-to-end control on every
+product.
+
+124.
+75
+
+STEVE gives a nod to the STAGE MANAGER-Go VO 1.
+
+STAGE MANAGER
+
+A WOMAN with a script open on a music stand speaks into a
+microphone-WOMAN
+(into mic)
+Ladies and gentlemen, please
+welcome-BLACK
+
+HARD CUT TO:
+
+--and the synthesizer intro becomes “For Unto Us a Child is
+Born,” the beautiful choral piece from Handel’s “Messiah,”
+only it’s a contemporary version being sung semi-acappella by
+The Roches.
+With “For Unto Us a Child is Born” as the score we go through
+a series of scenes.
+
+STEVE JOBS - Shooting Script 03/19/15
+76
+
+ABC NEWS - PETER JENNINGS
+
+125.
+76
+
+PETER JENNINGS
+More than a year after it was first
+unveiled to industry insiders, the
+NeXT Computer is now available in
+retail stores. For more we go to
+ABC News Senior Technology
+Correspondent Martin Rath.
+The song continues...
+77
+
+WALL STREET WEEK - PANEL
+
+77
+
+ANALYST
+And meanwhile Apple is continuing
+to lose market share with no new
+innovations in the pipeline except
+the Newton, which is a pet project
+of CEO John Sculley.
+78
+
+CNBC - PANEL
+
+78
+
+PANELIST
+So much for the black cube. NeXT
+just sold its factory to Canon and
+laid off half its employees.
+79
+
+CBS - DAN RATHER
+
+79
+
+DAN RATHER
+The former tech giant, Apple, and
+for more on that-80
+
+WALL STREET WEEK - PANEL
+ANALYST
+With an operating system that can’t
+compete with Windows and no new
+innovations in the pipeline except
+Newton, a product no one seems
+excited about except John Sculley--
+
+80
+
+STEVE JOBS - Shooting Script 03/19/15
+81
+
+MONEY MATTERS - PANEL
+
+126.
+81
+
+ANALYST
+Apple stock’s fallen from $70 a
+share when Steve Jobs was the
+heartbeat of the company to $14
+today and no one thinks the Newton
+is gonna turn it around.
+The song continues...
+82
+
+ABC NEWS - MARTIN RATH
+
+82
+
+MARTIN RATH
+Gil Amelio, formerly of National
+Semiconductor was installed as the
+new CEO of Apple today and he’s
+inherited a sinking ship.
+83
+
+CNBC - PANEL
+
+83
+
+PANELIST
+Gil Amelio’s gonna discover that
+Copland’s a bust. When that happens
+he’ll have to mollify Wall Street
+and publicly promise to find an
+alternative.
+84
+
+MONEY MATTERS
+
+84
+
+MARTIN RATH
+Under the direction of Steve Jobs,
+NeXT’s chief software designer,
+Avie Tevanian, has developed an
+object-oriented, UNIX-like
+operating system that’s caught the
+attention of big players in Silicon
+Valley-85
+
+CNBC - PANEL
+
+85
+
+PANELIST
+Is the prodigal son returning?
+Bet on it.
+
+PANELIST #2
+
+STEVE JOBS - Shooting Script 03/19/15
+86
+
+127.
+
+WALL STREET WEEK - PANEL
+
+86
+
+ANALYST
+He’s coming back.
+87
+
+CBS NEWS - DAN RATHER
+
+87
+
+DAN RATHER
+With a buzz reserved for rock
+stars, Steve Jobs-88
+
+ABC NEWS - PETER JENNINGS
+
+88
+
+PETER JENNINGS
+Steve Jobs-89
+
+CNBC - ANCHOR
+
+89
+
+ANCHOR
+Buy Apple stock. Buy it now. Sell
+the kids, buy the stock.
+90
+
+WALL STREET WEEK - PANEL
+
+90
+
+PANELIST
+Steve Jobs is returning to Apple.
+91
+
+CBS NEWS - DAN RATHER
+
+91
+
+DAN RATHER
+Take the “interim” off his title,
+Steve Jobs is now the CEO of the
+company he founded in his garage
+and fans of Apple are counting the
+days until his first new product.
+“For Unto Us a Child is Born” continues as we-CUT TO:
+92
+
+EXT. SYMPHONY HALL - MORNING
+
+92
+
+A giant crowd waits outside to be let in. The place is
+festooned with banners with the now-famous “Think Different”
+campaign.
+
+STEVE JOBS - Shooting Script 03/19/15
+93
+
+128.
+
+INT. SYMPHONY HALL - SAME TIME
+
+93
+
+In the audience we see some familiar faces among the dozens
+of APPLE STAFFERS working the rehearsal. JOANNA, WOZ, ANDY
+HERTZFELD and the reporter JOEL PFORZHEIMER is there too.
+Everyone is 10 years older than the last time we saw them.
+STEVE (O.S.)
+This thing has 100MB Ethernet as
+standard, and why? Because we’re
+seeing these high speed networks in
+homes now. Ten percent of the homes
+in Silicon Valley now have Class
+Five wiring in them.
+TITLE:
+1998
+Davies Symphony Hall
+STEVE’s on stage in front of a giant screen showing changing
+slides that reflect whatever he’s mentioning at the moment.
+He’s dressed in dark jeans, a white shirt buttoned up to the
+neck and a black sport jacket. On a small table, which is in
+the dark at the moment, sits a computer under a dark silk
+sheet.
+STEVE’s loose and having a good time with the hundred or so
+employees in the audience who are revved up for the big
+morning.
+STEVE (CONT’D)
+A fast modem and also a 4MB IrDA
+built in. You wanna beam your
+digital photographs from your
+digital camera? It’s built in to
+every product.
+(to his employees)
+Check it out--no notes, no note
+cards--ready?
+(back to it and faster now
+to play with the
+employees in the house)
+We’re going to the new generation
+of IO--12Mb USB, two ports--we’re
+leaving the old Apple IO behind.
+Stereo Surround Sound built in to
+every product, a great keyboard and
+the coolest mouse you’ve ever seen.
+This time we used real mice.
+
+93
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+
+129.
+93
+
+JOANNA
+(calling to the stage)
+We’re opening the house in 10
+minutes, Steven, you want to stop
+horsing around?
+STEVE
+Bless my eyes, that’s Steve Wozniak
+sitting out there.
+The APPLE employees give him a cheer and WOZ gives a sheepish
+wave.
+STEVE (CONT’D)
+Give yourselves a treat and ask Woz
+if he happens to have the correct
+time.
+JOANNA
+I have the correct time and we’re
+running out of it. “A great
+keyboard.”
+STEVE
+A great keyboard and the coolest
+mouse you’ve ever seen. This is
+what those things look like today.
+On the screen flashes a picture of a bulky PC. Some people in
+the rehearsal audience who are seeing the full production for
+the first time laugh.
+STEVE (CONT’D)
+And now I’d like to show you what
+they’re going to look like
+tomorrow. This is the iMac.
+STEVE yanks the dark silk sheet off an iMac as a pool of
+perfect light comes up on the table.
+CHEERS and APPLAUSE from the APPLE EMPLOYEES.
+STEVE clicks the mouse and the screen shows a lightning fast
+succession of applications complete with a heart-racing
+percussion score---after which the screen fills with the words “Hello
+(again).”
+The hundred or so people sitting and standing around out in
+the house CLAP AND CHEER.
+
+93
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+
+130.
+93
+
+STEVE (CONT’D)
+(pause)
+That was cool. Why did I like that
+better than I usually do?
+JOANNA
+I don’t know.
+STEVE
+Something was different.
+ANDREA CUNNINGHAM, the publicist from the Mac launch, is
+standing at the foot of the stage-ANDREA
+Hey stupid.
+STEVE looks at her-STEVE
+(pause)
+I think she’s talking to one of you
+guys.
+ANDREA
+Did you notice a difference?
+STEVE
+That’s what I’m--the exit signs
+were off!
+ANDREA
+Full blackout.
+STEVE
+You did it.
+ANDREA
+We wired all the exit lights to our
+board, they go out for seven
+seconds with the cue and come back
+on again in theory.
+STEVE
+We think that’s legal?
+ANDREA
+No, we’re very certain it’s not.
+You want to see some quotes?
+JOANNA
+Let’s hold off on those.
+
+93
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+
+131.
+93
+
+ANDREA
+He’ll like ‘em.
+JOANNA shakes her head “no.”
+ANDREA (CONT’D)
+(to STEVE)
+I’ll give ‘em to you later.
+STEVE
+I’ll take ‘em now.
+STEVE takes a couple of stapled pieces of paper from ANDREA
+and as ANDREA turns around she mouths “I’m sorry” to JOANNA
+while JOANNA says-JOANNA
+Pick it up from there please, we
+only have a couple of minutes so
+let’s just do the 360.
+STAGE MANAGER
+It’s Cue 84, right where we are,
+you’re bringing out the camera.
+STEVE
+(presenting again)
+We’re gonna bring out a wireless
+camera we stole from Panasonic and
+show you what this looks like.
+A CAMERA OPERATOR with a camera on his shoulder comes out
+from the wings and circles the iMac, showing a 360 degree
+picture on the big screen as STEVE describes and points to
+what we’re looking at.
+STEVE (CONT’D)
+The whole thing is translucent, you
+can see into it.
+(calling out)
+How’s that for a compromise, Woz?
+You still can’t get into it but you
+can see into it.
+WOZ
+(calling back)
+Fair enough.
+
+93
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+
+132.
+93
+
+STEVE
+We’ve put stereo speakers in front,
+infra red right up here, CD-ROM
+drive right in the middle, dual
+stereo headphone jacks and all the
+connectors are inside one beautiful
+little door here--Ethernet, USB.
+The Apple employees CHEER. Obviously they’re not seeing the
+computer for the first time but it’s a proud and exciting
+day.
+STEVE (CONT’D)
+Even though this is a full-blooded
+Macintosh, we’re targeting it for
+the number one use that consumers
+tell us they want a computer for,
+which is-STAGE MANAGER
+Let’s hold please.
+STEVE
+The answer was “The Internet.”
+(motioning her over)
+Joanna?
+JOANNA comes down to meet him at the edge of the stage.
+Yeah.
+
+JOANNA
+
+STEVE
+(quietly)
+Just stand in front of me. I want
+to look at these quotes but I don’t
+want Joel to know.
+JOANNA
+They’re all great.
+STEVE
+(reading)
+“A piece of hardware that blends
+sci-fi shimmer with the kitsch
+whimsy of a cocktail umbrella,”
+says Steven Levy in Newsweek. “It
+is not only the coolest looking
+computer introduced in years, but a
+chest-thumping statement that
+Silicon Valley’s original dream
+company is no longer somnambulant.”
+
+93
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+
+133.
+93
+
+STEVE takes a moment for himself...
+STEVE (CONT’D)
+(pause--then to JOANNA)
+It’s a word, it means sleepwalking.
+STAGE MANAGER
+Steve, I’m sorry, we have to clear
+the house if we’re gonna start on
+time.
+STEVE
+We’re gonna start on time.
+
+JOANNA
+We’re starting on time.
+
+STEVE
+(handing JOANNA the
+quotes)
+Take this.
+(calling out)
+Everybody, that’s it. They’ve got
+to mop the stage, reset and open
+the house. I love you guys.
+Everyone CHEERS-STEVE (CONT’D)
+Andy, come on back a minute?
+Which one?
+
+ANDREA
+
+STEVE
+Hertzfeld.
+(to JOANNA)
+Walk with me.
+JOANNA walks up the step unit to the stage just as the step
+unit is being taken away. STEVE takes the paper from her as
+they head-94
+
+INT. BACKSTAGE - CONTINUOUS
+Alright.
+
+STEVE
+
+JOANNA hands back the quotes-STEVE (CONT’D)
+Forbes calls it “...an industryaltering success.”
+
+94
+
+94
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+JOANNA
+(pointing)
+Look here.
+STEVE
+Why haven’t we ever slept together?
+JOANNA
+We’re not in love. Look here.
+Where?
+Here.
+
+STEVE
+JOANNA
+
+STEVE
+(pause--STEVE’s surprised
+but keeps even)
+Sculley.
+JOANNA
+Nobody’s heard from him in five
+years but he did this.
+STEVE
+Sculley talked to Forbes...
+JOANNA
+Look what he said.
+STEVE
+“He has implemented the same simple
+strategy that made Apple so
+successful 15 years ago: make hit
+products and promote them with
+terrific marketing.”
+(pause--nods)
+That was nice of him.
+It was.
+
+JOANNA
+
+STEVE
+I meant it.
+JOANNA
+Sightings of J.D. Salinger are more
+common than John Sculley.
+STEVE
+I wasn’t being sarcastic, it was
+nice of him.
+
+134.
+94
+
+94
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+
+135.
+94
+
+STEVE (CONT’D)
+(pause)
+Do you ever talk to him?
+No.
+
+JOANNA
+
+STEVE
+You haven’t talked to him since
+‘88?
+JOANNA
+I’d have told you if I did.
+STEVE
+(pause)
+It doesn’t matter, I don’t want
+people thinking that they can cross
+me and then boom 15 years later I’m
+okay with it.
+(beat)
+I was kidding, what’s wrong with
+you this morning?
+JOANNA
+Let’s get off the stage.
+STEVE and JOANNA open the heavy door that leads out into-95
+
+INT. CORRIDOR - CONTINUOUS
+
+95
+
+--where they start heading down toward Steve’s dressing room.
+We can HEAR the crowd in the lobby around the corner.
+JOANNA
+You see how this door looks like
+this door? If you go through this
+door you’re backstage, if you go
+through this door you’re in a
+parking lot.
+STEVE
+(looking at the pages of
+quotes)
+Oh man, look at this.
+JOANNA
+Did you hear what I just said?
+
+95
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+
+136.
+95
+
+STEVE
+I’m not worried I’m gonna
+accidentally walk into a parking
+lot.
+JOANNA
+I want to talk to you.
+STEVE
+“The only thing Apple’s providing
+now is leadership in colors.”
+JOANNA
+Don’t worry about it.
+STEVE
+What does Bill Gates have against
+me?
+JOANNA
+I don’t know, you’re both out of
+your minds. Listen to me-STEVE
+He dropped out of a better school
+than I dropped out of-They walk into-96
+
+INT. STEVE’S DRESSING ROOM - CONTINUOUS
+STEVE
+--but he is a tool bag and I’ll
+tell you why.
+JOANNA
+Make everything alright with Lisa.
+STEVE
+You know--Joanna--boundaries.
+JOANNA
+You’ve come to my apartment at 1AM
+and cleaned it so tell me where the
+boundary is.
+STEVE
+There, let’s say it’s there.
+
+96
+
+96
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+JOANNA
+If I give you some real projections
+will you promise not to repeat them
+from the stage?
+STEVE
+What do you mean real projections,
+what have you been giving me?
+JOANNA
+Conservative projections.
+STEVE
+Marketing’s been lying to me?
+JOANNA
+We’ve been managing expectations so
+that you don’t not.
+STEVE
+What are the real projections?
+JOANNA
+We’re going to sell a million
+units in the first 90 days, 20,000
+a month after that.
+STEVE looks at her for a moment and then smiles...
+STEVE
+(pause)
+Ho-ly-Yeah.
+
+JOANNA
+
+STEVE
+See? You wait long enough and-JOANNA
+What’s more, 32% of the sales are
+going to go to people buying a
+computer for the first time and 12%
+are going to people using some kind
+of Windows machine--that’s what
+Bill Gates has against you--and
+it’ll be the fastest selling
+computer in history.
+(MORE)
+
+137.
+96
+
+96
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+JOANNA (CONT'D)
+You brought the company back from
+life support after going through
+the misery of laying off 3,000
+people and cutting 70% of the
+product line so Steven...it’s
+over...you’re going to win. It
+would be criminal not to enjoy this
+moment.
+STEVE
+I’m enjoying it.
+JOANNA
+Make things alright with Lisa.
+You know-Come on.
+
+STEVE
+JOANNA
+
+STEVE
+--I don’t like having less privacy
+than other people have.
+JOANNA
+Does being a multi-billionaire take
+some of the sting off that?
+No.
+
+STEVE
+
+JOANNA
+All Lisa (did)-STEVE
+(over)
+All Lisa did was give her blessing.
+Chrisann sold the house and-JOANNA
+And Lisa could have done what? File
+a complaint with the Department of
+Housing and Urban Development?
+How’s Lisa supposed to stop her
+mother from selling her own house?
+STEVE
+That I bought for the two of them.
+JOANNA
+How’s she (supposed to stop her--)
+
+138.
+96
+
+96
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+STEVE
+(over)
+Voicing an objection would have
+been a step in the right direction.
+JOANNA
+You don’t think you’re having a
+bizarre overreaction to a 19-year
+old girl allowing her mother to
+list her own house?
+STEVE
+She could have tried.
+JOANNA
+You’re saying this is really
+because--how’s she supposed to stop
+her mother--that particular mother-from (living wherever--)
+STEVE
+(over)
+She gave Chrisann her blessing to
+sell the house and she did it to
+spite me.
+JOANNA
+I don’t care if she put a pipe bomb
+in the water heater, you’re gonna
+fix it now.
+STEVE
+She’s been acting weird for months.
+She’s turned on me.
+And JOANNA shoves STEVE-Fix it.
+What the--
+
+JOANNA
+STEVE
+
+JOANNA
+Fix it, Steve.
+STEVE
+Take it easy.
+JOANNA
+Fix it or I quit, how ‘bout that? I
+quit and you never see me again,
+how ‘bout that?
+
+139.
+96
+
+96
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+STEVE
+This is me, tell me what’s wrong
+with you this morning.
+JOANNA
+What’s been wrong with me for 19
+years?! I’ve been a witness and I
+tell you I’ve been complicit. I
+love you, Steven, you know how
+much. I love that you don’t care
+how much money a person makes, you
+care what they make. But what you
+make isn’t supposed to be the best
+part of you. When you’re a father,
+that’s what’s supposed to be the
+best part of you and it’s caused me
+two decades of agony, Steve, that
+it is, for you, the worst. It is a
+little thing, a very small thing,
+it’s not a big deal, fix it, fix it
+now or you can contact me at my new
+job working anywhere I want.
+STEVE
+(pause)
+I don’t happen to think it is a
+little deal. She knew-No.
+
+JOANNA
+
+STEVE
+I bought the house for-No.
+
+JOANNA
+
+STEVE
+What do you mean “no.”
+JOANNA
+I mean “no,” the house has nothing
+to do with why you’re angry at
+Lisa.
+STEVE
+I assure you, the house has
+everything to do with (why I’m--)
+JOANNA
+(over)
+Have you ever heard the phrase
+“Reality distortion field”?
+
+140.
+96
+
+96
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+STEVE
+Comes home from school, puts her
+bags down, goes straight to her
+friends’.
+Have you?
+Yes.
+
+JOANNA
+STEVE
+
+JOANNA
+As it applies to you? As in
+“Steve’s reality distortion field”?
+STEVE
+You’re getting a little
+prosecutorial and you’re crossing
+some lines.
+JOANNA
+I’ll cross whatever I please.
+You’ve heard it?
+STEVE
+I’ve heard it, I’ve read it, it’s
+been sung to me by Joan Baez. What
+you call a reality distortion field-and I’m pretty sure you’re the one
+who coined the phrase--is the reason
+we’re here.
+JOANNA
+I know that.
+STEVE
+If I traded in my bank account for
+a dollar on every time someone told
+me something was impossible I’d
+come out ahead.
+JOANNA
+I know that too.
+STEVE
+What’s the problem?
+JOANNA
+My problem? It sure isn’t the
+house.
+Jo--
+
+STEVE
+
+141.
+96
+
+96
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+JOANNA
+It’s that you told her you weren’t
+going to pay for Harvard. That
+child--that earnest, unironic kid-STEVE
+She told you I wasn’t paying her
+tuition?
+JOANNA
+I should have hit you with
+something heavy a long time ago.
+STEVE
+Lisa told you I wasn’t paying her
+tuition?
+JOANNA
+Andy told me that.
+Which one?
+Hertzfeld.
+
+STEVE
+JOANNA
+
+STEVE
+(pause)
+How would Hertzfeld know?
+JOANNA
+He wrote Harvard a check for twentyfive thousand to cover the
+semester. Isn’t that why-STEVE
+Are you fucking-(pause)
+He paid her tuition?
+JOANNA
+Isn’t that why you just asked to
+see him?
+STEVE
+No I asked to see him about--this
+is un-JOANNA
+Did you tell her you weren’t paying
+for college?
+
+142.
+96
+
+96
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+STEVE
+Yes, because-JOANNA
+How could you (do that?)
+STEVE
+(over)
+--because her mother, who was also
+her landlord--Hertzfeld--I was
+ranting! I was, you know, I was
+just talking! You think I would--I
+was pissed off because Lisa was
+trying to piss me off, Joanna! That
+was her intent! I don’t know how I
+ended up the bad-JOANNA
+You obviously scared the (hell out
+of her).
+STEVE
+Hertzfeld wrote a check to Har--to
+pay for--is she here yet?
+JOANNA
+I’m sure she is.
+STEVE’s gotten himself together.
+STEVE
+Can you have someone bring her
+back?
+JOANNA
+Yes. Thank you.
+(beat)
+You know, my grandmother used to-STEVE
+I don’t give a shit, Yentl!
+JOANNA
+I’ll have someone get Lisa.
+STEVE
+Thank you. And if you see Hertzfeld-There’s a KNOCK at the door--
+
+143.
+96
+
+96
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+STEVE (CONT’D)
+(quietly)
+Speak of the devil’s chief
+engineer.
+It’s Andy.
+
+Go.
+
+ANDY (O.S.)
+
+STEVE
+(to JOANNA)
+
+(calling)
+Come on in.
+ANDY comes in as JOANNA’s leaving-ANDY
+(to JOANNA)
+You look great today.
+Thank you.
+
+JOANNA
+
+ANDY
+(to STEVE)
+Doesn’t she?
+STEVE
+She looks fantastic, always does.
+(to JOANNA)
+Get out.
+JOANNA exits and closes the door behind her.
+ANDY
+I think I know why I’m here.
+Do ya?
+Steve--
+
+STEVE
+ANDY
+
+STEVE
+Did you send the check yet?
+Yes.
+
+ANDY
+
+STEVE
+So Harvard got a tuition check from
+Andy Hertzfeld to pay for Lisa?
+
+144.
+96
+
+96
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+ANDY
+I don’t think they look that
+carefully, I don’t think they’d
+notice the check didn’t come from
+you.
+STEVE
+Close one. This was almost
+embarrassing for me.
+ANDY
+I understand how-STEVE
+I’ll wire you the money today.
+ANDY
+I understand how you feel and I do
+apologize, I do, but let me tell
+you my thinking.
+STEVE
+I can’t even think of an
+appropriate analogy to describe
+(what you did).
+ANDY
+I knew you guys would fix things,
+you always do, but in the meantime
+if the money wasn’t there she’d
+miss a semester of school.
+Yeah.
+
+STEVE
+
+ANDY
+And she’d have to tell her friends
+why. And she needed things, she
+needed socks.
+(beat)
+What?
+
+STEVE
+
+ANDY
+It’s cold in Cambridge, she needed
+warm socks.
+STEVE
+You gave her socks.
+ANDY
+Well I gave her money for socks.
+
+145.
+96
+
+96
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+STEVE
+You don’t get to deputize yourself
+as her interim-(beat)
+--you don’t get to override my
+decisions. Do you understand? You
+don’t get to act like you’re her
+father.
+ANDY
+Somebody had to.
+STEVE
+The fuck did you just say to me?!
+ANDY
+I’ve known her since she was six. I
+also consider--Chrisann’s a friend
+outside of what you and I--outside
+of our (relationship).
+STEVE
+So you’re like a family advisor.
+ANDY
+I’m a family friend.
+STEVE
+Then you probably know Lisa’s been
+seeing a therapist.
+Yeah.
+
+ANDY
+
+STEVE
+For many years.
+Yeah.
+
+ANDY
+
+STEVE
+Without my knowledge.
+ANDY
+That really wasn’t my business.
+STEVE
+I’m fascinated by what you think is
+and isn’t your business.
+
+146.
+96
+
+96
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+ANDY
+Lisa’s been going to a therapist
+and she likes it and would love for
+you and Chrisann to go with her.
+STEVE
+And the reason you know that is
+that you’re the one who recommended
+the therapist.
+ANDY
+I know a guy, he specializes in-STEVE
+No, I mean, you’re the one who
+recommended that she see a
+therapist.
+ANDY
+I--you know what, it was a while
+ago and I don’t remember how the
+whole--who said what to-STEVE
+You told Chrisann that Lisa should
+see a therapist.
+ANDY
+Steve, you’re stigmatizing--it’s
+not--my thing was how can it hurt?
+STEVE
+Let’s find out.
+ANDY
+Chrisann is my friend.
+STEVE
+What was the reason you gave?
+ANDY
+(pause)
+You mean-STEVE
+What was the reason you gave
+Chrisann why Lisa should see a
+therapist?
+
+147.
+96
+
+96
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+ANDY
+I don’t remember. We were talking
+and I said--it was pretty much what
+I just said, that it certainly
+couldn’t hurt.
+STEVE
+You didn’t say Lisa needed a strong
+male role model?
+ANDY
+(pause)
+I did.
+(pause)
+I think it’s a miracle she’s not
+robbing banks with the Symbionese
+Liberation Army. There is no reason
+in the world why she should be
+nice. But she is. So I helped.
+Because somebody had to.
+STEVE
+(pause)
+I’ll wire the money to you this
+afternoon.
+ANDY gets up and heads to the door...
+ANDY
+You threatened me a long time ago.
+I’m sorry?
+
+STEVE
+
+ANDY
+A long time ago. You threatened me
+once.
+STEVE
+People are attracted to people with
+talent and people without it find
+that threatening. Maybe you should
+see a therapist. It certainly
+couldn’t hurt.
+ANDY
+(pause)
+I meant you literally threatened
+me. At Flint, right before the Mac
+launch.
+(MORE)
+
+148.
+96
+
+96
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+ANDY (CONT'D)
+I was recompiling, I was trying to
+debug the voice demo and you said
+if I couldn’t find a solution you’d
+call me out in front of the
+audience.
+
+149.
+96
+
+STEVE
+Did it say “Hello”?
+It did.
+
+ANDY
+
+STEVE
+No need to thank me.
+ANDY
+(beat)
+Why do you want people to dislike
+you?
+STEVE
+I don’t want people to dislike me.
+I’m indifferent to whether they
+dislike me.
+ANDY
+Well...since it doesn’t matter? I
+always have.
+STEVE
+(pause)
+Really? I’ve always liked you a
+lot. That’s too bad.
+ANDY
+Knock ‘em dead.
+Thank you.
+
+STEVE
+
+ANDY exits.
+STEVE stands there a moment...then launches into a practice
+run of a section of the presentation so he can wipe away what
+just happened.
+STEVE (CONT’D)
+What is remarkable, what’s hard to
+fathom but true is that for a given
+clock rate a power PC chip is twice
+as fast as a Pentium II chip.
+(MORE)
+
+96
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+STEVE (CONT’D)
+In other words a 266 Megahertz G3
+is twice as fast as a 266 Megahertz
+Pentium II or a 266 G3 is equal to
+about 500 Megahertz. Take a look at
+BYTE Magazine’s BYTE Marks, the
+gold standard for-There’s a KNOCK at the door-Come in.
+
+STEVE (CONT’D)
+
+JOANNA enters.
+JOANNA
+I sent someone into the lobby. They
+found her and-STEVE
+Where is she?
+JOANNA
+She said she’d rather not come
+back.
+Why?
+
+STEVE
+
+JOANNA
+That was it.
+STEVE
+(heading for the door)
+I’m going out there myself.
+JOANNA
+You can’t. You can’t, you can’t.
+It’ll be a scene out of Hard Day’s
+Night.
+STEVE
+(pause)
+Will you-JOEL PFORZHEIMER knocks on the open door-Excuse me.
+Hey Joel.
+
+JOEL
+STEVE
+
+150.
+96
+
+96
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+
+151.
+96
+
+JOEL
+Andy said it was okay to come back.
+Which one?
+
+STEVE
+
+JOEL
+Andy Cunningham.
+STEVE
+(to JOANNA)
+I need one of them to change their
+name, I can’t do this forever.
+JOANNA
+You call Andy Cunningham Andrea.
+STEVE
+It doesn’t matter what I call them.
+I know who I’m talking about when
+I’m talking. I need everyone else
+to call them different names.
+(to JOEL)
+Gimme one second.
+STEVE takes JOANNA out into-97
+
+INT. CORRIDOR - CONTINUOUS
+
+97
+
+--and out of hearing distance where he speaks quietly.
+STEVE
+(whispering)
+Go get her for me please. I just
+talked to Andy...Hertzfeld...and
+I’m just trying to scrub this out
+of my brain with Drano but I do
+want to talk to Lisa.
+JOANNA
+(whispering)
+Yeah, just stay cool.
+JOANNA heads down the corridor and STEVE watches her go.
+Without turning around, JOANNA points to the two doors as she
+passes them-JOANNA (CONT’D)
+(pointing)
+Stage. Parking lot.
+
+97
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+Thank you.
+
+152.
+97
+
+STEVE
+
+He goes back into-98
+
+INT. STEVE’S DRESSING ROOM - CONTINUOUS
+JOEL
+How are you feeling?
+STEVE
+I’m feeling good, Joel, how about
+you?
+JOEL
+I don’t think I could be in your
+business. It changes too quickly.
+STEVE
+Well I’d hang on ‘cause yours is
+about to start changing pretty
+quickly too.
+JOEL
+This is the third time in 14 years
+I’m writing about you.
+STEVE
+(pause)
+What do you think so far?
+ANDREA CUNNINGHAM sticks her head in the door-ANDREA
+Excuse me. Avie’s asking for you,
+he has a new shark slide.
+STEVE
+Okay.
+(to JOEL)
+You want to come backstage for a
+second?
+Sure.
+They head out into--
+
+JOEL
+
+98
+
+STEVE JOBS - Shooting Script 03/19/15
+99
+
+153.
+
+INT. CORRIDOR - CONTINUOUS
+
+99
+
+The hall is lined with blown up photographs of Ghandi, John
+Lennon, Louis Armstrong, etc.--all from the “Think Different”
+campaign.
+JOEL
+(pointing to a photo)
+Who’s this one?
+STEVE
+Alan Turing. He single handedly won
+World War II and for an encore
+invented the computer but he won’t
+be part of the campaign.
+Why not?
+
+JOEL
+
+STEVE
+‘Cause you just had to ask me who
+he was.
+STEVE opens the door and they walk into-100
+
+INT. BACKSTAGE AREA - CONTINUOUS
+
+100
+
+--where AVIE and his ENGINEERS are doing last minute runs and
+adjustments on the iMacs that’ll be running the demo in a few
+minutes.
+And we can HEAR the CROWD out in the house...
+STEVE
+(to AVIE)
+Can I see a new shark?
+AVIE hits a key and the screen fills with a picture of a
+PowerBook G3 Laptop and a great white shark with its teeth
+bared.
+STEVE (CONT’D)
+I like it better than the old
+shark.
+Sharks.
+Sharks.
+
+AVIE
+STEVE
+
+100
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+JOEL
+How many sharks did you go through?
+A couple.
+
+STEVE
+
+AVIE
+This is the 39th.
+STEVE
+(pointing to JOEL)
+We’re on the record.
+39 sharks.
+Okay.
+
+AVIE
+STEVE
+
+AVIE
+You know what’s special about this
+shark?
+What?
+
+JOEL
+
+AVIE
+No, I’m really asking ‘cause it
+looks exactly like the other 38
+sharks to me.
+STEVE
+Let me see it with the cue. From
+the profile.
+STAGE MANAGER
+This is Cue 92B.
+STEVE
+(reciting)
+This is a side profile here. And
+this is what it looks like from the
+back. And one more thing: It eats
+Pentium notebooks as a light snack.
+(good)
+This is the shark, I really like
+it. Nobody gets it right the first
+time but I should have been shown
+this shark 15, 20 fish ago.
+AVIE
+You probably were.
+
+154.
+100
+
+100
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+STEVE
+Lock it in.
+STAGE MANAGER
+Ten minutes.
+JOEL
+He killed himself by taking a bite
+of a poison Apple. Alan Turing.
+STEVE
+Yeah. There should be statues of
+that man. His name should be on the
+lips of schoolchildren.
+JOEL
+The rainbow flag Apple with a bite
+taken out, that’s where it came
+from?
+STEVE
+No, we picked it off a list of
+friendly sounding words. But
+wouldn’t it be great if that had
+been the story behind it?
+(beat)
+Anyway, I can’t use him in the
+campaign.
+WOZ, sitting out in the house, calls up to the stage-WOZ
+(calling)
+Steve.
+STEVE looks out...
+WOZ (CONT’D)
+I kind of liked the last shark.
+AVIE
+(without looking up)
+Fuck you.
+WOZ
+I wanted to ask you a favor.
+STEVE
+My friend, a long time ago you
+asked me a favor before a product
+launch and I said no. You wanted me
+to acknowledge the Apple II and I--
+
+155.
+100
+
+100
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+WOZ
+Hang on. If you’re about to say you
+were wrong I want to prepare this
+reporter.
+STEVE
+I was one hundred percent right and
+you were spectacularly wrong but I
+still owe you a favor so name it.
+Steve?
+
+WOZ
+
+STEVE
+But it can’t be about acknowledging
+the Apple II team.
+WOZ
+Acknowledge the Apple II team.
+STEVE
+(pause)
+How about in private?
+WOZ
+
+No.
+
+STEVE
+Is this a prank (‘cause)--
+
+No.
+
+(over)
+
+WOZ
+
+STEVE
+--I’m trying to remember that a 300
+Megahertz G3 chip is equal to a
+(600 Megahertz Pentium II and)-WOZ
+(over)
+Just the top guys.
+STEVE searches his mind a moment for the path of least
+resistance when he sees JOANNA come backstage-STEVE
+Excuse me. Okay?
+Yeah.
+
+WOZ
+
+156.
+100
+
+100
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+STEVE
+One second.
+STEVE goes over to JOANNA-JOANNA
+(quietly)
+She said she’d rather not.
+STEVE
+What do you mean?
+JOANNA
+She’s sitting with her friends and
+she said she’d rather not come
+back.
+STEVE
+Okay, tell her--take her aside, I
+don’t want to embarrass her in
+front of her friends, but tell her
+I just scared the shit out of Andy
+and this time nobody’s paying her
+fuckin’-JOANNA gives him a look-STEVE (CONT’D)
+Alright, don’t say that. But do
+your thing where you sound old and
+wise because of the broad, tragic
+European canvas of your life.
+JOANNA
+You know I wasn’t born in a 19th
+Century shtetl, right?
+STEVE
+Please tell her it’s important.
+STEVE goes back to WOZ as JOANNA heads out the door.
+JOEL
+Everything alright?
+Yeah.
+
+STEVE
+
+STEVE continues to WOZ-STEVE (CONT’D)
+There are people around (here, man,
+including--)
+
+157.
+100
+
+100
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+(over)
+I know.
+
+WOZ
+
+STEVE
+A member of (the press)
+(over)
+I see him.
+Woz--
+
+WOZ
+
+STEVE
+
+WOZ
+Just the top guys. The ones who are
+getting laid off.
+STEVE
+Listen. Okay? Last year Apple lost
+one billion dollars. I don’t even
+know how that’s possible. You were
+less than 90 days from being
+insolvent. I had three different
+accountants try to explain it to
+me. The whole place has to be
+streamlined.
+WOZ
+Start with two of the accountants.
+STEVE
+I started-ANDREA
+Joel, come with me, we’re gonna-STEVE
+Leave him right there.
+(back to WOZ)
+I started with the Apple II team,
+because we don’t, you know, make
+that anymore.
+WOZ
+Just acknowledge the top guys.
+STEVE
+Have a mimosa and (relax).
+WOZ
+You will not blow me off right now!
+The top (guys--)
+
+158.
+100
+
+100
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+STEVE
+(over)
+There are no top guys! On the Apple
+II team there are no top guys.
+They’re B Players and B Players
+discourage the A Players and I want
+the A Players at Apple and not
+Dell.
+WOZ
+They’re not B Players and I’m a
+better judge of (that than you
+are).
+STEVE
+(over)
+Less than 90 days to insolvency. In
+part because somebody thought the
+Newton wasn’t a box of garbage.
+Joel-Leave him!
+
+ANDREA
+STEVE
+
+WOZ
+I’m talking about-STEVE
+You guys designed and shipped a
+little box of garbage while I was
+gone.
+WOZ
+--I’m talking about the Apple II
+which isn’t just a crucial part of
+this company’s history, it’s a
+crucial part of the history of
+personal computing-STEVE
+For a time.
+WOZ
+--and the least you can do if
+you’re gonna downsize these people-STEVE
+They’re gonna live in the biggest
+houses of anyone on the
+unemployment line.
+
+159.
+100
+
+100
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+WOZ
+--is to acknowledge them, just
+acknowledge them and the-STEVE
+There is no God.
+WOZ
+--and the Apple II during this
+launch.
+STEVE
+(resolute)
+This is a new animal.
+WOZ
+This whole place was built by the
+Apple II. You were built by the
+Apple II.
+STEVE
+As a matter of fact I was destroyed
+by the Apple II and its open system
+so that hackers and hobbyists could
+build ham radios or something and
+then it nearly destroyed Apple when
+you spent all your money on it and
+developed a grand total of no new
+products.
+WOZ
+The (Newton).
+STEVE
+(over)
+The little box of garbage? You guys
+came up with the Newton and you,
+like, want people to know that?
+This is a product launch, it’s not
+a luncheon, and the last thing I
+want to do is connect the iMac-WOZ
+--to the only successful product
+this company’s ever made? I’m sorry
+to be blunt it happens to be the
+truth. The Lisa was a failure. The
+Macintosh was a failure. I don’t
+like talking like this but I’m
+tired of being Ringo when I know I
+was John.
+
+160.
+100
+
+100
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+STEVE
+Everybody loves Ringo!
+WOZ
+And I’m tired of being patronized
+by you.
+STEVE
+You think John became John by
+winning a raffle, Woz? You think he
+tricked somebody or hit George
+Harrison over the head? He was John
+because he was John.
+WOZ
+He was John because he wrote
+“Ticket to Ride” and I wrote the
+Apple II.
+ANDREA
+(calling out)
+Everybody, I want to clear the-STEVE
+Nobody moves! You made a beautiful
+board which, by the way, you were
+willing to give out for free so
+don’t tell me how you built Apple.
+If it weren’t for me you’d be the
+easiest “A” at Homestead High
+School.
+WOZ
+These people live and die by your
+praise and here’s your chance.
+Acknowledge that something good
+happened that you weren’t in the
+room for.
+
+No.
+
+STEVE
+(pause)
+
+WOZ
+Steve, do it. It’s right. It’s
+just...it’s right.
+STEVE
+Sorry but no.
+WOZ
+(pause)
+Then let me put it another way.
+(MORE)
+
+161.
+100
+
+100
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+WOZ (CONT'D)
+I don’t believe there’s a man who’s
+done more to advance the
+democratization that comes with
+personal computing than I have but
+you’ve never had any respect for
+me, now why is that?
+
+162.
+100
+
+STEVE
+I’d at least consider the
+possibility that it’s because
+you’ve never had any for me.
+JOANNA’s come out in the house and sees what’s happening-JOANNA
+What the hell is going on?
+WOZ
+Nothing. Thanks for your time.
+JOANNA
+(to STEVE)
+It’s done. She’s coming back.
+STEVE nods...then turns back to WOZ-STEVE
+(to WOZ)
+You came a half-inch from putting
+this company out of business, now
+who do I see about that? I’m
+letting you keep your job. You get
+a pass.
+WOZ
+When people used to ask me what the
+difference was between me and Steve
+Jobs I’d say Steve was the big
+picture guy and I liked a solid
+workbench. When people ask me what
+the difference is now I just say
+Steve’s an asshole. The things you
+make are better than you are,
+brother.
+STEVE
+That’s the idea, brother. And
+knowing that?...That’s the
+difference.
+WOZ
+(the end of this
+friendship)
+(MORE)
+
+100
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+WOZ (CONT'D)
+It’s not binary. You can be decent
+and gifted at the same time.
+
+163.
+100
+
+STEVE starts to walk away from WOZ but then turns around-Woz.
+
+STEVE
+
+(beat)
+I once asked Paul McCartney what
+made the Beatles sound like the
+Beatles and you know what he said?
+The drumming.
+WOZ
+Do you believe that?
+STEVE
+(pause)
+No, it was John.
+WOZ has waited years to say this and for all those years he
+hoped he wouldn’t have to.
+WOZ
+Maybe one day you’ll make something
+and know for sure. ‘Cause the
+little box of garbage? Was one
+little box of garbage more than
+you’ve ever made in your life.
+STEVE holds a moment, nods and heads over to JOANNA, who’s
+clocked this whole last exchange.
+JOANNA
+He didn’t mean it.
+STEVE
+Yeah he did.
+JOANNA
+He’s a temperamental guy.
+STEVE
+No he’s not.
+(pause)
+It’s like 5 minutes before every
+launch everyone goes to a bar, gets
+drunk and tells me what they really
+think.
+JOANNA
+(pause)
+She’s coming to your dressing room.
+
+100
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+
+164.
+100
+
+They head out into-101
+
+INT. CORRIDOR - CONTINUOUS
+
+101
+
+JOANNA
+I told you to make up with Lisa, I
+didn’t say you had to settle every
+blood feud you have. Who lives that
+long?
+STEVE
+The last time blood feuds weren’t
+settled I lost the cover of Time.
+Though for the life of me I still
+don’t know what the hell Dan Kottke
+was mad at me about.
+JOANNA
+Kottke didn’t lose you the cover of
+Time.
+STEVE
+Of course he did.
+JOANNA
+Would you like me to demonstrate
+your capacity to be wrong when
+you’re certain you’re right?
+STEVE
+Dan Kottke told Michael Moritz that
+I was denying-They walk into-102
+
+INT. STEVE’S DRESSING ROOM - CONTINUOUS
+JOANNA
+Do you remember the cover?
+Of Time?
+Yes.
+Yes.
+
+STEVE
+JOANNA
+STEVE
+
+JOANNA
+What was it?
+
+102
+
+102
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+
+165.
+102
+
+STEVE
+What are you talking about?
+JOANNA
+What was on the cover?
+STEVE
+A computer.
+JOANNA
+No, it was a sculpture of a
+computer. It was a sculpture. Time
+would have had to have commissioned
+it months in advance.
+(beat)
+You were never in the conversation
+for Man of the Year. Nobody lost
+you anything. So what else are you
+sure about?
+STEVE
+(pause)
+I don’t know how I could have
+missed that.
+JOANNA
+Reality distortion.
+STEVE takes this in...it’s really rocked his world...
+STEVE
+(pause)
+No seriously.
+Seriously.
+
+JOANNA
+
+STEVE’s a little shaken up...
+STEVE
+(pause)
+I don’t know how I could have
+missed that.
+JOANNA looks at STEVE silently. She’s not going to help him
+this time. Then-JOANNA
+Don’t try to win an argument with
+Lisa. Just say you were wrong. A
+kid should hear their dad say, “I
+was wrong” once in a while.
+
+102
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+
+166.
+102
+
+There’s a KNOCK on the door...
+STEVE
+(pause--then calling)
+Come on in, honey.
+The door opens a little and SCULLEY sticks his head in-SCULLEY
+It’s not honey.
+There’s a moment of shock as STEVE and SCULLEY take in the
+sight of each other. Sculley’s always been a handsome man--a
+healthy, well-scrubbed, Connecticut guy--but he was sent to
+Florida much too young. And he’s been living a secluded life
+as the guy who traded Babe Ruth. STEVE can see that.
+JOANNA
+(pause)
+John, get in, get out of the hall.
+SCULLEY
+I was taken in a side entrance.
+I’ll go out the same way, no one’ll
+see me.
+(beat)
+How are you, Joanna?
+JOANNA
+I’m good, John. I’m just surprised
+to see you.
+SCULLEY
+I know. You look well.
+JOANNA
+I looked better 20 hours ago.
+SCULLEY
+We all did.
+JOANNA
+Everyone here really appreciates
+the quote you gave Forbes, you
+didn’t have to do that.
+SCULLEY
+My pleasure.
+JOANNA
+If you want I can slip you in the
+back once the house lights go out.
+
+102
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+
+167.
+102
+
+SCULLEY
+I’m just here to say good luck.
+JOANNA
+Okay.
+(to STEVE)
+You’ve just got a couple of
+minutes.
+STEVE
+Would you try to find-Yeah.
+
+JOANNA
+
+JOANNA gives SCULLEY a kiss on the cheek, then wipes off any
+lipstick marks. She loves that he came.
+JOANNA (CONT’D)
+You’re a good man, John.
+She exits.
+SCULLEY
+So I brought you a present.
+SCULLEY hands STEVE a box...STEVE smiles...
+A Newton.
+
+STEVE
+
+SCULLEY
+Don’t take it out of the box.
+You’ll be able to sell it. Which is
+more than I can say.
+(pause)
+Everything alright there?
+STEVE
+(beat)
+What? Yeah. No, it’s just something
+Joanna pointed out to me. I missed
+something so obvious about--it
+doesn’t matter.
+SCULLEY
+(pause)
+Look, Wall Street’s gonna sit back
+and wait to see how you do as CEO,
+don’t let any fluctuation bother
+you for the first 12 months. Day
+traders are gonna respond to every-I don’t need to school you.
+
+102
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+
+168.
+102
+
+STEVE
+(meaning the Newton)
+Is this your way of telling me I
+shouldn’t have killed the Newton?
+SCULLEY
+Well you shouldn’t have killed it
+for spite. That’s bad business,
+don’t do that.
+QUICK CUT TO:
+103
+
+INT. ESPRESSO ROMA CAFE - NIGHT (1983)
+
+103
+
+An unimpressive-looking Mediterranean restaurant in Berkeley.
+STEVE and SCULLEY sit at a booth.
+STEVE
+Alright 1957, and IBM passes up the
+chance to buy a young company
+that’s just developed a technology
+called xerography.
+Yes.
+
+SCULLEY
+CUT BACK TO:
+
+104
+
+INT. STEVE’S DRESSING ROOM - DAY
+
+104
+
+STEVE
+(pause)
+I was given back.
+I’m sorry?
+
+SCULLEY
+
+STEVE
+I don’t know why you’ve always been
+interested in my adoption history
+but you said it’s not like someone
+looked at me and gave me back but
+that is what happened.
+SCULLEY
+(pause)
+Yeah?
+QUICK CUT TO:
+
+STEVE JOBS - Shooting Script 03/19/15
+105
+
+169.
+
+INT. ESPRESSO ROMA CAFE - NIGHT
+
+105
+
+STEVE
+Then 10 years later, DEC invents
+the mini-computer and IBM dismisses
+it as too small to do serious
+computing.
+SCULLEY
+They weren’t close enough to the
+future to see it by then?
+STEVE
+DEC becomes a billion dollar
+corporation and IBM decides they
+should maybe get into the computer
+business.
+The owner of the restaurant, a balding Syrian-American named
+JANDALI comes over to the table.
+JANDALI
+Mr. Steve Jobs.
+STEVE
+Jandali, say hello to John Sculley.
+Jandali owns this place and John’s
+the CEO of Pepsi but I’m trying to
+get him to move to Cupertino and
+put a dent in the universe.
+CUT BACK TO:
+106
+
+INT. STEVE’S DRESSING ROOM - SAME TIME
+
+106
+
+SCULLEY
+You never told me that.
+STEVE
+A lawyer couple adopted me first
+and then gave me back after a
+month. They changed their mind.
+QUICK CUT TO:
+107
+
+INT. ESPRESSO ROMA CAFE - NIGHT
+JANDALI
+(to SCULLEY)
+Do you eat vegan as well?
+
+107
+
+107
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+
+170.
+107
+
+SCULLEY
+No, I’ll eat anything.
+STEVE
+Why don’t you start us off with a
+Mediterranean lettuce salad with
+purslane, mint, cucumbers-JANDALI
+And the sumac-lemon vinaigrette?
+Thanks.
+
+STEVE
+
+JANDALI heads away as STEVE continues-STEVE (CONT’D)
+Ten years later, 1977, and another
+young company called Apple invents
+the first personal computer-SCULLEY
+--and IBM dismisses it as
+unimportant to their business.
+CUT BACK TO:
+108
+
+INT. STEVE’S DRESSING ROOM - SAME TIME
+
+108
+
+STEVE
+Then my parents adopted me. My
+biological mother had stipulated
+that whoever took me had to be
+college educated, wealthy and
+Catholic. Paul and Clara Jobs were
+none of those things so my
+biological mother wouldn’t sign the
+adoption papers.
+QUICK CUT TO:
+109
+
+INT. ESPRESSO ROMA CAFE - NIGHT
+SCULLEY
+In ‘81 the Apple II becomes the
+world’s most popular computer and
+now IBM gets into the game with the
+PC.
+
+109
+
+109
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+
+171.
+109
+
+STEVE
+Apple and IBM each invest upwards
+of 50 million in R&D and another 50
+million in advertising.
+SCULLEY
+It’s a shake down. They want to get
+rid of the weaker companies.
+STEVE
+The weaker companies are going
+bankrupt. IBM wants it all.
+CUT BACK TO:
+110
+
+INT. STEVE’S DRESSING ROOM - SAME TIME
+
+110
+
+SCULLEY
+What happened?
+STEVE
+There was a legal battle that went
+on for a while and my mother said
+she refused to love me for the
+first year, you know in case they
+had to give me back.
+SCULLEY
+You can’t refuse to love someone,
+Steve.
+STEVE
+Yeah it turns out you can.
+QUICK CUT TO:
+111
+
+INT. ESPRESSO ROMA CAFE - NIGHT
+SCULLEY
+And now IBM’s got its guns trained
+on you.
+STEVE
+Apple is the only thing standing
+between Blue and industry
+domination.
+SCULLEY
+You said you were going to tell me
+what you have in the testing stage.
+
+111
+
+111
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+STEVE
+The most efficient animal on the
+planet is a condor. The most
+inefficient animals on the planet
+are humans. But a human with a
+bicycle becomes the most efficient
+animal. And the right computer--a
+friendly, easy computer that isn’t
+an eyesore but rather sits on your
+desk with the beauty of a tensor
+lamp--the right computer will be a
+bicycle for the mind. A beautiful
+object--perfect geometry, perfect
+finish, something you want to look
+at and have in your home. Flawless.
+And then a personal computer
+becomes an interpersonal computer.
+And what if instead of it being in
+the right hands, it was in
+everyone’s hands? Everyone in the
+world.
+SCULLEY
+(pause)
+We’d be talking about the most
+tectonic shift in the status quo
+since-Ever.
+
+STEVE
+
+SCULLEY
+(pause)
+And you’re telling me you have the
+right computer?
+STEVE
+It’s called the Macintosh. You and
+I can see to it that IBM doesn’t
+control the information age. We can
+see to it that Orwell was wrong.
+JANDALI comes over and sets down some food.
+SCULLEY
+There’s the spot. “1984 doesn’t
+have to be like ‘1984.’”
+STEVE
+Come be our CEO.
+
+172.
+111
+
+111
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+
+173.
+111
+
+SCULLEY
+(pause)
+Yeah okay.
+STEVE and SCULLEY look at each other...the beginning of a
+great adventure.
+CUT BACK TO:
+112
+
+INT. STEVE’S DRESSING ROOM - SAME TIME
+
+112
+
+STEVE
+(pause)
+What the hell can a one month old
+do that’s so bad his parents give
+him back?
+SCULLEY
+Nothing. There’s nothing a one
+month old can do.
+(beat)
+Have you ever thought about trying
+to find your biological father?
+STEVE
+I’ve met my biological father. For
+that matter, so have you.
+QUICK CUT TO:
+113
+
+INT. ESPRESSO ROMA CAFE - NIGHT
+
+113
+
+And we see an earlier moment all over again-JANDALI
+Mr. Steve Jobs.
+STEVE
+Jandali, say hello to John Sculley.
+CUT BACK TO:
+114
+
+INT. STEVE’S DRESSING ROOM - SAME TIME
+SCULLEY’s gone white...
+SCULLEY
+(long pause)
+You’re kidding me.
+
+114
+
+114
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+
+174.
+114
+
+STEVE
+I know. The odds were beyond
+astronomical.
+QUICK CUT TO:
+115
+
+INT. ESPRESSO ROMA CAFE - NIGHT
+
+115
+
+JANDALI
+Do you eat vegan as well?
+CUT BACK TO:
+116
+
+INT. STEVE’S DRESSING ROOM - SAME TIME
+
+116
+
+STEVE
+My sister found him.
+SCULLEY
+Does he know?
+STEVE
+No. In fact he bragged to Mona that
+Steve Jobs comes in the restaurant
+all the time.
+SCULLEY
+(pause)
+You don’t want to-No.
+
+STEVE
+
+SCULLEY
+Do you go to his rest-STEVE
+No. Terrible food.
+QUICK CUT TO:
+117
+
+INT. ESPRESSO ROMA CAFE - NIGHT
+
+117
+
+STEVE and a group of guests are having a boisterous
+conversation with STEVE joyfully eating something off someone
+else’s plate--loving the food.
+CUT BACK TO:
+
+STEVE JOBS - Shooting Script 03/19/15
+118
+
+INT. STEVE’S DRESSING ROOM - SAME TIME
+
+175.
+118
+
+SCULLEY
+Don’t you think you should talk to
+him?
+STEVE
+He’d probably find a reason to sue
+me.
+SCULLEY sees STEVE clearly...maybe for the first time.
+SCULLEY
+Ah...Steve.
+STEVE
+(beat)
+John, if you’re here about your
+legacy you need to form a line
+behind Wozniak.
+SCULLEY
+Woz is gonna be fine. I’m the guy
+who fired Steve Jobs.
+(beat)
+Rich, college-educated and
+Catholic.
+There’s a KNOCK at the door-JOANNA (O.S.)
+Steve? It’s time.
+STEVE
+I’ve gotta go.
+STEVE stops at the door-STEVE (CONT’D)
+(pause)
+Did I do this? Screw it up?
+SCULLEY takes a moment and then says something he’s not sure
+he means-SCULLEY
+Let’s let it go now. It has to be
+time.
+STEVE
+(pause)
+It was the stylus, John.
+
+118
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+What?
+
+176.
+118
+
+SCULLEY
+
+STEVE
+I killed the Newton because of the
+stylus. If you’re holding a stylus
+you can’t use the other five that
+are attached to your wrist.
+(pause)
+The things we could have done
+together.
+SCULLEY
+(pause)
+God, the things we could have done.
+STEVE opens the door and walks out into-119
+
+INT. CORRIDOR - CONTINUOUS
+
+119
+
+The hallway’s a little crowded now with Apple employees
+lining the walls including JOANNA. They’ll serve as an escort
+backstage but right now, coming down the hall toward STEVE---is LISA. At 19 she’s a beautiful young woman with a
+striking resemblance to her father. She’s wearing a coat and
+has the same headphones around her neck that we saw her in
+when she was nine. She’s nothing like a stereotypical
+teenager--she’s without affect and only uses irony in very
+small doses. We’re aware that she’s ill at ease and selfprotective and uncomfortable.
+She walks down the hallway which is lined with “Think
+Different” posters that have a picture of the iMac.
+STEVE watches her walk toward him--he’s too worn out now to
+have a real confrontation with her but he’ll be slowly forced
+into it. He takes his arm to move her to the side of the
+corridor and he does his best to speak privately while almost
+surrounded by people.
+STEVE
+(speaking quietly in
+Lisa’s ear)
+I’m paying your tuition. Are you
+crazy? Of course I’m paying your
+tuition.
+LISA
+(quietly in his ear)
+I must have misunderstood when you
+said you weren’t paying my tuition.
+
+119
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+
+177.
+119
+
+STEVE
+You and your mom selling the house
+was a hostile thing to do and you
+(knew it).
+LISA
+(over)
+She needed the money.
+STEVE
+She always needs the money.
+LISA
+She needs a doctor, she has a sinus
+infection.
+STEVE
+She’s had the same sinus infection
+since 1988.
+LISA
+I’m gonna take care of my mother,
+I’m sorry if that angers you.
+STEVE
+It does anger me ‘cause you’re a
+kid and it’s not your job to take
+care of your mother.
+LISA
+Is that how yours died?
+This just went to the next level and JOANNA’s just seen
+that...
+JOANNA
+Guys step away please and give them
+some room.
+Everyone creates a little more space but total privacy is
+really impossible right now.
+STEVE
+(pause)
+When your mom is 90 and can’t feed
+herself you can take care of her.
+But right now she’s 45, perfectly
+healthy and can’t feed herself.
+You’re supposed to work hard in
+school and be 19 and that’s it.
+I’ll take care of your mother.
+
+119
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+
+178.
+119
+
+LISA
+Keep up the good work.
+STEVE
+What the hell do you want from me?
+LISA
+I was sent for.
+STEVE
+Look, I bought her a house for
+seven-hundred thousand dollars,
+it’s worth twice that much today
+and she sold it for two magic rocks
+and a bowl of soup!
+LISA
+It was her house.
+STEVE
+She used that money to travel
+through Europe-LISA
+It was her money which you make her
+beg for.
+JOANNA
+(it’s time)
+Steve?
+STEVE
+Oh don’t talk to me about--going to
+Andy and asking him for the money.
+That was so off-the-charts over
+(the line, I can’t even)-LISA
+(over--calmly)
+I did not do that. Andy came to me.
+STEVE looks around at the dozen or so people that are too
+nearby for comfort-STEVE
+Everybody have an opinion on this?
+JOANNA
+I’m sorry guys-(to STEVE)
+--in 30 seconds you’re going to be
+late.
+
+119
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+STEVE
+I’m callous ‘cause I’m not sending
+a Gulf Stream to the Pasteur
+Institute to fetch the finest sinus
+specialists in all the land?!
+LISA
+Did I call you callous?
+STEVE
+She spends the money on antiques.
+And then sells them for a fraction
+of what she paid. And she does it
+with money I gave to her for you-Steve?
+
+JOANNA
+
+STEVE
+You came to me hysterical when you
+were (13, asking if you could live
+with me)-LISA
+(over--calmly)
+I wasn’t hysterical.
+STEVE
+--because your mom was irrationallyLISA
+Thirteen was the second time I
+asked you.
+STEVE
+--screaming at you every day or not
+speaking to you for weeks at a time-the stress of her life as a
+spiritual healer-LISA
+I don’t believe I said you’re a bad
+guy but if I did I’m sorry.
+STEVE
+Something happened to you at school.
+Some first semester core class that
+all freshman are required to take,
+some-LISA
+I read Time.
+
+179.
+119
+
+119
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+What?
+
+180.
+119
+
+STEVE
+
+This has stopped STEVE in his tracks...
+LISA
+I have internet access at school, I
+read an old copy of Time and I
+asked my mom some questions about
+my family history.
+STEVE is frozen for a moment...
+STEVE
+(pause)
+That was...Time wrote a mangled
+piece of journal--you were never
+supposed to read that-LISA
+I had two different Harvard
+statisticians try to reverse
+engineer the equation you came up
+with to prove that 28% of American
+men could be my father.
+Honey--
+
+STEVE
+
+LISA can’t help but raise her voice a little. She’s not
+someone who likes dramatics but she’s upset now. There’s no
+way the others are going to be able to avoid hearing this.
+LISA
+My mother may be a troubled woman
+but what’s your excuse?
+(beat)
+That’s why I’m not impressed with
+your story, dad. It’s that you knew
+and you didn’t do anything about it
+and that makes you an
+unconscionable coward. And not for
+nothin’ but “Think” is a verb
+making “Different” an adverb.
+You’re asking people to “Think
+DifferentLY”. And you can talk
+about the Bauhaus movement and
+Braun and simplicity is
+sophistication and Issey Miyake
+uniforms and Bob Dylan lyrics all
+you want, but that thing-(pointing at one of the
+posters of the iMac)
+(MORE)
+
+119
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+LISA (CONT'D)
+--looks like Judy Jetson’s Easy
+Bake Oven!
+
+181.
+119
+
+LISA walks away and out the side door that goes to the
+parking lot.
+There’s a frozen silence for a moment before-STEVE
+(pause)
+There is no way in the world that’s
+not my kid.
+STEVE looks at JOANNA who looks kindly back. After a moment,
+ANDREA interrupts with-ANDREA
+(beat)
+Alright, here we go.
+Everyone begins to head to the door leading to the stage. We
+see STEVE’s hand grab the door handle and turn it as we-CUT TO:
+120
+
+EXT. PARKING LOT - SAME TIME
+
+120
+
+STEVE’s walked out the parking lot door to go after Lisa. We
+can see JOANNA and ANDREA CUNNINGHAM and the others. We’re on
+the side of the auditorium and while the lot is filled there
+are no people except LISA who’s making her way to her car.
+STEVE watches her go and then makes a decision--
+
+Hey!
+
+STEVE
+(shouting)
+
+LISA turns around.
+LISA
+(calling back)
+You’re gonna start late!
+STEVE
+You know what Lisa stood for?
+What?
+
+LISA
+
+120
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+STEVE
+The computer, the Lisa, you know
+what it stood for?
+LISA
+I’m sorry I said that about the
+iMac, it’s not what I really think.
+STEVE
+Behind my back, at the office, you
+know what it stood for?
+LISA
+Local Integrated System
+Architecture. I was five, why
+couldn’t you just lie?
+STEVE
+I did. It stood for “Lisa. Colon.
+Invented Stupid Acronym.”
+(beat)
+Of course it was named after you,
+are you daffy! Local Integrated
+System Architecture doesn’t even
+mean anything, of course it was
+named after you.
+LISA
+(pause)
+Why did you say it wasn’t all those
+years?
+STEVE
+(totally upfront and
+without hesitation)
+I don’t know.
+LISA
+Why did you say you weren’t my
+father?
+STEVE
+(not backing off it)
+Honey...I honestly don’t know.
+LISA
+That’s a child’s answer.
+STEVE
+(owning it)
+I’m poorly made.
+LISA stands there a moment, then checks her watch--
+
+182.
+120
+
+120
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+LISA
+You can’t start late. It’s after
+nine.
+STEVE
+Yeah I don’t care.
+LISA
+I don’t get it.
+STEVE
+I know I didn’t want to be yoked to
+your mom but-LISA
+That’s just lame.
+I know.
+
+STEVE
+
+LISA
+And you can belittle my mother all
+you want but she always made dinner
+for me and she always took me to
+school.
+STEVE
+Feeding you and taking you to
+school is kind of the baseline of
+parenting, Lisa, it’s actually a
+legal obligation. Don’t devalue
+yourself like that, don’t do that.
+(beat--finally)
+But you’re right, she did. And I
+didn’t.
+(pause)
+I‘m using “Different” as a noun,
+smartass. Like “Think Victory.” Or
+“Vote Freedom.”
+LISA
+Vote Freedom?
+STEVE
+I don’t know.
+(pause)
+You’re writing for the Crimson?
+What?
+
+LISA
+
+183.
+120
+
+120
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+
+184.
+120
+
+STEVE
+The Apple chapter of the Harvard
+Alumni Association tells me you’re
+writing for the Crimson.
+LISA
+Yeah, a little bit. Essays.
+STEVE
+I’d like to read one.
+Sure.
+
+LISA
+
+STEVE
+No, I mean now, I’d like to read
+one of your essays now.
+LISA
+That’s--c’mon, you’ve got to go on
+stage.
+STEVE
+Suit yourself but the iMac will not
+be launched until you give me one
+of your essays so the world is
+waiting for you.
+LISA
+(pause)
+It’s not like I have one on me.
+STEVE
+Somewhere in that backpack is one
+of your essays. Dump the contents
+on the ground and if I’m wrong I’ll
+buy you a Cabriolet.
+LISA looks at him, not believing this...she unzips one of the
+pockets of her backpack and things start falling out and as
+she tries to collect them more things start falling out until
+everything’s on the ground.
+STEVE watches as LISA, unhurriedly, collects her things and
+puts them back. It’s going to take a while.
+STEVE just watches this, smiles and shakes his head...
+LISA
+(without looking up)
+I just spilled some...don’t laugh
+at me.
+
+120
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+I’m not.
+
+185.
+120
+
+STEVE
+
+She finds the essay and holds it out. All she wants is for
+her dad to be proud of her.
+LISA
+It hasn’t been published yet, I
+just finished but it’s a first
+draft and it reads like one.
+JOANNA
+(calling)
+Guys, I’m really sorry.
+STEVE takes the essay, crumpled and coffee-stained...STEVE
+sees the byline on the essay--”LISA BRENNAN-JOBS.”
+STEVE can’t help but take in the sight of her using his name.
+He’d stare at it forever if he wasn’t interrupted by-Dad.
+
+LISA
+
+He looks up at her...
+Yeah.
+
+STEVE
+
+LISA
+Why don’t you just read it after.
+You can give it your full
+attention.
+STEVE
+Okay. But you should know that the
+Bay Area is strewn with the broken
+spirits of people who couldn’t
+handle my full attention.
+And this makes LISA crack up. She really has a good laugh and
+that makes her father smile. She picks up her backpack-Good luck.
+Okay.
+
+LISA
+STEVE
+
+LISA starts to walk off--
+
+120
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+
+186.
+120
+
+STEVE (CONT’D)
+(calling out)
+I’m gonna put music in your pocket.
+LISA turns around-What?
+
+LISA
+
+STEVE
+A hundred songs. A thousand songs.
+Five hundred songs. Somewhere
+between five hundred and a thousand
+songs. Right in your pocket.
+Because I can’t stand looking at
+that inexplicable Walkman anymore.
+You’re carrying around a brick
+playing a cassette tape. We’re not
+savages. So I’m gonna put a
+thousand songs in your pocket.
+And now we HEAR the musical intro to “Both Sides Now,” but
+it’s not the version we’re used to. This is the one Lisa was
+describing when she was nine. It’s a beautiful male/female
+duet with heartbreaking harmonies, more mature, wiser and
+haunted.
+LISA
+You can do that?
+STEVE
+Mm-hm. All I have to do really is
+wipe out the record business as we
+know it and we’ll be all set.
+(pause)
+You want to watch from backstage?
+Yeah.
+
+LISA
+
+LISA joins her father and the two of them walk to the side
+entrance of the building.
+STEVE
+This is the last semester you get
+to take dumb classes.
+LISA
+I don’t take dumb classes.
+STEVE
+“History of Food”?
+
+120
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+
+187.
+120
+
+LISA
+(laughing)
+I don’t take “History of Food.” And
+you gave me my Walkman, I like it.
+STEVE
+Well cherish it ‘cause it’s not
+gonna be around much longer.
+They walk into-121
+
+INT. CORRIDOR - CONTINUOUS
+
+121
+
+--where everyone’s waiting. We can HEAR the rock concert-like
+stomping and clapping from the audience. “Both Sides Now”
+continues-You ready?
+Yeah.
+
+JOANNA
+STEVE
+
+JOANNA walks STEVE and LISA-122
+
+INT. BACKSTAGE - CONTINUOUS
+
+122
+
+--where the energy of the audience is louder. The STAGE
+MANAGER is waiting as is the WOMAN at the PA microphone.
+STEVE and LISA stand there a moment...
+STAGE MANAGER
+On your cue, Steve.
+LISA
+Are you nervous?
+STEVE shakes his head “no.” He takes a moment and then nods a
+little to the STAGE MANAGER--”I’m ready, let’s go.”
+STAGE MANAGER
+House to half, go.
+The AUDIENCE begins CLAPPING in anticipation-STAGE MANAGER (CONT’D)
+House out, go.
+The theater goes dark and the CLAPPING gets louder--
+
+122
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+Go Cue 1.
+
+188.
+122
+
+STAGE MANAGER (CONT’D)
+
+On the giant screen the “Think Different” commercial starts
+playing to THUNDEROUS CHEERS from the AUDIENCE. We’ll HEAR it
+but NEVER SEE IT.
+We HEAR the audio as “Both Sides Now” continues. The famous
+audio only serves as background. What we’re watching is
+everyone--everyone but STEVE--taken by the ad. STEVE’s taken
+by other things he’s remembering. One of them’s Lisa.
+VOICE OVER
+Here’s to the crazy ones. The
+misfits. The rebels. The
+troublemakers.
+STEVE’s standing in the dark next to LISA listening to these
+words. We MOVE IN SLOWLY on his face as he prepares to go on.
+VOICE OVER (CONT’D)
+The round pegs in the square holes.
+The ones who see things
+differently.
+And we start to INTERCUT with various people out in the
+house, which is packed with 2,600 eager people--ANDY
+HERTZFELD...WOZ taking his seat...
+VOICE OVER (CONT’D)
+They’re not fond of rules. And they
+have no respect for the status quo.
+You can quote them, disagree with
+them, glorify or vilify them.
+AVIE TEVANIAN...ANDREA CUNNINGHAM...
+VOICE OVER (CONT’D)
+About the only thing you can’t do
+is ignore them. Because they change
+things. They push the human race
+forward.
+JOANNA slips in the back...with SCULLEY...
+VOICE OVER (CONT’D)
+And while some may see them as the
+crazy ones, we see genius.
+And we’re backstage on STEVE and LISA again as “Both Sides
+Now” continues over. Is the song regretful like Lisa said, or
+does Steve still have a chance to fix himself?
+
+122
+
+STEVE JOBS - Shooting Script 03/19/15
+CONTINUED:
+
+189.
+122
+
+VOICE OVER (CONT’D)
+Because the people who think
+they’re crazy enough to change the
+world are the ones who do.
+STEVE
+(whispering to LISA)
+You remember that painting you did
+here on the original Mac?
+LISA thinks...and then shakes her head “no.”
+STEVE (CONT’D)
+(whispering)
+I do.
+And LISA hears this and then wipes a tear from her eye with
+her sleeve.
+The AUDIENCE goes crazy as the PA WOMAN says into the
+microphone-PA WOMAN
+Ladies and gentlemen, Steve Jobs.
+HARD CUT TO:
+
+BLACK
+
+
