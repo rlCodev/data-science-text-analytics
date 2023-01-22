@@ -4,8 +4,6 @@ services:
 
   fastapi:
       build: ./fastapi
-      volumes:
-        - /Users/leonremke/Documents/GIT_REPOS/UNI/dsta-movie-analytics/docker-compose-mount
       ports:
         - "80:80"
       container_name: movie-analytics-fast-api
