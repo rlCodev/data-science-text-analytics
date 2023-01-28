@@ -1,6 +1,5 @@
 import requests,json,csv,os
 
-API_key = '2f336ef7520a9304940fd71509ade61c'
 Movie_name = '8 mm'
 titles = ['A-Night-at-the-Roxbury',
  'Manhunte',
@@ -582,6 +581,7 @@ titles = ['A-Night-at-the-Roxbury',
  'Silver-Linings-Playbook',
  'Green-Book']
 
+API_key = '2f336ef7520a9304940fd71509ade61c'
 #Use this method to return the tmdb-id (as a String) of a movie. It uses the defualt API_key which is
 #set to my API_key. The input is a string of searchwords.
 
@@ -615,6 +615,25 @@ def get_tmdb_id_by_name(searchwords: str) -> str:
         return str(-1)
     # print(tmdb_id)
 
+def get_tmdb_id_by_imdb_id(imdb_id:str) -> str:
+    query = 'https://api.themoviedb.org/3/find/'+imdb_id+'?api_key='+API_key+'&external_source=imdb_id'
+    response =  requests.get(query)
+    if response.status_code==200:
+        array = response.json()
+        #text contains the query as a json-file
+        text = json.dumps(array)
+        #print(text)
+    else:
+        print("No results for searchwords --> error")
+        return ("No results for searchwords --> error")
+    dataset = json.loads(text)
+    #extracts the movie id of the very first result
+    # print(dataset)
+    try:
+        tmdb_id = dataset['movie_results'][0]['id']
+        return str(tmdb_id)
+    except:
+        return str(-1)
 
 #Uses tmdb id as input and returns the age certification as a String
 
@@ -629,6 +648,7 @@ def get_age_certfication_by_tmdb_id(tmdb_id: str) -> str:
         dataset = json.loads(text)
 
         list_of_certs = dataset['results']
+        print(list_of_certs)
         index = -1
         # print(dataset)
         for i in range(len(list_of_certs)):
@@ -646,20 +666,20 @@ def get_age_certfication_by_tmdb_id(tmdb_id: str) -> str:
 
 
 def main():
-    # text_file = open("C:\\Users\\Jakob\\Documents\\DSTA_Project\\data\\dataset_movie_names.txt", "r")
-    # lines = text_file.read().split(',')
-    # titles = []
-    # for line in lines:
-    #     titles.append()
-    # print(lines)
-    f = open('.//map_title_to_ageRating.txt', 'w')
-    output = {}
-    for title in titles:
-        id = get_tmdb_id_by_name(title)
-        age_rating = get_age_certfication_by_tmdb_id(id)
-        output.update({title : age_rating})
-        f.write(title + ',' + age_rating + '\n')
-        print('title = ' + title + ', age rating = ' + age_rating)
+    #f = open('.//map_title_to_ageRating.txt', 'w')
+    #output = {}
+    
+    #for title in titles:
+    #    id = get_tmdb_id_by_name(title)
+    #    age_rating = get_age_certfication_by_tmdb_id(id)
+    #    output.update({title : age_rating})
+    #    f.write(title + ',' + age_rating + '\n')
+    #    print('title = ' + title + ', age rating = ' + age_rating)
+    id = get_tmdb_id_by_imdb_id("tt0468569")
+    print(id)
+    age_rating = get_age_certfication_by_tmdb_id(id)
+    print('age rating = ' + age_rating)
+
 
 if __name__ == "__main__":
     main()
