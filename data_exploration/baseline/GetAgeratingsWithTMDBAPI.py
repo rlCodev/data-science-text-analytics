@@ -69,16 +69,16 @@ def get_age_certfication_by_tmdb_id(tmdb_id: str) -> str:
         dataset = json.loads(text)
 
         list_of_certs = dataset['results']
-        print(list_of_certs)
         index = -1
         # print(dataset)
         for i in range(len(list_of_certs)):
             if(list_of_certs[i]['iso_3166_1'] == 'US'):
                 index = i
                 break
-        try:
+
+        if(index != -1):
             age_rating = dataset['results'][index]['release_dates'][0]['certification']
-        except:
+        else:
             return 'no age rating found'
     
     if(age_rating == ''):
@@ -87,6 +87,7 @@ def get_age_certfication_by_tmdb_id(tmdb_id: str) -> str:
 
 
 def main():
+    print(os.path.dirname(__file__))
     resultFile = open('.//imdb_id_with_age_rating_list.txt', 'w')
     inputFile = open('movie1K_list.txt')
 
@@ -99,10 +100,11 @@ def main():
         output.update({imdb_id : age_rating})
         resultFile.write(imdb_id + ',' + age_rating + '\n')
         print('ID = ' + imdb_id + ', age rating = ' + age_rating)
-    id = get_tmdb_id_by_imdb_id("tt0468569")
-    print(id)
+
+def test():
+    id = get_tmdb_id_by_imdb_id("tt2258281")
     age_rating = get_age_certfication_by_tmdb_id(id)
-    print('age rating = ' + age_rating)
+    print(age_rating)
 
 
 if __name__ == "__main__":
