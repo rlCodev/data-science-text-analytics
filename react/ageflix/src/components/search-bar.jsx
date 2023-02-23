@@ -9,7 +9,7 @@ export default function SearchBar() {
                   type="text"
                   className="w-full rounded-md rounded-r-none font-bold p-2 pl-6 text-lg"
                 />
-                <button className="bg-yellow-400 text-white px-6 text-lg font-semibold py-4 rounded-r-md">
+                <button className="bg-yellow-400 px-6 text-lg font-semibold py-4 rounded-r-md">
                   Go
                 </button>
               </div>

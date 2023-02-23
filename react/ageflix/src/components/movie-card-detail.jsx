@@ -1,12 +1,10 @@
 import { useNavigate } from 'react-router-dom';
 
-export default function MovieCard() {
+export default function MovieCardDetail() {
   const navigate = useNavigate();
     return (
-      <div  className="w-fit pb-20 hover: cursor-pointer" onClick={() => navigate('/details')}>
-      <div className="transition ease-in-out delay-200 hover:-translate-y-1 hover:scale-105">
-        <div className="py-3 ">
-          <div className="bg-white shadow-lg border-gray-100 max-h-80	 border sm:rounded-2xl p-8 flex space-x-8">
+
+          <div className="max-h-80 p-8 flex space-x-8">
             <div className="h-48 overflow-visible w-1/2">
               <img
                 className="rounded-2xl shadow-lg"
@@ -29,8 +27,5 @@ export default function MovieCard() {
               </p>
             </div>
           </div>
-        </div>
-      </div>
-      </div>
     );
 }
