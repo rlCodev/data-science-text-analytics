@@ -1,9 +1,6 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-@import url(//db.onlinewebfonts.com/c/e5c490a944bc2b2746f0c851501e46c7?family=AvenirNextW10-Bold);
-@import url("https://fonts.googleapis.com/css2?family=Inter&display=swap");
-@import "./star-animation.css";
 
 html,
 body {
@@ -116,7 +113,7 @@ a {
   left: 0;
   width: 100%;
   height: 100%;
-  z-index: -1;
+  /* z-index: -1; */
 }
 
 .bg-animation {
