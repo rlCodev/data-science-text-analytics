@@ -71,3 +71,14 @@ This section can be found in this jupyter-notebook:
 - Setup git project (react, fastapi, elasticsearch, dockerfiles)
 - Setup git-hooks integration
 - Run elasticsearch instance on linux server
+
+### January
+
+Agile reiteration of the project. More research on the topic -> new and better structured Datasets -> more alternative Strategies and better data preprocessing.
+
+### February
+
+- Ready UI
+- Solved Server issues
+- Working on the models
+- Refining the preprocessing pipline
