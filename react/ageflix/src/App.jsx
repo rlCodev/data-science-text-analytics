@@ -3,7 +3,7 @@ import Home from "./pages/home";
 import Footer from "./components/Footer";
 import { Routes, Route } from 'react-router-dom';
 import Details from "./pages/movie-details";
-import Search from "./pages/search";
+import Search from "./pages/search/search";
 import "./index.css"
 
 export default function App() {
