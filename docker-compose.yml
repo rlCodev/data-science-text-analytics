@@ -10,47 +10,47 @@ services:
 
   react-ui:
     build:
-      context: ./react
+      context: ./react_ageflix
     ports:
-      - "3000:3000"
+      - "5173:5173"
     container_name: movie-analytics-react-ui
     stdin_open: true
-    volumes:
-       - ./react:/usr/src/app/movie-analytics
-       - /usr/src/app/movie-analytics/react
+    # volumes:
+    #    - ./react:/usr/src/app/movie-analytics
+    #    - /usr/src/app/movie-analytics/react
 
-  # Elasticsearch Docker Images: https://www.docker.elastic.co/
-  elasticsearch:
-    image: docker.elastic.co/elasticsearch/elasticsearch:7.4.0
-    container_name: elasticsearch
-    environment:
-      - xpack.security.enabled=false
-      - discovery.type=single-node
-    ulimits:
-      memlock:
-        soft: -1
-        hard: -1
-      nofile:
-        soft: 65536
-        hard: 65536
-    cap_add:
-      - IPC_LOCK
-    volumes:
-      - elasticsearch-data:/usr/share/elasticsearch/data
-    ports:
-      - 9200:9200
-      - 9300:9300
+  # Elasticsearch hosted now!
+  # elasticsearch:
+  #   image: docker.elastic.co/elasticsearch/elasticsearch:7.4.0
+  #   container_name: elasticsearch
+  #   environment:
+  #     - xpack.security.enabled=false
+  #     - discovery.type=single-node
+  #   ulimits:
+  #     memlock:
+  #       soft: -1
+  #       hard: -1
+  #     nofile:
+  #       soft: 65536
+  #       hard: 65536
+  #   cap_add:
+  #     - IPC_LOCK
+  #   volumes:
+  #     - elasticsearch-data:/usr/share/elasticsearch/data
+  #   ports:
+  #     - 9200:9200
+  #     - 9300:9300
 
-  kibana:
-    container_name: kibana
-    image: docker.elastic.co/kibana/kibana:7.4.0
-    environment:
-      - ELASTICSEARCH_HOSTS=http://elasticsearch:9200
-    ports:
-      - 5601:5601
-    depends_on:
-      - elasticsearch
+  # kibana:
+  #   container_name: kibana
+  #   image: docker.elastic.co/kibana/kibana:7.4.0
+  #   environment:
+  #     - ELASTICSEARCH_HOSTS=http://elasticsearch:9200
+  #   ports:
+  #     - 5601:5601
+  #   depends_on:
+  #     - elasticsearch
 
-volumes:
-  elasticsearch-data:
-    driver: local
+# volumes:
+#   elasticsearch-data:
+#     driver: local
