@@ -1,0 +1,7 @@
+elasticsearch7
+pandas
+numpy
+matplotlib
+spacy
+wordcloud
+sklearn

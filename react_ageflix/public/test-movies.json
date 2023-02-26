@@ -1,0 +1,45 @@
+{
+    "results": [
+      {
+        "id": 1,
+        "title": "The Shawshank Redemption",
+        "overview": "Two imprisoned men bond over a number of years...",
+        "release_date": "1994-09-10",
+        "poster_path": "/9O7gLzmreU0nGkIB6K3BsJbzvNv.jpg",
+        "rating": 9.3
+      },
+      {
+        "id": 2,
+        "title": "The Godfather",
+        "overview": "Spanning the years 1945 to 1955...",
+        "release_date": "1972-03-14",
+        "poster_path": "/rPdtLWNsZmAtoZl9PK7S2wE3qiS.jpg",
+        "rating": 9.2
+      },
+      {
+        "id": 2,
+        "title": "The Godfather",
+        "overview": "Spanning the years 1945 to 1955...",
+        "release_date": "1972-03-14",
+        "poster_path": "/rPdtLWNsZmAtoZl9PK7S2wE3qiS.jpg",
+        "rating": 9.2
+      },
+      {
+        "id": 2,
+        "title": "The Godfather",
+        "overview": "Spanning the years 1945 to 1955...",
+        "release_date": "1972-03-14",
+        "poster_path": "/rPdtLWNsZmAtoZl9PK7S2wE3qiS.jpg",
+        "rating": 9.2
+      },
+      {
+        "id": 3,
+        "title": "The Dark Knight",
+        "overview": "Batman raises the stakes in his war on...",
+        "release_date": "2008-07-16",
+        "poster_path": "/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+        "rating": 9.0
+      }
+    ]
+  }
+  
