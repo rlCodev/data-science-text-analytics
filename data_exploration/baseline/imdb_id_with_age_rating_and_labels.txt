@@ -1,0 +1,1100 @@
+tt0032138,no age rating found,None,Mild,None,None,Mild
+tt0035423,PG-13,None,None,Mild,Mild,Mild
+tt0038650,PG,None,Mild,None,Mild,Mild
+tt0045537,no age rating found,None,None,None,Mild,None
+tt0047396,no age rating found,Mild,Mild,None,Mild,Moderate
+tt0048028,PG,None,Mild,None,Mild,Mild
+tt0048545,PG-13,None,Moderate,None,Mild,Moderate
+tt0048605,no age rating found,Mild,None,None,Mild,None
+tt0049470,no age rating found,None,Mild,None,None,Mild
+tt0049730,NR,None,Mild,None,Mild,Mild
+tt0049833,G,Mild,Mild,None,Mild,Mild
+tt0050419,NR,None,None,None,Mild,None
+tt0050706,NR,None,None,None,Mild,None
+tt0052357,PG,Mild,Mild,None,Mild,Moderate
+tt0053125,NR,Mild,Mild,None,Mild,Mild
+tt0053221,NR,None,Mild,Mild,Moderate,Mild
+tt0053579,no age rating found,None,None,None,None,None
+tt0054167,NR,Mild,Mild,Mild,Mild,Moderate
+tt0056869,NR,None,Moderate,None,Mild,Moderate
+tt0056923,no age rating found,None,Mild,None,Mild,Mild
+tt0057115,NR,None,Mild,Mild,Mild,Moderate
+tt0058331,no age rating found,None,None,None,None,Mild
+tt0058461,R,None,Moderate,None,Mild,Moderate
+tt0059043,no age rating found,Mild,Moderate,None,None,Moderate
+tt0059592,no age rating found,Moderate,Mild,Mild,Mild,None
+tt0060522,NR,None,None,None,Mild,None
+tt0061138,no age rating found,Mild,None,None,Mild,None
+tt0061418,R,Mild,Moderate,Mild,Mild,Moderate
+tt0061722,PG,Moderate,Mild,Mild,Mild,Mild
+tt0061781,no age rating found,Mild,None,None,Mild,None
+tt0061811,PG-13,Mild,Mild,Moderate,Mild,Mild
+tt0062622,G,None,Mild,None,None,Moderate
+tt0063442,G,Mild,Moderate,Mild,Mild,Mild
+tt0064040,no age rating found,None,Moderate,Mild,Mild,Moderate
+tt0064115,no age rating found,Mild,Moderate,Mild,Mild,Mild
+tt0064276,R,Mild,Moderate,Mild,Severe,Mild
+tt0064665,R,Moderate,Moderate,Moderate,Mild,Moderate
+tt0065214,R,Moderate,Severe,Mild,Mild,Severe
+tt0065724,R,Moderate,Mild,Mild,Mild,Mild
+tt0065988,PG-13,Mild,Moderate,Mild,Mild,Mild
+tt0066026,R,Moderate,Moderate,Mild,Mild,Mild
+tt0066206,PG,None,Moderate,Moderate,Mild,Moderate
+tt0066249,PG-13,Mild,Mild,None,Mild,None
+tt0066921,R,Severe,Severe,Moderate,Moderate,Severe
+tt0067116,R,Mild,Moderate,Moderate,Moderate,Moderate
+tt0067140,PG,Mild,Moderate,Moderate,Moderate,Moderate
+tt0067185,no age rating found,Mild,Moderate,None,Mild,Mild
+tt0068646,R,Moderate,Severe,Moderate,Mild,Moderate
+tt0068935,R,Mild,Moderate,Mild,Mild,Mild
+tt0069293,PG,Mild,Mild,None,Mild,Moderate
+tt0069467,no age rating found,Moderate,Moderate,None,Mild,Severe
+tt0069762,PG,Mild,Moderate,Mild,Mild,Moderate
+tt0069995,R,Severe,Moderate,Mild,Mild,Moderate
+tt0070047,R,Moderate,Moderate,Severe,Mild,Severe
+tt0070245,no age rating found,Moderate,Severe,Moderate,Mild,Moderate
+tt0070246,no age rating found,Moderate,Severe,Moderate,Moderate,Severe
+tt0070291,PG,None,Moderate,Mild,Moderate,Mild
+tt0070379,no age rating found,Moderate,Moderate,Severe,Moderate,Moderate
+tt0070511,PG,Moderate,Severe,Mild,Mild,Moderate
+tt0070735,PG,Mild,Mild,Moderate,Mild,Mild
+tt0070849,NC-17,Severe,Moderate,Severe,Mild,Moderate
+tt0071129,R,Moderate,Mild,Mild,Mild,Mild
+tt0071315,R,Moderate,Moderate,Mild,Mild,Moderate
+tt0071360,PG,Mild,Moderate,Mild,Mild,Moderate
+tt0071562,R,Mild,Severe,Moderate,Mild,Moderate
+tt0072443,no age rating found,Mild,Mild,None,Mild,Mild
+tt0072684,PG,Moderate,Moderate,None,Mild,Moderate
+tt0072890,R,None,Moderate,Severe,Mild,Mild
+tt0073195,no age rating found,Mild,Severe,Mild,Mild,Severe
+tt0073440,R,Moderate,Mild,Moderate,Moderate,Mild
+tt0073486,R,Mild,Moderate,Severe,Mild,Severe
+tt0073582,R,Mild,Severe,Mild,Moderate,Severe
+tt0073629,R,Moderate,Mild,Mild,Mild,Mild
+tt0074119,no age rating found,None,None,Moderate,Mild,Mild
+tt0074285,R,Severe,Severe,Moderate,Mild,Severe
+tt0074686,no age rating found,Moderate,Mild,None,Mild,Moderate
+tt0074749,R,Moderate,Moderate,Moderate,Moderate,Moderate
+tt0074811,R,Mild,Moderate,Moderate,Moderate,Severe
+tt0075148,PG,Mild,Moderate,Mild,Mild,Moderate
+tt0075314,R,Moderate,Severe,Severe,Moderate,Severe
+tt0075686,no age rating found,Mild,None,Mild,Mild,None
+tt0076729,PG,Mild,Mild,Moderate,Mild,None
+tt0076759,no age rating found,None,Mild,None,Mild,Mild
+tt0077402,NR,Mild,Severe,Moderate,Mild,Severe
+tt0077405,PG,None,Mild,Mild,Mild,Mild
+tt0077416,R,Mild,Severe,Severe,Mild,Severe
+tt0077651,R,Moderate,Moderate,Mild,Mild,Severe
+tt0078788,no age rating found,Moderate,Severe,Severe,Moderate,Severe
+tt0078841,PG,Moderate,None,Mild,Mild,None
+tt0078908,R,Mild,Moderate,Mild,Mild,Severe
+tt0079095,no age rating found,Moderate,Mild,Mild,Moderate,Moderate
+tt0079116,PG,Mild,Moderate,Moderate,Mild,Moderate
+tt0079182,R,Severe,Severe,Moderate,Moderate
+tt0079417,PG,Moderate,Mild,Mild,Mild,Mild
+tt0079470,R,Moderate,Mild,Moderate,None,None
+tt0079672,PG-13,None,Mild,Moderate,Moderate,Moderate
+tt0079944,NR,None,Mild,Mild,Mild,Mild
+tt0079945,PG,None,Mild,Mild,None,Mild
+tt0080339,PG,Moderate,Mild,Mild,Mild,None
+tt0080453,R,Severe,Mild,None,Mild,Mild
+tt0080455,R,Mild,Mild,Moderate,Mild,Mild
+tt0080610,no age rating found,Mild,None,None,Mild,None
+tt0080684,PG,None,Mild,None,None,Moderate
+tt0080745,PG,Mild,Mild,Mild,None,Mild
+tt0080761,R,Moderate,Severe,Mild,Mild,Severe
+tt0080958,no age rating found
+tt0080979,PG,None,Moderate,None,None,Mild
+tt0081505,R,Moderate,Severe,Moderate,Mild,Severe
+tt0082089,R,Moderate,Mild,Mild,Mild,Mild
+tt0082186,PG,Moderate,Moderate,None,None,Mild
+tt0082198,R,Moderate,Severe,None,Mild,Moderate
+tt0082846,PG,None,None,Moderate,None,Mild
+tt0082971,no age rating found,Mild,Moderate,Mild,Mild,Moderate
+tt0083658,R,Moderate,Moderate,Mild,Mild,Moderate
+tt0083866,no age rating found,None,Mild,Mild,Mild,Moderate
+tt0083907,NC-17,Moderate,Severe,Mild,Mild,Severe
+tt0083929,R,Moderate,Mild,Moderate,Moderate,None
+tt0083946,PG,Mild,Mild,Mild,Mild,Moderate
+tt0083987,PG,None,Moderate,Mild,None,Moderate
+tt0084390,no age rating found,Severe,Moderate,Mild,None,Moderate
+tt0084549,no age rating found,Moderate,Moderate,Mild,Mild,Mild
+tt0084628,no age rating found,Moderate,Severe,None,Mild,Moderate
+tt0084726,PG,None,Moderate,Mild,Mild,Moderate
+tt0084787,R,None,Severe,Moderate,Mild,Severe
+tt0084899,PG,Mild,Moderate,Mild,Mild,Moderate
+tt0085794,PG,Mild,Mild,Mild,Mild,Mild
+tt0085991,PG,Mild,Moderate
+tt0086190,PG,Mild,Mild,None,Mild,Mild
+tt0086250,R,Moderate,Severe,Severe,Severe,Severe
+tt0086837,PG,None,None,Mild,None,Mild
+tt0086856,PG,None,Mild,Mild,Mild,None
+tt0086879,no age rating found,Moderate,Mild,Mild,Moderate,Mild
+tt0086969,no age rating found,Moderate,Mild,Moderate,Mild,Moderate
+tt0087182,PG-13,Mild,Moderate,None,Mild,Moderate
+tt0087332,PG,Mild,Mild,Mild,Mild,Mild
+tt0087469,PG,Mild,Severe,Mild,Mild,Severe
+tt0087921,PG,Mild,Moderate,Mild,Mild,Moderate
+tt0088170,PG,None,Mild,Mild,Mild,Mild
+tt0088222,no age rating found
+tt0088247,R,Moderate,Severe,Moderate,Mild,Moderate
+tt0088847,R,Mild,Mild,Moderate,Moderate,None
+tt0088939,no age rating found,Moderate,Moderate,Mild,Moderate,Moderate
+tt0088944,R,Mild,Severe,Moderate,Mild,Moderate
+tt0088993,NR,None,Severe,Severe,Mild,Severe
+tt0089218,PG,Mild,Mild,Moderate,Mild,Moderate
+tt0089853,no age rating found,Mild,Mild,None,Mild,Mild
+tt0089881,no age rating found,None,Severe,Mild,None,Moderate
+tt0089907,R,Moderate,Severe,Severe,Mild,Moderate
+tt0090022,PG-13,None,Moderate,Mild,Mild,Mild
+tt0090257,no age rating found,Mild,Mild,None,Mild,Mild
+tt0090605,R,None,Moderate,Moderate,Mild,Severe
+tt0090756,R,Severe,Severe,Severe,Moderate,Severe
+tt0091042,PG-13,Mild,Mild,Moderate,Mild,None
+tt0091203,R,Mild,Severe,Mild,Mild,Moderate
+tt0091251,NR,Moderate,Severe,Mild,Mild,Severe
+tt0091355,no age rating found,Mild,Moderate,Mild,Mild,Moderate
+tt0091369,PG,None,Mild,Mild,None,Mild
+tt0091406,no age rating found
+tt0091738,PG-13,Mild,None,Mild,Moderate,None
+tt0091763,R,Mild,Severe,Severe,Moderate,Severe
+tt0091867,NR,Moderate,Mild,None,Mild,Mild
+tt0092099,PG,Mild,Mild,Moderate,Mild,Mild
+tt0092603,G,None,None,None,Mild,None
+tt0092699,R,Mild,Mild,Moderate,Mild,Mild
+tt0092991,R,Mild,Severe,Moderate,None,Moderate
+tt0093010,R,Moderate,Moderate,Moderate,Mild,Severe
+tt0093209,PG-13,Mild,Mild,Moderate,Mild,Mild
+tt0093565,PG,Mild,None,Mild,Mild,None
+tt0093748,R,Mild,None,Moderate,Mild,None
+tt0093773,R,None,Severe,Moderate,Mild,Moderate
+tt0093779,PG,None,Mild,Mild,None,Mild
+tt0094226,R,None,Severe,Moderate,Mild,Moderate
+tt0094291,R,Moderate,Mild,Moderate,Moderate,Mild
+tt0094737,PG,Mild,Mild,Moderate,Mild,Mild
+tt0094761,R,Mild,Severe,Mild,Mild,Severe
+tt0094964,R,Moderate,Moderate,Moderate,Moderate,Moderate
+tt0095016,R,Mild,Severe,Severe,Moderate,Moderate
+tt0095250,PG-13,Mild,None,Mild,Mild,Moderate
+tt0095497,R,Severe,Severe,None,Mild,Severe
+tt0095765,no age rating found,Moderate,Mild,Mild,Mild,Mild
+tt0095953,R,Mild,Mild,Moderate,Mild,Mild
+tt0095956,R,None,Severe,Mild,Mild,Moderate
+tt0096256,R,Mild,Moderate,Moderate,Mild,Moderate
+tt0096320,PG,Mild,Moderate,Moderate,Mild,Mild
+tt0096446,PG,None,Mild,Mild,Mild,Moderate
+tt0096463,R,Moderate,None,Moderate,Mild,None
+tt0096754,no age rating found,Mild,Mild,Moderate,None,Moderate
+tt0096874,PG,Mild,Mild,Moderate,Mild,Moderate
+tt0096895,PG-13,Mild,Moderate,Mild,Mild,Moderate
+tt0097216,R,Moderate,Moderate,Severe,Mild,Moderate
+tt0097372,no age rating found
+tt0097428,PG,Mild,Mild,Mild,Mild,Mild
+tt0097576,PG-13,Mild,Moderate,Mild,Mild,Moderate
+tt0098258,PG-13,Mild,None,Mild,Mild,None
+tt0098635,R,Mild,None,Moderate,Mild,None
+tt0098724,R,Moderate,None,Moderate,Mild,Mild
+tt0099348,no age rating found,Moderate,Moderate,Mild,Mild,Moderate
+tt0099423,no age rating found,Mild,Severe,Severe,Mild,Moderate
+tt0099487,PG-13,Mild,Moderate,Mild,Mild,Moderate
+tt0099653,PG-13,Mild,Moderate,Moderate,None,Moderate
+tt0099674,R,Mild,Severe,Moderate,Mild,Moderate
+tt0099685,R,Mild,Severe,Severe,Severe,Severe
+tt0099810,PG-13,None,Mild,Mild,Mild,Mild
+tt0100112,no age rating found,Mild,Mild,None,Mild,None
+tt0100150,no age rating found,Mild,Severe,Mild,Moderate,Moderate
+tt0100157,R,None,Severe,Moderate,Mild,Severe
+tt0100234,no age rating found,None,None,None,None,None
+tt0100403,R,Moderate,Severe,Severe,Severe,Severe
+tt0100405,R,Moderate,Mild,Moderate,Mild,Mild
+tt0100802,R,Moderate,Severe,Moderate,None,Severe
+tt0100935,R,Severe,Severe,Severe,Moderate,Severe
+tt0100998,PG,None,None,None,None,Moderate
+tt0101272,no age rating found,Mild,Moderate,Mild,Mild,Mild
+tt0101393,R,Moderate,Moderate,Moderate,Mild,Moderate
+tt0101410,R,Mild,Moderate,Mild,Mild,Severe
+tt0101700,R,Mild,Moderate,Mild,Mild,Moderate
+tt0101889,R,Mild,Moderate,Severe,Mild,Severe
+tt0101921,PG-13,Mild,Mild,Mild,Moderate,Moderate
+tt0102138,R,Mild,Moderate,Severe,Mild,Moderate
+tt0102492,PG,Mild,Mild,Mild,Mild,Moderate
+tt0102926,R,Moderate,Severe,Moderate,None,Severe
+tt0103064,R,Mild,Severe,Moderate,Mild,Moderate
+tt0103074,R,Moderate,Moderate,Moderate,Moderate,Moderate
+tt0103241,PG,None,Mild,Mild,None,None
+tt0103292,no age rating found
+tt0103772,R,Severe,Severe,Severe,Severe,Severe
+tt0103776,PG-13,Mild,Moderate,Mild,Mild,Moderate
+tt0103786,PG,None,Mild,Mild,Mild,Mild
+tt0103855,no age rating found,Mild,Moderate,Moderate,Mild,Mild
+tt0104036,R,Moderate,Moderate,Severe,Moderate,Severe
+tt0104257,R,None,Mild,Moderate,Mild,Mild
+tt0104348,R,None,None,Severe,Mild,None
+tt0104466,R,Moderate,None,Moderate,Mild,Mild
+tt0104553,no age rating found,Mild,Mild,Mild,Mild,None
+tt0104691,R,Mild,Moderate,None,None,Moderate
+tt0104797,PG-13,Mild,Moderate,Moderate,Mild,Moderate
+tt0105226,R,Mild,Moderate,Moderate,Mild,Mild
+tt0105236,R,Mild,Severe,Severe,Mild,Moderate
+tt0105652,no age rating found,None,Mild,Mild,Mild,Mild
+tt0105665,R,Severe,Severe,Moderate,Severe,Severe
+tt0105695,R,Mild,Moderate,Moderate,Mild,Moderate
+tt0106226,PG,Mild,None,None,Mild,None
+tt0106332,R,Mild,Moderate,Moderate,Moderate,Moderate
+tt0106582,R,None,Severe,Severe,Mild,Moderate
+tt0106977,no age rating found,Mild,Moderate,Moderate,Mild,Moderate
+tt0107290,PG-13,None,Moderate,Mild,Mild,Moderate
+tt0107507,no age rating found,None,Mild,None,Mild,Mild
+tt0107614,no age rating found,Mild,Mild,Moderate,Mild,None
+tt0107617,no age rating found,None,Mild,None,Mild,None
+tt0107653,NR,Severe,Moderate,Severe,Moderate,Severe
+tt0107736,no age rating found
+tt0107808,PG-13,Mild,Moderate,Moderate,Mild,Moderate
+tt0107822,R,Severe,Moderate,Mild,Mild,Moderate
+tt0108122,R,Severe,Moderate,Severe,Mild,Moderate
+tt0108160,PG,Mild,None,Mild,Mild,None
+tt0108289,no age rating found,Mild,Mild,Mild,Mild,None
+tt0108330,R,Mild,Moderate,Severe,Moderate,Moderate
+tt0108399,R,Moderate,Severe,Severe,Severe,Severe
+tt0108656,no age rating found,Mild,Severe,Moderate,Mild,Moderate
+tt0109020,no age rating found,None,Moderate,None,Mild,Severe
+tt0109686,no age rating found,Moderate,Mild,Mild,Mild,Mild
+tt0109830,PG-13,Moderate,Moderate,Moderate,Moderate,Moderate
+tt0109831,R,Moderate,None,Moderate,Mild,None
+tt0110074,PG,None,Mild,Mild,Mild,Mild
+tt0110116,R,Moderate,Moderate,Mild,Mild,Moderate
+tt0110148,no age rating found,Moderate,Severe,Mild,Mild,Severe
+tt0110167,PG,Mild,Mild,Mild,None,Mild
+tt0110201,no age rating found,None,Moderate,Severe,Mild,Mild
+tt0110322,R,Moderate,Severe,Moderate,Mild,Moderate
+tt0110475,PG-13,Mild,Mild,Mild,Mild,Mild
+tt0110604,R,Moderate,Moderate
+tt0110632,R,Moderate,Severe,Severe,Moderate,Severe
+tt0110912,R,Moderate,Severe,Severe,Severe,Moderate
+tt0110932,PG-13,None,None,Moderate,Mild,None
+tt0111003,R,Mild,Moderate,Mild,Mild,Moderate
+tt0111280,PG,None,Mild,Mild,None,Mild
+tt0111797,PG-13,Mild,None,None,Mild,Mild
+tt0112384,PG,Mild,None,Mild,Mild,Mild
+tt0112462,PG-13,Mild,Mild,Mild,Mild,Mild
+tt0112573,no age rating found,Moderate,Severe,Moderate,Mild,Severe
+tt0112641,no age rating found,Moderate,Severe,Severe,Moderate,Severe
+tt0112740,R,None,Moderate,Severe,Mild,Moderate
+tt0112769,no age rating found,None,Moderate,None,Mild,Mild
+tt0112818,R,Moderate,Moderate,Moderate,Mild,Severe
+tt0112883,no age rating found,Moderate,Mild,Mild,Mild,Mild
+tt0113101,R,Moderate,Moderate,Severe,Moderate,Moderate
+tt0113243,PG-13,Mild,Mild,Mild,Mild,None
+tt0113253,R,Mild,Severe,Moderate,Mild,Moderate
+tt0113277,R,Mild,Severe,Severe,Mild,Moderate
+tt0113497,PG,None,Mild,Mild,Mild,Moderate
+tt0113870,R,Moderate,Severe,Moderate,Mild,Severe
+tt0114367,R,Mild,Moderate,Moderate,Mild,Moderate
+tt0114369,R,Mild,Severe,Severe,Mild,Severe
+tt0114388,PG,None,None,None,None,None
+tt0114558,no age rating found,Moderate,Severe,Severe,Moderate,Severe
+tt0114746,R,Mild,Moderate,Moderate,None,Moderate
+tt0114814,R,Mild,Moderate,Severe,Moderate,Moderate
+tt0115734,R,Mild,Mild,Moderate,Mild,None
+tt0115759,R,None,Moderate,Moderate,Mild,Moderate
+tt0115798,PG-13,Mild,Mild,Mild,Mild,Moderate
+tt0115956,R,None,Moderate,Severe,Moderate,Moderate
+tt0115964,NC-17,Severe,Severe,Severe,Mild,Severe
+tt0116209,R,Moderate,Moderate,Mild,Mild,Moderate
+tt0116213,R,Mild,Severe,Moderate,Mild,Moderate
+tt0116282,R,Moderate,Severe,Severe,Mild,Moderate
+tt0116367,R,Moderate,Severe,Severe,Moderate,Severe
+tt0116477,PG-13,Mild,Mild,None,Mild,Mild
+tt0116629,PG-13,Mild,Moderate,Mild,Mild,Moderate
+tt0116695,R,Moderate,Mild,Moderate,Mild,None
+tt0116767,no age rating found,None,Moderate,Moderate,Moderate,Moderate
+tt0116922,no age rating found,Severe,Severe,Moderate,Mild,Severe
+tt0116996,PG-13,Mild,Moderate,Mild,Mild,Moderate
+tt0117060,PG-13,Mild,Moderate,Mild,Mild,Moderate
+tt0117381,R,Moderate,Moderate,Severe,Mild,Moderate
+tt0117500,R,Mild,Moderate,Severe,Mild,Moderate
+tt0117509,no age rating found,Mild,Moderate,None,Mild,Moderate
+tt0117571,R,Mild,Severe,Moderate,Mild,Severe
+tt0117666,no age rating found,Mild,Mild,Severe,Moderate,Moderate
+tt0117731,PG-13,Mild,Moderate,Mild,Mild,Mild
+tt0117883,no age rating found,Mild,Severe,Mild,Mild,Severe
+tt0117951,R,Severe,Moderate,Severe,Severe,Severe
+tt0118548,R,Moderate,Moderate,Moderate,Mild,Moderate
+tt0118571,R,None,Moderate,Moderate,Mild,Moderate
+tt0118583,R,Mild,Severe,Moderate,Mild,Severe
+tt0118636,no age rating found,Mild,Moderate,Mild,Mild,Moderate
+tt0118655,PG-13,Moderate,Mild,Mild,Mild,None
+tt0118688,PG-13,Mild,Mild,Mild,Mild,Mild
+tt0118689,PG-13,Mild,Mild,Mild,Mild,None
+tt0118715,R,Moderate,Mild,Severe,Moderate,Mild
+tt0118749,R,Severe,Severe,Severe,Severe,Moderate
+tt0118799,PG-13,None,Mild,None,Mild,Moderate
+tt0118842,no age rating found,Moderate,Mild,Severe,Moderate,Mild
+tt0118845,PG-13,Moderate,Mild,Moderate,Moderate,Mild
+tt0118883,R,None,Moderate,Mild,Mild,Moderate
+tt0118929,R,Moderate,Moderate,None,Mild,Moderate
+tt0118971,R,Severe,Severe,Severe,Moderate,Severe
+tt0119008,no age rating found,Mild,Severe,Severe,Moderate,Moderate
+tt0119081,R,Moderate,Severe,Moderate,Mild,Severe
+tt0119094,R,Mild,Severe,Severe,Moderate,Moderate
+tt0119116,PG-13,Moderate,Mild,Mild,Mild,Mild
+tt0119174,no age rating found,Mild,Mild,Moderate,Mild,Moderate
+tt0119177,no age rating found,Mild,Mild,Mild,Mild,Mild
+tt0119250,R,None,Severe,None,Mild,Moderate
+tt0119303,PG,Mild,Mild,Mild,None,Mild
+tt0119314,PG-13,None,Moderate,Mild,None,Moderate
+tt0119349,no age rating found,Moderate,Mild,Mild,Moderate,Mild
+tt0119375,NR,Moderate,Moderate,Moderate,Mild,Moderate
+tt0119396,no age rating found,Mild,Moderate,Severe,Moderate,Mild
+tt0119488,R,Moderate,Severe,Severe,Moderate,Moderate
+tt0119528,no age rating found,Moderate,Mild,Moderate,Mild,None
+tt0119567,PG-13,None,Moderate,Mild,Mild,Severe
+tt0119643,PG-13,Mild,Mild,Mild,Mild,Mild
+tt0119654,PG-13,Mild,Moderate,Moderate,Mild,Moderate
+tt0119670,no age rating found,None,Moderate,Moderate,Mild,Mild
+tt0119738,PG-13,Mild,None,Mild,Mild,None
+tt0119822,PG-13,Moderate,Mild,Moderate,Mild,Mild
+tt0120255,no age rating found,Moderate,None,Mild,None,Moderate
+tt0120263,no age rating found,Moderate,Mild,None,Moderate,Mild
+tt0120338,PG-13,Moderate,Moderate,Moderate,Mild,Severe
+tt0120382,PG,None,None,Mild,Mild,Mild
+tt0120483,PG,Mild,Mild,Mild,Mild,Mild
+tt0120586,R,Severe,Severe,Severe,Moderate,Severe
+tt0120591,PG-13,Mild,Moderate,Moderate,Mild,Moderate
+tt0120601,R,Moderate,Mild,Moderate,Mild,Mild
+tt0120616,no age rating found,Mild,Moderate,Mild,Mild,Moderate
+tt0120655,R,Moderate,Severe,Severe,Moderate,Moderate
+tt0120660,R,Mild,Moderate,Severe,Mild,Moderate
+tt0120667,PG-13,Mild,Mild,Mild,Mild,Mild
+tt0120669,R,Mild,Mild,Severe,Severe,Severe
+tt0120689,no age rating found,Mild,Severe,Moderate,Mild,Severe
+tt0120696,R,None,Moderate,Moderate,None,Moderate
+tt0120731,R,None,Mild,Moderate,Mild,None
+tt0120735,R,Moderate,Severe,Severe,Moderate,Mild
+tt0120737,PG-13,None,Moderate,None,Mild,Moderate
+tt0120738,PG-13,None,Mild,Mild,None,Mild
+tt0120744,no age rating found,Mild,Mild,Mild,None,Mild
+tt0120755,no age rating found,Mild,Moderate,Mild,Mild,Moderate
+tt0120780,R,Mild,Moderate,Severe,Mild,Mild
+tt0120787,R,Mild,Moderate,Moderate,Mild,Mild
+tt0120804,R,Mild,Severe,Moderate,None,Moderate
+tt0120812,PG-13,None,Moderate,Moderate,Mild,Mild
+tt0120815,R,None,Severe,Moderate,Mild,Severe
+tt0120863,R,Mild,Severe,Moderate,Mild,Severe
+tt0120885,R,Mild,Mild,Moderate,Mild,Mild
+tt0120890,R,Severe,Moderate,Severe,Moderate,Mild
+tt0120902,PG-13,Mild,Moderate,Mild,Mild,Moderate
+tt0120903,PG-13,Mild,Moderate,Mild,Mild,Moderate
+tt0120912,PG-13,Moderate,Moderate,Mild,Mild,Mild
+tt0120915,PG,None,Mild,None,None,Mild
+tt0121765,PG,Mild,Moderate,None,Mild,Moderate
+tt0121766,PG-13,None,Moderate,None,None,Moderate
+tt0122690,R,None,Moderate,Moderate,Mild,Mild
+tt0122933,R,Mild,Mild,Severe,Mild,None
+tt0123755,R,None,Severe,Moderate,None,Severe
+tt0124315,PG-13,Moderate,Mild,Mild,Moderate,Mild
+tt0125439,PG-13,Mild,None,Mild,Mild,None
+tt0125664,R,Moderate,Mild,Moderate,Moderate,None
+tt0126886,R,Moderate,Mild,Moderate,Mild,None
+tt0127536,R,Moderate,Severe,None,Mild,Moderate
+tt0128445,no age rating found,Mild,Mild,Moderate,Mild,None
+tt0129387,R,Moderate,Mild,Moderate,Mild,None
+tt0133093,R,Mild,Moderate,Moderate,Mild,Moderate
+tt0133152,PG-13,None,Moderate,Mild,Mild,Mild
+tt0134119,R,Mild,Moderate,Mild,Mild,Moderate
+tt0134273,R,Severe,Severe,Severe,Moderate,Severe
+tt0134847,R,None,Moderate,Moderate,Mild,Severe
+tt0137439,no age rating found,None,None,None,Mild,None
+tt0137494,PG-13,Mild,Mild,Moderate,Mild,Mild
+tt0137523,no age rating found,Moderate,Severe,Severe,Moderate,Severe
+tt0138097,R,Moderate,Mild,Mild,Mild,None
+tt0139134,R,Moderate,Mild,Moderate,Moderate,None
+tt0139654,R,Moderate,Severe,Severe,Severe,Severe
+tt0140352,R,None,Mild,Moderate,Mild,Mild
+tt0142342,PG-13,Mild,Mild,Moderate,Mild,None
+tt0142688,R,Moderate,Moderate,Mild,Mild,Moderate
+tt0143145,PG-13,Moderate,Moderate,Mild,Mild,Moderate
+tt0144084,R,Severe,Severe,Severe,Severe,Severe
+tt0144117,R,Moderate,Severe,Severe,Moderate,Moderate
+tt0145487,PG-13,Mild,Moderate,Mild,None,Moderate
+tt0159365,R,Severe,Severe,Mild,Mild,Severe
+tt0159784,R
+tt0160127,PG-13,Mild,Moderate,Mild,Mild,Mild
+tt0162346,no age rating found,Mild,None,Moderate,Mild,None
+tt0162661,no age rating found,Mild,Severe,None,Mild,Moderate
+tt0163025,PG-13,None,Moderate,Mild,Mild,Moderate
+tt0164052,no age rating found,Moderate,Severe,Severe,None,Severe
+tt0166896,G,None,None,Mild,Mild,Mild
+tt0166924,no age rating found,Severe,Moderate,Mild,Mild,Severe
+tt0167190,PG-13,None,Moderate,Mild,Mild,Moderate
+tt0167260,PG-13,None,Moderate,None,Mild,Moderate
+tt0167261,PG-13,None,Moderate,None,Mild,Moderate
+tt0167331,no age rating found,Mild,Moderate,Moderate,Moderate
+tt0167404,no age rating found,Mild,Moderate,Mild,Mild,Moderate
+tt0169547,R,Severe,Moderate,Severe,Moderate,Moderate
+tt0171363,no age rating found,None,Moderate,Mild,None,Moderate
+tt0172495,R,Mild,Severe,Mild,None,Severe
+tt0175880,R,Moderate,Moderate,Severe,Severe,Moderate
+tt0178868,NR,None,Mild,None,Mild,Severe
+tt0180073,R,Severe,Severe,Severe,Mild,Severe
+tt0180093,R,Severe,Severe,Severe,Severe,Severe
+tt0181689,PG-13,Mild,Moderate,Moderate,Mild,Moderate
+tt0181875,R,Mild,Mild,Moderate,Moderate,Mild
+tt0182789,PG,Mild,Mild,Mild,Mild,Mild
+tt0183523,no age rating found,None,Moderate,Mild,None,Moderate
+tt0183649,no age rating found,Mild,Moderate,Severe,Mild,Severe
+tt0186151,PG-13,None,Moderate,Moderate,Moderate,Moderate
+tt0187078,PG-13,Mild,Moderate,Moderate,Mild,Mild
+tt0187393,R,None,Severe,Mild,Mild,Moderate
+tt0190332,PG-13,Mild,Moderate,Mild,None,Mild
+tt0190590,PG-13,Mild,Mild,Mild,Mild,Mild
+tt0195685,R,Mild,None,Moderate,Mild,Mild
+tt0195714,R,Mild,Severe,Moderate,Mild,Severe
+tt0199354,no age rating found
+tt0199753,PG-13,Mild,Moderate,Moderate,Mild,Moderate
+tt0203009,PG-13,Moderate,Mild,Mild,Mild,Mild
+tt0206634,no age rating found,Mild,Severe,Severe,Mild,Severe
+tt0207201,no age rating found,Moderate,None,Mild,Mild,None
+tt0208092,R,Mild,Moderate,Severe,Mild,Mild
+tt0209144,no age rating found,Mild,Moderate,Severe,Mild,Moderate
+tt0209463,no age rating found,None,None,None,None,None
+tt0209958,R,Severe,Severe,Moderate,Moderate,Severe
+tt0210727,no age rating found
+tt0212338,PG-13,Mild,Mild,Moderate,Mild,None
+tt0212985,R,Mild,Severe,Mild,Moderate,Severe
+tt0213149,PG-13,Mild,Severe,Moderate,Mild,Severe
+tt0217505,R,Severe,Severe,Moderate,Moderate,Moderate
+tt0217869,PG-13,Mild,Moderate,Mild,Mild,Moderate
+tt0219822,R,Moderate,Mild,Mild,Mild,Mild
+tt0227445,R,Mild,Mild,Severe,Mild,Mild
+tt0232500,PG-13,Moderate,Moderate,Moderate,Mild,Mild
+tt0234215,no age rating found,Moderate,Moderate,Moderate,Mild,Moderate
+tt0240772,PG-13,Mild,Mild,Moderate,Mild,Mild
+tt0240890,PG-13,Mild,None,Mild,Mild,None
+tt0242653,no age rating found,Mild,Severe,Mild,Mild,Moderate
+tt0243876,no age rating found
+tt0244244,R,Moderate,Moderate,Severe,Moderate,Moderate
+tt0244353,no age rating found,Mild,Moderate,None,Moderate
+tt0245844,PG-13,Mild,Moderate,Mild,Mild,Moderate
+tt0246578,R,Mild,Moderate,Moderate,Moderate,Moderate
+tt0248667,R,Mild,Moderate,Moderate,Mild,Moderate
+tt0250494,PG-13,Mild,Mild,Mild,None,None
+tt0250797,R,Severe,Moderate,Moderate,Mild,Moderate
+tt0251160,PG-13,None,Mild,Moderate,Mild,Moderate
+tt0253474,R,None,Severe,Mild,Mild,Severe
+tt0253754,PG-13,Mild,Moderate,Mild,Mild,Moderate
+tt0257360,R,Mild,None,Mild,Mild,None
+tt0258000,R,None,Severe,Severe,Mild,Severe
+tt0258463,PG-13,Mild,Moderate,Moderate,Mild,Moderate
+tt0261392,R,Moderate,Mild,Severe,Moderate,None
+tt0264395,R,Mild,Severe,Severe,Mild,Mild
+tt0264616,R,None,Moderate,Moderate,Mild,Severe
+tt0265666,R,Moderate,Moderate,Mild,Moderate,Mild
+tt0266697,R,Mild,Severe,Severe,Mild,Moderate
+tt0266915,PG-13,Mild,Moderate,Moderate,Mild,Moderate
+tt0268126,no age rating found,Moderate,Moderate,Moderate,Moderate,Moderate
+tt0268695,PG-13,None,Mild,Mild,None,Mild
+tt0268978,PG-13,Mild,Mild,Mild,Mild,Moderate
+tt0272152,PG-13,None,Mild,Mild,Mild,Moderate
+tt0275719,R,Mild,Mild,Severe,Moderate,Mild
+tt0277027,no age rating found,None,None,Mild,None,Mild
+tt0278504,no age rating found,Mild,Moderate,Moderate,Mild,Moderate
+tt0280609,R,None,Severe,Severe,Mild,Moderate
+tt0281358,no age rating found,Mild,Mild,Mild,Mild,Mild
+tt0281686,R,Mild,Mild,Moderate,Mild,Mild
+tt0283509,no age rating found,None,Mild,Moderate,Mild,Moderate
+tt0285742,R,Severe,Moderate,Moderate,Moderate,Severe
+tt0286106,PG-13,None,Moderate,Mild,Mild,Moderate
+tt0288477,R,Mild,Severe,Severe,Mild,Severe
+tt0289879,no age rating found,Moderate,Severe,Severe,Moderate,Severe
+tt0290002,PG-13,Moderate,Mild,Mild,Mild,None
+tt0290334,PG-13,Mild,Moderate,Mild,Mild,Moderate
+tt0294870,PG-13,Mild,Mild,Moderate,Moderate,Mild
+tt0298228,PG-13,Mild,Mild,Mild,Mild,Mild
+tt0299658,no age rating found,Moderate,Mild,Moderate,Moderate,Mild
+tt0308476,PG-13,Moderate,Mild,Mild,None,Mild
+tt0309698,R,None,Severe,Moderate,None,Moderate
+tt0311113,PG-13,None,Moderate,Mild,Mild,Moderate
+tt0313542,PG-13,None,Mild,Mild,Mild,Mild
+tt0315327,PG-13,Moderate,Mild,Moderate,Mild,None
+tt0316654,PG-13,Mild,Moderate,Mild,Mild,Moderate
+tt0317198,R,Mild,Mild,Moderate,Moderate,None
+tt0317740,PG-13,Mild,Mild,Moderate,Mild,Mild
+tt0317919,PG-13,Mild,Moderate,Mild,Mild,Moderate
+tt0318627,R,Mild,Severe,Moderate,Mild,Moderate
+tt0318974,no age rating found,None,Mild,Mild,Mild,Moderate
+tt0319061,PG-13,Mild,Mild,Mild,None,Mild
+tt0319262,PG-13,None,Moderate,Mild,Mild,Moderate
+tt0322259,PG-13,Mild,Moderate,Moderate,Mild,Mild
+tt0324197,no age rating found,Moderate,Moderate,Mild,Mild,Severe
+tt0325710,no age rating found,None,Severe,Mild,Mild,Moderate
+tt0325980,PG-13,Mild,Moderate,Mild,Moderate,Moderate
+tt0328107,R,Mild,Severe,Moderate,Mild,Severe
+tt0329101,R,Moderate,Severe,Severe,Moderate,Severe
+tt0330373,PG-13,None,Moderate,Mild,None,Moderate
+tt0331811,R,Moderate,Moderate,Severe,Mild,Moderate
+tt0332452,R,Moderate,Severe,Mild,Mild,Moderate
+tt0335119,no age rating found,Mild,Mild,None,Mild,Mild
+tt0335266,R,Moderate,None,Mild,Mild,None
+tt0337921,PG-13,Mild,Moderate,Moderate,Mild,Moderate
+tt0337978,PG-13,Mild,Moderate,Moderate,None,Moderate
+tt0338013,R,Mild,Mild,Moderate,Mild,Mild
+tt0338751,PG-13,Mild,Moderate,Moderate,Mild,Moderate
+tt0341495,R,Moderate,Moderate,Mild,Moderate,Moderate
+tt0343660,PG-13,Mild,Mild,Mild,Mild,Mild
+tt0343818,PG-13,Mild,Moderate,Moderate,Mild,Moderate
+tt0346094,no age rating found,Mild,None,Mild,Mild,None
+tt0349903,PG-13,None,Mild,Moderate,Mild,None
+tt0350258,no age rating found,Mild,Mild,Moderate,Severe,Mild
+tt0351977,PG-13,Mild,Moderate,Moderate,Mild,Moderate
+tt0357413,PG-13,Moderate,Mild,Moderate,Mild,Mild
+tt0359950,PG,None,Mild,Mild,Mild,Mild
+tt0360486,R,None,Moderate,Moderate,Moderate,Severe
+tt0361748,R,Mild,Severe,Severe,Mild,Severe
+tt0362227,no age rating found,Mild,None,Mild,Mild,None
+tt0363589,no age rating found,Mild,Severe,Moderate,Mild,Severe
+tt0363771,PG,None,Moderate,None,None,Moderate
+tt0365907,R,Moderate,Severe,Severe,Moderate,Severe
+tt0368891,PG,None,Mild,Mild,Mild,Mild
+tt0368933,G,None,None,None,None,None
+tt0369339,R,None,Severe,Moderate,Mild,Moderate
+tt0369441,PG-13,Mild,Mild,Moderate,Mild,None
+tt0369702,no age rating found,Mild,Mild,Mild,Mild,Moderate
+tt0370032,PG-13,Mild,Moderate,Mild,Mild,Moderate
+tt0370263,PG-13,None,Moderate,Moderate,Mild,Moderate
+tt0371257,R,Mild,Moderate,Mild,Mild,Moderate
+tt0371724,PG,None,Mild,Mild,Mild,Mild
+tt0372183,PG-13,Mild,Moderate,Moderate,Mild,Moderate
+tt0372784,PG-13,None,Moderate,Mild,Mild,Moderate
+tt0372824,PG,None,Mild,Moderate,Mild,None
+tt0373051,PG,None,Mild,None,None,Moderate
+tt0373074,R,Mild,Moderate,Mild,Mild,Mild
+tt0373469,R,Moderate,Moderate,Severe,Moderate,Moderate
+tt0374546,no age rating found,Moderate,Mild,Mild,None,Mild
+tt0375063,R,Moderate,Mild,Severe,Moderate,None
+tt0375679,no age rating found,Moderate,Moderate,Severe,Mild,Moderate
+tt0376994,PG-13,Mild,Moderate,Moderate,Mild,Moderate
+tt0377713,R,None,Severe,Mild,None,Severe
+tt0378194,R,Mild,Severe,Severe,Moderate,Moderate
+tt0379306,PG,Mild,Mild,Mild,Mild,None
+tt0379786,no age rating found,Mild,Moderate,Mild,Mild,Moderate
+tt0381061,PG-13,Moderate,Moderate,Mild,Mild,Moderate
+tt0382625,PG-13,Mild,Severe,Mild,Mild,Moderate
+tt0383028,R,Moderate,Mild,Moderate,Mild,Severe
+tt0383216,PG,Mild,Mild,Mild,None,None
+tt0383574,no age rating found,Mild,Moderate,Mild,Mild,Moderate
+tt0385004,PG-13,Mild,Moderate,None,Mild,Moderate
+tt0386588,PG-13,Mild,Mild,Moderate,Mild,None
+tt0387564,R,Mild,Severe,Severe,Mild,Severe
+tt0387877,R,Moderate,Severe,Severe,Mild,Moderate
+tt0387898,no age rating found,None,Moderate,Mild,None,Severe
+tt0388795,R,Moderate,Moderate,Moderate,Mild,Moderate
+tt0390022,PG-13,Moderate,Mild,Moderate,Mild,Mild
+tt0393109,no age rating found,None,Moderate,Mild,Moderate,Moderate
+tt0395169,PG-13,Mild,Severe,Moderate,Mild,Severe
+tt0395699,PG,None,Mild,Mild,None,Mild
+tt0397078,PG-13,Mild,Mild,Mild,Mild,None
+tt0398027,R,Mild,Moderate,Moderate,Moderate,Moderate
+tt0399201,PG-13,Mild,Moderate,Moderate,Mild,Mild
+tt0399295,R,Moderate,Severe,Severe,Severe,Moderate
+tt0401383,PG-13,Moderate,Mild,Mild,Mild,Moderate
+tt0404978,PG-13,Mild,Mild,Mild,Mild,None
+tt0405159,no age rating found,None,Moderate,Moderate,Mild,Moderate
+tt0407887,R,Moderate,Severe,Severe,Moderate,Severe
+tt0408236,R,Mild,Severe,Mild,Mild,Severe
+tt0408306,R,Moderate,Severe,Moderate,Mild,Severe
+tt0408790,PG-13,None,Moderate,Mild,None,Moderate
+tt0409459,R,Severe,Severe,Severe,Mild,Severe
+tt0413893,no age rating found,Mild,Mild,Moderate
+tt0414055,PG-13,Mild,Mild,Mild,Mild,Moderate
+tt0414387,PG,None,None,None,None,None
+tt0414982,R,Moderate,Severe,Severe,None,Severe
+tt0415380,no age rating found
+tt0416320,R,Mild,Moderate,Mild,Mild,Moderate
+tt0416508,PG,Mild,Mild,Mild,Mild,Mild
+tt0417741,PG,Mild,Moderate,Mild,Mild,Moderate
+tt0418279,PG-13,Mild,Moderate,Moderate,Mild,Moderate
+tt0418819,no age rating found,Mild,Severe,Severe,Mild,Severe
+tt0419887,no age rating found,Moderate,Severe,Moderate,Mild,Severe
+tt0420223,PG-13,Mild,Mild,Mild,Mild,Mild
+tt0421715,PG-13,Moderate,Mild,Mild,Mild,Mild
+tt0424345,R,Moderate,Mild,Severe,Moderate,None
+tt0425061,PG-13,Mild,Mild,Mild,None,Mild
+tt0425210,R,Moderate,Severe,Severe,Moderate,Moderate
+tt0427309,PG-13,Mild,Moderate,Moderate,Mild,Moderate
+tt0427954,R,Moderate,Severe,Mild,Mild,Moderate
+tt0430357,no age rating found,Moderate,Severe,Moderate,Moderate,Moderate
+tt0432021,R,Mild,Severe,Mild,Mild,Moderate
+tt0433035,PG-13,Mild,Mild,Mild,None,Mild
+tt0434409,no age rating found,Mild,Severe,Moderate,Mild,Moderate
+tt0435705,PG-13,Mild,Moderate,Mild,Mild,Moderate
+tt0439815,R,Mild,Severe,Moderate,Mild,Severe
+tt0440963,PG-13,None,Moderate,Mild,Mild,Moderate
+tt0443272,PG-13,None,Moderate,Moderate,Mild,Mild
+tt0443453,no age rating found,Severe,Mild,Moderate,Mild,Mild
+tt0443680,R,Mild,Severe,Mild,Mild,Moderate
+tt0443706,R,Mild,Moderate,Moderate,Moderate,Severe
+tt0448157,PG-13,Mild,Moderate,Moderate,Moderate,Moderate
+tt0449088,PG-13,Mild,Moderate,Mild,Mild,Moderate
+tt0450259,no age rating found,Mild,Severe,Moderate,Moderate,Severe
+tt0450385,PG-13,Mild,Moderate,Moderate,Moderate,Severe
+tt0452625,R,Severe,Mild,Severe,Mild,None
+tt0454841,R,Moderate,Severe,Severe,Mild,Severe
+tt0454848,no age rating found,Mild,Moderate,Severe,Mild,Moderate
+tt0454876,no age rating found,None,Moderate,None,None,Moderate
+tt0454921,PG-13,None,None,Mild,Mild,Mild
+tt0455760,R,None,Moderate,Mild,Mild,Severe
+tt0455824,PG-13,Mild,Moderate,Mild,Mild,Mild
+tt0457297,R,Moderate,Moderate,Moderate,Mild,Mild
+tt0457430,R,None,Severe,Moderate,Mild,Severe
+tt0457513,PG-13,Mild,None,None,Mild,Mild
+tt0457939,PG-13,Mild,None,Moderate,Mild,None
+tt0458352,no age rating found,Mild,None,Mild,Mild,None
+tt0458413,R,Mild,Mild,Moderate,Mild,Mild
+tt0458525,PG-13,Mild,Moderate,Mild,Mild,Moderate
+tt0460791,no age rating found,None,Moderate,Mild,Mild,Moderate
+tt0460989,NR,Mild,Moderate,Severe,Mild,Moderate
+tt0462200,no age rating found,Moderate,Moderate,Severe,Moderate,Moderate
+tt0462499,R,Moderate,Severe,Severe,Mild,Severe
+tt0467200,PG-13,Moderate,Moderate,Mild,Mild,Moderate
+tt0467406,no age rating found,Mild,Mild,Moderate,Mild,None
+tt0468565,no age rating found,Mild,Moderate,Moderate,Mild,Moderate
+tt0468569,PG-13,None,Moderate,Mild,Mild,Severe
+tt0469494,no age rating found,None,Moderate,Mild,Mild,Moderate
+tt0470752,no age rating found,Moderate,Moderate,Moderate,Moderate,Moderate
+tt0473705,PG-13,None,Mild,Moderate,Mild,Moderate
+tt0475293,G,None,None,None,None,None
+tt0477347,PG,None,Mild,Mild,None,Mild
+tt0477348,R,None,Severe,Mild,Mild,Severe
+tt0479884,R,Severe,Severe,Severe,Severe,Severe
+tt0479997,PG-13,None,Severe,Mild,Mild,Moderate
+tt0480025,NR,Moderate,Severe,Severe,Moderate,Severe
+tt0481369,no age rating found,Moderate,Severe,Moderate,Mild,Moderate
+tt0489018,R,Mild,Severe,Severe,None,Severe
+tt0493464,R,Moderate,Severe,Severe,Mild,Moderate
+tt0499448,PG,None,Moderate,None,None,Moderate
+tt0499549,PG-13,Mild,Moderate,Moderate,Mild,Moderate
+tt0758730,R,Mild,Severe,Moderate,Mild,Severe
+tt0758758,R,Moderate,Mild,Moderate,Mild,Moderate
+tt0758774,no age rating found,Mild,Severe,Severe,Mild,Severe
+tt0765128,G,None,Mild,None,None,Mild
+tt0765429,R,Moderate,Severe,Severe,Severe,Severe
+tt0765447,PG-13,Mild,Mild,Moderate,Mild,Moderate
+tt0780504,R,Moderate,Severe,Moderate,Mild,Severe
+tt0780571,R,Moderate,Severe,Moderate,Mild,Severe
+tt0780653,R,None,Severe,Mild,Mild,Moderate
+tt0783233,R,Moderate,Moderate,Moderate,Mild,Moderate
+tt0790628,PG-13,Mild,Mild,Mild,Mild,Mild
+tt0790636,no age rating found,Severe,Moderate,Severe,Severe,Moderate
+tt0790686,R,Mild,Severe,Moderate,Mild,Severe
+tt0796366,PG-13,Mild,Moderate,Mild,Mild,Moderate
+tt0800080,PG-13,Mild,Moderate,Mild,Mild,Moderate
+tt0800320,PG-13,Mild,Moderate,Mild,None,Mild
+tt0800369,PG-13,None,Mild,Mild,Mild,Mild
+tt0808151,PG-13,None,Severe,Mild,Mild,Severe
+tt0810819,R,Severe,Mild,Mild,Mild,Mild
+tt0815236,R,Mild,Mild,Severe,Mild,None
+tt0815245,PG-13,Mild,Moderate,Moderate,Mild,Severe
+tt0816692,PG-13,None,Mild,Mild,None,Moderate
+tt0822832,PG,Mild,Mild,Mild,None,Moderate
+tt0824747,no age rating found,Mild,Moderate,Mild,Mild,Severe
+tt0824758,R,Moderate,Mild,Mild,Mild,Mild
+tt0826711,no age rating found
+tt0829482,R,Moderate,Mild,Severe,Severe,None
+tt0838232,PG,Mild,Mild,Mild,Mild,None
+tt0844286,PG-13,Mild,Moderate,Moderate,Moderate,Mild
+tt0844347,no age rating found
+tt0846308,G,None,Mild,None,None,Mild
+tt0848228,PG-13,None,Moderate,Mild,Mild,Mild
+tt0862846,R,Moderate,Moderate,Moderate,Mild,Mild
+tt0878804,PG-13,Mild,Mild,Mild,Mild,Mild
+tt0887883,R,Moderate,Moderate,Severe,Mild,Moderate
+tt0898367,no age rating found,Mild,Moderate,Moderate,Mild,Severe
+tt0903624,PG-13,None,Moderate,None,Mild,Moderate
+tt0905372,R,None,Severe,Severe,Mild,Severe
+tt0913425,no age rating found,Moderate,Moderate,Mild,Mild,Mild
+tt0914798,PG-13,None,Moderate,None,Mild,Severe
+tt0940709,NR,None,Mild,Moderate,Mild,Moderate
+tt0942385,R,Mild,Severe,Severe,Moderate,Mild
+tt0944835,PG-13,Mild,Severe,Moderate,Mild,Moderate
+tt0945513,PG-13,None,Moderate,Mild,None,Moderate
+tt0947798,R,Severe,Severe,Moderate,Moderate,Severe
+tt0958860,no age rating found,Moderate,Severe,Severe,Moderate,Moderate
+tt0959337,R,Moderate,Mild,Moderate,Moderate,Moderate
+tt0963794,R,Moderate,Severe,Moderate,Moderate,Severe
+tt0963966,PG,None,Mild,None,None,Mild
+tt0964517,no age rating found,Moderate,Moderate,Severe,Severe,Mild
+tt0970179,PG,None,Mild,None,Mild,Mild
+tt0970416,PG-13,None,Moderate,None,None,Mild
+tt0974661,PG-13,Moderate,Mild,Mild,Mild,None
+tt0975645,PG-13,Mild,Mild,Mild,Moderate,Moderate
+tt0976051,R,Severe,None,Mild,Mild,Mild
+tt0977855,PG-13,None,Mild,Moderate,Mild,Mild
+tt0985694,R,Moderate,Severe,Severe,Mild,Moderate
+tt0985699,PG-13,None,Moderate,Mild,Mild,Moderate
+tt0986233,no age rating found,Severe,Severe,Moderate,Mild,Severe
+tt0986263,PG-13,Mild,Moderate,Mild,Mild,Moderate
+tt0988045,PG-13,Mild,Moderate,Mild,Mild,Moderate
+tt0993842,PG-13,Mild,Moderate,Moderate,None,Moderate
+tt0993846,R,Severe,Moderate,Severe,Severe,Moderate
+tt1000774,R,Severe,None,Moderate,Mild,None
+tt1001508,PG-13,Moderate,None,Mild,Mild,None
+tt1007029,no age rating found,Mild,Moderate,Mild,Mild,Mild
+tt1010048,R,Mild,Moderate,Moderate,Moderate,Moderate
+tt1013753,R,Moderate,Moderate,Moderate,Moderate,Moderate
+tt1016268,R,Moderate,None,Moderate,Mild,None
+tt1017460,R,Severe,Moderate,Severe,Mild,Moderate
+tt1019452,R,Moderate,Mild,Moderate,Moderate,Mild
+tt1022603,no age rating found,Mild,Mild,Moderate,Mild,None
+tt1024648,no age rating found,Mild,Moderate,Moderate,Mild,Moderate
+tt1027718,PG-13,Mild,Mild,Moderate,Mild,Mild
+tt1029234,R,Moderate,Severe,Mild,Mild,Severe
+tt1029360,PG-13,Mild,Mild,Mild,Mild,Moderate
+tt1032755,R,Mild,Severe,Severe,Moderate,Moderate
+tt1033575,no age rating found,Mild,Mild,Severe,Mild,Mild
+tt1034314,R,Mild,Moderate,Severe,Mild,Moderate
+tt1037705,R,Mild,Severe,Moderate,Mild,Moderate
+tt1038919,PG-13,Mild,Mild,Mild,Mild,None
+tt1041829,PG-13,Moderate,Mild,Mild,Mild,None
+tt1045658,R,Mild,Mild,Severe,Mild,Mild
+tt1045772,R,Moderate,Moderate,Severe,Mild,Mild
+tt1046173,PG-13,None,Moderate,Mild,Mild,Mild
+tt1054606,PG-13,Mild,Moderate,Mild,Mild,Moderate
+tt1055292,PG-13,Mild,None,Mild,Mild,None
+tt1055369,PG-13,Moderate,Moderate,Moderate,Moderate,Moderate
+tt1057500,no age rating found,None,Mild,Moderate,Mild,Mild
+tt1059786,PG-13,None,Moderate,Moderate,Mild,Moderate
+tt1063669,no age rating found,Mild,Moderate,Mild,Moderate,Moderate
+tt1065073,no age rating found,Mild,Mild,Severe,Moderate,Mild
+tt1068649,PG-13,None,None,None,Moderate,None
+tt1068680,PG-13,Moderate,Mild,Moderate,Moderate,None
+tt1071875,PG-13,Mild,Moderate,Mild,Mild,Moderate
+tt1072748,PG-13,Mild,Mild,None,Mild,Moderate
+tt1073498,PG-13,Moderate,Moderate,Moderate,Mild,Severe
+tt1074638,PG-13,Moderate,Moderate,Mild,Mild,Moderate
+tt1084950,R,Mild,Mild,Moderate,Moderate,Moderate
+tt1086772,PG-13,Mild,None,Mild,None,None
+tt1092026,R,Mild,Mild,Severe,Moderate,Mild
+tt1093906,no age rating found,Moderate,Moderate,Moderate,None,Moderate
+tt1099212,PG-13,Mild,Moderate,Mild,None,Mild
+tt1100089,R,Mild,Moderate,Mild,Moderate,Moderate
+tt1104001,PG,None,Mild,Mild,Mild,Moderate
+tt1119646,R,Moderate,Mild,Severe,Moderate,Mild
+tt1120985,no age rating found,Severe,Moderate,Severe,Moderate,Moderate
+tt1124035,R,Mild,None,Severe,Mild,Mild
+tt1124037,R,None,Severe,Mild,Mild,Severe
+tt1125849,R,Moderate,Severe,Moderate,Moderate,Moderate
+tt1131729,R,Moderate,None,Moderate,Moderate,Mild
+tt1133985,PG-13,None,Moderate,Mild,Mild,Moderate
+tt1135952,no age rating found,Mild,Severe,Moderate,Mild,Moderate
+tt1139797,R,Mild,Severe,Mild,Mild,Moderate
+tt1144884,R,Moderate,Severe,Severe,Moderate,Severe
+tt1148204,no age rating found,Moderate,Severe,Moderate,Mild,Severe
+tt1156466,R,None,Severe,Severe,Moderate,Moderate
+tt1158278,no age rating found
+tt1170358,PG-13,None,Moderate,None,Mild,Moderate
+tt1172049,R,Mild,Mild,Moderate,Mild,Mild
+tt1174732,no age rating found,Mild,None,Mild,Mild,None
+tt1178663,PG-13,Moderate,None,Mild,Mild,Mild
+tt1179031,R,Mild,Severe,Moderate,Mild,Moderate
+tt1179904,R,Mild,Mild,Moderate,Mild,Severe
+tt1181614,no age rating found,Moderate,Severe,Moderate,Mild,Severe
+tt1182345,R,Mild,Moderate,Moderate,None,Mild
+tt1186367,R,None,Severe,Severe,Mild,Severe
+tt1188729,R,Mild,Severe,Severe,None,Severe
+tt1189340,no age rating found,Mild,Moderate,Moderate,Moderate,Moderate
+tt1190080,PG-13,Mild,Moderate,Moderate,Mild,Severe
+tt1193138,R,Mild,None,Moderate,Mild,None
+tt1194173,PG-13,None,Moderate,Mild,Mild,Moderate
+tt1201607,no age rating found,None,Moderate,Mild,None,Moderate
+tt1205489,R,Mild,Moderate,Severe,Mild,Moderate
+tt1210166,PG-13,None,None,Moderate,Mild,None
+tt1211837,PG-13,None,Moderate,Mild,None,Moderate
+tt1216496,no age rating found,Moderate,Moderate,Moderate,Mild,Moderate
+tt1217613,PG-13,None,Moderate,Moderate,Mild,Moderate
+tt1219289,PG-13,Moderate,Moderate,Moderate,Severe,Moderate
+tt1220634,R,Mild,Severe,Moderate,None,Moderate
+tt1220719,R,None,Moderate,Mild,Mild,Moderate
+tt1228705,PG-13,Mild,Moderate,Mild,Mild,Moderate
+tt1229238,no age rating found,Mild,Moderate,Mild,Mild,Moderate
+tt1229340,PG-13,Mild,Mild,Moderate,Mild,None
+tt1229822,PG-13,Mild,Mild,None,Mild,Mild
+tt1232829,R,Moderate,Moderate,Severe,Severe,Mild
+tt1233381,no age rating found,Moderate,Moderate,Moderate,Mild,Mild
+tt1244754,no age rating found,Mild,Moderate,Severe,Mild,Mild
+tt1253863,R,Severe,Severe,Moderate,Mild,Severe
+tt1255953,R,Mild,Severe,Mild,None,Severe
+tt1274586,R,None,Severe,Severe,None,None
+tt1276104,R,Moderate,Severe,Severe,Moderate,Moderate
+tt1282140,PG-13,Moderate,Mild,Moderate,Mild,None
+tt1284575,R,Moderate,Mild,Severe,Moderate,None
+tt1285016,PG-13,Moderate,None,Moderate,Moderate,Mild
+tt1287878,no age rating found,Moderate,Mild,Mild,Mild,Mild
+tt1291150,PG-13,None,Moderate,Mild,None,Mild
+tt1291584,PG-13,None,Moderate,Mild,Mild,Mild
+tt1292566,R,Moderate,None,Moderate,Moderate,None
+tt1298650,PG-13,Mild,Moderate,Mild,Mild,Moderate
+tt1300851,R,Mild,Severe,Severe,Mild,Moderate
+tt1305806,no age rating found,Severe,Severe,Severe,Moderate,Severe
+tt1306980,no age rating found,Mild,None,Severe,Moderate,Moderate
+tt1318514,no age rating found,None,Moderate,Mild,Mild,Moderate
+tt1322269,no age rating found,Mild,Mild,Severe,Moderate,Mild
+tt1324999,PG-13,Moderate,Moderate,None,Mild,Severe
+tt1340800,R,Moderate,Severe,Moderate,Mild,Mild
+tt1341167,no age rating found,Mild,Moderate,Severe,None,Moderate
+tt1343092,PG-13,Mild,Mild,Mild,Moderate,Mild
+tt1355683,R,Mild,Severe,Severe,Moderate,Severe
+tt1360860,no age rating found,None,Mild,None,None,Mild
+tt1371111,no age rating found,Moderate,Severe,Moderate,Mild,Moderate
+tt1375666,PG-13,None,Moderate,Mild,Mild,Moderate
+tt1375670,PG-13,Mild,Mild,Mild,Mild,None
+tt1385826,PG-13,Mild,Mild,Moderate,Mild,Mild
+tt1386932,R,None,Moderate,Mild,None,Moderate
+tt1392190,R,Mild,Moderate,Mild,Mild,Moderate
+tt1396218,PG,None,None,Mild,Mild,Mild
+tt1397514,PG,None,None,None,None,Mild
+tt1399103,PG-13,Mild,Moderate,Moderate,Mild,Moderate
+tt1401152,PG-13,Mild,Moderate,Mild,Mild,Moderate
+tt1403865,no age rating found,None,Moderate,Mild,Mild,Moderate
+tt1409024,PG-13,Mild,Moderate,Mild,Mild,Moderate
+tt1411238,R,Moderate,Mild,Moderate,Mild,None
+tt1412386,PG-13,Mild,None,Mild,Mild,None
+tt1413492,R,None,Severe,Moderate,Mild,Moderate
+tt1424381,R,None,Severe,Severe,Mild,Severe
+tt1431045,R,Severe,Severe,Severe,Mild,Moderate
+tt1438176,R,Mild,Severe,Severe,Moderate,Moderate
+tt1439572,no age rating found,Moderate,Moderate,Moderate,Moderate,Moderate
+tt1440728,R,Moderate,Moderate,Mild,Mild,Mild
+tt1441953,PG-13,None,Moderate,None,Mild,Mild
+tt1446147,R,Severe,Severe,Moderate,Mild,Severe
+tt1446714,R,Mild,Severe,Moderate,Mild,Severe
+tt1454029,no age rating found,None,Mild,Mild,Mild,Mild
+tt1454468,PG-13,None,Moderate,Moderate,None,Moderate
+tt1458175,PG-13,None,Moderate,Moderate,Mild,Moderate
+tt1462758,no age rating found,None,Moderate,Severe,Mild,Severe
+tt1462900,PG-13,None,Moderate,Mild,Mild,Moderate
+tt1468846,R,Moderate,None,Moderate,Moderate,None
+tt1478338,no age rating found,Moderate,Mild,Severe,Mild,None
+tt1483013,PG-13,Mild,Moderate,Mild,Mild,Mild
+tt1486190,R,Mild,Mild,Moderate,Mild,Mild
+tt1502712,PG-13,None,Moderate,Mild,Mild,Moderate
+tt1504320,no age rating found,None,None,Moderate,Mild,None
+tt1510906,no age rating found,Mild,None,Moderate,Mild,None
+tt1524137,R,None,Moderate,Severe,Moderate,Mild
+tt1533117,no age rating found,Mild,Moderate,Severe,Moderate,Moderate
+tt1535970,R,Moderate,Mild,Mild,Mild,Severe
+tt1540133,R,Mild,Moderate,Severe,Mild,Mild
+tt1560747,R,Severe,Mild,Severe,Severe,Moderate
+tt1563738,PG-13,Moderate,Mild,Mild,Mild,Mild
+tt1564367,PG-13,Mild,None,Mild,Mild,None
+tt1568346,R,Severe,Severe,Moderate,Mild,Severe
+tt1570728,PG-13,Mild,Mild,Moderate,Mild,None
+tt1582248,R,Moderate,None,Severe,Severe,Moderate
+tt1586752,R,Mild,Severe,Severe,Moderate,Severe
+tt1591095,PG-13,None,Moderate,Mild,None,Severe
+tt1596363,R,Moderate,None,Severe,Mild,Mild
+tt1602613,R,Moderate,Severe,Severe,Moderate,Severe
+tt1602620,no age rating found,Mild,Mild,Mild,Mild,Severe
+tt1606378,R,Mild,Moderate,Moderate,Mild,Mild
+tt1611840,no age rating found
+tt1615147,no age rating found,None,None,Severe,Mild,None
+tt1616195,no age rating found,Mild,Moderate,Moderate,Moderate,Moderate
+tt1619029,R,None,Moderate,Mild,Mild,Moderate
+tt1623205,PG,None,Mild,None,None,Moderate
+tt1628841,no age rating found,None,Moderate,Mild,None,Moderate
+tt1637725,R,Moderate,Mild,Severe,Severe,None
+tt1645170,R,Severe,Mild,Moderate,Mild,None
+tt1646987,PG-13,None,Moderate,Mild,None,Moderate
+tt1649443,R,None,Severe,Severe,None,Moderate
+tt1655420,no age rating found,Mild,None,Moderate,Moderate,Mild
+tt1659337,no age rating found,Mild,Mild,Moderate,Moderate,Moderate
+tt1663662,PG-13,None,Moderate,Moderate,Mild,Moderate
+tt1670345,no age rating found,Mild,Mild,Mild,Mild,Mild
+tt1675434,R,Mild,Mild,Moderate,Moderate,Mild
+tt1692486,no age rating found,None,Mild,Moderate,Mild,Mild
+tt1703957,PG-13,None,None,Mild,Moderate,Mild
+tt1706593,PG-13,Mild,Moderate,Moderate,Mild,Severe
+tt1707386,PG-13,Moderate,Moderate,Mild,Mild,Moderate
+tt1722484,no age rating found
+tt1723811,no age rating found,Severe,Moderate,Severe,Moderate,Moderate
+tt1725986,no age rating found,Mild,None,Mild,Mild,None
+tt1731141,no age rating found,None,Mild,None,None,Mild
+tt1742683,NR,None,None,Moderate,Mild,Mild
+tt1747958,R,Mild,Severe,Severe,Severe,Mild
+tt1748122,PG-13,Mild,Mild,Mild,Mild,Mild
+tt1757746,R,None,Mild,Severe,Moderate,Mild
+tt1781769,R,Moderate,Moderate,Mild,Mild,Mild
+tt1800241,R,Moderate,Mild,Severe,Moderate,Mild
+tt1800246,R,Moderate,Mild,Severe,Moderate,None
+tt1809398,PG-13,Mild,Severe,Mild,Mild,Moderate
+tt1832382,PG-13,None,Mild,Mild,None,Mild
+tt1840309,PG-13,Mild,Moderate,Mild,None,Moderate
+tt1843287,NR,Mild,Mild,None,Mild,None
+tt1853728,R,Moderate,Severe,Severe,Mild,Severe
+tt1855325,R,Mild,Severe,Mild,Mild,Moderate
+tt1872181,PG-13,None,Moderate,Mild,Mild,Moderate
+tt1877832,PG-13,Mild,Moderate,Moderate,Mild,Moderate
+tt1895587,R,Mild,Mild,Moderate,Mild,Moderate
+tt1907668,no age rating found,Severe,Moderate,Severe,Severe,Moderate
+tt1951266,PG-13,None,Moderate,None,Mild,Moderate
+tt1971325,R,Mild,Mild,Moderate,Mild,Moderate
+tt1974419,R,Moderate,Severe,Moderate,Mild,Severe
+tt1979320,R,Moderate,Moderate,Moderate,Moderate,Mild
+tt1981115,PG-13,Mild,Moderate,Mild,None,Mild
+tt2011351,no age rating found
+tt2017561,PG-13,Mild,Moderate,Mild,None,Moderate
+tt2024544,no age rating found,Severe,Severe,Severe,Mild,Severe
+tt2032557,no age rating found,Mild,Mild,Severe,Mild
+tt2053463,R,Moderate,Mild,Moderate,Moderate,Mild
+tt2056771,R,Moderate,Mild,Moderate,Moderate,Mild
+tt2058107,R,Mild,Severe,Mild,Mild,Severe
+tt2058673,PG-13,Mild,Moderate,Moderate,Mild,Moderate
+tt2059255,no age rating found,None,Moderate,Mild,Severe,Mild
+tt2070649,no age rating found,Severe,Severe,Mild,Mild,Severe
+tt2076220,NR,Moderate,Severe,Mild,Mild,Moderate
+tt2078768,no age rating found
+tt2084970,PG-13,None,Mild,Mild,Mild,Mild
+tt2099556,NR,Mild,Moderate,None,Moderate,Severe
+tt2103281,PG-13,None,Moderate,Mild,Mild,Moderate
+tt2109184,R,Mild,Moderate,Moderate,Mild,Moderate
+tt2109248,PG-13,Mild,Moderate,Moderate,Mild,Moderate
+tt2115388,no age rating found
+tt2118775,no age rating found,None,Moderate,Moderate,Mild,Moderate
+tt2132285,R,Mild,Mild,Severe,Severe,Mild
+tt2140373,no age rating found,None,Mild,Mild,Mild,Mild
+tt2167266,no age rating found,Mild,Mild,Mild,None,Mild
+tt2194499,no age rating found,Mild,Mild,Moderate,Mild,Mild
+tt2238032,PG-13,Mild,Mild,Mild,Mild,None
+tt2258281,no age rating found,Mild,None,None,Moderate
+tt2267998,R,Severe,Severe,Severe,Mild,Severe
+tt2294449,no age rating found,Moderate,Moderate,Severe,Moderate,Mild
+tt2310332,PG-13,None,Severe,Mild,Mild,Moderate
+tt2334873,no age rating found,Mild,Mild,Moderate,Moderate,Moderate
+tt2345567,no age rating found,None,Moderate,Mild,Mild,Moderate
+tt2366450,no age rating found,None,None,Moderate,Moderate,None
+tt2381249,PG-13,Mild,Moderate,Mild,None,Moderate
+tt2381991,PG-13,Mild,Moderate,Mild,Mild,Moderate
+tt2382298,no age rating found,Moderate,Moderate,Moderate,Mild,Moderate
+tt2402927,no age rating found,Moderate,None,Mild,Mild,None
+tt2404435,no age rating found,Mild,Moderate,Mild,Mild,Moderate
+tt2409818,no age rating found,Moderate,Moderate,Moderate,Moderate,Moderate
+tt2446980,PG-13,None,None,Mild,Mild,None
+tt2463288,R,Mild,Mild,Moderate,Mild,None
+tt2473794,R,Moderate,Mild,Mild,Mild,None
+tt2488496,PG-13,None,Moderate,Mild,None,Moderate
+tt2567026,PG,None,Mild,None,None,Mild
+tt2567712,no age rating found,Moderate,Severe,Severe,Mild,Moderate
+tt2582802,no age rating found,None,Mild,Severe,Mild,Moderate
+tt2582846,PG-13,Mild,Mild,Mild,Mild,Moderate
+tt2614684,no age rating found,None,Severe,Severe,Mild,Moderate
+tt2639344,R,Mild,None,Mild,Mild,None
+tt2645044,no age rating found
+tt2675914,no age rating found,None,Severe,Moderate,Mild,Mild
+tt2713180,R,Mild,Severe,Severe,Mild,Severe
+tt2717822,R,Mild,Moderate,Mild,Mild,Moderate
+tt2788732,PG,None,Mild,Mild,None,Mild
+tt2800240,PG,Mild,None,Moderate,Mild,None
+tt2802144,R,Mild,Severe,Severe,Mild,Moderate
+tt2823054,no age rating found,Moderate,Mild,Severe,Moderate,None
+tt2832470,R,Mild,Severe,Moderate,Mild,Moderate
+tt2872732,R,Mild,Severe,Mild,Moderate,Moderate
+tt2884018,R,Mild,Severe,None,Mild,Moderate
+tt2908856,PG-13,Mild,None,Mild,Moderate,Mild
+tt2911666,no age rating found,None,Severe,Severe,Mild,Moderate
+tt2923316,NR,Mild,Severe,Severe,Moderate,Moderate
+tt2978462,PG,None,None,None,None,Mild
+tt2980516,PG-13,Mild,Mild,Mild,Mild,Mild
+tt3062096,PG-13,None,Moderate,Mild,None,Moderate
+tt3064298,no age rating found,Mild,None,Moderate,Mild,None
+tt3077214,no age rating found,Mild,Moderate,Mild,None,Moderate
+tt3110958,PG-13,None,Mild,Moderate,Mild,Mild
+tt3289956,R,Moderate,Severe,Moderate,None,Severe
+tt3296658,R,Moderate,Mild,Mild,Mild,Mild
+tt3312830,R,Moderate,None,Mild,Mild,None
+tt3316960,PG-13,Mild,None,Mild,Mild,Mild
+tt3319920,R,Mild,Moderate,Moderate,Mild,Moderate
+tt3385516,PG-13,Mild,Moderate,Mild,Mild,Moderate
+tt3395184,no age rating found,Moderate,Moderate,Severe,Moderate,Mild
+tt3410834,PG-13,Mild,Mild,Mild,None,Mild
+tt3416744,no age rating found,None,None,Moderate,Moderate,Mild
+tt3421514,no age rating found
+tt3439114,no age rating found,None,Moderate,None,Mild,Severe
+tt3464902,no age rating found,Moderate,Moderate,Moderate,Mild,Moderate
+tt3465916,no age rating found,None,None,None,None,None
+tt3474602,no age rating found,None,None,None,None,None
+tt3478232,NR,Mild,Mild,Mild,Mild,Mild
+tt3480796,R,Mild,Severe,Moderate,Mild
+tt3488710,PG,Mild,Mild,Mild,Mild,Moderate
+tt3495026,no age rating found,None,Moderate,Mild,None,Moderate
+tt3498820,PG-13,None,Moderate,Mild,Mild,Moderate
+tt3501416,no age rating found,None,Moderate,Mild,Mild,Moderate
+tt3508840,NR,None,Mild,None,None,Mild
+tt3531578,no age rating found,None,Moderate
+tt3553442,R,Mild,Moderate,Severe,Moderate,Mild
+tt3630276,no age rating found,Mild,None,Moderate,Mild,Mild
+tt3659786,no age rating found,Moderate
+tt3671542,NR,Moderate,Mild,Moderate,Mild,Mild
+tt3672840,R,Mild,Moderate,None,Mild,Moderate
+tt3700392,G,None,Mild,None,Mild,None
+tt3700804,no age rating found
+tt3707106,no age rating found,Moderate,None,Mild,Moderate,Mild
+tt3714720,no age rating found,None,None,Moderate,Mild,Mild
+tt3726704,PG-13,None,None,Mild,Mild,None
+tt3766394,no age rating found,Mild,None,Moderate,Mild,None
+tt3808342,R,Moderate,Severe,Moderate,Mild,Severe
+tt3824458,no age rating found,Severe,Mild,Severe,Moderate,Mild
+tt3860916,no age rating found,None,Moderate,Moderate,None,Moderate
+tt3882082,PG-13,Mild,Moderate,Mild,Mild,Moderate
+tt3922798,no age rating found,None,Moderate,Moderate,Mild,Mild
+tt3960412,R,Severe,Mild,Severe,Moderate,None
+tt4008652,PG
+tt4034354,no age rating found,Mild,Mild,Moderate,None,Mild
+tt4046784,PG-13,None,Moderate,Mild,Mild,Moderate
+tt4052882,no age rating found,None,Moderate,Mild,Mild,Moderate
+tt4136084,PG-13,Mild,None,Mild,Mild,None
+tt4151192,R,None,Moderate,Moderate,Mild,Moderate
+tt4160708,no age rating found,Moderate,Severe,Severe,Mild,Severe
+tt4176826,no age rating found,None,Mild,Moderate,None,Mild
+tt4242158,no age rating found
+tt4273292,no age rating found,None,Mild,Mild,None,Moderate
+tt4501454,no age rating found,None,None,Mild,Mild,None
+tt4520364,R,None,Moderate,Moderate,Mild,Moderate
+tt4647900,no age rating found,None,None,Severe,None,None
+tt4651520,R,Moderate,None,Severe,Severe,None
+tt4698684,PG-13,Mild,Moderate,Moderate,Mild,Mild
+tt4721400,no age rating found,Moderate,Moderate,Mild,Mild
+tt4781612,R,None,Mild,Severe,Mild,Moderate
+tt4786282,no age rating found,Mild,Moderate,Mild,Mild,Severe
+tt4824302,PG-13,Mild,None,Mild,None,None
+tt4915672,PG-13,None
+tt4939066,R,None,Moderate,Mild,Mild,Moderate
+tt4967094,no age rating found,Mild,Mild,Moderate,Mild
+tt4972062,no age rating found,Mild,None,Moderate,Moderate,None
+tt5052448,R,Mild,Severe,Severe,Mild,Severe
+tt5065810,no age rating found
+tt5140878,R,None,Moderate,Mild,None,Severe
+tt5294550,R,Mild,Moderate,Moderate,Moderate,Moderate
+tt5564148,no age rating found
+tt5576318,no age rating found,Mild,Moderate
+tt5580036,R,Moderate,Moderate,Severe,Moderate,Moderate
+tt5593416,no age rating found
+tt5649144,R,Mild,Mild,Severe,Moderate,Moderate
+tt5688868,no age rating found,Mild,Severe,Moderate,Mild,Severe
+tt5726086,PG-13,None,Moderate,Mild,Mild,Severe
+tt5827496,no age rating found,Moderate,Severe
+tt5866930,no age rating found,None,Mild,None,Mild,Mild
+tt6121428,no age rating found
+tt6133130,no age rating found,Moderate,None,Mild,Mild,None
+tt6157626,no age rating found,Mild,Moderate,Mild,Mild,Mild
+tt6190198,no age rating found,Mild,None,None,None,Mild
+tt6298600,no age rating found,None
+tt6466464,PG-13,None,Mild,Mild,Mild,Mild
+tt6513406,no age rating found,None,Severe,Mild,Severe,Severe
+tt6518634,no age rating found
+tt6644200,PG-13,None,Moderate,None,None,Severe
+tt6788942,PG-13,None,Mild,Mild,Mild,Moderate
+tt7055592,NR
+tt7131870,no age rating found,None,Severe,Moderate,Mild,Severe
+tt7160070,NR,None,Moderate,Moderate,Mild,Moderate
+tt7180392,no age rating found
+tt7672188,no age rating found
