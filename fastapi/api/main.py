@@ -25,5 +25,5 @@ app.add_middleware(
 )
 
 # Include routers
-app.include_router(examples_router, prefix="/examples")
+app.include_router(elastic_router, prefix="/elastic")
 app.include_router(system_router, tags=["System"])
