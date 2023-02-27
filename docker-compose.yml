@@ -14,10 +14,14 @@ services:
     ports:
       - "5173:5173"
     container_name: movie-analytics-react-ui
-    # stdin_open: true
-    # volumes:
-    #    - ./react:/usr/src/app/movie-analytics
-    #    - /usr/src/app/movie-analytics/react
+    stdin_open: true
+    volumes:
+    - ./:/app
+    - /app
+    # - ./:/app
+    # - /app/node_modules
+      #  - ./react:/usr/src/app/movie-analytics
+      #  - /usr/src/app/movie-analytics/react
 
   # Elasticsearch hosted now!
   # elasticsearch:

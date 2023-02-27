@@ -1,6 +1,6 @@
-import Header from "./components/Header";
+import Header from "./components/header";
 import Home from "./pages/home";
-import Footer from "./components/Footer";
+import Footer from "./components/footer";
 import { Routes, Route } from 'react-router-dom';
 import Details from "./pages/movie-details";
 import Search from "./pages/search/search";
