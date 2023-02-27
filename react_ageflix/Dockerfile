@@ -1,9 +1,10 @@
-FROM node
+FROM node:16.17.1-alpine3.16 as build
+WORKDIR /usr/app
+ADD . /usr/app
+RUN npm ci
+RUN npm run build
 
-WORKDIR /app
-COPY package.json .
-RUN npm install --no-cache
-COPY . .
-
-EXPOSE 5173
-CMD ["npm", "run", "dev"]
+FROM nginx:1.23.1-alpine
+EXPOSE 80
+COPY ./nginx/conf.d/default.conf /etc/nginx/conf.d/default.conf
+COPY --from=build /usr/app/dist /usr/share/nginx/html
