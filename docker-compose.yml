@@ -14,7 +14,7 @@ services:
     ports:
       - "5173:5173"
     container_name: movie-analytics-react-ui
-    stdin_open: true
+    # stdin_open: true
     # volumes:
     #    - ./react:/usr/src/app/movie-analytics
     #    - /usr/src/app/movie-analytics/react

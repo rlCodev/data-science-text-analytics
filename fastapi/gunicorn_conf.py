@@ -4,7 +4,7 @@ import multiprocessing
 import os
 
 host = os.getenv("HOST", "0.0.0.0")
-port = os.getenv("PORT", "5000")
+port = os.getenv("PORT", "80")
 bind_env = os.getenv("BIND", None)
 use_loglevel = os.getenv("LOG_LEVEL", "info")
 if bind_env:

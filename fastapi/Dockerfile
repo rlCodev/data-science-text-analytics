@@ -2,12 +2,16 @@ FROM python:3.9
 
 USER root
 
-# /app has already been defined and set as workdir in the base-image
-COPY requirements.txt .
-RUN GIT_SSL_NO_VERIFY=1 pip3 install -U -r requirements.txt && \
+
+WORKDIR /code
+COPY ./requirements.txt /code/requirements.txt
+RUN pip install --no-cache-dir --upgrade -r /code/requirements.txt && \
     rm requirements.txt
 
-EXPOSE 5000
+RUN useradd -ms /bin/bash app
 USER app
-ADD ./ /app
-CMD ["gunicorn", "-k", "uvicorn.workers.UvicornWorker", "-c", "/app/gunicorn_conf.py", "api.main:app"]
+WORKDIR /code/app
+
+EXPOSE 80
+COPY ./ /code/app
+CMD ["gunicorn", "-k", "uvicorn.workers.UvicornWorker", "-c", "gunicorn_conf.py", "api.main:app"]
