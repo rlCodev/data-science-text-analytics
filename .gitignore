@@ -37,6 +37,7 @@ Thumbs.db
 # Log file
 *.log
 
-./data_exploration/awesomefilm
-./data_exploration/screenplays
-./data_exploration/scriptpdf
+/data_exploration/awesomefilm/
+/data_exploration/screenplays/
+/data_exploration/script/
+/data_exploration/scriptpdf/
