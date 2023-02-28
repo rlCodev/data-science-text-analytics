@@ -6,3 +6,4 @@ spacy
 wordcloud
 sklearn
 cinemagoer
+profanity-filter
