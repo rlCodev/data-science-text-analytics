@@ -13,8 +13,8 @@ export default function MovieCard({ movie }) {
         <div className="py-3 ">
           <div className="bg-white shadow-lg border-gray-100 max-h-80 border sm:rounded-2xl p-8 flex space-x-8">
             <div className="h-48 overflow-visible w-1/2">
-              {/* <img className="rounded-2xl shadow-lg" src={`https://www.themoviedb.org/t/p/w600_and_h900_bestv2/${posterPath}`} alt="" /> */}
-              <img className="rounded-2xl shadow-lg"  src="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1LRLLWGvs5sZdTzuMqLEahb88Pc.jpg" alt=""/>
+              <img className="rounded-2xl shadow-lg" src={`https://www.themoviedb.org/t/p/w600_and_h900_bestv2/${posterPath}`} alt="" />
+              {/* <img className="rounded-2xl shadow-lg"  src="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1LRLLWGvs5sZdTzuMqLEahb88Pc.jpg" alt=""/> */}
             </div>
             <div className="flex flex-col w-1/2 space-y-4">
               <div className="flex justify-between items-start">
