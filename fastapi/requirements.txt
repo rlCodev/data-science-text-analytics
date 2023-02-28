@@ -10,3 +10,4 @@ uvicorn
 uvloop; platform_system != "Windows"
 websockets
 elasticsearch7
+python-dotenv
