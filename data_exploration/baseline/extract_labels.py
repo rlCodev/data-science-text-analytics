@@ -21,9 +21,10 @@ for movie_data in tqdm(dataset):
     # print the votes
     movie_data = movie_data.replace("\n", "")
     for vote in votes.items():
-        movie_data += "," + vote[1]['status']
-    text = movie_data + "\n"
-    labeled += text
+        print(vote)
+        movie_data = movie_data.split(",")[0] + "," + movie_data.split(",")[1] +  "," + vote[0] + "," + str(vote[1]['votes']['None']) + "," + str(vote[1]['votes']['Mild']) + "," + str(vote[1]['votes']['Moderate']) + "," + str(vote[1]['votes']['Severe'])
+        text = movie_data + "\n"
+        labeled += text
 
 # write the data to a file
 with open('data_exploration/baseline/imdb_id_with_age_rating_and_labels.txt', 'a') as file:
