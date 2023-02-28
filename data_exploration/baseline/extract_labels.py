@@ -25,6 +25,7 @@ for movie_data in tqdm(dataset):
     text = movie_data + "\n"
     labeled += text
 
+
 # write the data to a file
 with open('data_exploration/baseline/imdb_id_with_age_rating_and_labels.txt', 'a') as file:
     file.writelines(labeled)
