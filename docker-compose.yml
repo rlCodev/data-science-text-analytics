@@ -18,10 +18,6 @@ services:
     volumes:
     - ./:/app
     - /app
-    # - ./:/app
-    # - /app/node_modules
-      #  - ./react:/usr/src/app/movie-analytics
-      #  - /usr/src/app/movie-analytics/react
 
   # Elasticsearch hosted now!
   # elasticsearch:
