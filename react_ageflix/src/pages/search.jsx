@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
-import SearchBar from "../../components/search-bar";
-import MovieCard from "../../components/movie-card";
+import SearchBar from "../components/search-bar";
+import MovieCard from "../components/movie-card";
 import Typewriter from 'typewriter-effect';
 import axios from 'axios';
 

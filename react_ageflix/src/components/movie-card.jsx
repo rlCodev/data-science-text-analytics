@@ -7,7 +7,7 @@ export default function MovieCard({ movie }) {
   return (
     <div
       className="w-fit pb-20 hover:cursor-pointer"
-      onClick={() => navigate("/details")}
+      onClick={() => navigate("/details", { state: movie })}
     >
       <div className="transition ease-in-out delay-200 hover:-translate-y-1 hover:scale-105">
         <div className="py-3 ">
