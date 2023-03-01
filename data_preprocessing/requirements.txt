@@ -1,0 +1,10 @@
+elasticsearch7
+pandas
+numpy
+matplotlib
+spacy
+wordcloud
+sklearn
+cinemagoer
+profanity-filter
+nltk

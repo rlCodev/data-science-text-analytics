@@ -7,6 +7,8 @@ dist
 
 # Ignore .env files
 */.env
+**/.env
+fastapi/api/.env
 */dsta-env
 
 # Ignore build files
@@ -36,3 +38,8 @@ Thumbs.db
 
 # Log file
 *.log
+
+# Ignore large training files
+*.zip
+*.tar.gz
+*.pkl

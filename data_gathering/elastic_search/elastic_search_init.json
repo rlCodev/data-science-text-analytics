@@ -1,0 +1,956 @@
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "1"}}
+{"imdb_id": "tt0113101", "movie_script": "test", "age_rating": "R", "nudity": "Moderate", "violence": "Moderate", "profanity": "Severe", "alcohol": "Moderate", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "2"}}
+{"imdb_id": "tt0964517", "movie_script": "test", "age_rating": "None", "nudity": "Moderate", "violence": "Moderate", "profanity": "Severe", "alcohol": "Severe", "frightening": "Mild"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "3"}}
+{"imdb_id": "tt0118971", "movie_script": "test", "age_rating": "R", "nudity": "Severe", "violence": "Severe", "profanity": "Severe", "alcohol": "Moderate", "frightening": "Severe"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "4"}}
+{"imdb_id": "tt2140373", "movie_script": "test", "age_rating": "None", "nudity": "None", "violence": "Mild", "profanity": "Mild", "alcohol": "Mild", "frightening": "Mild"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "5"}}
+{"imdb_id": "tt0120255", "movie_script": "test", "age_rating": "None", "nudity": "Moderate", "violence": "None", "profanity": "Mild", "alcohol": "None", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "6"}}
+{"imdb_id": "tt0071315", "movie_script": "test", "age_rating": "R", "nudity": "Moderate", "violence": "Moderate", "profanity": "Mild", "alcohol": "Mild", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "7"}}
+{"imdb_id": "tt2582846", "movie_script": "test", "age_rating": "PG-13", "nudity": "Mild", "violence": "Mild", "profanity": "Mild", "alcohol": "Mild", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "8"}}
+{"imdb_id": "tt0118715", "movie_script": "test", "age_rating": "R", "nudity": "Moderate", "violence": "Mild", "profanity": "Severe", "alcohol": "Moderate", "frightening": "Mild"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "9"}}
+{"imdb_id": "tt0114746", "movie_script": "test", "age_rating": "R", "nudity": "Mild", "violence": "Moderate", "profanity": "Moderate", "alcohol": "None", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "10"}}
+{"imdb_id": "tt0183523", "movie_script": "test", "age_rating": "None", "nudity": "None", "violence": "Moderate", "profanity": "Mild", "alcohol": "None", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "11"}}
+{"imdb_id": "tt0120890", "movie_script": "test", "age_rating": "R", "nudity": "Severe", "violence": "Moderate", "profanity": "Severe", "alcohol": "Moderate", "frightening": "Mild"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "12"}}
+{"imdb_id": "tt0086250", "movie_script": "test", "age_rating": "R", "nudity": "Moderate", "violence": "Severe", "profanity": "Severe", "alcohol": "Severe", "frightening": "Severe"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "13"}}
+{"imdb_id": "tt1068680", "movie_script": "test", "age_rating": "PG-13", "nudity": "Moderate", "violence": "Mild", "profanity": "Moderate", "alcohol": "Moderate", "frightening": "None"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "14"}}
+{"imdb_id": "tt0114388", "movie_script": "test", "age_rating": "PG", "nudity": "None", "violence": "None", "profanity": "None", "alcohol": "None", "frightening": "None"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "15"}}
+{"imdb_id": "tt0209958", "movie_script": "test", "age_rating": "R", "nudity": "Severe", "violence": "Severe", "profanity": "Moderate", "alcohol": "Moderate", "frightening": "Severe"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "16"}}
+{"imdb_id": "tt1285016", "movie_script": "test", "age_rating": "PG-13", "nudity": "Moderate", "violence": "None", "profanity": "Moderate", "alcohol": "Moderate", "frightening": "Mild"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "17"}}
+{"imdb_id": "tt0064665", "movie_script": "test", "age_rating": "R", "nudity": "Moderate", "violence": "Moderate", "profanity": "Moderate", "alcohol": "Mild", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "18"}}
+{"imdb_id": "tt0119314", "movie_script": "test", "age_rating": "PG-13", "nudity": "None", "violence": "Moderate", "profanity": "Mild", "alcohol": "None", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "19"}}
+{"imdb_id": "tt0395169", "movie_script": "test", "age_rating": "PG-13", "nudity": "Mild", "violence": "Severe", "profanity": "Moderate", "alcohol": "Mild", "frightening": "Severe"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "20"}}
+{"imdb_id": "tt0081505", "movie_script": "test", "age_rating": "R", "nudity": "Moderate", "violence": "Severe", "profanity": "Moderate", "alcohol": "Mild", "frightening": "Severe"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "21"}}
+{"imdb_id": "tt0100150", "movie_script": "test", "age_rating": "None", "nudity": "Mild", "violence": "Severe", "profanity": "Mild", "alcohol": "Moderate", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "22"}}
+{"imdb_id": "tt0114814", "movie_script": "test", "age_rating": "R", "nudity": "Mild", "violence": "Moderate", "profanity": "Severe", "alcohol": "Moderate", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "23"}}
+{"imdb_id": "tt0093779", "movie_script": "test", "age_rating": "PG", "nudity": "None", "violence": "Mild", "profanity": "Mild", "alcohol": "None", "frightening": "Mild"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "24"}}
+{"imdb_id": "tt0090756", "movie_script": "test", "age_rating": "R", "nudity": "Severe", "violence": "Severe", "profanity": "Severe", "alcohol": "Moderate", "frightening": "Severe"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "25"}}
+{"imdb_id": "tt0120689", "movie_script": "test", "age_rating": "None", "nudity": "Mild", "violence": "Severe", "profanity": "Moderate", "alcohol": "Mild", "frightening": "Severe"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "26"}}
+{"imdb_id": "tt0073629", "movie_script": "test", "age_rating": "R", "nudity": "Moderate", "violence": "Mild", "profanity": "Mild", "alcohol": "Mild", "frightening": "Mild"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "27"}}
+{"imdb_id": "tt1186367", "movie_script": "test", "age_rating": "R", "nudity": "None", "violence": "Severe", "profanity": "Severe", "alcohol": "Mild", "frightening": "Severe"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "28"}}
+{"imdb_id": "tt0072890", "movie_script": "test", "age_rating": "R", "nudity": "None", "violence": "Moderate", "profanity": "Severe", "alcohol": "Mild", "frightening": "Mild"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "29"}}
+{"imdb_id": "tt1100089", "movie_script": "test", "age_rating": "R", "nudity": "Mild", "violence": "Moderate", "profanity": "Mild", "alcohol": "Moderate", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "30"}}
+{"imdb_id": "tt1412386", "movie_script": "test", "age_rating": "PG-13", "nudity": "Mild", "violence": "None", "profanity": "Mild", "alcohol": "Mild", "frightening": "None"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "31"}}
+{"imdb_id": "tt0032138", "movie_script": "test", "age_rating": "None", "nudity": "None", "violence": "Mild", "profanity": "None", "alcohol": "None", "frightening": "Mild"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "32"}}
+{"imdb_id": "tt0246578", "movie_script": "test", "age_rating": "R", "nudity": "Mild", "violence": "Moderate", "profanity": "Moderate", "alcohol": "Moderate", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "33"}}
+{"imdb_id": "tt0250494", "movie_script": "test", "age_rating": "PG-13", "nudity": "Mild", "violence": "Mild", "profanity": "Mild", "alcohol": "None", "frightening": "None"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "34"}}
+{"imdb_id": "tt0134847", "movie_script": "test", "age_rating": "R", "nudity": "None", "violence": "Moderate", "profanity": "Moderate", "alcohol": "Mild", "frightening": "Severe"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "35"}}
+{"imdb_id": "tt2132285", "movie_script": "test", "age_rating": "R", "nudity": "Mild", "violence": "Mild", "profanity": "Severe", "alcohol": "Severe", "frightening": "Mild"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "36"}}
+{"imdb_id": "tt0119822", "movie_script": "test", "age_rating": "PG-13", "nudity": "Moderate", "violence": "Mild", "profanity": "Moderate", "alcohol": "Mild", "frightening": "Mild"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "37"}}
+{"imdb_id": "tt0096754", "movie_script": "test", "age_rating": "None", "nudity": "Mild", "violence": "Mild", "profanity": "Moderate", "alcohol": "None", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "38"}}
+{"imdb_id": "tt1375666", "movie_script": "test", "age_rating": "PG-13", "nudity": "None", "violence": "Moderate", "profanity": "Mild", "alcohol": "Mild", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "39"}}
+{"imdb_id": "tt0119654", "movie_script": "test", "age_rating": "PG-13", "nudity": "Mild", "violence": "Moderate", "profanity": "Moderate", "alcohol": "Mild", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "40"}}
+{"imdb_id": "tt0095765", "movie_script": "test", "age_rating": "None", "nudity": "Moderate", "violence": "Mild", "profanity": "Mild", "alcohol": "Mild", "frightening": "Mild"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "41"}}
+{"imdb_id": "tt0118689", "movie_script": "test", "age_rating": "PG-13", "nudity": "Mild", "violence": "Mild", "profanity": "Mild", "alcohol": "Mild", "frightening": "None"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "42"}}
+{"imdb_id": "tt0120586", "movie_script": "test", "age_rating": "R", "nudity": "Severe", "violence": "Severe", "profanity": "Severe", "alcohol": "Moderate", "frightening": "Severe"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "43"}}
+{"imdb_id": "tt0087182", "movie_script": "test", "age_rating": "PG-13", "nudity": "Mild", "violence": "Moderate", "profanity": "None", "alcohol": "Mild", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "44"}}
+{"imdb_id": "tt0119174", "movie_script": "test", "age_rating": "None", "nudity": "Mild", "violence": "Mild", "profanity": "Moderate", "alcohol": "Mild", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "45"}}
+{"imdb_id": "tt0319061", "movie_script": "test", "age_rating": "PG-13", "nudity": "Mild", "violence": "Mild", "profanity": "Mild", "alcohol": "None", "frightening": "Mild"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "46"}}
+{"imdb_id": "tt0499549", "movie_script": "test", "age_rating": "PG-13", "nudity": "Mild", "violence": "Moderate", "profanity": "Moderate", "alcohol": "Mild", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "47"}}
+{"imdb_id": "tt0120812", "movie_script": "test", "age_rating": "PG-13", "nudity": "None", "violence": "Moderate", "profanity": "Moderate", "alcohol": "Mild", "frightening": "Mild"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "48"}}
+{"imdb_id": "tt0985699", "movie_script": "test", "age_rating": "PG-13", "nudity": "None", "violence": "Moderate", "profanity": "Mild", "alcohol": "Mild", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "49"}}
+{"imdb_id": "tt1723811", "movie_script": "test", "age_rating": "None", "nudity": "Severe", "violence": "Moderate", "profanity": "Severe", "alcohol": "Moderate", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "50"}}
+{"imdb_id": "tt0119396", "movie_script": "test", "age_rating": "None", "nudity": "Mild", "violence": "Moderate", "profanity": "Severe", "alcohol": "Moderate", "frightening": "Mild"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "51"}}
+{"imdb_id": "tt0123755", "movie_script": "test", "age_rating": "R", "nudity": "None", "violence": "Severe", "profanity": "Moderate", "alcohol": "None", "frightening": "Severe"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "52"}}
+{"imdb_id": "tt0178868", "movie_script": "test", "age_rating": "NR", "nudity": "None", "violence": "Mild", "profanity": "None", "alcohol": "Mild", "frightening": "Severe"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "53"}}
+{"imdb_id": "tt0114369", "movie_script": "test", "age_rating": "R", "nudity": "Mild", "violence": "Severe", "profanity": "Severe", "alcohol": "Mild", "frightening": "Severe"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "54"}}
+{"imdb_id": "tt0106582", "movie_script": "test", "age_rating": "R", "nudity": "None", "violence": "Severe", "profanity": "Severe", "alcohol": "Mild", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "55"}}
+{"imdb_id": "tt0120382", "movie_script": "test", "age_rating": "PG", "nudity": "None", "violence": "None", "profanity": "Mild", "alcohol": "Mild", "frightening": "Mild"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "56"}}
+{"imdb_id": "tt0117509", "movie_script": "test", "age_rating": "None", "nudity": "Mild", "violence": "Moderate", "profanity": "None", "alcohol": "Mild", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "57"}}
+{"imdb_id": "tt0073195", "movie_script": "test", "age_rating": "None", "nudity": "Mild", "violence": "Severe", "profanity": "Mild", "alcohol": "Mild", "frightening": "Severe"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "58"}}
+{"imdb_id": "tt1038919", "movie_script": "test", "age_rating": "PG-13", "nudity": "Mild", "violence": "Mild", "profanity": "Mild", "alcohol": "Mild", "frightening": "None"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "59"}}
+{"imdb_id": "tt0349903", "movie_script": "test", "age_rating": "PG-13", "nudity": "None", "violence": "Mild", "profanity": "Moderate", "alcohol": "Mild", "frightening": "None"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "60"}}
+{"imdb_id": "tt0079945", "movie_script": "test", "age_rating": "PG", "nudity": "None", "violence": "Mild", "profanity": "Mild", "alcohol": "None", "frightening": "Mild"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "61"}}
+{"imdb_id": "tt0065724", "movie_script": "test", "age_rating": "R", "nudity": "Moderate", "violence": "Mild", "profanity": "Mild", "alcohol": "Mild", "frightening": "Mild"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "62"}}
+{"imdb_id": "tt0140352", "movie_script": "test", "age_rating": "R", "nudity": "None", "violence": "Mild", "profanity": "Moderate", "alcohol": "Mild", "frightening": "Mild"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "63"}}
+{"imdb_id": "tt0266915", "movie_script": "test", "age_rating": "PG-13", "nudity": "Mild", "violence": "Moderate", "profanity": "Moderate", "alcohol": "Mild", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "64"}}
+{"imdb_id": "tt0844286", "movie_script": "test", "age_rating": "PG-13", "nudity": "Mild", "violence": "Moderate", "profanity": "Moderate", "alcohol": "Moderate", "frightening": "Mild"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "65"}}
+{"imdb_id": "tt0815236", "movie_script": "test", "age_rating": "R", "nudity": "Mild", "violence": "Mild", "profanity": "Severe", "alcohol": "Mild", "frightening": "None"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "66"}}
+{"imdb_id": "tt0195685", "movie_script": "test", "age_rating": "R", "nudity": "Mild", "violence": "None", "profanity": "Moderate", "alcohol": "Mild", "frightening": "Mild"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "67"}}
+{"imdb_id": "tt0268695", "movie_script": "test", "age_rating": "PG-13", "nudity": "None", "violence": "Mild", "profanity": "Mild", "alcohol": "None", "frightening": "Mild"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "68"}}
+{"imdb_id": "tt0790686", "movie_script": "test", "age_rating": "R", "nudity": "Mild", "violence": "Severe", "profanity": "Moderate", "alcohol": "Mild", "frightening": "Severe"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "69"}}
+{"imdb_id": "tt0181689", "movie_script": "test", "age_rating": "PG-13", "nudity": "Mild", "violence": "Moderate", "profanity": "Moderate", "alcohol": "Mild", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "70"}}
+{"imdb_id": "tt0106977", "movie_script": "test", "age_rating": "None", "nudity": "Mild", "violence": "Moderate", "profanity": "Moderate", "alcohol": "Mild", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "71"}}
+{"imdb_id": "tt1504320", "movie_script": "test", "age_rating": "None", "nudity": "None", "violence": "None", "profanity": "Moderate", "alcohol": "Mild", "frightening": "None"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "72"}}
+{"imdb_id": "tt0942385", "movie_script": "test", "age_rating": "R", "nudity": "Mild", "violence": "Severe", "profanity": "Severe", "alcohol": "Moderate", "frightening": "Mild"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "73"}}
+{"imdb_id": "tt0462200", "movie_script": "test", "age_rating": "None", "nudity": "Moderate", "violence": "Moderate", "profanity": "Severe", "alcohol": "Moderate", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "74"}}
+{"imdb_id": "tt0049470", "movie_script": "test", "age_rating": "None", "nudity": "None", "violence": "Mild", "profanity": "None", "alcohol": "None", "frightening": "Mild"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "75"}}
+{"imdb_id": "tt0780504", "movie_script": "test", "age_rating": "R", "nudity": "Moderate", "violence": "Severe", "profanity": "Moderate", "alcohol": "Mild", "frightening": "Severe"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "76"}}
+{"imdb_id": "tt0088247", "movie_script": "test", "age_rating": "R", "nudity": "Moderate", "violence": "Severe", "profanity": "Moderate", "alcohol": "Mild", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "77"}}
+{"imdb_id": "tt0993846", "movie_script": "test", "age_rating": "R", "nudity": "Severe", "violence": "Moderate", "profanity": "Severe", "alcohol": "Severe", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "78"}}
+{"imdb_id": "tt0062622", "movie_script": "test", "age_rating": "G", "nudity": "None", "violence": "Mild", "profanity": "None", "alcohol": "None", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "79"}}
+{"imdb_id": "tt1340800", "movie_script": "test", "age_rating": "R", "nudity": "Moderate", "violence": "Severe", "profanity": "Moderate", "alcohol": "Mild", "frightening": "Mild"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "80"}}
+{"imdb_id": "tt0125439", "movie_script": "test", "age_rating": "PG-13", "nudity": "Mild", "violence": "None", "profanity": "Mild", "alcohol": "Mild", "frightening": "None"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "81"}}
+{"imdb_id": "tt0120902", "movie_script": "test", "age_rating": "PG-13", "nudity": "Mild", "violence": "Moderate", "profanity": "Mild", "alcohol": "Mild", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "82"}}
+{"imdb_id": "tt0399201", "movie_script": "test", "age_rating": "PG-13", "nudity": "Mild", "violence": "Moderate", "profanity": "Moderate", "alcohol": "Mild", "frightening": "Mild"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "83"}}
+{"imdb_id": "tt1800241", "movie_script": "test", "age_rating": "R", "nudity": "Moderate", "violence": "Mild", "profanity": "Severe", "alcohol": "Moderate", "frightening": "Mild"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "84"}}
+{"imdb_id": "tt0105665", "movie_script": "test", "age_rating": "R", "nudity": "Severe", "violence": "Severe", "profanity": "Moderate", "alcohol": "Severe", "frightening": "Severe"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "85"}}
+{"imdb_id": "tt2024544", "movie_script": "test", "age_rating": "None", "nudity": "Severe", "violence": "Severe", "profanity": "Severe", "alcohol": "Mild", "frightening": "Severe"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "86"}}
+{"imdb_id": "tt0096320", "movie_script": "test", "age_rating": "PG", "nudity": "Mild", "violence": "Moderate", "profanity": "Moderate", "alcohol": "Mild", "frightening": "Mild"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "87"}}
+{"imdb_id": "tt1707386", "movie_script": "test", "age_rating": "PG-13", "nudity": "Moderate", "violence": "Moderate", "profanity": "Mild", "alcohol": "Mild", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "88"}}
+{"imdb_id": "tt0088847", "movie_script": "test", "age_rating": "R", "nudity": "Mild", "violence": "Mild", "profanity": "Moderate", "alcohol": "Moderate", "frightening": "None"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "89"}}
+{"imdb_id": "tt1322269", "movie_script": "test", "age_rating": "None", "nudity": "Mild", "violence": "Mild", "profanity": "Severe", "alcohol": "Moderate", "frightening": "Mild"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "90"}}
+{"imdb_id": "tt0454876", "movie_script": "test", "age_rating": "None", "nudity": "None", "violence": "Moderate", "profanity": "None", "alcohol": "None", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "91"}}
+{"imdb_id": "tt0144117", "movie_script": "test", "age_rating": "R", "nudity": "Moderate", "violence": "Severe", "profanity": "Severe", "alcohol": "Moderate", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "92"}}
+{"imdb_id": "tt1189340", "movie_script": "test", "age_rating": "None", "nudity": "Mild", "violence": "Moderate", "profanity": "Moderate", "alcohol": "Moderate", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "93"}}
+{"imdb_id": "tt1438176", "movie_script": "test", "age_rating": "R", "nudity": "Mild", "violence": "Severe", "profanity": "Severe", "alcohol": "Moderate", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "94"}}
+{"imdb_id": "tt0078841", "movie_script": "test", "age_rating": "PG", "nudity": "Moderate", "violence": "None", "profanity": "Mild", "alcohol": "Mild", "frightening": "None"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "95"}}
+{"imdb_id": "tt0080745", "movie_script": "test", "age_rating": "PG", "nudity": "Mild", "violence": "Mild", "profanity": "Mild", "alcohol": "None", "frightening": "Mild"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "96"}}
+{"imdb_id": "tt0082089", "movie_script": "test", "age_rating": "R", "nudity": "Moderate", "violence": "Mild", "profanity": "Mild", "alcohol": "Mild", "frightening": "Mild"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "97"}}
+{"imdb_id": "tt0800320", "movie_script": "test", "age_rating": "PG-13", "nudity": "Mild", "violence": "Moderate", "profanity": "Mild", "alcohol": "None", "frightening": "Mild"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "98"}}
+{"imdb_id": "tt0172495", "movie_script": "test", "age_rating": "R", "nudity": "Mild", "violence": "Severe", "profanity": "Mild", "alcohol": "None", "frightening": "Severe"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "99"}}
+{"imdb_id": "tt0120338", "movie_script": "test", "age_rating": "PG-13", "nudity": "Moderate", "violence": "Moderate", "profanity": "Moderate", "alcohol": "Mild", "frightening": "Severe"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "100"}}
+{"imdb_id": "tt0056923", "movie_script": "test", "age_rating": "None", "nudity": "None", "violence": "Mild", "profanity": "None", "alcohol": "Mild", "frightening": "Mild"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "101"}}
+{"imdb_id": "tt0277027", "movie_script": "test", "age_rating": "None", "nudity": "None", "violence": "None", "profanity": "Mild", "alcohol": "None", "frightening": "Mild"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "102"}}
+{"imdb_id": "tt0848228", "movie_script": "test", "age_rating": "PG-13", "nudity": "None", "violence": "Moderate", "profanity": "Mild", "alcohol": "Mild", "frightening": "Mild"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "103"}}
+{"imdb_id": "tt0119528", "movie_script": "test", "age_rating": "None", "nudity": "Moderate", "violence": "Mild", "profanity": "Moderate", "alcohol": "Mild", "frightening": "None"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "104"}}
+{"imdb_id": "tt0107290", "movie_script": "test", "age_rating": "PG-13", "nudity": "None", "violence": "Moderate", "profanity": "Mild", "alcohol": "Mild", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "105"}}
+{"imdb_id": "tt0071562", "movie_script": "test", "age_rating": "R", "nudity": "Mild", "violence": "Severe", "profanity": "Moderate", "alcohol": "Mild", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "106"}}
+{"imdb_id": "tt0138097", "movie_script": "test", "age_rating": "R", "nudity": "Moderate", "violence": "Mild", "profanity": "Mild", "alcohol": "Mild", "frightening": "None"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "107"}}
+{"imdb_id": "tt1013753", "movie_script": "test", "age_rating": "R", "nudity": "Moderate", "violence": "Moderate", "profanity": "Moderate", "alcohol": "Moderate", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "108"}}
+{"imdb_id": "tt0075314", "movie_script": "test", "age_rating": "R", "nudity": "Moderate", "violence": "Severe", "profanity": "Severe", "alcohol": "Moderate", "frightening": "Severe"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "109"}}
+{"imdb_id": "tt0080761", "movie_script": "test", "age_rating": "R", "nudity": "Moderate", "violence": "Severe", "profanity": "Mild", "alcohol": "Mild", "frightening": "Severe"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "110"}}
+{"imdb_id": "tt0112573", "movie_script": "test", "age_rating": "None", "nudity": "Moderate", "violence": "Severe", "profanity": "Moderate", "alcohol": "Mild", "frightening": "Severe"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "111"}}
+{"imdb_id": "tt1119646", "movie_script": "test", "age_rating": "R", "nudity": "Moderate", "violence": "Mild", "profanity": "Severe", "alcohol": "Moderate", "frightening": "Mild"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "112"}}
+{"imdb_id": "tt0134273", "movie_script": "test", "age_rating": "R", "nudity": "Severe", "violence": "Severe", "profanity": "Severe", "alcohol": "Moderate", "frightening": "Severe"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "113"}}
+{"imdb_id": "tt0116209", "movie_script": "test", "age_rating": "R", "nudity": "Moderate", "violence": "Moderate", "profanity": "Mild", "alcohol": "Mild", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "114"}}
+{"imdb_id": "tt0104348", "movie_script": "test", "age_rating": "R", "nudity": "None", "violence": "None", "profanity": "Severe", "alcohol": "Mild", "frightening": "None"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "115"}}
+{"imdb_id": "tt0095016", "movie_script": "test", "age_rating": "R", "nudity": "Mild", "violence": "Severe", "profanity": "Severe", "alcohol": "Moderate", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "116"}}
+{"imdb_id": "tt0169547", "movie_script": "test", "age_rating": "R", "nudity": "Severe", "violence": "Moderate", "profanity": "Severe", "alcohol": "Moderate", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "117"}}
+{"imdb_id": "tt0082971", "movie_script": "test", "age_rating": "None", "nudity": "Mild", "violence": "Moderate", "profanity": "Mild", "alcohol": "Mild", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "118"}}
+{"imdb_id": "tt0093209", "movie_script": "test", "age_rating": "PG-13", "nudity": "Mild", "violence": "Mild", "profanity": "Moderate", "alcohol": "Mild", "frightening": "Mild"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "119"}}
+{"imdb_id": "tt0120601", "movie_script": "test", "age_rating": "R", "nudity": "Moderate", "violence": "Mild", "profanity": "Moderate", "alcohol": "Mild", "frightening": "Mild"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "120"}}
+{"imdb_id": "tt0080684", "movie_script": "test", "age_rating": "PG", "nudity": "None", "violence": "Mild", "profanity": "None", "alcohol": "None", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "121"}}
+{"imdb_id": "tt0360486", "movie_script": "test", "age_rating": "R", "nudity": "None", "violence": "Moderate", "profanity": "Moderate", "alcohol": "Moderate", "frightening": "Severe"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "122"}}
+{"imdb_id": "tt1570728", "movie_script": "test", "age_rating": "PG-13", "nudity": "Mild", "violence": "Mild", "profanity": "Moderate", "alcohol": "Mild", "frightening": "None"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "123"}}
+{"imdb_id": "tt0086856", "movie_script": "test", "age_rating": "PG", "nudity": "None", "violence": "Mild", "profanity": "Mild", "alcohol": "Mild", "frightening": "None"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "124"}}
+{"imdb_id": "tt0122690", "movie_script": "test", "age_rating": "R", "nudity": "None", "violence": "Moderate", "profanity": "Moderate", "alcohol": "Mild", "frightening": "Mild"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "125"}}
+{"imdb_id": "tt0408790", "movie_script": "test", "age_rating": "PG-13", "nudity": "None", "violence": "Moderate", "profanity": "Mild", "alcohol": "None", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "126"}}
+{"imdb_id": "tt0183649", "movie_script": "test", "age_rating": "None", "nudity": "Mild", "violence": "Moderate", "profanity": "Severe", "alcohol": "Mild", "frightening": "Severe"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "127"}}
+{"imdb_id": "tt0363771", "movie_script": "test", "age_rating": "PG", "nudity": "None", "violence": "Moderate", "profanity": "None", "alcohol": "None", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "128"}}
+{"imdb_id": "tt1205489", "movie_script": "test", "age_rating": "R", "nudity": "Mild", "violence": "Moderate", "profanity": "Severe", "alcohol": "Mild", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "129"}}
+{"imdb_id": "tt0102138", "movie_script": "test", "age_rating": "R", "nudity": "Mild", "violence": "Moderate", "profanity": "Severe", "alcohol": "Mild", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "130"}}
+{"imdb_id": "tt1458175", "movie_script": "test", "age_rating": "PG-13", "nudity": "None", "violence": "Moderate", "profanity": "Moderate", "alcohol": "Mild", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "131"}}
+{"imdb_id": "tt0164052", "movie_script": "test", "age_rating": "None", "nudity": "Moderate", "violence": "Severe", "profanity": "Severe", "alcohol": "None", "frightening": "Severe"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "132"}}
+{"imdb_id": "tt0187078", "movie_script": "test", "age_rating": "PG-13", "nudity": "Mild", "violence": "Moderate", "profanity": "Moderate", "alcohol": "Mild", "frightening": "Mild"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "133"}}
+{"imdb_id": "tt0047396", "movie_script": "test", "age_rating": "None", "nudity": "Mild", "violence": "Mild", "profanity": "None", "alcohol": "Mild", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "134"}}
+{"imdb_id": "tt0369339", "movie_script": "test", "age_rating": "R", "nudity": "None", "violence": "Severe", "profanity": "Moderate", "alcohol": "Mild", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "135"}}
+{"imdb_id": "tt0099487", "movie_script": "test", "age_rating": "PG-13", "nudity": "Mild", "violence": "Moderate", "profanity": "Mild", "alcohol": "Mild", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "136"}}
+{"imdb_id": "tt0099653", "movie_script": "test", "age_rating": "PG-13", "nudity": "Mild", "violence": "Moderate", "profanity": "Moderate", "alcohol": "None", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "137"}}
+{"imdb_id": "tt1024648", "movie_script": "test", "age_rating": "None", "nudity": "Mild", "violence": "Moderate", "profanity": "Moderate", "alcohol": "Mild", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "138"}}
+{"imdb_id": "tt0311113", "movie_script": "test", "age_rating": "PG-13", "nudity": "None", "violence": "Moderate", "profanity": "Mild", "alcohol": "Mild", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "139"}}
+{"imdb_id": "tt0126886", "movie_script": "test", "age_rating": "R", "nudity": "Moderate", "violence": "Mild", "profanity": "Moderate", "alcohol": "Mild", "frightening": "None"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "140"}}
+{"imdb_id": "tt0993842", "movie_script": "test", "age_rating": "PG-13", "nudity": "Mild", "violence": "Moderate", "profanity": "Moderate", "alcohol": "None", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "141"}}
+{"imdb_id": "tt0372183", "movie_script": "test", "age_rating": "PG-13", "nudity": "Mild", "violence": "Moderate", "profanity": "Moderate", "alcohol": "Mild", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "142"}}
+{"imdb_id": "tt0113243", "movie_script": "test", "age_rating": "PG-13", "nudity": "Mild", "violence": "Mild", "profanity": "Mild", "alcohol": "Mild", "frightening": "None"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "143"}}
+{"imdb_id": "tt0258000", "movie_script": "test", "age_rating": "R", "nudity": "None", "violence": "Severe", "profanity": "Severe", "alcohol": "Mild", "frightening": "Severe"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "144"}}
+{"imdb_id": "tt1655420", "movie_script": "test", "age_rating": "None", "nudity": "Mild", "violence": "None", "profanity": "Moderate", "alcohol": "Moderate", "frightening": "Mild"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "145"}}
+{"imdb_id": "tt0084787", "movie_script": "test", "age_rating": "R", "nudity": "None", "violence": "Severe", "profanity": "Moderate", "alcohol": "Mild", "frightening": "Severe"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "146"}}
+{"imdb_id": "tt1462758", "movie_script": "test", "age_rating": "None", "nudity": "None", "violence": "Moderate", "profanity": "Severe", "alcohol": "Mild", "frightening": "Severe"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "147"}}
+{"imdb_id": "tt0780571", "movie_script": "test", "age_rating": "R", "nudity": "Moderate", "violence": "Severe", "profanity": "Moderate", "alcohol": "Mild", "frightening": "Severe"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "148"}}
+{"imdb_id": "tt0898367", "movie_script": "test", "age_rating": "None", "nudity": "Mild", "violence": "Moderate", "profanity": "Moderate", "alcohol": "Mild", "frightening": "Severe"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "149"}}
+{"imdb_id": "tt0120737", "movie_script": "test", "age_rating": "PG-13", "nudity": "None", "violence": "Moderate", "profanity": "None", "alcohol": "Mild", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "150"}}
+{"imdb_id": "tt0093773", "movie_script": "test", "age_rating": "R", "nudity": "None", "violence": "Severe", "profanity": "Moderate", "alcohol": "Mild", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "151"}}
+{"imdb_id": "tt0251160", "movie_script": "test", "age_rating": "PG-13", "nudity": "None", "violence": "Mild", "profanity": "Moderate", "alcohol": "Mild", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "152"}}
+{"imdb_id": "tt0107808", "movie_script": "test", "age_rating": "PG-13", "nudity": "Mild", "violence": "Moderate", "profanity": "Moderate", "alcohol": "Mild", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "153"}}
+{"imdb_id": "tt0108399", "movie_script": "test", "age_rating": "R", "nudity": "Moderate", "violence": "Severe", "profanity": "Severe", "alcohol": "Severe", "frightening": "Severe"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "154"}}
+{"imdb_id": "tt0167190", "movie_script": "test", "age_rating": "PG-13", "nudity": "None", "violence": "Moderate", "profanity": "Mild", "alcohol": "Mild", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "155"}}
+{"imdb_id": "tt0796366", "movie_script": "test", "age_rating": "PG-13", "nudity": "Mild", "violence": "Moderate", "profanity": "Mild", "alcohol": "Mild", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "156"}}
+{"imdb_id": "tt0399295", "movie_script": "test", "age_rating": "R", "nudity": "Moderate", "violence": "Severe", "profanity": "Severe", "alcohol": "Severe", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "157"}}
+{"imdb_id": "tt1092026", "movie_script": "test", "age_rating": "R", "nudity": "Mild", "violence": "Mild", "profanity": "Severe", "alcohol": "Moderate", "frightening": "Mild"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "158"}}
+{"imdb_id": "tt0098724", "movie_script": "test", "age_rating": "R", "nudity": "Moderate", "violence": "None", "profanity": "Moderate", "alcohol": "Mild", "frightening": "Mild"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "159"}}
+{"imdb_id": "tt0094291", "movie_script": "test", "age_rating": "R", "nudity": "Moderate", "violence": "Mild", "profanity": "Moderate", "alcohol": "Moderate", "frightening": "Mild"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "160"}}
+{"imdb_id": "tt0086190", "movie_script": "test", "age_rating": "PG", "nudity": "Mild", "violence": "Mild", "profanity": "None", "alcohol": "Mild", "frightening": "Mild"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "161"}}
+{"imdb_id": "tt1409024", "movie_script": "test", "age_rating": "PG-13", "nudity": "Mild", "violence": "Moderate", "profanity": "Mild", "alcohol": "Mild", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "162"}}
+{"imdb_id": "tt0329101", "movie_script": "test", "age_rating": "R", "nudity": "Moderate", "violence": "Severe", "profanity": "Severe", "alcohol": "Moderate", "frightening": "Severe"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "163"}}
+{"imdb_id": "tt0963794", "movie_script": "test", "age_rating": "R", "nudity": "Moderate", "violence": "Severe", "profanity": "Moderate", "alcohol": "Moderate", "frightening": "Severe"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "164"}}
+{"imdb_id": "tt0110632", "movie_script": "test", "age_rating": "R", "nudity": "Moderate", "violence": "Severe", "profanity": "Severe", "alcohol": "Moderate", "frightening": "Severe"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "165"}}
+{"imdb_id": "tt0253474", "movie_script": "test", "age_rating": "R", "nudity": "None", "violence": "Severe", "profanity": "Mild", "alcohol": "Mild", "frightening": "Severe"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "166"}}
+{"imdb_id": "tt0074119", "movie_script": "test", "age_rating": "None", "nudity": "None", "violence": "None", "profanity": "Moderate", "alcohol": "Mild", "frightening": "Mild"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "167"}}
+{"imdb_id": "tt0317740", "movie_script": "test", "age_rating": "PG-13", "nudity": "Mild", "violence": "Mild", "profanity": "Moderate", "alcohol": "Mild", "frightening": "Mild"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "168"}}
+{"imdb_id": "tt0101410", "movie_script": "test", "age_rating": "R", "nudity": "Mild", "violence": "Moderate", "profanity": "Mild", "alcohol": "Mild", "frightening": "Severe"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "169"}}
+{"imdb_id": "tt0083658", "movie_script": "test", "age_rating": "R", "nudity": "Moderate", "violence": "Moderate", "profanity": "Mild", "alcohol": "Mild", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "170"}}
+{"imdb_id": "tt0073486", "movie_script": "test", "age_rating": "R", "nudity": "Mild", "violence": "Moderate", "profanity": "Severe", "alcohol": "Mild", "frightening": "Severe"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "171"}}
+{"imdb_id": "tt0119567", "movie_script": "test", "age_rating": "PG-13", "nudity": "None", "violence": "Moderate", "profanity": "Mild", "alcohol": "Mild", "frightening": "Severe"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "172"}}
+{"imdb_id": "tt0119081", "movie_script": "test", "age_rating": "R", "nudity": "Moderate", "violence": "Severe", "profanity": "Moderate", "alcohol": "Mild", "frightening": "Severe"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "173"}}
+{"imdb_id": "tt0181875", "movie_script": "test", "age_rating": "R", "nudity": "Mild", "violence": "Mild", "profanity": "Moderate", "alcohol": "Moderate", "frightening": "Mild"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "174"}}
+{"imdb_id": "tt0035423", "movie_script": "test", "age_rating": "PG-13", "nudity": "None", "violence": "None", "profanity": "Mild", "alcohol": "Mild", "frightening": "Mild"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "176"}}
+{"imdb_id": "tt0139654", "movie_script": "test", "age_rating": "R", "nudity": "Moderate", "violence": "Severe", "profanity": "Severe", "alcohol": "Severe", "frightening": "Severe"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "177"}}
+{"imdb_id": "tt0435705", "movie_script": "test", "age_rating": "PG-13", "nudity": "Mild", "violence": "Moderate", "profanity": "Mild", "alcohol": "Mild", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "178"}}
+{"imdb_id": "tt0077651", "movie_script": "test", "age_rating": "R", "nudity": "Moderate", "violence": "Moderate", "profanity": "Mild", "alcohol": "Mild", "frightening": "Severe"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "179"}}
+{"imdb_id": "tt0167260", "movie_script": "test", "age_rating": "PG-13", "nudity": "None", "violence": "Moderate", "profanity": "None", "alcohol": "Mild", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "180"}}
+{"imdb_id": "tt0090605", "movie_script": "test", "age_rating": "R", "nudity": "None", "violence": "Moderate", "profanity": "Moderate", "alcohol": "Mild", "frightening": "Severe"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "181"}}
+{"imdb_id": "tt0208092", "movie_script": "test", "age_rating": "R", "nudity": "Mild", "violence": "Moderate", "profanity": "Severe", "alcohol": "Mild", "frightening": "Mild"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "182"}}
+{"imdb_id": "tt1568346", "movie_script": "test", "age_rating": "R", "nudity": "Severe", "violence": "Severe", "profanity": "Moderate", "alcohol": "Mild", "frightening": "Severe"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "183"}}
+{"imdb_id": "tt1637725", "movie_script": "test", "age_rating": "R", "nudity": "Moderate", "violence": "Mild", "profanity": "Severe", "alcohol": "Severe", "frightening": "None"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "184"}}
+{"imdb_id": "tt1602613", "movie_script": "test", "age_rating": "R", "nudity": "Moderate", "violence": "Severe", "profanity": "Severe", "alcohol": "Moderate", "frightening": "Severe"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "185"}}
+{"imdb_id": "tt0104036", "movie_script": "test", "age_rating": "R", "nudity": "Moderate", "violence": "Moderate", "profanity": "Severe", "alcohol": "Moderate", "frightening": "Severe"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "186"}}
+{"imdb_id": "tt0061418", "movie_script": "test", "age_rating": "R", "nudity": "Mild", "violence": "Moderate", "profanity": "Mild", "alcohol": "Mild", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "187"}}
+{"imdb_id": "tt0129387", "movie_script": "test", "age_rating": "R", "nudity": "Moderate", "violence": "Mild", "profanity": "Moderate", "alcohol": "Mild", "frightening": "None"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "188"}}
+{"imdb_id": "tt0049730", "movie_script": "test", "age_rating": "NR", "nudity": "None", "violence": "Mild", "profanity": "None", "alcohol": "Mild", "frightening": "Mild"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "189"}}
+{"imdb_id": "tt0109686", "movie_script": "test", "age_rating": "None", "nudity": "Moderate", "violence": "Mild", "profanity": "Mild", "alcohol": "Mild", "frightening": "Mild"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "190"}}
+{"imdb_id": "tt0217505", "movie_script": "test", "age_rating": "R", "nudity": "Severe", "violence": "Severe", "profanity": "Moderate", "alcohol": "Moderate", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "191"}}
+{"imdb_id": "tt0945513", "movie_script": "test", "age_rating": "PG-13", "nudity": "None", "violence": "Moderate", "profanity": "Mild", "alcohol": "None", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "192"}}
+{"imdb_id": "tt1615147", "movie_script": "test", "age_rating": "None", "nudity": "None", "violence": "None", "profanity": "Severe", "alcohol": "Mild", "frightening": "None"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "193"}}
+{"imdb_id": "tt0095250", "movie_script": "test", "age_rating": "PG-13", "nudity": "Mild", "violence": "None", "profanity": "Mild", "alcohol": "Mild", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "194"}}
+{"imdb_id": "tt0100802", "movie_script": "test", "age_rating": "R", "nudity": "Moderate", "violence": "Severe", "profanity": "Moderate", "alcohol": "None", "frightening": "Severe"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "195"}}
+{"imdb_id": "tt0824747", "movie_script": "test", "age_rating": "None", "nudity": "Mild", "violence": "Moderate", "profanity": "Mild", "alcohol": "Mild", "frightening": "Severe"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "196"}}
+{"imdb_id": "tt0315327", "movie_script": "test", "age_rating": "PG-13", "nudity": "Moderate", "violence": "Mild", "profanity": "Moderate", "alcohol": "Mild", "frightening": "None"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "197"}}
+{"imdb_id": "tt0091369", "movie_script": "test", "age_rating": "PG", "nudity": "None", "violence": "Mild", "profanity": "Mild", "alcohol": "None", "frightening": "Mild"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "198"}}
+{"imdb_id": "tt1401152", "movie_script": "test", "age_rating": "PG-13", "nudity": "Mild", "violence": "Moderate", "profanity": "Mild", "alcohol": "Mild", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "199"}}
+{"imdb_id": "tt1010048", "movie_script": "test", "age_rating": "R", "nudity": "Mild", "violence": "Moderate", "profanity": "Moderate", "alcohol": "Moderate", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "200"}}
+{"imdb_id": "tt0099423", "movie_script": "test", "age_rating": "None", "nudity": "Mild", "violence": "Severe", "profanity": "Severe", "alcohol": "Mild", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "201"}}
+{"imdb_id": "tt0371724", "movie_script": "test", "age_rating": "PG", "nudity": "None", "violence": "Mild", "profanity": "Mild", "alcohol": "Mild", "frightening": "Mild"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "202"}}
+{"imdb_id": "tt1446714", "movie_script": "test", "age_rating": "R", "nudity": "Mild", "violence": "Severe", "profanity": "Moderate", "alcohol": "Mild", "frightening": "Severe"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "203"}}
+{"imdb_id": "tt1019452", "movie_script": "test", "age_rating": "R", "nudity": "Moderate", "violence": "Mild", "profanity": "Moderate", "alcohol": "Moderate", "frightening": "Mild"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "204"}}
+{"imdb_id": "tt0387564", "movie_script": "test", "age_rating": "R", "nudity": "Mild", "violence": "Severe", "profanity": "Severe", "alcohol": "Mild", "frightening": "Severe"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "205"}}
+{"imdb_id": "tt0107822", "movie_script": "test", "age_rating": "R", "nudity": "Severe", "violence": "Moderate", "profanity": "Mild", "alcohol": "Mild", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "206"}}
+{"imdb_id": "tt1979320", "movie_script": "test", "age_rating": "R", "nudity": "Moderate", "violence": "Moderate", "profanity": "Moderate", "alcohol": "Moderate", "frightening": "Mild"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "207"}}
+{"imdb_id": "tt1032755", "movie_script": "test", "age_rating": "R", "nudity": "Mild", "violence": "Severe", "profanity": "Severe", "alcohol": "Moderate", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "208"}}
+{"imdb_id": "tt0137523", "movie_script": "test", "age_rating": "None", "nudity": "Moderate", "violence": "Severe", "profanity": "Severe", "alcohol": "Moderate", "frightening": "Severe"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "209"}}
+{"imdb_id": "tt0361748", "movie_script": "test", "age_rating": "R", "nudity": "Mild", "violence": "Severe", "profanity": "Severe", "alcohol": "Mild", "frightening": "Severe"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "210"}}
+{"imdb_id": "tt2488496", "movie_script": "test", "age_rating": "PG-13", "nudity": "None", "violence": "Moderate", "profanity": "Mild", "alcohol": "None", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "211"}}
+{"imdb_id": "tt0124315", "movie_script": "test", "age_rating": "PG-13", "nudity": "Moderate", "violence": "Mild", "profanity": "Mild", "alcohol": "Moderate", "frightening": "Mild"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "212"}}
+{"imdb_id": "tt0219822", "movie_script": "test", "age_rating": "R", "nudity": "Moderate", "violence": "Mild", "profanity": "Mild", "alcohol": "Mild", "frightening": "Mild"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "213"}}
+{"imdb_id": "tt1454468", "movie_script": "test", "age_rating": "PG-13", "nudity": "None", "violence": "Moderate", "profanity": "Moderate", "alcohol": "None", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "214"}}
+{"imdb_id": "tt0119349", "movie_script": "test", "age_rating": "None", "nudity": "Moderate", "violence": "Mild", "profanity": "Mild", "alcohol": "Moderate", "frightening": "Mild"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "215"}}
+{"imdb_id": "tt0092991", "movie_script": "test", "age_rating": "R", "nudity": "Mild", "violence": "Severe", "profanity": "Moderate", "alcohol": "None", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "216"}}
+{"imdb_id": "tt0976051", "movie_script": "test", "age_rating": "R", "nudity": "Severe", "violence": "None", "profanity": "Mild", "alcohol": "Mild", "frightening": "Mild"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "217"}}
+{"imdb_id": "tt0421715", "movie_script": "test", "age_rating": "PG-13", "nudity": "Moderate", "violence": "Mild", "profanity": "Mild", "alcohol": "Mild", "frightening": "Mild"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "218"}}
+{"imdb_id": "tt0122933", "movie_script": "test", "age_rating": "R", "nudity": "Mild", "violence": "Mild", "profanity": "Severe", "alcohol": "Mild", "frightening": "None"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "219"}}
+{"imdb_id": "tt0120804", "movie_script": "test", "age_rating": "R", "nudity": "Mild", "violence": "Severe", "profanity": "Moderate", "alcohol": "None", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "220"}}
+{"imdb_id": "tt0075148", "movie_script": "test", "age_rating": "PG", "nudity": "Mild", "violence": "Moderate", "profanity": "Mild", "alcohol": "Mild", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "221"}}
+{"imdb_id": "tt0063442", "movie_script": "test", "age_rating": "G", "nudity": "Mild", "violence": "Moderate", "profanity": "Mild", "alcohol": "Mild", "frightening": "Mild"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "222"}}
+{"imdb_id": "tt0913425", "movie_script": "test", "age_rating": "None", "nudity": "Moderate", "violence": "Moderate", "profanity": "Mild", "alcohol": "Mild", "frightening": "Mild"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "223"}}
+{"imdb_id": "tt1591095", "movie_script": "test", "age_rating": "PG-13", "nudity": "None", "violence": "Moderate", "profanity": "Mild", "alcohol": "None", "frightening": "Severe"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "224"}}
+{"imdb_id": "tt1037705", "movie_script": "test", "age_rating": "R", "nudity": "Mild", "violence": "Severe", "profanity": "Moderate", "alcohol": "Mild", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "225"}}
+{"imdb_id": "tt0118571", "movie_script": "test", "age_rating": "R", "nudity": "None", "violence": "Moderate", "profanity": "Moderate", "alcohol": "Mild", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "226"}}
+{"imdb_id": "tt0076759", "movie_script": "test", "age_rating": "None", "nudity": "None", "violence": "Mild", "profanity": "None", "alcohol": "Mild", "frightening": "Mild"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "227"}}
+{"imdb_id": "tt0808151", "movie_script": "test", "age_rating": "PG-13", "nudity": "None", "violence": "Severe", "profanity": "Mild", "alcohol": "Mild", "frightening": "Severe"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "228"}}
+{"imdb_id": "tt0163025", "movie_script": "test", "age_rating": "PG-13", "nudity": "None", "violence": "Moderate", "profanity": "Mild", "alcohol": "Mild", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "229"}}
+{"imdb_id": "tt0120660", "movie_script": "test", "age_rating": "R", "nudity": "Mild", "violence": "Moderate", "profanity": "Severe", "alcohol": "Mild", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "230"}}
+{"imdb_id": "tt0113277", "movie_script": "test", "age_rating": "R", "nudity": "Mild", "violence": "Severe", "profanity": "Severe", "alcohol": "Mild", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "231"}}
+{"imdb_id": "tt0091042", "movie_script": "test", "age_rating": "PG-13", "nudity": "Mild", "violence": "Mild", "profanity": "Moderate", "alcohol": "Mild", "frightening": "None"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "232"}}
+{"imdb_id": "tt0097216", "movie_script": "test", "age_rating": "R", "nudity": "Moderate", "violence": "Moderate", "profanity": "Severe", "alcohol": "Mild", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "233"}}
+{"imdb_id": "tt0120735", "movie_script": "test", "age_rating": "R", "nudity": "Moderate", "violence": "Severe", "profanity": "Severe", "alcohol": "Moderate", "frightening": "Mild"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "234"}}
+{"imdb_id": "tt0171363", "movie_script": "test", "age_rating": "None", "nudity": "None", "violence": "Moderate", "profanity": "Mild", "alcohol": "None", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "235"}}
+{"imdb_id": "tt0119488", "movie_script": "test", "age_rating": "R", "nudity": "Moderate", "violence": "Severe", "profanity": "Severe", "alcohol": "Moderate", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "236"}}
+{"imdb_id": "tt0335266", "movie_script": "test", "age_rating": "R", "nudity": "Moderate", "violence": "None", "profanity": "Mild", "alcohol": "Mild", "frightening": "None"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "237"}}
+{"imdb_id": "tt0080339", "movie_script": "test", "age_rating": "PG", "nudity": "Moderate", "violence": "Mild", "profanity": "Mild", "alcohol": "Mild", "frightening": "None"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "238"}}
+{"imdb_id": "tt0052357", "movie_script": "test", "age_rating": "PG", "nudity": "Mild", "violence": "Mild", "profanity": "None", "alcohol": "Mild", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "239"}}
+{"imdb_id": "tt0097428", "movie_script": "test", "age_rating": "PG", "nudity": "Mild", "violence": "Mild", "profanity": "Mild", "alcohol": "Mild", "frightening": "Mild"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "240"}}
+{"imdb_id": "tt0113253", "movie_script": "test", "age_rating": "R", "nudity": "Mild", "violence": "Severe", "profanity": "Moderate", "alcohol": "Mild", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "241"}}
+{"imdb_id": "tt0077405", "movie_script": "test", "age_rating": "PG", "nudity": "None", "violence": "Mild", "profanity": "Mild", "alcohol": "Mild", "frightening": "Mild"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "242"}}
+{"imdb_id": "tt1027718", "movie_script": "test", "age_rating": "PG-13", "nudity": "Mild", "violence": "Mild", "profanity": "Moderate", "alcohol": "Mild", "frightening": "Mild"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "243"}}
+{"imdb_id": "tt0134119", "movie_script": "test", "age_rating": "R", "nudity": "Mild", "violence": "Moderate", "profanity": "Mild", "alcohol": "Mild", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "244"}}
+{"imdb_id": "tt0253754", "movie_script": "test", "age_rating": "PG-13", "nudity": "Mild", "violence": "Moderate", "profanity": "Mild", "alcohol": "Mild", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "245"}}
+{"imdb_id": "tt0261392", "movie_script": "test", "age_rating": "R", "nudity": "Moderate", "violence": "Mild", "profanity": "Severe", "alcohol": "Moderate", "frightening": "None"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "246"}}
+{"imdb_id": "tt0887883", "movie_script": "test", "age_rating": "R", "nudity": "Moderate", "violence": "Moderate", "profanity": "Severe", "alcohol": "Mild", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "247"}}
+{"imdb_id": "tt0443272", "movie_script": "test", "age_rating": "PG-13", "nudity": "None", "violence": "Moderate", "profanity": "Moderate", "alcohol": "Mild", "frightening": "Mild"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "248"}}
+{"imdb_id": "tt0387877", "movie_script": "test", "age_rating": "R", "nudity": "Moderate", "violence": "Severe", "profanity": "Severe", "alcohol": "Mild", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "249"}}
+{"imdb_id": "tt0162346", "movie_script": "test", "age_rating": "None", "nudity": "Mild", "violence": "None", "profanity": "Moderate", "alcohol": "Mild", "frightening": "None"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "250"}}
+{"imdb_id": "tt1411238", "movie_script": "test", "age_rating": "R", "nudity": "Moderate", "violence": "Mild", "profanity": "Moderate", "alcohol": "Mild", "frightening": "None"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "251"}}
+{"imdb_id": "tt0088993", "movie_script": "test", "age_rating": "NR", "nudity": "None", "violence": "Severe", "profanity": "Severe", "alcohol": "Mild", "frightening": "Severe"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "252"}}
+{"imdb_id": "tt1041829", "movie_script": "test", "age_rating": "PG-13", "nudity": "Moderate", "violence": "Mild", "profanity": "Mild", "alcohol": "Mild", "frightening": "None"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "253"}}
+{"imdb_id": "tt0066026", "movie_script": "test", "age_rating": "R", "nudity": "Moderate", "violence": "Moderate", "profanity": "Mild", "alcohol": "Mild", "frightening": "Mild"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "254"}}
+{"imdb_id": "tt0985694", "movie_script": "test", "age_rating": "R", "nudity": "Moderate", "violence": "Severe", "profanity": "Severe", "alcohol": "Mild", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "255"}}
+{"imdb_id": "tt0111280", "movie_script": "test", "age_rating": "PG", "nudity": "None", "violence": "Mild", "profanity": "Mild", "alcohol": "None", "frightening": "Mild"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "256"}}
+{"imdb_id": "tt0120669", "movie_script": "test", "age_rating": "R", "nudity": "Mild", "violence": "Mild", "profanity": "Severe", "alcohol": "Severe", "frightening": "Severe"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "257"}}
+{"imdb_id": "tt0862846", "movie_script": "test", "age_rating": "R", "nudity": "Moderate", "violence": "Moderate", "profanity": "Moderate", "alcohol": "Mild", "frightening": "Mild"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "258"}}
+{"imdb_id": "tt0093565", "movie_script": "test", "age_rating": "PG", "nudity": "Mild", "violence": "None", "profanity": "Mild", "alcohol": "Mild", "frightening": "None"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "259"}}
+{"imdb_id": "tt0087469", "movie_script": "test", "age_rating": "PG", "nudity": "Mild", "violence": "Severe", "profanity": "Mild", "alcohol": "Mild", "frightening": "Severe"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "260"}}
+{"imdb_id": "tt0116922", "movie_script": "test", "age_rating": "None", "nudity": "Severe", "violence": "Severe", "profanity": "Moderate", "alcohol": "Mild", "frightening": "Severe"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "261"}}
+{"imdb_id": "tt1659337", "movie_script": "test", "age_rating": "None", "nudity": "Mild", "violence": "Mild", "profanity": "Moderate", "alcohol": "Moderate", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "262"}}
+{"imdb_id": "tt0102492", "movie_script": "test", "age_rating": "PG", "nudity": "Mild", "violence": "Mild", "profanity": "Mild", "alcohol": "Mild", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "263"}}
+{"imdb_id": "tt0086879", "movie_script": "test", "age_rating": "None", "nudity": "Moderate", "violence": "Mild", "profanity": "Mild", "alcohol": "Moderate", "frightening": "Mild"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "264"}}
+{"imdb_id": "tt0116629", "movie_script": "test", "age_rating": "PG-13", "nudity": "Mild", "violence": "Moderate", "profanity": "Mild", "alcohol": "Mild", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "265"}}
+{"imdb_id": "tt0144084", "movie_script": "test", "age_rating": "R", "nudity": "Severe", "violence": "Severe", "profanity": "Severe", "alcohol": "Severe", "frightening": "Severe"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "266"}}
+{"imdb_id": "tt0758758", "movie_script": "test", "age_rating": "R", "nudity": "Moderate", "violence": "Mild", "profanity": "Moderate", "alcohol": "Mild", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "267"}}
+{"imdb_id": "tt0118883", "movie_script": "test", "age_rating": "R", "nudity": "None", "violence": "Moderate", "profanity": "Mild", "alcohol": "Mild", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "268"}}
+{"imdb_id": "tt0119116", "movie_script": "test", "age_rating": "PG-13", "nudity": "Moderate", "violence": "Mild", "profanity": "Mild", "alcohol": "Mild", "frightening": "Mild"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "269"}}
+{"imdb_id": "tt0393109", "movie_script": "test", "age_rating": "None", "nudity": "None", "violence": "Moderate", "profanity": "Mild", "alcohol": "Moderate", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "270"}}
+{"imdb_id": "tt0160127", "movie_script": "test", "age_rating": "PG-13", "nudity": "Mild", "violence": "Moderate", "profanity": "Mild", "alcohol": "Mild", "frightening": "Mild"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "271"}}
+{"imdb_id": "tt0408236", "movie_script": "test", "age_rating": "R", "nudity": "Mild", "violence": "Severe", "profanity": "Mild", "alcohol": "Mild", "frightening": "Severe"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "272"}}
+{"imdb_id": "tt0119008", "movie_script": "test", "age_rating": "None", "nudity": "Mild", "violence": "Severe", "profanity": "Severe", "alcohol": "Moderate", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "273"}}
+{"imdb_id": "tt0107507", "movie_script": "test", "age_rating": "None", "nudity": "None", "violence": "Mild", "profanity": "None", "alcohol": "Mild", "frightening": "Mild"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "274"}}
+{"imdb_id": "tt0143145", "movie_script": "test", "age_rating": "PG-13", "nudity": "Moderate", "violence": "Moderate", "profanity": "Mild", "alcohol": "Mild", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "275"}}
+{"imdb_id": "tt0118929", "movie_script": "test", "age_rating": "R", "nudity": "Moderate", "violence": "Moderate", "profanity": "None", "alcohol": "Mild", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "276"}}
+{"imdb_id": "tt1217613", "movie_script": "test", "age_rating": "PG-13", "nudity": "None", "violence": "Moderate", "profanity": "Moderate", "alcohol": "Mild", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "277"}}
+{"imdb_id": "tt1124035", "movie_script": "test", "age_rating": "R", "nudity": "Mild", "violence": "None", "profanity": "Severe", "alcohol": "Mild", "frightening": "Mild"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "278"}}
+{"imdb_id": "tt0083929", "movie_script": "test", "age_rating": "R", "nudity": "Moderate", "violence": "Mild", "profanity": "Moderate", "alcohol": "Moderate", "frightening": "None"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "279"}}
+{"imdb_id": "tt0072684", "movie_script": "test", "age_rating": "PG", "nudity": "Moderate", "violence": "Moderate", "profanity": "None", "alcohol": "Mild", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "280"}}
+{"imdb_id": "tt0068646", "movie_script": "test", "age_rating": "R", "nudity": "Moderate", "violence": "Severe", "profanity": "Moderate", "alcohol": "Mild", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "281"}}
+{"imdb_id": "tt0414387", "movie_script": "test", "age_rating": "PG", "nudity": "None", "violence": "None", "profanity": "None", "alcohol": "None", "frightening": "None"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "282"}}
+{"imdb_id": "tt0084726", "movie_script": "test", "age_rating": "PG", "nudity": "None", "violence": "Moderate", "profanity": "Mild", "alcohol": "Mild", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "283"}}
+{"imdb_id": "tt0105695", "movie_script": "test", "age_rating": "R", "nudity": "Mild", "violence": "Moderate", "profanity": "Moderate", "alcohol": "Mild", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "284"}}
+{"imdb_id": "tt0103855", "movie_script": "test", "age_rating": "None", "nudity": "Mild", "violence": "Moderate", "profanity": "Moderate", "alcohol": "Mild", "frightening": "Mild"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "285"}}
+{"imdb_id": "tt0139134", "movie_script": "test", "age_rating": "R", "nudity": "Moderate", "violence": "Mild", "profanity": "Moderate", "alcohol": "Moderate", "frightening": "None"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "286"}}
+{"imdb_id": "tt0117060", "movie_script": "test", "age_rating": "PG-13", "nudity": "Mild", "violence": "Moderate", "profanity": "Mild", "alcohol": "Mild", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "287"}}
+{"imdb_id": "tt0117731", "movie_script": "test", "age_rating": "PG-13", "nudity": "Mild", "violence": "Moderate", "profanity": "Mild", "alcohol": "Mild", "frightening": "Mild"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "288"}}
+{"imdb_id": "tt0085794", "movie_script": "test", "age_rating": "PG", "nudity": "Mild", "violence": "Mild", "profanity": "Mild", "alcohol": "Mild", "frightening": "Mild"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "289"}}
+{"imdb_id": "tt0091203", "movie_script": "test", "age_rating": "R", "nudity": "Mild", "violence": "Severe", "profanity": "Mild", "alcohol": "Mild", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "290"}}
+{"imdb_id": "tt0067116", "movie_script": "test", "age_rating": "R", "nudity": "Mild", "violence": "Moderate", "profanity": "Moderate", "alcohol": "Moderate", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "291"}}
+{"imdb_id": "tt0343818", "movie_script": "test", "age_rating": "PG-13", "nudity": "Mild", "violence": "Moderate", "profanity": "Moderate", "alcohol": "Mild", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "292"}}
+{"imdb_id": "tt0120696", "movie_script": "test", "age_rating": "R", "nudity": "None", "violence": "Moderate", "profanity": "Moderate", "alcohol": "None", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "293"}}
+{"imdb_id": "tt0094737", "movie_script": "test", "age_rating": "PG", "nudity": "Mild", "violence": "Mild", "profanity": "Moderate", "alcohol": "Mild", "frightening": "Mild"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "294"}}
+{"imdb_id": "tt1007029", "movie_script": "test", "age_rating": "None", "nudity": "Mild", "violence": "Moderate", "profanity": "Mild", "alcohol": "Mild", "frightening": "Mild"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "295"}}
+{"imdb_id": "tt0186151", "movie_script": "test", "age_rating": "PG-13", "nudity": "None", "violence": "Moderate", "profanity": "Moderate", "alcohol": "Moderate", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "296"}}
+{"imdb_id": "tt0065214", "movie_script": "test", "age_rating": "R", "nudity": "Moderate", "violence": "Severe", "profanity": "Mild", "alcohol": "Mild", "frightening": "Severe"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "297"}}
+{"imdb_id": "tt0103776", "movie_script": "test", "age_rating": "PG-13", "nudity": "Mild", "violence": "Moderate", "profanity": "Mild", "alcohol": "Mild", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "298"}}
+{"imdb_id": "tt0448157", "movie_script": "test", "age_rating": "PG-13", "nudity": "Mild", "violence": "Moderate", "profanity": "Moderate", "alcohol": "Moderate", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "299"}}
+{"imdb_id": "tt0209144", "movie_script": "test", "age_rating": "None", "nudity": "Mild", "violence": "Moderate", "profanity": "Severe", "alcohol": "Mild", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "300"}}
+{"imdb_id": "tt0159365", "movie_script": "test", "age_rating": "R", "nudity": "Severe", "violence": "Severe", "profanity": "Mild", "alcohol": "Mild", "frightening": "Severe"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "301"}}
+{"imdb_id": "tt0258463", "movie_script": "test", "age_rating": "PG-13", "nudity": "Mild", "violence": "Moderate", "profanity": "Moderate", "alcohol": "Mild", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "302"}}
+{"imdb_id": "tt0088944", "movie_script": "test", "age_rating": "R", "nudity": "Mild", "violence": "Severe", "profanity": "Moderate", "alcohol": "Mild", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "303"}}
+{"imdb_id": "tt0090022", "movie_script": "test", "age_rating": "PG-13", "nudity": "None", "violence": "Moderate", "profanity": "Mild", "alcohol": "Mild", "frightening": "Mild"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "304"}}
+{"imdb_id": "tt1284575", "movie_script": "test", "age_rating": "R", "nudity": "Moderate", "violence": "Mild", "profanity": "Severe", "alcohol": "Moderate", "frightening": "None"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "305"}}
+{"imdb_id": "tt0119094", "movie_script": "test", "age_rating": "R", "nudity": "Mild", "violence": "Severe", "profanity": "Severe", "alcohol": "Moderate", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "306"}}
+{"imdb_id": "tt1001508", "movie_script": "test", "age_rating": "PG-13", "nudity": "Moderate", "violence": "None", "profanity": "Mild", "alcohol": "Mild", "frightening": "None"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "307"}}
+{"imdb_id": "tt0268126", "movie_script": "test", "age_rating": "None", "nudity": "Moderate", "violence": "Moderate", "profanity": "Moderate", "alcohol": "Moderate", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "308"}}
+{"imdb_id": "tt0975645", "movie_script": "test", "age_rating": "PG-13", "nudity": "Mild", "violence": "Mild", "profanity": "Mild", "alcohol": "Moderate", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "309"}}
+{"imdb_id": "tt0493464", "movie_script": "test", "age_rating": "R", "nudity": "Moderate", "violence": "Severe", "profanity": "Severe", "alcohol": "Mild", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "310"}}
+{"imdb_id": "tt0096895", "movie_script": "test", "age_rating": "PG-13", "nudity": "Mild", "violence": "Moderate", "profanity": "Mild", "alcohol": "Mild", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "311"}}
+{"imdb_id": "tt0430357", "movie_script": "test", "age_rating": "None", "nudity": "Moderate", "violence": "Severe", "profanity": "Moderate", "alcohol": "Moderate", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "312"}}
+{"imdb_id": "tt0878804", "movie_script": "test", "age_rating": "PG-13", "nudity": "Mild", "violence": "Mild", "profanity": "Mild", "alcohol": "Mild", "frightening": "Mild"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "313"}}
+{"imdb_id": "tt0128445", "movie_script": "test", "age_rating": "None", "nudity": "Mild", "violence": "Mild", "profanity": "Moderate", "alcohol": "Mild", "frightening": "None"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "314"}}
+{"imdb_id": "tt0092099", "movie_script": "test", "age_rating": "PG", "nudity": "Mild", "violence": "Mild", "profanity": "Moderate", "alcohol": "Mild", "frightening": "Mild"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "315"}}
+{"imdb_id": "tt0116367", "movie_script": "test", "age_rating": "R", "nudity": "Moderate", "violence": "Severe", "profanity": "Severe", "alcohol": "Moderate", "frightening": "Severe"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "316"}}
+{"imdb_id": "tt0454841", "movie_script": "test", "age_rating": "R", "nudity": "Moderate", "violence": "Severe", "profanity": "Severe", "alcohol": "Mild", "frightening": "Severe"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "317"}}
+{"imdb_id": "tt0190332", "movie_script": "test", "age_rating": "PG-13", "nudity": "Mild", "violence": "Moderate", "profanity": "Mild", "alcohol": "None", "frightening": "Mild"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "318"}}
+{"imdb_id": "tt0264395", "movie_script": "test", "age_rating": "R", "nudity": "Mild", "violence": "Severe", "profanity": "Severe", "alcohol": "Mild", "frightening": "Mild"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "319"}}
+{"imdb_id": "tt0079417", "movie_script": "test", "age_rating": "PG", "nudity": "Moderate", "violence": "Mild", "profanity": "Mild", "alcohol": "Mild", "frightening": "Mild"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "320"}}
+{"imdb_id": "tt0110074", "movie_script": "test", "age_rating": "PG", "nudity": "None", "violence": "Mild", "profanity": "Mild", "alcohol": "Mild", "frightening": "Mild"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "321"}}
+{"imdb_id": "tt0096446", "movie_script": "test", "age_rating": "PG", "nudity": "None", "violence": "Mild", "profanity": "Mild", "alcohol": "Mild", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "322"}}
+{"imdb_id": "tt0105236", "movie_script": "test", "age_rating": "R", "nudity": "Mild", "violence": "Severe", "profanity": "Severe", "alcohol": "Mild", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "323"}}
+{"imdb_id": "tt0070849", "movie_script": "test", "age_rating": "NC-17", "nudity": "Severe", "violence": "Moderate", "profanity": "Severe", "alcohol": "Mild", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "324"}}
+{"imdb_id": "tt0434409", "movie_script": "test", "age_rating": "None", "nudity": "Mild", "violence": "Severe", "profanity": "Moderate", "alcohol": "Mild", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "325"}}
+{"imdb_id": "tt0108160", "movie_script": "test", "age_rating": "PG", "nudity": "Mild", "violence": "None", "profanity": "Mild", "alcohol": "Mild", "frightening": "None"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "326"}}
+{"imdb_id": "tt0244244", "movie_script": "test", "age_rating": "R", "nudity": "Moderate", "violence": "Moderate", "profanity": "Severe", "alcohol": "Moderate", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "327"}}
+{"imdb_id": "tt1229822", "movie_script": "test", "age_rating": "PG-13", "nudity": "Mild", "violence": "Mild", "profanity": "None", "alcohol": "Mild", "frightening": "Mild"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "328"}}
+{"imdb_id": "tt0115798", "movie_script": "test", "age_rating": "PG-13", "nudity": "Mild", "violence": "Mild", "profanity": "Mild", "alcohol": "Mild", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "329"}}
+{"imdb_id": "tt0101272", "movie_script": "test", "age_rating": "None", "nudity": "Mild", "violence": "Moderate", "profanity": "Mild", "alcohol": "Mild", "frightening": "Mild"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "330"}}
+{"imdb_id": "tt0375063", "movie_script": "test", "age_rating": "R", "nudity": "Moderate", "violence": "Mild", "profanity": "Severe", "alcohol": "Moderate", "frightening": "None"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "331"}}
+{"imdb_id": "tt0409459", "movie_script": "test", "age_rating": "R", "nudity": "Severe", "violence": "Severe", "profanity": "Severe", "alcohol": "Mild", "frightening": "Severe"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "332"}}
+{"imdb_id": "tt0056869", "movie_script": "test", "age_rating": "NR", "nudity": "None", "violence": "Moderate", "profanity": "None", "alcohol": "Mild", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "333"}}
+{"imdb_id": "tt0117666", "movie_script": "test", "age_rating": "None", "nudity": "Mild", "violence": "Mild", "profanity": "Severe", "alcohol": "Moderate", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "334"}}
+{"imdb_id": "tt1193138", "movie_script": "test", "age_rating": "R", "nudity": "Mild", "violence": "None", "profanity": "Moderate", "alcohol": "Mild", "frightening": "None"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "335"}}
+{"imdb_id": "tt0166924", "movie_script": "test", "age_rating": "None", "nudity": "Severe", "violence": "Moderate", "profanity": "Mild", "alcohol": "Mild", "frightening": "Severe"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "336"}}
+{"imdb_id": "tt0195714", "movie_script": "test", "age_rating": "R", "nudity": "Mild", "violence": "Severe", "profanity": "Moderate", "alcohol": "Mild", "frightening": "Severe"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "337"}}
+{"imdb_id": "tt0120616", "movie_script": "test", "age_rating": "None", "nudity": "Mild", "violence": "Moderate", "profanity": "Mild", "alcohol": "Mild", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "338"}}
+{"imdb_id": "tt0145487", "movie_script": "test", "age_rating": "PG-13", "nudity": "Mild", "violence": "Moderate", "profanity": "Mild", "alcohol": "None", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "339"}}
+{"imdb_id": "tt0054167", "movie_script": "test", "age_rating": "NR", "nudity": "Mild", "violence": "Mild", "profanity": "Mild", "alcohol": "Mild", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "340"}}
+{"imdb_id": "tt0338013", "movie_script": "test", "age_rating": "R", "nudity": "Mild", "violence": "Mild", "profanity": "Moderate", "alcohol": "Mild", "frightening": "Mild"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "341"}}
+{"imdb_id": "tt0190590", "movie_script": "test", "age_rating": "PG-13", "nudity": "Mild", "violence": "Mild", "profanity": "Mild", "alcohol": "Mild", "frightening": "Mild"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "342"}}
+{"imdb_id": "tt0988045", "movie_script": "test", "age_rating": "PG-13", "nudity": "Mild", "violence": "Moderate", "profanity": "Mild", "alcohol": "Mild", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "343"}}
+{"imdb_id": "tt0097576", "movie_script": "test", "age_rating": "PG-13", "nudity": "Mild", "violence": "Moderate", "profanity": "Mild", "alcohol": "Mild", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "344"}}
+{"imdb_id": "tt0114558", "movie_script": "test", "age_rating": "None", "nudity": "Moderate", "violence": "Severe", "profanity": "Severe", "alcohol": "Moderate", "frightening": "Severe"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "345"}}
+{"imdb_id": "tt0234215", "movie_script": "test", "age_rating": "None", "nudity": "Moderate", "violence": "Moderate", "profanity": "Moderate", "alcohol": "Mild", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "346"}}
+{"imdb_id": "tt0120667", "movie_script": "test", "age_rating": "PG-13", "nudity": "Mild", "violence": "Mild", "profanity": "Mild", "alcohol": "Mild", "frightening": "Mild"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "347"}}
+{"imdb_id": "tt0187393", "movie_script": "test", "age_rating": "R", "nudity": "None", "violence": "Severe", "profanity": "Mild", "alcohol": "Mild", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "348"}}
+{"imdb_id": "tt1907668", "movie_script": "test", "age_rating": "None", "nudity": "Severe", "violence": "Moderate", "profanity": "Severe", "alcohol": "Severe", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "349"}}
+{"imdb_id": "tt0947798", "movie_script": "test", "age_rating": "R", "nudity": "Severe", "violence": "Severe", "profanity": "Moderate", "alcohol": "Moderate", "frightening": "Severe"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "350"}}
+{"imdb_id": "tt0119177", "movie_script": "test", "age_rating": "None", "nudity": "Mild", "violence": "Mild", "profanity": "Mild", "alcohol": "Mild", "frightening": "Mild"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "351"}}
+{"imdb_id": "tt0119738", "movie_script": "test", "age_rating": "PG-13", "nudity": "Mild", "violence": "None", "profanity": "Mild", "alcohol": "Mild", "frightening": "None"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "352"}}
+{"imdb_id": "tt0278504", "movie_script": "test", "age_rating": "None", "nudity": "Mild", "violence": "Moderate", "profanity": "Moderate", "alcohol": "Mild", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "353"}}
+{"imdb_id": "tt0104691", "movie_script": "test", "age_rating": "R", "nudity": "Mild", "violence": "Moderate", "profanity": "None", "alcohol": "None", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "354"}}
+{"imdb_id": "tt1084950", "movie_script": "test", "age_rating": "R", "nudity": "Mild", "violence": "Mild", "profanity": "Moderate", "alcohol": "Moderate", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "355"}}
+{"imdb_id": "tt0217869", "movie_script": "test", "age_rating": "PG-13", "nudity": "Mild", "violence": "Moderate", "profanity": "Mild", "alcohol": "Mild", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "356"}}
+{"imdb_id": "tt0101393", "movie_script": "test", "age_rating": "R", "nudity": "Moderate", "violence": "Moderate", "profanity": "Moderate", "alcohol": "Mild", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "357"}}
+{"imdb_id": "tt0077402", "movie_script": "test", "age_rating": "NR", "nudity": "Mild", "violence": "Severe", "profanity": "Moderate", "alcohol": "Mild", "frightening": "Severe"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "358"}}
+{"imdb_id": "tt0351977", "movie_script": "test", "age_rating": "PG-13", "nudity": "Mild", "violence": "Moderate", "profanity": "Moderate", "alcohol": "Mild", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "359"}}
+{"imdb_id": "tt0765429", "movie_script": "test", "age_rating": "R", "nudity": "Moderate", "violence": "Severe", "profanity": "Severe", "alcohol": "Severe", "frightening": "Severe"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "360"}}
+{"imdb_id": "tt0048545", "movie_script": "test", "age_rating": "PG-13", "nudity": "None", "violence": "Moderate", "profanity": "None", "alcohol": "Mild", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "361"}}
+{"imdb_id": "tt0093748", "movie_script": "test", "age_rating": "R", "nudity": "Mild", "violence": "None", "profanity": "Moderate", "alcohol": "Mild", "frightening": "None"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "362"}}
+{"imdb_id": "tt0092699", "movie_script": "test", "age_rating": "R", "nudity": "Mild", "violence": "Mild", "profanity": "Moderate", "alcohol": "Mild", "frightening": "Mild"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "363"}}
+{"imdb_id": "tt0167261", "movie_script": "test", "age_rating": "PG-13", "nudity": "None", "violence": "Moderate", "profanity": "None", "alcohol": "Mild", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "364"}}
+{"imdb_id": "tt1318514", "movie_script": "test", "age_rating": "None", "nudity": "None", "violence": "Moderate", "profanity": "Mild", "alcohol": "Mild", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "365"}}
+{"imdb_id": "tt0083907", "movie_script": "test", "age_rating": "NC-17", "nudity": "Moderate", "violence": "Severe", "profanity": "Mild", "alcohol": "Mild", "frightening": "Severe"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "366"}}
+{"imdb_id": "tt0467200", "movie_script": "test", "age_rating": "PG-13", "nudity": "Moderate", "violence": "Moderate", "profanity": "Mild", "alcohol": "Mild", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "367"}}
+{"imdb_id": "tt0121765", "movie_script": "test", "age_rating": "PG", "nudity": "Mild", "violence": "Moderate", "profanity": "None", "alcohol": "Mild", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "368"}}
+{"imdb_id": "tt0142688", "movie_script": "test", "age_rating": "R", "nudity": "Moderate", "violence": "Moderate", "profanity": "Mild", "alcohol": "Mild", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "369"}}
+{"imdb_id": "tt1282140", "movie_script": "test", "age_rating": "PG-13", "nudity": "Moderate", "violence": "Mild", "profanity": "Moderate", "alcohol": "Mild", "frightening": "None"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "370"}}
+{"imdb_id": "tt0101889", "movie_script": "test", "age_rating": "R", "nudity": "Mild", "violence": "Moderate", "profanity": "Severe", "alcohol": "Mild", "frightening": "Severe"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "371"}}
+{"imdb_id": "tt0477348", "movie_script": "test", "age_rating": "R", "nudity": "None", "violence": "Severe", "profanity": "Mild", "alcohol": "Mild", "frightening": "Severe"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "372"}}
+{"imdb_id": "tt0038650", "movie_script": "test", "age_rating": "PG", "nudity": "None", "violence": "Mild", "profanity": "None", "alcohol": "Mild", "frightening": "Mild"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "373"}}
+{"imdb_id": "tt1781769", "movie_script": "test", "age_rating": "R", "nudity": "Moderate", "violence": "Moderate", "profanity": "Mild", "alcohol": "Mild", "frightening": "Mild"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "374"}}
+{"imdb_id": "tt0100157", "movie_script": "test", "age_rating": "R", "nudity": "None", "violence": "Severe", "profanity": "Moderate", "alcohol": "Mild", "frightening": "Severe"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "375"}}
+{"imdb_id": "tt0281358", "movie_script": "test", "age_rating": "None", "nudity": "Mild", "violence": "Mild", "profanity": "Mild", "alcohol": "Mild", "frightening": "Mild"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "376"}}
+{"imdb_id": "tt0120885", "movie_script": "test", "age_rating": "R", "nudity": "Mild", "violence": "Mild", "profanity": "Moderate", "alcohol": "Mild", "frightening": "Mild"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "377"}}
+{"imdb_id": "tt0414055", "movie_script": "test", "age_rating": "PG-13", "nudity": "Mild", "violence": "Mild", "profanity": "Mild", "alcohol": "Mild", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "378"}}
+{"imdb_id": "tt0118655", "movie_script": "test", "age_rating": "PG-13", "nudity": "Moderate", "violence": "Mild", "profanity": "Mild", "alcohol": "Mild", "frightening": "None"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "379"}}
+{"imdb_id": "tt1054606", "movie_script": "test", "age_rating": "PG-13", "nudity": "Mild", "violence": "Moderate", "profanity": "Mild", "alcohol": "Mild", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "380"}}
+{"imdb_id": "tt0099685", "movie_script": "test", "age_rating": "R", "nudity": "Mild", "violence": "Severe", "profanity": "Severe", "alcohol": "Severe", "frightening": "Severe"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "381"}}
+{"imdb_id": "tt0118636", "movie_script": "test", "age_rating": "None", "nudity": "Mild", "violence": "Moderate", "profanity": "Mild", "alcohol": "Mild", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "382"}}
+{"imdb_id": "tt0103074", "movie_script": "test", "age_rating": "R", "nudity": "Moderate", "violence": "Moderate", "profanity": "Moderate", "alcohol": "Moderate", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "383"}}
+{"imdb_id": "tt0395699", "movie_script": "test", "age_rating": "PG", "nudity": "None", "violence": "Mild", "profanity": "Mild", "alcohol": "None", "frightening": "Mild"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "384"}}
+{"imdb_id": "tt0974661", "movie_script": "test", "age_rating": "PG-13", "nudity": "Moderate", "violence": "Mild", "profanity": "Mild", "alcohol": "Mild", "frightening": "None"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "385"}}
+{"imdb_id": "tt0118548", "movie_script": "test", "age_rating": "R", "nudity": "Moderate", "violence": "Moderate", "profanity": "Moderate", "alcohol": "Mild", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "386"}}
+{"imdb_id": "tt0087332", "movie_script": "test", "age_rating": "PG", "nudity": "Mild", "violence": "Mild", "profanity": "Mild", "alcohol": "Mild", "frightening": "Mild"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "387"}}
+{"imdb_id": "tt0091738", "movie_script": "test", "age_rating": "PG-13", "nudity": "Mild", "violence": "None", "profanity": "Mild", "alcohol": "Moderate", "frightening": "None"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "388"}}
+{"imdb_id": "tt0289879", "movie_script": "test", "age_rating": "None", "nudity": "Moderate", "violence": "Severe", "profanity": "Severe", "alcohol": "Moderate", "frightening": "Severe"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "389"}}
+{"imdb_id": "tt0115964", "movie_script": "test", "age_rating": "NC-17", "nudity": "Severe", "violence": "Severe", "profanity": "Severe", "alcohol": "Mild", "frightening": "Severe"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "390"}}
+{"imdb_id": "tt0212985", "movie_script": "test", "age_rating": "R", "nudity": "Mild", "violence": "Severe", "profanity": "Mild", "alcohol": "Moderate", "frightening": "Severe"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "391"}}
+{"imdb_id": "tt0288477", "movie_script": "test", "age_rating": "R", "nudity": "Mild", "violence": "Severe", "profanity": "Severe", "alcohol": "Mild", "frightening": "Severe"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "392"}}
+{"imdb_id": "tt1219289", "movie_script": "test", "age_rating": "PG-13", "nudity": "Moderate", "violence": "Moderate", "profanity": "Moderate", "alcohol": "Severe", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "393"}}
+{"imdb_id": "tt0240772", "movie_script": "test", "age_rating": "PG-13", "nudity": "Mild", "violence": "Mild", "profanity": "Moderate", "alcohol": "Mild", "frightening": "Mild"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "394"}}
+{"imdb_id": "tt0120755", "movie_script": "test", "age_rating": "None", "nudity": "Mild", "violence": "Moderate", "profanity": "Mild", "alcohol": "Mild", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "395"}}
+{"imdb_id": "tt0120655", "movie_script": "test", "age_rating": "R", "nudity": "Moderate", "violence": "Severe", "profanity": "Severe", "alcohol": "Moderate", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "396"}}
+{"imdb_id": "tt0100405", "movie_script": "test", "age_rating": "R", "nudity": "Moderate", "violence": "Mild", "profanity": "Moderate", "alcohol": "Mild", "frightening": "Mild"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "397"}}
+{"imdb_id": "tt0829482", "movie_script": "test", "age_rating": "R", "nudity": "Moderate", "violence": "Mild", "profanity": "Severe", "alcohol": "Severe", "frightening": "None"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "398"}}
+{"imdb_id": "tt0069762", "movie_script": "test", "age_rating": "PG", "nudity": "Mild", "violence": "Moderate", "profanity": "Mild", "alcohol": "Mild", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "399"}}
+{"imdb_id": "tt0120915", "movie_script": "test", "age_rating": "PG", "nudity": "None", "violence": "Mild", "profanity": "None", "alcohol": "None", "frightening": "Mild"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "400"}}
+{"imdb_id": "tt0120815", "movie_script": "test", "age_rating": "R", "nudity": "None", "violence": "Severe", "profanity": "Moderate", "alcohol": "Mild", "frightening": "Severe"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "401"}}
+{"imdb_id": "tt0104257", "movie_script": "test", "age_rating": "R", "nudity": "None", "violence": "Mild", "profanity": "Moderate", "alcohol": "Mild", "frightening": "Mild"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "402"}}
+{"imdb_id": "tt0137494", "movie_script": "test", "age_rating": "PG-13", "nudity": "Mild", "violence": "Mild", "profanity": "Moderate", "alcohol": "Mild", "frightening": "Mild"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "403"}}
+{"imdb_id": "tt0115759", "movie_script": "test", "age_rating": "R", "nudity": "None", "violence": "Moderate", "profanity": "Moderate", "alcohol": "Mild", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "404"}}
+{"imdb_id": "tt1300851", "movie_script": "test", "age_rating": "R", "nudity": "Mild", "violence": "Severe", "profanity": "Severe", "alcohol": "Mild", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "405"}}
+{"imdb_id": "tt1045772", "movie_script": "test", "age_rating": "R", "nudity": "Moderate", "violence": "Moderate", "profanity": "Severe", "alcohol": "Mild", "frightening": "Mild"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "406"}}
+{"imdb_id": "tt0116282", "movie_script": "test", "age_rating": "R", "nudity": "Moderate", "violence": "Severe", "profanity": "Severe", "alcohol": "Mild", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "407"}}
+{"imdb_id": "tt1403865", "movie_script": "test", "age_rating": "None", "nudity": "None", "violence": "Moderate", "profanity": "Mild", "alcohol": "Mild", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "408"}}
+{"imdb_id": "tt0286106", "movie_script": "test", "age_rating": "PG-13", "nudity": "None", "violence": "Moderate", "profanity": "Mild", "alcohol": "Mild", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "409"}}
+{"imdb_id": "tt0213149", "movie_script": "test", "age_rating": "PG-13", "nudity": "Mild", "violence": "Severe", "profanity": "Moderate", "alcohol": "Mild", "frightening": "Severe"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "410"}}
+{"imdb_id": "tt0180073", "movie_script": "test", "age_rating": "R", "nudity": "Severe", "violence": "Severe", "profanity": "Severe", "alcohol": "Mild", "frightening": "Severe"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "411"}}
+{"imdb_id": "tt0977855", "movie_script": "test", "age_rating": "PG-13", "nudity": "None", "violence": "Mild", "profanity": "Moderate", "alcohol": "Mild", "frightening": "Mild"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "412"}}
+{"imdb_id": "tt0986263", "movie_script": "test", "age_rating": "PG-13", "nudity": "Mild", "violence": "Moderate", "profanity": "Mild", "alcohol": "Mild", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "413"}}
+{"imdb_id": "tt0073440", "movie_script": "test", "age_rating": "R", "nudity": "Moderate", "violence": "Mild", "profanity": "Moderate", "alcohol": "Moderate", "frightening": "Mild"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "414"}}
+{"imdb_id": "tt1104001", "movie_script": "test", "age_rating": "PG", "nudity": "None", "violence": "Mild", "profanity": "Mild", "alcohol": "Mild", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "415"}}
+{"imdb_id": "tt0108330", "movie_script": "test", "age_rating": "R", "nudity": "Mild", "violence": "Moderate", "profanity": "Severe", "alcohol": "Moderate", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "416"}}
+{"imdb_id": "tt1099212", "movie_script": "test", "age_rating": "PG-13", "nudity": "Mild", "violence": "Moderate", "profanity": "Mild", "alcohol": "None", "frightening": "Mild"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "417"}}
+{"imdb_id": "tt0102926", "movie_script": "test", "age_rating": "R", "nudity": "Moderate", "violence": "Severe", "profanity": "Moderate", "alcohol": "None", "frightening": "Severe"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "418"}}
+{"imdb_id": "tt1045658", "movie_script": "test", "age_rating": "R", "nudity": "Mild", "violence": "Mild", "profanity": "Severe", "alcohol": "Mild", "frightening": "Mild"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "419"}}
+{"imdb_id": "tt0379786", "movie_script": "test", "age_rating": "None", "nudity": "Mild", "violence": "Moderate", "profanity": "Mild", "alcohol": "Mild", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "420"}}
+{"imdb_id": "tt0248667", "movie_script": "test", "age_rating": "R", "nudity": "Mild", "violence": "Moderate", "profanity": "Moderate", "alcohol": "Mild", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "421"}}
+{"imdb_id": "tt0120738", "movie_script": "test", "age_rating": "PG-13", "nudity": "None", "violence": "Mild", "profanity": "Mild", "alcohol": "None", "frightening": "Mild"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "422"}}
+{"imdb_id": "tt1560747", "movie_script": "test", "age_rating": "R", "nudity": "Severe", "violence": "Mild", "profanity": "Severe", "alcohol": "Severe", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "423"}}
+{"imdb_id": "tt0061722", "movie_script": "test", "age_rating": "PG", "nudity": "Moderate", "violence": "Mild", "profanity": "Mild", "alcohol": "Mild", "frightening": "Mild"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "424"}}
+{"imdb_id": "tt0120591", "movie_script": "test", "age_rating": "PG-13", "nudity": "Mild", "violence": "Moderate", "profanity": "Moderate", "alcohol": "Mild", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "425"}}
+{"imdb_id": "tt0479884", "movie_script": "test", "age_rating": "R", "nudity": "Severe", "violence": "Severe", "profanity": "Severe", "alcohol": "Severe", "frightening": "Severe"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "426"}}
+{"imdb_id": "tt0822832", "movie_script": "test", "age_rating": "PG", "nudity": "Mild", "violence": "Mild", "profanity": "Mild", "alcohol": "None", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "427"}}
+{"imdb_id": "tt0083987", "movie_script": "test", "age_rating": "PG", "nudity": "None", "violence": "Moderate", "profanity": "Mild", "alcohol": "None", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "428"}}
+{"imdb_id": "tt1120985", "movie_script": "test", "age_rating": "None", "nudity": "Severe", "violence": "Moderate", "profanity": "Severe", "alcohol": "Moderate", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "429"}}
+{"imdb_id": "tt0104797", "movie_script": "test", "age_rating": "PG-13", "nudity": "Mild", "violence": "Moderate", "profanity": "Moderate", "alcohol": "Mild", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "430"}}
+{"imdb_id": "tt1046173", "movie_script": "test", "age_rating": "PG-13", "nudity": "None", "violence": "Moderate", "profanity": "Mild", "alcohol": "Mild", "frightening": "Mild"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "431"}}
+{"imdb_id": "tt0099810", "movie_script": "test", "age_rating": "PG-13", "nudity": "None", "violence": "Mild", "profanity": "Mild", "alcohol": "Mild", "frightening": "Mild"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "432"}}
+{"imdb_id": "tt0175880", "movie_script": "test", "age_rating": "R", "nudity": "Moderate", "violence": "Moderate", "profanity": "Severe", "alcohol": "Severe", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "433"}}
+{"imdb_id": "tt1478338", "movie_script": "test", "age_rating": "None", "nudity": "Moderate", "violence": "Mild", "profanity": "Severe", "alcohol": "Mild", "frightening": "None"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "434"}}
+{"imdb_id": "tt0070379", "movie_script": "test", "age_rating": "None", "nudity": "Moderate", "violence": "Moderate", "profanity": "Severe", "alcohol": "Moderate", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "435"}}
+{"imdb_id": "tt0115734", "movie_script": "test", "age_rating": "R", "nudity": "Mild", "violence": "Mild", "profanity": "Moderate", "alcohol": "Mild", "frightening": "None"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "436"}}
+{"imdb_id": "tt0076729", "movie_script": "test", "age_rating": "PG", "nudity": "Mild", "violence": "Mild", "profanity": "Moderate", "alcohol": "Mild", "frightening": "None"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "437"}}
+{"imdb_id": "tt1125849", "movie_script": "test", "age_rating": "R", "nudity": "Moderate", "violence": "Severe", "profanity": "Moderate", "alcohol": "Moderate", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "438"}}
+{"imdb_id": "tt0407887", "movie_script": "test", "age_rating": "R", "nudity": "Moderate", "violence": "Severe", "profanity": "Severe", "alcohol": "Moderate", "frightening": "Severe"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "439"}}
+{"imdb_id": "tt0117500", "movie_script": "test", "age_rating": "R", "nudity": "Mild", "violence": "Moderate", "profanity": "Severe", "alcohol": "Mild", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "440"}}
+{"imdb_id": "tt0091763", "movie_script": "test", "age_rating": "R", "nudity": "Mild", "violence": "Severe", "profanity": "Severe", "alcohol": "Moderate", "frightening": "Severe"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "441"}}
+{"imdb_id": "tt0117571", "movie_script": "test", "age_rating": "R", "nudity": "Mild", "violence": "Severe", "profanity": "Moderate", "alcohol": "Mild", "frightening": "Severe"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "442"}}
+{"imdb_id": "tt0112641", "movie_script": "test", "age_rating": "None", "nudity": "Moderate", "violence": "Severe", "profanity": "Severe", "alcohol": "Moderate", "frightening": "Severe"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "443"}}
+{"imdb_id": "tt0078788", "movie_script": "test", "age_rating": "None", "nudity": "Moderate", "violence": "Severe", "profanity": "Severe", "alcohol": "Moderate", "frightening": "Severe"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "444"}}
+{"imdb_id": "tt1454029", "movie_script": "test", "age_rating": "None", "nudity": "None", "violence": "Mild", "profanity": "Mild", "alcohol": "Mild", "frightening": "Mild"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "445"}}
+{"imdb_id": "tt0337921", "movie_script": "test", "age_rating": "PG-13", "nudity": "Mild", "violence": "Moderate", "profanity": "Moderate", "alcohol": "Mild", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "446"}}
+{"imdb_id": "tt0110475", "movie_script": "test", "age_rating": "PG-13", "nudity": "Mild", "violence": "Mild", "profanity": "Mild", "alcohol": "Mild", "frightening": "Mild"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "447"}}
+{"imdb_id": "tt0099674", "movie_script": "test", "age_rating": "R", "nudity": "Mild", "violence": "Severe", "profanity": "Moderate", "alcohol": "Mild", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "448"}}
+{"imdb_id": "tt1586752", "movie_script": "test", "age_rating": "R", "nudity": "Mild", "violence": "Severe", "profanity": "Severe", "alcohol": "Moderate", "frightening": "Severe"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "449"}}
+{"imdb_id": "tt0440963", "movie_script": "test", "age_rating": "PG-13", "nudity": "None", "violence": "Moderate", "profanity": "Mild", "alcohol": "Mild", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "450"}}
+{"imdb_id": "tt1000774", "movie_script": "test", "age_rating": "R", "nudity": "Severe", "violence": "None", "profanity": "Moderate", "alcohol": "Mild", "frightening": "None"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "451"}}
+{"imdb_id": "tt0199753", "movie_script": "test", "age_rating": "PG-13", "nudity": "Mild", "violence": "Moderate", "profanity": "Moderate", "alcohol": "Mild", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "452"}}
+{"imdb_id": "tt0418819", "movie_script": "test", "age_rating": "None", "nudity": "Mild", "violence": "Severe", "profanity": "Severe", "alcohol": "Mild", "frightening": "Severe"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "453"}}
+{"imdb_id": "tt1486190", "movie_script": "test", "age_rating": "R", "nudity": "Mild", "violence": "Mild", "profanity": "Moderate", "alcohol": "Mild", "frightening": "Mild"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "454"}}
+{"imdb_id": "tt0083866", "movie_script": "test", "age_rating": "None", "nudity": "None", "violence": "Mild", "profanity": "Mild", "alcohol": "Mild", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "455"}}
+{"imdb_id": "tt0100935", "movie_script": "test", "age_rating": "R", "nudity": "Severe", "violence": "Severe", "profanity": "Severe", "alcohol": "Moderate", "frightening": "Severe"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "456"}}
+{"imdb_id": "tt0162661", "movie_script": "test", "age_rating": "None", "nudity": "Mild", "violence": "Severe", "profanity": "None", "alcohol": "Mild", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "457"}}
+{"imdb_id": "tt1210166", "movie_script": "test", "age_rating": "PG-13", "nudity": "None", "violence": "None", "profanity": "Moderate", "alcohol": "Mild", "frightening": "None"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "458"}}
+{"imdb_id": "tt0074285", "movie_script": "test", "age_rating": "R", "nudity": "Severe", "violence": "Severe", "profanity": "Moderate", "alcohol": "Mild", "frightening": "Severe"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "459"}}
+{"imdb_id": "tt0110148", "movie_script": "test", "age_rating": "None", "nudity": "Moderate", "violence": "Severe", "profanity": "Mild", "alcohol": "Mild", "frightening": "Severe"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "460"}}
+{"imdb_id": "tt0058331", "movie_script": "test", "age_rating": "None", "nudity": "None", "violence": "None", "profanity": "None", "alcohol": "None", "frightening": "Mild"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "461"}}
+{"imdb_id": "tt0070735", "movie_script": "test", "age_rating": "PG", "nudity": "Mild", "violence": "Mild", "profanity": "Moderate", "alcohol": "Mild", "frightening": "Mild"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "462"}}
+{"imdb_id": "tt0103772", "movie_script": "test", "age_rating": "R", "nudity": "Severe", "violence": "Severe", "profanity": "Severe", "alcohol": "Severe", "frightening": "Severe"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "463"}}
+{"imdb_id": "tt0118583", "movie_script": "test", "age_rating": "R", "nudity": "Mild", "violence": "Severe", "profanity": "Moderate", "alcohol": "Mild", "frightening": "Severe"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "464"}}
+{"imdb_id": "tt0383574", "movie_script": "test", "age_rating": "None", "nudity": "Mild", "violence": "Moderate", "profanity": "Mild", "alcohol": "Mild", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "465"}}
+{"imdb_id": "tt0118749", "movie_script": "test", "age_rating": "R", "nudity": "Severe", "violence": "Severe", "profanity": "Severe", "alcohol": "Severe", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "466"}}
+{"imdb_id": "tt0439815", "movie_script": "test", "age_rating": "R", "nudity": "Mild", "violence": "Severe", "profanity": "Moderate", "alcohol": "Mild", "frightening": "Severe"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "467"}}
+{"imdb_id": "tt0467406", "movie_script": "test", "age_rating": "None", "nudity": "Mild", "violence": "Mild", "profanity": "Moderate", "alcohol": "Mild", "frightening": "None"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "468"}}
+{"imdb_id": "tt1059786", "movie_script": "test", "age_rating": "PG-13", "nudity": "None", "violence": "Moderate", "profanity": "Moderate", "alcohol": "Mild", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "469"}}
+{"imdb_id": "tt0824758", "movie_script": "test", "age_rating": "R", "nudity": "Moderate", "violence": "Mild", "profanity": "Mild", "alcohol": "Mild", "frightening": "Mild"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "470"}}
+{"imdb_id": "tt0370263", "movie_script": "test", "age_rating": "PG-13", "nudity": "None", "violence": "Moderate", "profanity": "Moderate", "alcohol": "Mild", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "471"}}
+{"imdb_id": "tt1188729", "movie_script": "test", "age_rating": "R", "nudity": "Mild", "violence": "Severe", "profanity": "Severe", "alcohol": "None", "frightening": "Severe"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "472"}}
+{"imdb_id": "tt0959337", "movie_script": "test", "age_rating": "R", "nudity": "Moderate", "violence": "Mild", "profanity": "Moderate", "alcohol": "Moderate", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "473"}}
+{"imdb_id": "tt0167404", "movie_script": "test", "age_rating": "None", "nudity": "Mild", "violence": "Moderate", "profanity": "Mild", "alcohol": "Mild", "frightening": "Moderate"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "474"}}
+{"imdb_id": "tt0125664", "movie_script": "test", "age_rating": "R", "nudity": "Moderate", "violence": "Mild", "profanity": "Moderate", "alcohol": "Moderate", "frightening": "None"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "475"}}
+{"imdb_id": "tt0116695", "movie_script": "test", "age_rating": "R", "nudity": "Moderate", "violence": "Mild", "profanity": "Moderate", "alcohol": "Mild", "frightening": "None"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "476"}}
+{"imdb_id": "tt0117951", "movie_script": "test", "age_rating": "R", "nudity": "Severe", "violence": "Moderate", "profanity": "Severe", "alcohol": "Severe", "frightening": "Severe"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "477"}}
+{"imdb_id": "tt0120780", "movie_script": "test", "age_rating": "R", "nudity": "Mild", "violence": "Moderate", "profanity": "Severe", "alcohol": "Mild", "frightening": "Mild"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "478"}}
+{"imdb_id": "tt1291584", "movie_script": "test", "age_rating": "PG-13", "nudity": "None", "violence": "Moderate", "profanity": "Mild", "alcohol": "Mild", "frightening": "Mild"}
+{"index":{"_index": "raw_movies", "_type":"_doc", "_id": "479"}}
+{"imdb_id": "tt1182345", "movie_script": "test", "age_rating": "R", "nudity": "Mild", "violence": "Moderate", "profanity": "Moderate", "alcohol": "None", "frightening": "Mild"}
