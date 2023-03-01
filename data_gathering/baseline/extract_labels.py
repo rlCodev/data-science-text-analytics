@@ -4,7 +4,7 @@ from tqdm import tqdm
 # create an instance of the Cinemagoer class
 ia = Cinemagoer()
 
-with open('data_exploration/baseline/imdb_id_with_age_rating_list.txt', 'r') as file:
+with open('data_gathering/baseline/output/imdb_id_with_age_rating_list.txt', 'r') as file:
     # read a list of lines into data
     dataset = file.readlines()
     print(len(dataset))
@@ -28,5 +28,5 @@ for movie_data in tqdm(dataset):
 
 
 # write the data to a file
-with open('data_exploration/baseline/imdb_id_with_age_rating_and_labels.txt', 'a') as file:
+with open('data_gathering/baseline/output/imdb_id_with_age_rating_and_labels.txt', 'a') as file:
     file.writelines(labeled)

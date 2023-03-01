@@ -88,8 +88,8 @@ def get_age_certfication_by_tmdb_id(tmdb_id: str) -> str:
 
 def main():
     print(os.path.dirname(__file__))
-    resultFile = open('.//imdb_id_with_age_rating_list.txt', 'w')
-    inputFile = open('movie1K_list.txt')
+    resultFile = open('./output/imdb_id_with_age_rating_list.txt', 'w')
+    inputFile = open('./input/movie1K_list.txt')
 
     output = {}
     
