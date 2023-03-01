@@ -15,15 +15,15 @@ import pandas as pd
 from sklearn.metrics import classification_report, f1_score
 
 from pytorch_lightning import Trainer
-from pytorch_lightning.plugins import DDPPlugin
+#from pytorch_lightning.plugins import DDPPlugin
 
-trainer = Trainer(gpus=1, plugins=DDPPlugin(), max_epochs=10, batch_size=64, lr=0.001)
+#trainer = Trainer(gpus=1, plugins=DDPPlugin(), max_epochs=10, batch_size=64, lr=0.001)
 
 
 parser = argparse.ArgumentParser()
 parser.add_argument('--dev_run', action='store_true')
 parser.add_argument('--working_aspect_idx', type=int, default=0, help='Apect index as in [frightening, alcohol, nudity, violence, profanity].')
-parser.add_argument('--base_dir', type=str,default='../data2021/sentbert_emb/')
+parser.add_argument('--base_dir', type=str,default='../data/pickle/emb_files/')
 parser.add_argument('--model_save_dir', type=str, default='./RNN-Trans_S-MT_save/')
 parser.add_argument('--use_gpu_idx', type=int, default=0)
 
@@ -59,7 +59,7 @@ test_file = args.base_dir + working_aspect + '_test_emb.pkl'
 # dev_data = pd.read_pickle(dev_file)
 # test_data = pd.read_pickle(test_file)
 
-to_device = 'cuda:' + str(args.use_gpu_idx)
+to_device = 'cpu'#cuda:' + str(args.use_gpu_idx)
 
 
 def get_column(matrix, i):
@@ -382,11 +382,10 @@ if __name__ == "__main__":
         trainer = pl.Trainer(
             fast_dev_run=args.dev_run,
             max_epochs=args.training_epochs,
-            gpus=[args.use_gpu_idx],
+            #gpus=[args.use_gpu_idx],
             callbacks=[early_stop_callback, checkpoint_callback]#,
             #checkpoint_callback=checkpoint_callback
         )       
-
         trainer.fit(model)
 
         result = trainer.test()
