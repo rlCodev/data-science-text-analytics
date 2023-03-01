@@ -8,6 +8,7 @@ dist
 # Ignore .env files
 */.env
 **/.env
+fastapi/api/.env
 */dsta-env
 
 # Ignore build files
