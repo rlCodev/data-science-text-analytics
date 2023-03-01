@@ -10,8 +10,10 @@ export default function SearchBar({onSubmit}) {
     if (searchTerm) {
       const fetchData = async () => {
         // const response = await axios.get(`https://example.com/api/search?q=${searchTerm}`);
-        const response = await axios.get(`/test-search.json`);
-        setSuggestions(response.data.results);
+        const response = await axios.get(`http://127.0.0.1:80/elastic/suggest/title?query=${searchTerm}`);
+        const options = response.data.suggest['title-suggest'][0].options;
+        const optionTexts = options.map(option => option.text);
+        setSuggestions(optionTexts);
         console.log('use effect suggestions', suggestions)
         // todo: replace through api call
       };
@@ -37,9 +39,10 @@ export default function SearchBar({onSubmit}) {
     clearTimeout(timer);
     const delayTimer = setTimeout(() => {
       const fetchData = async () => {
-        // const response = await axios.get(`https://example.com/api/search?q=${searchTerm}`);
-        const response = await axios.get(`/test-search.json`);
-        setSuggestions(response.data.results);
+        const response = await axios.get(`http://127.0.0.1:80/elastic/suggest/title?query=${searchTerm}`);
+        const options = response.data.suggest['title-suggest'][0].options;
+        const optionTexts = options.map(option => option.text);
+        setSuggestions(optionTexts);
         // todo: replace through api call
         console.log(suggestions)
       };
@@ -69,6 +72,9 @@ export default function SearchBar({onSubmit}) {
               <button
                 className="bg-yellow-400 px-6 text-lg font-semibold py-4 rounded-r-md"
                 type="submit"
+                onClick={() => {
+                  onSubmit(searchTerm);
+                }}
               >
                 Go
               </button>

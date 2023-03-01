@@ -2,6 +2,7 @@ import { useState, useEffect } from "react";
 import SearchBar from "../../components/search-bar";
 import MovieCard from "../../components/movie-card";
 import Typewriter from 'typewriter-effect';
+import axios from 'axios';
 
 export default function Search({ movies }) {
   const [searchResults, setSearchResults] = useState([]);
@@ -9,23 +10,23 @@ export default function Search({ movies }) {
   useEffect(() => {
     // Fetch movie data from API using the search query
     async function fetchMovieData(searchQuery) {
-      // const response = await fetch(`https://api.example.com/movies?q=${searchQuery}`);
-      const response = await fetch(`test-movies.json`);
-      const data = await response.json();
-      setSearchResults(data.results);
+      const response = await axios.get(`http://127.0.0.1:80/elastic/search?query=${searchQuery}`);
+      // const response = await fetch(`test-movies.json`);
+      const results = response.data.results;
+      setSearchResults(results);
     }
 
     // Execute fetchMovieData function with the initial search query
-    fetchMovieData("initial search query");
+    fetchMovieData("The");
   }, []);
 
   function handleSearchSubmit(searchQuery) {
     // Fetch movie data from API using the search query
     async function fetchMovieData(searchQuery) {
-      // const response = await fetch(`https://api.example.com/movies?q=${searchQuery}`);
-      const response = await fetch(`test-movies.json`);
-      const data = await response.json();
-      setSearchResults(data.results);
+      const response = await axios.get(`http://127.0.0.1:80/elastic/search?query=${searchQuery}`);
+      // const response = await fetch(`test-movies.json`);
+      const results = response.data.results;
+      setSearchResults(results);
     }
 
     // Execute fetchMovieData function with the new search query
