@@ -26,6 +26,9 @@ async def search(query: str = Query(None, min_length=1)):
                 "fields": ["original_title", "genres", "tagline", "overview"]
             }
         },
+        "sort": [
+            {"_score": {"order": "desc"}}
+        ],
         "highlight": {
             "fields": {
                 "title": {},
@@ -48,6 +51,38 @@ async def search(query: str = Query(None, min_length=1)):
         results.append(result)
     return {"results": results}
 
+# async def search(query: str = Query(None, min_length=1)):
+#     if query is None:
+#         return {"results": []}
+#     search_body = {
+#         "query": {
+#             "multi_match": {
+#                 "query": query,
+#                 "fields": ["original_title", "genres", "tagline", "overview"]
+#             }
+#         },
+#         "highlight": {
+#             "fields": {
+#                 "title": {},
+#                 "body": {}
+#             }
+#         }
+#     }
+#     response = es.search(index=index, body=search_body)
+#     hits = response["hits"]["hits"]
+#     results = []
+#     for hit in hits:
+#         result = hit["_source"]
+#         result["id"] = hit["_id"]
+#         if "highlight" in hit:
+#             highlights = hit["highlight"]
+#             if "title" in highlights:
+#                 result["title"] = highlights["title"][0]
+#             if "body" in highlights:
+#                 result["body"] = highlights["body"][0]
+#         results.append(result)
+#     return {"results": results}
+
 
 
 
@@ -56,15 +91,17 @@ async def search(query: str = Query(None, min_length=1)):
 async def suggest(query: str):
     # Set up the Elasticsearch query
     body = {
-        "suggest": {
-            "movie_title_suggestor": {
-                "prefix": query,
-                "completion": {
-                    "field": "original_title"
-                }
-            }
-        }
+  "suggest": {
+    "title-suggest": {
+      "prefix": query,
+      "completion": {
+        "field": "original_title",
+        "size": 10,
+        "skip_duplicates": True
+      }
     }
+  }
+}
     
     # Execute the Elasticsearch query
     response = es.search(index=index, body=body)
