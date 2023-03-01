@@ -14,6 +14,11 @@ from pytorch_lightning.callbacks import ModelCheckpoint
 import pandas as pd
 from sklearn.metrics import classification_report, f1_score
 
+from pytorch_lightning import Trainer
+from pytorch_lightning.plugins import DDPPlugin
+
+trainer = Trainer(gpus=1, plugins=DDPPlugin(), max_epochs=10, batch_size=64, lr=0.001)
+
 
 parser = argparse.ArgumentParser()
 parser.add_argument('--dev_run', action='store_true')
@@ -370,7 +375,7 @@ if __name__ == "__main__":
 
         checkpoint_callback = ModelCheckpoint(
             monitor='val_f1',
-            filepath=args.model_save_dir + working_aspect,
+            dirpath=args.model_save_dir + working_aspect,
             mode='max'
         )
  
@@ -378,8 +383,8 @@ if __name__ == "__main__":
             fast_dev_run=args.dev_run,
             max_epochs=args.training_epochs,
             gpus=[args.use_gpu_idx],
-            callbacks=[early_stop_callback],
-            checkpoint_callback=checkpoint_callback
+            callbacks=[early_stop_callback, checkpoint_callback]#,
+            #checkpoint_callback=checkpoint_callback
         )       
 
         trainer.fit(model)
