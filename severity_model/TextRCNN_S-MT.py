@@ -18,6 +18,7 @@ from pytorch_lightning.callbacks import EarlyStopping
 from pytorch_lightning.callbacks import ModelCheckpoint
 
 import pandas as pd
+print(pd.__version__)
 import numpy as np
 from sklearn.metrics import classification_report, f1_score
 
@@ -25,7 +26,7 @@ from sklearn.metrics import classification_report, f1_score
 parser = argparse.ArgumentParser()
 parser.add_argument('--dev_run', action='store_true')
 parser.add_argument('--working_aspect_idx', type=int, default=0, help='Apect index as in [frightening, alcohol, nudity, violence, profanity].')
-parser.add_argument('--base_dir', type=str, default='../data2021/splited_data/')
+parser.add_argument('--base_dir', type=str, default='../data/pickle/')
 parser.add_argument('--model_save_dir', type=str, default='./TextRCNN_S-MT_save/')
 parser.add_argument('--use_gpu_idx', type=int, default=0)
 
@@ -499,7 +500,7 @@ if __name__ == "__main__":
         trainer = pl.Trainer(
             fast_dev_run=args.dev_run,
             max_epochs=args.training_epochs,
-            gpus=[args.use_gpu_idx],
+            #gpus=[args.use_gpu_idx],
             callbacks=[early_stop_callback],
             checkpoint_callback=checkpoint_callback
         )
