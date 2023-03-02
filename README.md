@@ -16,6 +16,7 @@ The goal of our project is to automate and extend the age rating of movies based
 - React
 - Fastapi
 - Spacy
+- Sklearn
 Check requirements.txt in sub-modules of project for detailed information.
 
 ### Contributions
@@ -71,3 +72,7 @@ This section can be found in this jupyter-notebook:
 - Setup git project (react, fastapi, elasticsearch, dockerfiles)
 - Setup git-hooks integration
 - Run elasticsearch instance on linux server
+
+## Project structure
+Find a raw overview how the project is structured:
+#### assets
