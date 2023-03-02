@@ -22,7 +22,7 @@ export default function MovieCardDetail() {
         <div className="flex justify-between items-start">
           <h2 className="text-2xl font-bold">{original_title}</h2>
           <div className="text-lg bg-yellow-400 font-bold rounded-xl p-2">
-            <span>{pg_rating}</span>
+          {!prediction_rating && <span>{pg_rating}</span>}{prediction_rating && <span>{prediction_rating}</span> }
           </div>
         </div>
         <div>
@@ -31,7 +31,7 @@ export default function MovieCardDetail() {
         </div>
         <div className="text-sm text-gray-400">
               Genres: {genres.map((genre) => (<span key={genre.id}>{genre.name} </span>))}
-              <br/>{prediction_rating && <span>Original Rating: {prediction_rating}</span> }
+              <br/>{pg_rating && <span>Original Rating: {pg_rating}</span> }
         </div>
 
         {profanity_counts && <div className="block">
