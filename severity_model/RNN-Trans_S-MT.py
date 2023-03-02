@@ -13,12 +13,15 @@ from pytorch_lightning.callbacks import ModelCheckpoint
 
 import pandas as pd
 from sklearn.metrics import classification_report, f1_score
+from pytorch_lightning import Trainer
+#from pytorch_lightning.plugins import DDPPlugin
 
+#trainer = Trainer(gpus=1, plugins=DDPPlugin(), max_epochs=10, batch_size=64, lr=0.001)
 
 parser = argparse.ArgumentParser()
 parser.add_argument('--dev_run', action='store_true')
 parser.add_argument('--working_aspect_idx', type=int, default=0, help='Apect index as in [frightening, alcohol, nudity, violence, profanity].')
-parser.add_argument('--base_dir', type=str,default='../data2021/sentbert_emb/')
+parser.add_argument('--base_dir', type=str,default='C:/Users/Jakob/Documents/DSTA_Project/data-science-text-analytics/data/pickle/emb_files/')
 parser.add_argument('--model_save_dir', type=str, default='./RNN-Trans_S-MT_save/')
 parser.add_argument('--use_gpu_idx', type=int, default=0)
 
@@ -36,7 +39,7 @@ parser.add_argument('--projection_size', type=int, default=100, help='projection
 parser.add_argument('--lr', type=float, default=1e-3, help='learning rate.')
 parser.add_argument('--training_epochs', type=int, default=200, help='Training epochs.')
 parser.add_argument('--patience', type=int, default=30, help='Early stop patience.')
-parser.add_argument('--multiple_runs', type=int, default=5, help='Multiple runs of experiment.')
+parser.add_argument('--multiple_runs', type=int, default=1, help='Multiple runs of experiment.')
 parser.add_argument('--numpy_seed', type=int, default=42, help='NumPy seed.')
 
 args = parser.parse_args()
@@ -113,11 +116,12 @@ class LSTM_model(pl.LightningModule):
         )
         
     def forward_one(self, x, batch_size = None):
-
+        #print(x)
 
         lens = [len(sq) for sq in x]
         x = pad_sequence(x, batch_first=True, padding_value=0)
         x = pack_padded_sequence(x, lens, batch_first=True, enforce_sorted=False)
+        #print(x.data)
 
         if batch_size is None:
             # Initial hidden state of the LSTM (num_layers * num_directions, batch, hidden_size)
@@ -125,27 +129,27 @@ class LSTM_model(pl.LightningModule):
                 1 * self.direction, 
                 self.batch_size, 
                 self.hidden_size
-            ).requires_grad_().to(device=to_device)
+            ).requires_grad_()#.to(device=to_device)
             
             # Initial cell state of the LSTM
             c_0 = torch.zeros(
                 1 * self.direction, 
                 self.batch_size, 
                 self.hidden_size
-            ).requires_grad_().to(device=to_device)
+            ).requires_grad_()#.to(device=to_device)
 
         else:
             h_0 = torch.zeros(
                 1 * self.direction, 
                 batch_size, 
                 self.hidden_size
-            ).requires_grad_().to(device=to_device)
+            ).requires_grad_()#.to(device=to_device)
             
             c_0 = torch.zeros(
                 1 * self.direction, 
                 batch_size, 
                 self.hidden_size
-            ).requires_grad_().to(device=to_device)
+            ).requires_grad_()#.to(device=to_device)
             
         # x dim add one dummy batch size (1 * seq_len * embedding dim)
         output, (final_hidden_state, final_cell_state) = self.lstm(x, (h_0, c_0))
@@ -198,7 +202,7 @@ class LSTM_model(pl.LightningModule):
     def training_step(self, batch, batch_idx):
         text, target = batch
         flat_target = torch.flatten(target).long() # for classification, num_sample *1
-        pairwise_target = label_to_pair_compare(target).to(target.device)
+        pairwise_target = label_to_pair_compare(target)#.to(target.device)
         
         rank_out, cls_out = self(text)
 
@@ -212,7 +216,7 @@ class LSTM_model(pl.LightningModule):
     def validation_step(self, batch, batch_idx):
         text, target = batch
         flat_target = torch.flatten(target).long() # for classification, num_sample *1
-        pairwise_target = label_to_pair_compare(target).to(target.device)
+        pairwise_target = label_to_pair_compare(target)#.to(target.device)
         rank_out, cls_out = self(text)
         
         rank_loss = self.rank_loss_function(rank_out, pairwise_target)
@@ -228,7 +232,7 @@ class LSTM_model(pl.LightningModule):
     def test_step(self, batch, batch_idx):
         text, target = batch
         flat_target = torch.flatten(target).long() # for classification, num_sample *1
-        pairwise_target = label_to_pair_compare(target).to(target.device)
+        pairwise_target = label_to_pair_compare(target)#.to(target.device)
         rank_out, cls_out = self(text)
 
         rank_loss = self.rank_loss_function(rank_out, pairwise_target)
@@ -322,8 +326,12 @@ class MovieScriptDataset(torch.utils.data.Dataset):
         return len(self.annotations)
 
     def __getitem__(self, index):
+        # print("one")
+        # print(self.annotations.iloc[index, -1])
+        # print("two")
+        # print(self.annotations.iloc[index, -2])
         text = self.annotations.iloc[index, -1]  # -1 is sent emb index
-        y_label = torch.tensor(int(self.annotations.iloc[index, -3]))  # -3 is label index
+        y_label = torch.tensor(int(self.annotations.iloc[index, -2]))  # -3 is label index
         return {
             'text': text,
             'label': y_label
@@ -377,11 +385,10 @@ if __name__ == "__main__":
         trainer = pl.Trainer(
             fast_dev_run=args.dev_run,
             max_epochs=args.training_epochs,
-            gpus=[args.use_gpu_idx],
+            #gpus=[args.use_gpu_idx],
             callbacks=[early_stop_callback],
             checkpoint_callback=checkpoint_callback
         )       
-
         trainer.fit(model)
 
         result = trainer.test()
