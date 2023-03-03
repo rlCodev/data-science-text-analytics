@@ -22,7 +22,7 @@ export default function MovieCardDetail() {
         <div className="flex justify-between items-start">
           <h2 className="text-2xl font-bold">{original_title}</h2>
           <div className="text-lg bg-yellow-400 font-bold rounded-xl p-2">
-          {!prediction_rating && <span>{pg_rating}</span>}{prediction_rating && <span>{prediction_rating}</span> }
+          {!prediction_rating && <span>{pg_rating}</span>}{prediction_rating && <span> Our Rating: {prediction_rating}</span> }
           </div>
         </div>
         <div>
