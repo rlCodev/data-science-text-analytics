@@ -84,9 +84,36 @@ This section can be found in this jupyter-notebook:
 ## Project structure
 Find a raw overview how the project is structured:
 #### assets
+Documentation files
+### data
+Training data and model results
 
+### data_exploration
+Data exploration notebook
 
-## Frontend
+### data_gathering
+- Notebooks for scraping and collecting relevant data (e.g. age ratings)
+- Elasticsearch upload script
 
+### data_preprocessing
+- Notebooks to preprocess data
 
+### elasticsearch
+- Nginx config
+- Documentation
+- Elasticsearch was set up on our server. If you want to access the elasticsearch instance, please contact us.
+
+### fastapi
+- API project
+
+### own_model
+- SVM and Random Forest model implementation
+
+### react_ageflix
+- Frontend project
+
+### severity_model
+- Model from referenced paper
+## Presentation
+Presentation can be found in the assets folder.
 
