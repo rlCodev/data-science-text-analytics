@@ -16,6 +16,7 @@ The goal of our project is to automate and extend the age rating of movies based
 - React
 - Fastapi
 - Spacy
+- Sklearn
 Check requirements.txt in sub-modules of project for detailed information.
 
 ### Contributions
@@ -82,9 +83,11 @@ Agile reiteration of the project. More research on the topic -> new and better s
 - Solved Server issues
 - Working on the models
 - Refining the preprocessing pipline
+## Project structure
+Find a raw overview how the project is structured:
+#### assets
 
 ## Frontend
 
-https://user-images.githubusercontent.com/106511982/222763210-ce06bc0d-3d9c-4900-8ea7-ff128f1a6ead.mov
 
 

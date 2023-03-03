@@ -1,3 +1,7 @@
+"""
+This is a mirror of the notebook 'create_tensors_from_scripts.ipynb'
+"""
+
 import spacy
 from tqdm import tqdm
 import glob
@@ -10,7 +14,6 @@ model = SentenceTransformer('stsb-bert-base')
 #Sentences are encoded by calling model.encode()
 def get_sentence_emb(whole_list_of_sentences):
     embeddings = model.encode(whole_list_of_sentences, convert_to_tensor = True)
-    #print(embeddings)
     return embeddings
 
 def split_sentences(text):
@@ -22,7 +25,6 @@ def split_sentences(text):
     sentences = [sentence for sentence in sentences if sentence]
     return sentences
     
-#resultFile = open('C:/Users/Jakob/Documents/DSTA_Project/data-science-text-analytics/data_gathering/baseline/output/imdb_id_with_embSentencesList.txt', 'w')
 imdb_id_with_tensor = []
 for idx, filepath in tqdm(enumerate(files), total=len(files)):
     

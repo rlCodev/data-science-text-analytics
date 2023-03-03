@@ -21,7 +21,7 @@ from pytorch_lightning import Trainer
 parser = argparse.ArgumentParser()
 parser.add_argument('--dev_run', action='store_true')
 parser.add_argument('--working_aspect_idx', type=int, default=0, help='Apect index as in [frightening, alcohol, nudity, violence, profanity].')
-parser.add_argument('--base_dir', type=str,default='C:/Users/Jakob/Documents/DSTA_Project/data-science-text-analytics/data/pickle/emb_files/')
+parser.add_argument('--base_dir', type=str,default='C:/Users/Jakob/Documents/DSTA_Project/data-science-text-analytics/data/pickle/emb_files')
 parser.add_argument('--model_save_dir', type=str, default='./RNN-Trans_S-MT_save/')
 parser.add_argument('--use_gpu_idx', type=int, default=0)
 
@@ -116,12 +116,12 @@ class LSTM_model(pl.LightningModule):
         )
         
     def forward_one(self, x, batch_size = None):
-        #print(x)
+        print(x)
 
         lens = [len(sq) for sq in x]
         x = pad_sequence(x, batch_first=True, padding_value=0)
         x = pack_padded_sequence(x, lens, batch_first=True, enforce_sorted=False)
-        #print(x.data)
+        print(x.data)
 
         if batch_size is None:
             # Initial hidden state of the LSTM (num_layers * num_directions, batch, hidden_size)
@@ -331,7 +331,7 @@ class MovieScriptDataset(torch.utils.data.Dataset):
         # print("two")
         # print(self.annotations.iloc[index, -2])
         text = self.annotations.iloc[index, -1]  # -1 is sent emb index
-        y_label = torch.tensor(int(self.annotations.iloc[index, -2]))  # -3 is label index
+        y_label = torch.tensor(int(self.annotations.iloc[index, -3]))  # -3 is label index
         return {
             'text': text,
             'label': y_label
