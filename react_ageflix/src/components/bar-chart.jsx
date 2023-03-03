@@ -5,6 +5,29 @@ import Chart from "chart.js/auto";
 import { getWordCounts } from '../utils/word-counts';
 
 export default function BarChart({movie}) { 
+  const options_y = {
+    scales: {
+      y: {
+        ticks: {
+          callback: function(value, index, ticks) {
+            switch (value) {
+              case 0:
+                return 'None';
+              case 1:
+                return 'Mild';
+              case 2:
+                return 'Moderate';
+              case 3:
+                return 'Severe';
+              default:
+                return '';
+            }
+          }
+        }
+      }
+    }
+  };
+  
   const { prediction_frightening, prediction_profanity, prediction_alcohol, prediction_violence, prediction_nudity } = movie;
   return (
   <> 
@@ -29,6 +52,6 @@ export default function BarChart({movie}) {
         borderWidth: 1,
       },
     ],
-  }} />
+  }}  options={options_y} />
   </>
 )};
