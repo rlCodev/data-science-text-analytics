@@ -46,7 +46,7 @@ Currently, the project is behind schedule with respect to the initial milestone 
 One reason for the delay is the change in data sourcing. The operator of a platform for film scripts had unexpectedly stopped responding.
 ### High-level Architecture Description
 #### High level application architecture
-<img src="./assets/high_level_architecture_dsta.svg">
+<img src="./assets/dsta_ageflix_architecture.drawio.svg">
 
 #### High level processing architecture
 todo: add descriptions to preprocessing steps and knowledge from data analysis
@@ -59,35 +59,61 @@ Data analysis, explocation and description. Results can be found in next section
 ## 3. Data Analysis
 This section can be found in this jupyter-notebook: 
 ## Project log
-### 10.11. - 12.12.22
 #### Davit
 - POC dataset crawling
 - Linux server for elasticsearch instance
-- Data understanding and preprocessing
+- Data understanding, exploration and preprocessing
+- Labels scraping
+- Model fine tuning
+- Random Forest Implementation
 #### Jakob
 - Research papers and materials
 - Research for baseline dataset
 - Implementation of finding age ratings by movie titles with [TMDB API](https://www.themoviedb.org/documentation/api)
+- Implementation of RNN based on paper
+- Preprocessing
+- Creation of training and test datasets
 #### Leon
 - Setup git project (react, fastapi, elasticsearch, dockerfiles)
 - Setup git-hooks integration
 - Run elasticsearch instance on linux server
-
-### January
-
-Agile reiteration of the project. More research on the topic -> new and better structured Datasets -> more alternative Strategies and better data preprocessing.
-
-### February
-
-- Ready UI
-- Solved Server issues
-- Working on the models
-- Refining the preprocessing pipline
+- Frontend development
+- Fastapi development
+- SVM Classifier
+- Elasticsearch setup and upload
 ## Project structure
 Find a raw overview how the project is structured:
 #### assets
+Documentation files
+### data
+Training data and model results
 
-## Frontend
+### data_exploration
+Data exploration notebook
 
+### data_gathering
+- Notebooks for scraping and collecting relevant data (e.g. age ratings)
+- Elasticsearch upload script
 
+### data_preprocessing
+- Notebooks to preprocess data
+
+### elasticsearch
+- Nginx config
+- Documentation
+- Elasticsearch was set up on our server. If you want to access the elasticsearch instance, please contact us.
+
+### fastapi
+- API project
+
+### own_model
+- SVM and Random Forest model implementation
+
+### react_ageflix
+- Frontend project
+
+### severity_model
+- Model from referenced paper
+## Presentation
+Presentation can be found in the assets folder.
 
